@@ -1,0 +1,183 @@
+00:00, brush, hist-3
+00:02, brush, hist-4
+00:09, brush, hist-3
+00:18, brush, hist-2
+01:03, brush, hist-3
+01:05, brush, hist-4
+01:07, brush, bar-5
+01:08, range select, bar-5
+01:57, brush, bar-5
+02:21, range select, bar-5
+03:39, range select, hist-2
+03:56, brush, hist-4
+03:56, brush, hist-3
+03:56, brush, hist-2
+03:58, range select, hist-2
+04:02, range select, bar-5
+04:07, range select, hist-2
+04:46, range select, bar-5
+04:58, brush, hist-4
+05:03, range select, geo-0-1
+05:15, pan, geo-0-1
+05:16, zoom, geo-0-1
+05:16, pan, geo-0-1
+05:21, zoom, geo-0-1
+05:22, pan, geo-0-1
+05:45, brush, hist-4
+06:12, range select, geo-0-1
+07:29, brush, bar-5
+07:33, range select, geo-0-1
+08:40, brush, hist-4
+08:41, brush, hist-3
+08:41, brush, hist-2
+08:46, range select, hist-2
+09:32, pan, geo-0-1
+09:32, zoom, geo-0-1
+09:32, pan, geo-0-1
+09:37, zoom, geo-0-1
+09:37, pan, geo-0-1
+09:42, range select, hist-2
+09:49, pan, geo-0-1
+09:49, zoom, geo-0-1
+09:49, pan, geo-0-1
+09:53, zoom, geo-0-1
+09:53, pan, geo-0-1
+09:53, zoom, geo-0-1
+09:53, pan, geo-0-1
+09:54, zoom, geo-0-1
+09:54, pan, geo-0-1
+10:18, brush, bar-5
+10:37, range select, geo-0-1
+11:09, range select, hist-2
+11:23, range select, geo-0-1
+11:49, pan, geo-0-1
+11:57, range select, bar-5
+12:03, pan, geo-0-1
+12:08, range select, bar-5
+12:19, brush, bar-5
+12:27, range select, bar-5
+12:32, pan, geo-0-1
+12:32, zoom, geo-0-1
+12:32, pan, geo-0-1
+12:34, zoom, geo-0-1
+12:34, pan, geo-0-1
+12:36, zoom, geo-0-1
+12:36, pan, geo-0-1
+12:38, zoom, geo-0-1
+12:38, pan, geo-0-1
+12:40, zoom, geo-0-1
+12:41, pan, geo-0-1
+12:45, zoom, geo-0-1
+12:45, pan, geo-0-1
+12:50, zoom, geo-0-1
+12:50, pan, geo-0-1
+12:53, zoom, geo-0-1
+12:53, pan, geo-0-1
+12:59, zoom, geo-0-1
+12:59, pan, geo-0-1
+13:03, range select, geo-0-1
+13:13, brush, bar-5
+13:14, range select, bar-5
+13:20, range select, geo-0-1
+13:47, pan, geo-0-1
+13:47, zoom, geo-0-1
+13:47, pan, geo-0-1
+13:48, zoom, geo-0-1
+13:48, pan, geo-0-1
+13:49, zoom, geo-0-1
+13:49, pan, geo-0-1
+13:50, zoom, geo-0-1
+13:50, pan, geo-0-1
+13:51, zoom, geo-0-1
+13:51, pan, geo-0-1
+14:01, brush, bar-5
+14:13, range select, bar-5
+14:15, range select, geo-0-1
+14:19, range select, bar-5
+14:24, pan, geo-0-1
+14:24, zoom, geo-0-1
+14:24, pan, geo-0-1
+14:26, zoom, geo-0-1
+14:26, pan, geo-0-1
+14:32, zoom, geo-0-1
+14:32, pan, geo-0-1
+14:37, zoom, geo-0-1
+14:37, pan, geo-0-1
+15:03, range select, bar-5
+15:06, brush, bar-5
+15:23, range select, bar-5
+15:30, pan, geo-0-1
+15:30, zoom, geo-0-1
+15:30, pan, geo-0-1
+15:31, zoom, geo-0-1
+15:31, pan, geo-0-1
+15:33, zoom, geo-0-1
+15:33, pan, geo-0-1
+15:35, zoom, geo-0-1
+15:35, pan, geo-0-1
+15:38, brush, bar-5
+15:45, pan, geo-0-1
+15:47, brush, bar-5
+15:54, brush, hist-4
+15:54, brush, hist-3
+15:54, brush, hist-4
+15:55, brush, hist-3
+15:56, brush, hist-2
+15:59, range select, hist-2
+16:29, brush, hist-2
+16:29, brush, hist-3
+16:29, brush, hist-4
+16:31, brush, hist-2
+16:54, range select, hist-2
+17:02, brush, hist-2
+17:19, brush, hist-3
+17:19, brush, bar-5
+17:19, brush, hist-3
+17:20, brush, hist-2
+17:20, brush, hist-3
+17:21, brush, bar-5
+17:22, range select, bar-5
+17:31, brush, hist-4
+17:49, range select, geo-0-1
+18:19, brush, hist-4
+18:25, brush, bar-5
+18:32, pan, geo-0-1
+18:32, zoom, geo-0-1
+18:32, pan, geo-0-1
+18:35, zoom, geo-0-1
+18:35, pan, geo-0-1
+18:39, zoom, geo-0-1
+18:39, pan, geo-0-1
+18:46, range select, geo-0-1
+19:10, brush, bar-5
+19:14, range select, bar-5
+19:39, pan, geo-0-1
+20:33, zoom, geo-0-1
+20:33, pan, geo-0-1
+20:34, zoom, geo-0-1
+20:34, pan, geo-0-1
+20:36, zoom, geo-0-1
+20:36, pan, geo-0-1
+20:39, brush, bar-5
+20:43, range select, geo-0-1
+20:51, pan, geo-0-1
+20:51, zoom, geo-0-1
+20:51, pan, geo-0-1
+20:54, zoom, geo-0-1
+20:54, pan, geo-0-1
+21:01, range select, geo-0-1
+21:34, brush, hist-4
+21:39, range select, geo-0-1
+22:37, range select, bar-5
+22:47, pan, geo-0-1
+22:47, zoom, geo-0-1
+22:47, pan, geo-0-1
+22:49, zoom, geo-0-1
+22:49, pan, geo-0-1
+22:49, zoom, geo-0-1
+22:49, pan, geo-0-1
+22:50, zoom, geo-0-1
+22:50, pan, geo-0-1
+24:04, brush, bar-5
+24:29, range select, bar-5
+24:57, brush, bar-5

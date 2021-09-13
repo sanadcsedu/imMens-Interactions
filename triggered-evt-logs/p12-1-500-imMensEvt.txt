@@ -1,0 +1,2925 @@
+p12,1379183864354,brush,bar-4,4-19-19-0_
+p12,1379183865574,clear,undefined,undefined
+p12,1379184000817,brush,bar-4,4-16-16-0_
+p12,1379184000846,brush,bar-4,4-17-17-0_
+p12,1379184000863,brush,bar-4,4-18-18-0_
+p12,1379184000895,brush,bar-4,4-19-19-0_
+p12,1379184000912,brush,bar-4,4-20-20-0_
+p12,1379184000929,brush,bar-4,4-21-21-0_
+p12,1379184000962,brush,bar-4,4-23-23-0_
+p12,1379184000979,brush,bar-4,4-24-24-0_
+p12,1379184001012,brush,bar-4,4-25-25-0_
+p12,1379184001045,brush,bar-4,4-26-26-0_
+p12,1379184001062,brush,bar-4,4-27-27-0_
+p12,1379184001078,brush,bar-4,4-28-28-0_
+p12,1379184001095,clear,undefined,undefined
+p12,1379184005812,brush,bar-4,4-25-25-0_
+p12,1379184005829,brush,bar-4,4-23-23-0_
+p12,1379184005845,brush,bar-4,4-21-21-0_
+p12,1379184005863,brush,bar-4,4-19-19-0_
+p12,1379184005879,brush,bar-4,4-17-17-0_
+p12,1379184005896,brush,bar-4,4-13-13-0_
+p12,1379184005913,clear,undefined,undefined
+p12,1379184007602,pan,scatterplot-0-1,0,0
+p12,1379184007625,pan,scatterplot-0-1,-1,0
+p12,1379184007636,pan,scatterplot-0-1,-3,1
+p12,1379184007651,pan,scatterplot-0-1,-4,1
+p12,1379184007668,pan,scatterplot-0-1,-6,2
+p12,1379184007685,pan,scatterplot-0-1,-8,4
+p12,1379184007702,pan,scatterplot-0-1,-13,9
+p12,1379184007719,pan,scatterplot-0-1,-19,15
+p12,1379184007735,pan,scatterplot-0-1,-24,20
+p12,1379184007752,pan,scatterplot-0-1,-29,24
+p12,1379184007768,pan,scatterplot-0-1,-31,27
+p12,1379184007784,pan,scatterplot-0-1,-33,28
+p12,1379184007802,pan,scatterplot-0-1,-33,29
+p12,1379184007819,pan,scatterplot-0-1,-34,32
+p12,1379184007835,pan,scatterplot-0-1,-36,34
+p12,1379184007852,pan,scatterplot-0-1,-37,37
+p12,1379184007869,pan,scatterplot-0-1,-38,39
+p12,1379184007885,pan,scatterplot-0-1,-39,40
+p12,1379184007979,adjustView,scatterplot-0-1,undefined
+p12,1379184008080,clear,undefined,undefined
+p12,1379184009517,pan,scatterplot-0-1,1,1
+p12,1379184009535,pan,scatterplot-0-1,1,0
+p12,1379184009552,pan,scatterplot-0-1,2,0
+p12,1379184009569,pan,scatterplot-0-1,4,-2
+p12,1379184009585,pan,scatterplot-0-1,10,-7
+p12,1379184009602,pan,scatterplot-0-1,18,-13
+p12,1379184009619,pan,scatterplot-0-1,28,-19
+p12,1379184009635,pan,scatterplot-0-1,36,-24
+p12,1379184009652,pan,scatterplot-0-1,39,-27
+p12,1379184009669,pan,scatterplot-0-1,41,-29
+p12,1379184009685,pan,scatterplot-0-1,42,-29
+p12,1379184009702,pan,scatterplot-0-1,42,-30
+p12,1379184009795,adjustView,scatterplot-0-1,undefined
+p12,1379184009813,clear,undefined,undefined
+p12,1379184014235,range select,scatterplot-0-1,0-173-174-0_1-219-220-0_
+p12,1379184014253,range select,scatterplot-0-1,0-173-176-0_1-217-220-0_
+p12,1379184014269,range select,scatterplot-0-1,0-173-182-0_1-211-220-0_
+p12,1379184014286,range select,scatterplot-0-1,0-173-189-0_1-203-220-0_
+p12,1379184014303,range select,scatterplot-0-1,0-173-197-0_1-192-220-0_
+p12,1379184014319,range select,scatterplot-0-1,0-173-208-0_1-181-220-0_
+p12,1379184014336,range select,scatterplot-0-1,0-173-214-0_1-174-220-0_
+p12,1379184014353,range select,scatterplot-0-1,0-173-217-0_1-170-220-0_
+p12,1379184014370,range select,scatterplot-0-1,0-173-218-0_1-169-220-0_
+p12,1379184014386,range select,scatterplot-0-1,0-173-219-0_1-168-220-0_
+p12,1379184014436,range select,scatterplot-0-1,0-173-220-0_1-166-220-0_
+p12,1379184014453,range select,scatterplot-0-1,0-173-222-0_1-163-220-0_
+p12,1379184014470,range select,scatterplot-0-1,0-173-225-0_1-160-220-0_
+p12,1379184014487,range select,scatterplot-0-1,0-173-226-0_1-157-220-0_
+p12,1379184014503,range select,scatterplot-0-1,0-173-228-0_1-155-220-0_
+p12,1379184014520,range select,scatterplot-0-1,0-173-228-0_1-154-220-0_
+p12,1379184014569,range select,scatterplot-0-1,0-173-228-0_1-153-220-0_
+p12,1379184019462,pan,scatterplot-0-1,0,0
+p12,1379184019462,adjustView,scatterplot-0-1,undefined
+p12,1379184022219,pan,scatterplot-0-1,0,0
+p12,1379184022237,pan,scatterplot-0-1,-2,2
+p12,1379184022254,pan,scatterplot-0-1,-8,5
+p12,1379184022270,pan,scatterplot-0-1,-25,14
+p12,1379184022287,pan,scatterplot-0-1,-54,28
+p12,1379184022304,pan,scatterplot-0-1,-83,40
+p12,1379184022321,pan,scatterplot-0-1,-102,49
+p12,1379184022337,pan,scatterplot-0-1,-110,52
+p12,1379184022354,pan,scatterplot-0-1,-112,53
+p12,1379184022475,adjustView,scatterplot-0-1,undefined
+p12,1379184025018,pan,scatterplot-0-1,1,0
+p12,1379184025038,pan,scatterplot-0-1,6,-2
+p12,1379184025055,pan,scatterplot-0-1,21,-8
+p12,1379184025071,pan,scatterplot-0-1,45,-11
+p12,1379184025087,pan,scatterplot-0-1,70,-12
+p12,1379184025104,pan,scatterplot-0-1,90,-13
+p12,1379184025121,pan,scatterplot-0-1,102,-13
+p12,1379184025138,pan,scatterplot-0-1,110,-13
+p12,1379184025155,pan,scatterplot-0-1,114,-13
+p12,1379184025187,pan,scatterplot-0-1,115,-13
+p12,1379184025205,pan,scatterplot-0-1,116,-13
+p12,1379184025221,pan,scatterplot-0-1,117,-13
+p12,1379184025275,adjustView,scatterplot-0-1,undefined
+p12,1379184034516,zoom,scatterplot-0-1,1
+p12,1379184035331,tile cached,undefined,0-0-250-1x1-0-252-1x2-0-21-0
+p12,1379184035332,tile cached,undefined,0-0-250-1x1-253-505-1x2-0-21-0
+p12,1379184035333,tile cached,undefined,0-251-501-1x1-0-252-1x2-0-21-0
+p12,1379184035333,tile cached,undefined,0-251-501-1x1-253-505-1x2-0-21-0
+p12,1379184035333,tile cached,undefined,0-0-250-1x1-0-252-1x3-0-11-0
+p12,1379184035339,tile cached,undefined,0-0-250-1x1-253-505-1x3-0-11-0
+p12,1379184035349,tile cached,undefined,0-251-501-1x1-253-505-1x3-0-11-0
+p12,1379184035349,tile cached,undefined,0-251-501-1x1-0-252-1x3-0-11-0
+p12,1379184035355,tile cached,undefined,0-0-250-1x1-253-505-1x4-0-28-0
+p12,1379184035354,tile cached,undefined,0-0-250-1x1-0-252-1x4-0-28-0
+p12,1379184035378,tile cached,undefined,0-251-501-1x1-0-252-1x4-0-28-0
+p12,1379184035372,tile cached,undefined,0-251-501-2x1-253-505-2x4-0-28-0
+p12,1379184035378,tile cached,undefined,0-251-501-1x1-253-505-1x4-0-28-0
+p12,1379184035378,tile cached,undefined,0-251-501-2x1-506-758-2x4-0-28-0
+p12,1379184035390,tile cached,undefined,0-251-501-2x1-759-1011-2x4-0-28-0
+p12,1379184035390,tile cached,undefined,0-502-752-2x1-253-505-2x4-0-28-0
+p12,1379184035390,tile cached,undefined,0-753-1003-2x1-253-505-2x4-0-28-0
+p12,1379184035391,tile cached,undefined,0-502-752-2x1-506-758-2x4-0-28-0
+p12,1379184035391,tile cached,undefined,0-753-1003-2x1-506-758-2x4-0-28-0
+p12,1379184035391,tile cached,undefined,0-502-752-2x1-759-1011-2x4-0-28-0
+p12,1379184035410,tile cached,undefined,0-753-1003-2x1-759-1011-2x4-0-28-0
+p12,1379184036203,pan,scatterplot-0-1,1,-1
+p12,1379184036223,pan,scatterplot-0-1,3,-2
+p12,1379184036239,pan,scatterplot-0-1,8,-5
+p12,1379184036261,pan,scatterplot-0-1,16,-8
+p12,1379184036272,pan,scatterplot-0-1,26,-12
+p12,1379184036290,pan,scatterplot-0-1,35,-14
+p12,1379184036306,pan,scatterplot-0-1,42,-16
+p12,1379184036323,pan,scatterplot-0-1,46,-17
+p12,1379184036340,pan,scatterplot-0-1,47,-17
+p12,1379184036390,pan,scatterplot-0-1,48,-17
+p12,1379184036459,adjustView,scatterplot-0-1,undefined
+p12,1379184037651,zoom,scatterplot-0-1,2
+p12,1379184038465,tile cached,undefined,0-502-752-2x1-506-758-2x2-0-21-0
+p12,1379184038471,tile cached,undefined,0-502-752-2x1-759-1011-2x2-0-21-0
+p12,1379184038473,tile cached,undefined,0-753-1003-2x1-506-758-2x2-0-21-0
+p12,1379184038477,tile cached,undefined,0-502-752-2x1-506-758-2x3-0-11-0
+p12,1379184038476,tile cached,undefined,0-753-1003-2x1-759-1011-2x2-0-21-0
+p12,1379184038479,tile cached,undefined,0-502-752-2x1-759-1011-2x3-0-11-0
+p12,1379184038494,tile cached,undefined,0-753-1003-2x1-506-758-2x3-0-11-0
+p12,1379184038498,tile cached,undefined,0-753-1003-2x1-759-1011-2x3-0-11-0
+p12,1379184038504,tile cached,undefined,0-502-752-2x1-506-758-2x4-0-28-0
+p12,1379184038509,tile cached,undefined,0-502-752-2x1-759-1011-2x4-0-28-0
+p12,1379184038519,tile cached,undefined,0-753-1003-2x1-759-1011-2x4-0-28-0
+p12,1379184038521,tile cached,undefined,0-753-1003-2x1-506-758-2x4-0-28-0
+p12,1379184038525,tile cached,undefined,0-1004-1254-3x1-1012-1264-3x4-0-28-0
+p12,1379184038537,tile cached,undefined,0-1004-1254-3x1-1265-1517-3x4-0-28-0
+p12,1379184038538,tile cached,undefined,0-1255-1505-3x1-1012-1264-3x4-0-28-0
+p12,1379184038547,tile cached,undefined,0-1255-1505-3x1-1265-1517-3x4-0-28-0
+p12,1379184038557,tile cached,undefined,0-1004-1254-3x1-1518-1770-3x4-0-28-0
+p12,1379184038561,tile cached,undefined,0-1255-1505-3x1-1518-1770-3x4-0-28-0
+p12,1379184038566,tile cached,undefined,0-1506-1756-3x1-1012-1264-3x4-0-28-0
+p12,1379184038572,tile cached,undefined,0-1506-1756-3x1-1265-1517-3x4-0-28-0
+p12,1379184038573,tile cached,undefined,0-1757-2007-3x1-1012-1264-3x4-0-28-0
+p12,1379184038573,tile cached,undefined,0-1757-2007-3x1-1265-1517-3x4-0-28-0
+p12,1379184038582,tile cached,undefined,0-1506-1756-3x1-1518-1770-3x4-0-28-0
+p12,1379184038583,tile cached,undefined,0-1757-2007-3x1-1518-1770-3x4-0-28-0
+p12,1379184041038,range select,scatterplot-0-1,0-554-556-2_1-764-765-2_
+p12,1379184041057,range select,scatterplot-0-1,0-554-557-2_1-762-765-2_
+p12,1379184041073,range select,scatterplot-0-1,0-554-562-2_1-758-765-2_
+p12,1379184041090,range select,scatterplot-0-1,0-554-572-2_1-748-765-2_
+p12,1379184041107,range select,scatterplot-0-1,0-554-586-2_1-732-765-2_
+p12,1379184041124,range select,scatterplot-0-1,0-554-595-2_1-721-765-2_
+p12,1379184041140,range select,scatterplot-0-1,0-554-600-2_1-713-765-2_
+p12,1379184041157,range select,scatterplot-0-1,0-554-606-2_1-703-765-2_
+p12,1379184041174,range select,scatterplot-0-1,0-554-612-2_1-691-765-2_
+p12,1379184041194,range select,scatterplot-0-1,0-554-620-2_1-678-765-2_
+p12,1379184041207,range select,scatterplot-0-1,0-554-627-2_1-664-765-2_
+p12,1379184041224,range select,scatterplot-0-1,0-554-632-2_1-654-765-2_
+p12,1379184041241,range select,scatterplot-0-1,0-554-639-2_1-644-765-2_
+p12,1379184041257,range select,scatterplot-0-1,0-554-645-2_1-636-765-2_
+p12,1379184041274,range select,scatterplot-0-1,0-554-651-2_1-629-765-2_
+p12,1379184041290,range select,scatterplot-0-1,0-554-654-2_1-625-765-2_
+p12,1379184041308,range select,scatterplot-0-1,0-554-657-2_1-622-765-2_
+p12,1379184041323,range select,scatterplot-0-1,0-554-661-2_1-618-765-2_
+p12,1379184041341,range select,scatterplot-0-1,0-554-667-2_1-613-765-2_
+p12,1379184041357,range select,scatterplot-0-1,0-554-674-2_1-609-765-2_
+p12,1379184041374,range select,scatterplot-0-1,0-554-683-2_1-603-765-2_
+p12,1379184041390,range select,scatterplot-0-1,0-554-693-2_1-596-765-2_
+p12,1379184041407,range select,scatterplot-0-1,0-554-705-2_1-589-765-2_
+p12,1379184041424,range select,scatterplot-0-1,0-554-718-2_1-583-765-2_
+p12,1379184041440,range select,scatterplot-0-1,0-554-725-2_1-579-765-2_
+p12,1379184041457,range select,scatterplot-0-1,0-554-732-2_1-575-765-2_
+p12,1379184041474,range select,scatterplot-0-1,0-554-736-2_1-573-765-2_
+p12,1379184041491,range select,scatterplot-0-1,0-554-738-2_1-572-765-2_
+p12,1379184041507,range select,scatterplot-0-1,0-554-739-2_1-572-765-2_
+p12,1379184041524,range select,scatterplot-0-1,0-554-740-2_1-572-765-2_
+p12,1379184041541,range select,scatterplot-0-1,0-554-741-2_1-572-765-2_
+p12,1379184041557,range select,scatterplot-0-1,0-554-742-2_1-571-765-2_
+p12,1379184041574,range select,scatterplot-0-1,0-554-743-2_1-571-765-2_
+p12,1379184041590,range select,scatterplot-0-1,0-554-746-2_1-570-765-2_
+p12,1379184041607,range select,scatterplot-0-1,0-554-748-2_1-570-765-2_
+p12,1379184041624,range select,scatterplot-0-1,0-554-752-2_1-570-765-2_
+p12,1379184041640,range select,scatterplot-0-1,0-554-753-2_1-571-765-2_
+p12,1379184041707,range select,scatterplot-0-1,0-554-754-2_1-571-765-2_
+p12,1379184046475,repaintBg,log scale,true
+p12,1379184046475,repaintFg,log scale,true
+p12,1379184091035,zoom,scatterplot-0-1,1
+p12,1379184092235,zoom,scatterplot-0-1,0
+p12,1379184093930,pan,scatterplot-0-1,-2,0
+p12,1379184093950,pan,scatterplot-0-1,-4,-1
+p12,1379184093966,pan,scatterplot-0-1,-10,-3
+p12,1379184093983,pan,scatterplot-0-1,-21,-8
+p12,1379184094000,pan,scatterplot-0-1,-34,-15
+p12,1379184094016,pan,scatterplot-0-1,-47,-21
+p12,1379184094033,pan,scatterplot-0-1,-61,-28
+p12,1379184094050,pan,scatterplot-0-1,-73,-34
+p12,1379184094067,pan,scatterplot-0-1,-78,-37
+p12,1379184094083,pan,scatterplot-0-1,-80,-39
+p12,1379184094100,pan,scatterplot-0-1,-81,-40
+p12,1379184094117,pan,scatterplot-0-1,-83,-41
+p12,1379184094133,pan,scatterplot-0-1,-84,-41
+p12,1379184094147,adjustView,scatterplot-0-1,undefined
+p12,1379184095565,pan,scatterplot-0-1,2,0
+p12,1379184095585,pan,scatterplot-0-1,3,0
+p12,1379184095599,pan,scatterplot-0-1,7,0
+p12,1379184095617,pan,scatterplot-0-1,15,-1
+p12,1379184095633,pan,scatterplot-0-1,23,-4
+p12,1379184095650,pan,scatterplot-0-1,30,-5
+p12,1379184095667,pan,scatterplot-0-1,36,-9
+p12,1379184095683,pan,scatterplot-0-1,43,-12
+p12,1379184095700,pan,scatterplot-0-1,46,-13
+p12,1379184095843,adjustView,scatterplot-0-1,undefined
+p12,1379184117218,pan,scatterplot-0-1,-1,0
+p12,1379184117236,pan,scatterplot-0-1,-3,1
+p12,1379184117253,pan,scatterplot-0-1,-10,0
+p12,1379184117271,pan,scatterplot-0-1,-24,-1
+p12,1379184117286,pan,scatterplot-0-1,-39,-2
+p12,1379184117303,pan,scatterplot-0-1,-52,-3
+p12,1379184117320,pan,scatterplot-0-1,-58,-4
+p12,1379184117337,pan,scatterplot-0-1,-62,-5
+p12,1379184117353,pan,scatterplot-0-1,-63,-7
+p12,1379184117370,pan,scatterplot-0-1,-64,-7
+p12,1379184117387,pan,scatterplot-0-1,-65,-7
+p12,1379184117403,pan,scatterplot-0-1,-66,-8
+p12,1379184117437,pan,scatterplot-0-1,-67,-8
+p12,1379184117547,adjustView,scatterplot-0-1,undefined
+p12,1379184130953,pan,scatterplot-0-1,-1,-2
+p12,1379184130972,pan,scatterplot-0-1,-2,-5
+p12,1379184130988,pan,scatterplot-0-1,-3,-10
+p12,1379184131006,pan,scatterplot-0-1,-3,-16
+p12,1379184131022,pan,scatterplot-0-1,-2,-22
+p12,1379184131039,pan,scatterplot-0-1,1,-31
+p12,1379184131056,pan,scatterplot-0-1,3,-37
+p12,1379184131073,pan,scatterplot-0-1,5,-43
+p12,1379184131089,pan,scatterplot-0-1,5,-48
+p12,1379184131106,pan,scatterplot-0-1,5,-51
+p12,1379184131122,pan,scatterplot-0-1,5,-54
+p12,1379184131138,pan,scatterplot-0-1,5,-57
+p12,1379184131155,pan,scatterplot-0-1,5,-60
+p12,1379184131173,pan,scatterplot-0-1,5,-62
+p12,1379184131189,pan,scatterplot-0-1,5,-64
+p12,1379184131206,pan,scatterplot-0-1,5,-65
+p12,1379184131222,pan,scatterplot-0-1,5,-66
+p12,1379184131239,pan,scatterplot-0-1,5,-67
+p12,1379184131256,pan,scatterplot-0-1,5,-68
+p12,1379184131395,adjustView,scatterplot-0-1,undefined
+p12,1379184132870,pan,scatterplot-0-1,0,1
+p12,1379184132890,pan,scatterplot-0-1,-1,2
+p12,1379184132906,pan,scatterplot-0-1,-3,5
+p12,1379184132922,pan,scatterplot-0-1,-7,10
+p12,1379184132939,pan,scatterplot-0-1,-12,19
+p12,1379184132956,pan,scatterplot-0-1,-19,30
+p12,1379184132973,pan,scatterplot-0-1,-24,37
+p12,1379184132989,pan,scatterplot-0-1,-28,44
+p12,1379184133006,pan,scatterplot-0-1,-31,49
+p12,1379184133022,pan,scatterplot-0-1,-33,52
+p12,1379184133039,pan,scatterplot-0-1,-35,53
+p12,1379184133056,pan,scatterplot-0-1,-36,55
+p12,1379184133073,pan,scatterplot-0-1,-37,56
+p12,1379184133089,pan,scatterplot-0-1,-38,57
+p12,1379184133105,pan,scatterplot-0-1,-41,58
+p12,1379184133123,pan,scatterplot-0-1,-42,59
+p12,1379184133140,pan,scatterplot-0-1,-44,60
+p12,1379184133156,pan,scatterplot-0-1,-45,60
+p12,1379184133173,pan,scatterplot-0-1,-45,61
+p12,1379184133189,pan,scatterplot-0-1,-46,61
+p12,1379184133206,pan,scatterplot-0-1,-46,62
+p12,1379184133223,pan,scatterplot-0-1,-47,62
+p12,1379184133239,pan,scatterplot-0-1,-47,63
+p12,1379184133256,pan,scatterplot-0-1,-47,64
+p12,1379184133272,pan,scatterplot-0-1,-48,64
+p12,1379184133289,pan,scatterplot-0-1,-48,66
+p12,1379184133307,pan,scatterplot-0-1,-49,67
+p12,1379184133323,pan,scatterplot-0-1,-50,68
+p12,1379184133339,pan,scatterplot-0-1,-50,69
+p12,1379184133406,pan,scatterplot-0-1,-51,69
+p12,1379184133475,adjustView,scatterplot-0-1,undefined
+p12,1379184137271,range select,scatterplot-0-1,0-7-7-0_1-57-58-0_
+p12,1379184137291,range select,scatterplot-0-1,0-7-8-0_1-57-58-0_
+p12,1379184137306,range select,scatterplot-0-1,0-7-9-0_1-57-58-0_
+p12,1379184137323,range select,scatterplot-0-1,0-7-11-0_1-56-58-0_
+p12,1379184137340,range select,scatterplot-0-1,0-7-13-0_1-55-58-0_
+p12,1379184137357,range select,scatterplot-0-1,0-7-18-0_1-51-58-0_
+p12,1379184137374,range select,scatterplot-0-1,0-7-23-0_1-48-58-0_
+p12,1379184137392,range select,scatterplot-0-1,0-7-26-0_1-45-58-0_
+p12,1379184137407,range select,scatterplot-0-1,0-7-31-0_1-41-58-0_
+p12,1379184137426,range select,scatterplot-0-1,0-7-37-0_1-35-58-0_
+p12,1379184137440,range select,scatterplot-0-1,0-7-44-0_1-30-58-0_
+p12,1379184137457,range select,scatterplot-0-1,0-7-48-0_1-26-58-0_
+p12,1379184137474,range select,scatterplot-0-1,0-7-51-0_1-23-58-0_
+p12,1379184137490,range select,scatterplot-0-1,0-7-52-0_1-22-58-0_
+p12,1379184137540,range select,scatterplot-0-1,0-7-53-0_1-21-58-0_
+p12,1379184137557,range select,scatterplot-0-1,0-7-53-0_1-20-58-0_
+p12,1379184137574,range select,scatterplot-0-1,0-7-53-0_1-19-58-0_
+p12,1379184137590,range select,scatterplot-0-1,0-7-54-0_1-18-58-0_
+p12,1379184137607,range select,scatterplot-0-1,0-7-54-0_1-17-58-0_
+p12,1379184137624,range select,scatterplot-0-1,0-7-55-0_1-15-58-0_
+p12,1379184137640,range select,scatterplot-0-1,0-7-56-0_1-12-58-0_
+p12,1379184137657,range select,scatterplot-0-1,0-7-57-0_1-11-58-0_
+p12,1379184137673,range select,scatterplot-0-1,0-7-58-0_1-10-58-0_
+p12,1379184137760,range select,scatterplot-0-1,0-7-58-0_1-9-58-0_
+p12,1379184143458,clear,undefined,undefined
+p12,1379184146073,range select,scatterplot-0-1,0-11-11-0_1-73-73-0_
+p12,1379184146092,range select,scatterplot-0-1,0-11-13-0_1-71-73-0_
+p12,1379184146108,range select,scatterplot-0-1,0-11-18-0_1-66-73-0_
+p12,1379184146125,range select,scatterplot-0-1,0-11-25-0_1-59-73-0_
+p12,1379184146142,range select,scatterplot-0-1,0-11-33-0_1-53-73-0_
+p12,1379184146158,range select,scatterplot-0-1,0-11-42-0_1-46-73-0_
+p12,1379184146175,range select,scatterplot-0-1,0-11-47-0_1-42-73-0_
+p12,1379184146192,range select,scatterplot-0-1,0-11-50-0_1-40-73-0_
+p12,1379184146208,range select,scatterplot-0-1,0-11-51-0_1-38-73-0_
+p12,1379184146225,range select,scatterplot-0-1,0-11-54-0_1-36-73-0_
+p12,1379184146243,range select,scatterplot-0-1,0-11-57-0_1-32-73-0_
+p12,1379184146259,range select,scatterplot-0-1,0-11-62-0_1-28-73-0_
+p12,1379184146275,range select,scatterplot-0-1,0-11-64-0_1-26-73-0_
+p12,1379184146292,range select,scatterplot-0-1,0-11-65-0_1-24-73-0_
+p12,1379184146308,range select,scatterplot-0-1,0-11-66-0_1-24-73-0_
+p12,1379184146342,range select,scatterplot-0-1,0-11-68-0_1-22-73-0_
+p12,1379184146358,range select,scatterplot-0-1,0-11-70-0_1-18-73-0_
+p12,1379184146375,range select,scatterplot-0-1,0-11-73-0_1-15-73-0_
+p12,1379184146442,range select,scatterplot-0-1,0-11-74-0_1-15-73-0_
+p12,1379184160136,pan,scatterplot-0-1,0,0
+p12,1379184160136,adjustView,scatterplot-0-1,undefined
+p12,1379184163192,range select,scatterplot-0-1,0-14-14-0_1-69-69-0_
+p12,1379184163211,range select,scatterplot-0-1,0-14-16-0_1-68-69-0_
+p12,1379184163228,range select,scatterplot-0-1,0-14-18-0_1-67-69-0_
+p12,1379184163244,range select,scatterplot-0-1,0-14-24-0_1-62-69-0_
+p12,1379184163261,range select,scatterplot-0-1,0-14-30-0_1-56-69-0_
+p12,1379184163278,range select,scatterplot-0-1,0-14-41-0_1-46-69-0_
+p12,1379184163294,range select,scatterplot-0-1,0-14-58-0_1-33-69-0_
+p12,1379184163311,range select,scatterplot-0-1,0-14-69-0_1-25-69-0_
+p12,1379184163328,range select,scatterplot-0-1,0-14-75-0_1-21-69-0_
+p12,1379184163344,range select,scatterplot-0-1,0-14-76-0_1-20-69-0_
+p12,1379184163362,range select,scatterplot-0-1,0-14-77-0_1-19-69-0_
+p12,1379184163378,range select,scatterplot-0-1,0-14-77-0_1-18-69-0_
+p12,1379184178571,clear,undefined,undefined
+p12,1379184181562,pan,scatterplot-0-1,-1,0
+p12,1379184181580,pan,scatterplot-0-1,-2,0
+p12,1379184181597,pan,scatterplot-0-1,-9,0
+p12,1379184181614,pan,scatterplot-0-1,-19,1
+p12,1379184181630,pan,scatterplot-0-1,-36,1
+p12,1379184181646,pan,scatterplot-0-1,-51,1
+p12,1379184181663,pan,scatterplot-0-1,-65,1
+p12,1379184181680,pan,scatterplot-0-1,-74,1
+p12,1379184181697,pan,scatterplot-0-1,-83,1
+p12,1379184181713,pan,scatterplot-0-1,-88,1
+p12,1379184181731,pan,scatterplot-0-1,-92,1
+p12,1379184181827,adjustView,scatterplot-0-1,undefined
+p12,1379184181856,clear,undefined,undefined
+p12,1379184184294,pan,scatterplot-0-1,0,0
+p12,1379184184331,pan,scatterplot-0-1,1,0
+p12,1379184184347,pan,scatterplot-0-1,4,0
+p12,1379184184364,pan,scatterplot-0-1,13,-2
+p12,1379184184380,pan,scatterplot-0-1,33,-3
+p12,1379184184397,pan,scatterplot-0-1,57,-3
+p12,1379184184414,pan,scatterplot-0-1,79,-2
+p12,1379184184430,pan,scatterplot-0-1,96,-2
+p12,1379184184447,pan,scatterplot-0-1,107,-2
+p12,1379184184464,pan,scatterplot-0-1,113,-2
+p12,1379184184480,pan,scatterplot-0-1,116,-2
+p12,1379184184497,pan,scatterplot-0-1,117,-2
+p12,1379184184563,adjustView,scatterplot-0-1,undefined
+p12,1379184184573,clear,undefined,undefined
+p12,1379184188115,pan,scatterplot-0-1,1,1
+p12,1379184188131,pan,scatterplot-0-1,2,1
+p12,1379184188148,pan,scatterplot-0-1,8,2
+p12,1379184188164,pan,scatterplot-0-1,16,4
+p12,1379184188181,pan,scatterplot-0-1,28,6
+p12,1379184188198,pan,scatterplot-0-1,39,9
+p12,1379184188214,pan,scatterplot-0-1,47,9
+p12,1379184188231,pan,scatterplot-0-1,51,9
+p12,1379184188248,pan,scatterplot-0-1,53,9
+p12,1379184188266,adjustView,scatterplot-0-1,undefined
+p12,1379184188324,clear,undefined,undefined
+p12,1379184195330,range select,scatterplot-0-1,0-122-123-0_1-220-221-0_
+p12,1379184195349,range select,scatterplot-0-1,0-122-126-0_1-216-221-0_
+p12,1379184195366,range select,scatterplot-0-1,0-122-134-0_1-207-221-0_
+p12,1379184195382,range select,scatterplot-0-1,0-122-152-0_1-190-221-0_
+p12,1379184195399,range select,scatterplot-0-1,0-122-173-0_1-169-221-0_
+p12,1379184195416,range select,scatterplot-0-1,0-122-192-0_1-149-221-0_
+p12,1379184195433,range select,scatterplot-0-1,0-122-210-0_1-129-221-0_
+p12,1379184195450,range select,scatterplot-0-1,0-122-210-0_1-112-221-0_
+p12,1379184195466,range select,scatterplot-0-1,0-122-210-0_1-102-221-0_
+p12,1379184195499,range select,scatterplot-0-1,0-122-210-0_1-98-221-0_
+p12,1379184204896,pan,scatterplot-0-1,0,0
+p12,1379184204897,adjustView,scatterplot-0-1,undefined
+p12,1379184206864,range select,scatterplot-0-1,0-150-151-0_1-221-222-0_
+p12,1379184206884,range select,scatterplot-0-1,0-150-153-0_1-221-222-0_
+p12,1379184206901,range select,scatterplot-0-1,0-150-160-0_1-219-222-0_
+p12,1379184206918,range select,scatterplot-0-1,0-150-173-0_1-214-222-0_
+p12,1379184206928,range select,scatterplot-0-1,0-150-190-0_1-207-222-0_
+p12,1379184206951,range select,scatterplot-0-1,0-150-210-0_1-195-222-0_
+p12,1379184206968,range select,scatterplot-0-1,0-150-210-0_1-179-222-0_
+p12,1379184206985,range select,scatterplot-0-1,0-150-210-0_1-166-222-0_
+p12,1379184207002,range select,scatterplot-0-1,0-150-210-0_1-158-222-0_
+p12,1379184207018,range select,scatterplot-0-1,0-150-210-0_1-152-222-0_
+p12,1379184207034,range select,scatterplot-0-1,0-150-210-0_1-147-222-0_
+p12,1379184207052,range select,scatterplot-0-1,0-150-210-0_1-145-222-0_
+p12,1379184207117,range select,scatterplot-0-1,0-150-210-0_1-144-222-0_
+p12,1379184207252,range select,scatterplot-0-1,0-150-210-0_1-147-222-0_
+p12,1379184207268,range select,scatterplot-0-1,0-150-210-0_1-149-222-0_
+p12,1379184207284,range select,scatterplot-0-1,0-150-210-0_1-152-222-0_
+p12,1379184207302,range select,scatterplot-0-1,0-150-210-0_1-157-222-0_
+p12,1379184207317,range select,scatterplot-0-1,0-150-208-0_1-158-222-0_
+p12,1379184207334,range select,scatterplot-0-1,0-150-207-0_1-158-222-0_
+p12,1379184207352,range select,scatterplot-0-1,0-150-205-0_1-158-222-0_
+p12,1379184207553,range select,scatterplot-0-1,0-150-206-0_1-158-222-0_
+p12,1379184210839,pan,scatterplot-0-1,0,0
+p12,1379184210839,adjustView,scatterplot-0-1,undefined
+p12,1379184212016,range select,scatterplot-0-1,0-151-152-0_1-228-228-0_
+p12,1379184212035,range select,scatterplot-0-1,0-151-154-0_1-227-228-0_
+p12,1379184212052,range select,scatterplot-0-1,0-151-157-0_1-225-228-0_
+p12,1379184212068,range select,scatterplot-0-1,0-151-163-0_1-221-228-0_
+p12,1379184212085,range select,scatterplot-0-1,0-151-171-0_1-214-228-0_
+p12,1379184212101,range select,scatterplot-0-1,0-151-182-0_1-204-228-0_
+p12,1379184212118,range select,scatterplot-0-1,0-151-191-0_1-193-228-0_
+p12,1379184212135,range select,scatterplot-0-1,0-151-197-0_1-188-228-0_
+p12,1379184212151,range select,scatterplot-0-1,0-151-199-0_1-185-228-0_
+p12,1379184212169,range select,scatterplot-0-1,0-151-200-0_1-181-228-0_
+p12,1379184212185,range select,scatterplot-0-1,0-151-202-0_1-177-228-0_
+p12,1379184212202,range select,scatterplot-0-1,0-151-203-0_1-173-228-0_
+p12,1379184212218,range select,scatterplot-0-1,0-151-205-0_1-170-228-0_
+p12,1379184212236,range select,scatterplot-0-1,0-151-206-0_1-167-228-0_
+p12,1379184212251,range select,scatterplot-0-1,0-151-207-0_1-166-228-0_
+p12,1379184212268,range select,scatterplot-0-1,0-151-207-0_1-165-228-0_
+p12,1379184212285,range select,scatterplot-0-1,0-151-207-0_1-164-228-0_
+p12,1379184212302,range select,scatterplot-0-1,0-151-209-0_1-162-228-0_
+p12,1379184212318,range select,scatterplot-0-1,0-151-210-0_1-160-228-0_
+p12,1379184212336,range select,scatterplot-0-1,0-151-210-0_1-158-228-0_
+p12,1379184212385,range select,scatterplot-0-1,0-151-210-0_1-156-228-0_
+p12,1379184212405,range select,scatterplot-0-1,0-151-210-0_1-155-228-0_
+p12,1379184212418,range select,scatterplot-0-1,0-151-210-0_1-154-228-0_
+p12,1379184212468,range select,scatterplot-0-1,0-151-210-0_1-153-228-0_
+p12,1379184212486,range select,scatterplot-0-1,0-151-210-0_1-150-228-0_
+p12,1379184212501,range select,scatterplot-0-1,0-151-210-0_1-148-228-0_
+p12,1379184212519,range select,scatterplot-0-1,0-151-210-0_1-147-228-0_
+p12,1379184212535,range select,scatterplot-0-1,0-151-210-0_1-146-228-0_
+p12,1379184212568,range select,scatterplot-0-1,0-151-210-0_1-145-228-0_
+p12,1379184215330,clear,undefined,undefined
+p12,1379184216332,pan,scatterplot-0-1,-1,0
+p12,1379184216352,pan,scatterplot-0-1,-3,-3
+p12,1379184216369,pan,scatterplot-0-1,-7,-11
+p12,1379184216385,pan,scatterplot-0-1,-11,-19
+p12,1379184216401,pan,scatterplot-0-1,-13,-28
+p12,1379184216418,pan,scatterplot-0-1,-14,-37
+p12,1379184216435,pan,scatterplot-0-1,-15,-45
+p12,1379184216452,pan,scatterplot-0-1,-15,-49
+p12,1379184216469,pan,scatterplot-0-1,-15,-52
+p12,1379184216485,pan,scatterplot-0-1,-15,-54
+p12,1379184216518,pan,scatterplot-0-1,-15,-55
+p12,1379184216563,adjustView,scatterplot-0-1,undefined
+p12,1379184216628,clear,undefined,undefined
+p12,1379184218300,pan,scatterplot-0-1,0,1
+p12,1379184218335,pan,scatterplot-0-1,0,2
+p12,1379184218353,pan,scatterplot-0-1,0,4
+p12,1379184218369,pan,scatterplot-0-1,0,8
+p12,1379184218385,pan,scatterplot-0-1,0,11
+p12,1379184218402,pan,scatterplot-0-1,0,16
+p12,1379184218419,pan,scatterplot-0-1,0,24
+p12,1379184218436,pan,scatterplot-0-1,0,34
+p12,1379184218452,pan,scatterplot-0-1,1,44
+p12,1379184218469,pan,scatterplot-0-1,1,56
+p12,1379184218485,pan,scatterplot-0-1,2,66
+p12,1379184218502,pan,scatterplot-0-1,2,74
+p12,1379184218519,pan,scatterplot-0-1,2,79
+p12,1379184218535,pan,scatterplot-0-1,2,86
+p12,1379184218552,pan,scatterplot-0-1,2,91
+p12,1379184218569,pan,scatterplot-0-1,2,94
+p12,1379184218585,pan,scatterplot-0-1,2,97
+p12,1379184218602,pan,scatterplot-0-1,2,99
+p12,1379184218619,pan,scatterplot-0-1,2,101
+p12,1379184218620,adjustView,scatterplot-0-1,undefined
+p12,1379184218722,clear,undefined,undefined
+p12,1379184220234,range select,scatterplot-0-1,0-149-150-0_1-216-218-0_
+p12,1379184220253,range select,scatterplot-0-1,0-149-151-0_1-214-218-0_
+p12,1379184220269,range select,scatterplot-0-1,0-149-154-0_1-208-218-0_
+p12,1379184220287,range select,scatterplot-0-1,0-149-160-0_1-200-218-0_
+p12,1379184220303,range select,scatterplot-0-1,0-149-167-0_1-192-218-0_
+p12,1379184220319,range select,scatterplot-0-1,0-149-174-0_1-185-218-0_
+p12,1379184220337,range select,scatterplot-0-1,0-149-179-0_1-179-218-0_
+p12,1379184220353,range select,scatterplot-0-1,0-149-183-0_1-174-218-0_
+p12,1379184220369,range select,scatterplot-0-1,0-149-187-0_1-172-218-0_
+p12,1379184220386,range select,scatterplot-0-1,0-149-189-0_1-169-218-0_
+p12,1379184220404,range select,scatterplot-0-1,0-149-189-0_1-168-218-0_
+p12,1379184220421,range select,scatterplot-0-1,0-149-190-0_1-166-218-0_
+p12,1379184220436,range select,scatterplot-0-1,0-149-192-0_1-163-218-0_
+p12,1379184220453,range select,scatterplot-0-1,0-149-195-0_1-162-218-0_
+p12,1379184220469,range select,scatterplot-0-1,0-149-196-0_1-161-218-0_
+p12,1379184220486,range select,scatterplot-0-1,0-149-197-0_1-161-218-0_
+p12,1379184220503,range select,scatterplot-0-1,0-149-197-0_1-159-218-0_
+p12,1379184220520,range select,scatterplot-0-1,0-149-197-0_1-156-218-0_
+p12,1379184220539,range select,scatterplot-0-1,0-149-197-0_1-155-218-0_
+p12,1379184220603,range select,scatterplot-0-1,0-149-197-0_1-154-218-0_
+p12,1379184220620,range select,scatterplot-0-1,0-149-197-0_1-151-218-0_
+p12,1379184220637,range select,scatterplot-0-1,0-149-197-0_1-145-218-0_
+p12,1379184220653,range select,scatterplot-0-1,0-149-197-0_1-141-218-0_
+p12,1379184220669,range select,scatterplot-0-1,0-149-197-0_1-140-218-0_
+p12,1379184220753,range select,scatterplot-0-1,0-149-197-0_1-141-218-0_
+p12,1379184222051,clear,undefined,undefined
+p12,1379184223400,range select,scatterplot-0-1,0-160-161-0_1-214-215-0_
+p12,1379184223420,range select,scatterplot-0-1,0-160-163-0_1-213-215-0_
+p12,1379184223436,range select,scatterplot-0-1,0-160-166-0_1-207-215-0_
+p12,1379184223453,range select,scatterplot-0-1,0-160-179-0_1-194-215-0_
+p12,1379184223470,range select,scatterplot-0-1,0-160-197-0_1-176-215-0_
+p12,1379184223487,range select,scatterplot-0-1,0-160-197-0_1-167-215-0_
+p12,1379184223504,range select,scatterplot-0-1,0-160-197-0_1-163-215-0_
+p12,1379184223520,range select,scatterplot-0-1,0-160-197-0_1-162-215-0_
+p12,1379184223537,range select,scatterplot-0-1,0-160-197-0_1-161-215-0_
+p12,1379184223620,range select,scatterplot-0-1,0-160-197-0_1-160-215-0_
+p12,1379184228658,clear,undefined,undefined
+p12,1379184230284,range select,scatterplot-0-1,0-173-173-0_1-215-215-0_
+p12,1379184230304,range select,scatterplot-0-1,0-173-174-0_1-215-215-0_
+p12,1379184230321,range select,scatterplot-0-1,0-173-176-0_1-213-215-0_
+p12,1379184230338,range select,scatterplot-0-1,0-173-181-0_1-209-215-0_
+p12,1379184230355,range select,scatterplot-0-1,0-173-186-0_1-205-215-0_
+p12,1379184230371,range select,scatterplot-0-1,0-173-191-0_1-202-215-0_
+p12,1379184230388,range select,scatterplot-0-1,0-173-195-0_1-198-215-0_
+p12,1379184230405,range select,scatterplot-0-1,0-173-197-0_1-196-215-0_
+p12,1379184230421,range select,scatterplot-0-1,0-173-197-0_1-194-215-0_
+p12,1379184230438,range select,scatterplot-0-1,0-173-197-0_1-192-215-0_
+p12,1379184230455,range select,scatterplot-0-1,0-173-197-0_1-188-215-0_
+p12,1379184230471,range select,scatterplot-0-1,0-173-197-0_1-185-215-0_
+p12,1379184230487,range select,scatterplot-0-1,0-173-197-0_1-180-215-0_
+p12,1379184230505,range select,scatterplot-0-1,0-173-197-0_1-177-215-0_
+p12,1379184230521,range select,scatterplot-0-1,0-173-197-0_1-174-215-0_
+p12,1379184230538,range select,scatterplot-0-1,0-173-197-0_1-173-215-0_
+p12,1379184237422,pan,scatterplot-0-1,0,0
+p12,1379184237422,adjustView,scatterplot-0-1,undefined
+p12,1379184239720,pan,scatterplot-0-1,0,-1
+p12,1379184239739,pan,scatterplot-0-1,0,-5
+p12,1379184239755,pan,scatterplot-0-1,0,-15
+p12,1379184239772,pan,scatterplot-0-1,0,-23
+p12,1379184239789,pan,scatterplot-0-1,0,-30
+p12,1379184239806,pan,scatterplot-0-1,0,-38
+p12,1379184239822,pan,scatterplot-0-1,0,-47
+p12,1379184239839,pan,scatterplot-0-1,0,-57
+p12,1379184239855,pan,scatterplot-0-1,0,-63
+p12,1379184239873,pan,scatterplot-0-1,0,-69
+p12,1379184239888,pan,scatterplot-0-1,0,-74
+p12,1379184239906,pan,scatterplot-0-1,0,-79
+p12,1379184239922,pan,scatterplot-0-1,0,-81
+p12,1379184239939,pan,scatterplot-0-1,0,-82
+p12,1379184240002,adjustView,scatterplot-0-1,undefined
+p12,1379184242436,pan,scatterplot-0-1,0,0
+p12,1379184242456,pan,scatterplot-0-1,-1,0
+p12,1379184242472,pan,scatterplot-0-1,-5,2
+p12,1379184242489,pan,scatterplot-0-1,-9,5
+p12,1379184242507,pan,scatterplot-0-1,-18,9
+p12,1379184242522,pan,scatterplot-0-1,-35,17
+p12,1379184242540,pan,scatterplot-0-1,-52,27
+p12,1379184242556,pan,scatterplot-0-1,-67,36
+p12,1379184242572,pan,scatterplot-0-1,-81,45
+p12,1379184242590,pan,scatterplot-0-1,-89,52
+p12,1379184242606,pan,scatterplot-0-1,-92,54
+p12,1379184242623,pan,scatterplot-0-1,-92,55
+p12,1379184242673,pan,scatterplot-0-1,-92,56
+p12,1379184242722,pan,scatterplot-0-1,-91,56
+p12,1379184242739,pan,scatterplot-0-1,-91,57
+p12,1379184242756,pan,scatterplot-0-1,-90,58
+p12,1379184242773,pan,scatterplot-0-1,-89,58
+p12,1379184242786,adjustView,scatterplot-0-1,undefined
+p12,1379184244504,pan,scatterplot-0-1,0,-1
+p12,1379184244523,pan,scatterplot-0-1,1,-4
+p12,1379184244540,pan,scatterplot-0-1,6,-12
+p12,1379184244556,pan,scatterplot-0-1,14,-23
+p12,1379184244575,pan,scatterplot-0-1,23,-37
+p12,1379184244590,pan,scatterplot-0-1,32,-51
+p12,1379184244606,pan,scatterplot-0-1,38,-60
+p12,1379184244622,pan,scatterplot-0-1,43,-70
+p12,1379184244640,pan,scatterplot-0-1,47,-79
+p12,1379184244656,pan,scatterplot-0-1,52,-87
+p12,1379184244673,pan,scatterplot-0-1,57,-94
+p12,1379184244689,pan,scatterplot-0-1,59,-99
+p12,1379184244706,pan,scatterplot-0-1,61,-100
+p12,1379184244723,pan,scatterplot-0-1,62,-100
+p12,1379184244757,pan,scatterplot-0-1,63,-100
+p12,1379184244763,adjustView,scatterplot-0-1,undefined
+p12,1379184247389,range select,scatterplot-0-1,0-100-100-0_1-80-80-0_
+p12,1379184247441,range select,scatterplot-0-1,0-100-101-0_1-77-80-0_
+p12,1379184247457,range select,scatterplot-0-1,0-100-103-0_1-74-80-0_
+p12,1379184247473,range select,scatterplot-0-1,0-100-106-0_1-71-80-0_
+p12,1379184247490,range select,scatterplot-0-1,0-100-112-0_1-65-80-0_
+p12,1379184247508,range select,scatterplot-0-1,0-100-125-0_1-53-80-0_
+p12,1379184247524,range select,scatterplot-0-1,0-100-137-0_1-41-80-0_
+p12,1379184247540,range select,scatterplot-0-1,0-100-146-0_1-31-80-0_
+p12,1379184247557,range select,scatterplot-0-1,0-100-154-0_1-24-80-0_
+p12,1379184247574,range select,scatterplot-0-1,0-100-158-0_1-20-80-0_
+p12,1379184247590,range select,scatterplot-0-1,0-100-160-0_1-18-80-0_
+p12,1379184247607,range select,scatterplot-0-1,0-100-161-0_1-17-80-0_
+p12,1379184247624,range select,scatterplot-0-1,0-100-162-0_1-17-80-0_
+p12,1379184247641,range select,scatterplot-0-1,0-100-162-0_1-16-80-0_
+p12,1379184247657,range select,scatterplot-0-1,0-100-163-0_1-16-80-0_
+p12,1379184247690,range select,scatterplot-0-1,0-100-164-0_1-15-80-0_
+p12,1379184247707,range select,scatterplot-0-1,0-100-165-0_1-15-80-0_
+p12,1379184247724,range select,scatterplot-0-1,0-100-166-0_1-14-80-0_
+p12,1379184247741,range select,scatterplot-0-1,0-100-167-0_1-14-80-0_
+p12,1379184247757,range select,scatterplot-0-1,0-100-168-0_1-13-80-0_
+p12,1379184247774,range select,scatterplot-0-1,0-100-169-0_1-13-80-0_
+p12,1379184247875,range select,scatterplot-0-1,0-100-170-0_1-13-80-0_
+p12,1379184247908,range select,scatterplot-0-1,0-100-171-0_1-13-80-0_
+p12,1379184259699,clear,undefined,undefined
+p12,1379184262523,range select,scatterplot-0-1,0-105-106-0_1-83-83-0_
+p12,1379184262542,range select,scatterplot-0-1,0-105-107-0_1-83-83-0_
+p12,1379184262559,range select,scatterplot-0-1,0-105-109-0_1-81-83-0_
+p12,1379184262576,range select,scatterplot-0-1,0-105-114-0_1-76-83-0_
+p12,1379184262593,range select,scatterplot-0-1,0-105-120-0_1-69-83-0_
+p12,1379184262609,range select,scatterplot-0-1,0-105-129-0_1-64-83-0_
+p12,1379184262626,range select,scatterplot-0-1,0-105-140-0_1-57-83-0_
+p12,1379184262643,range select,scatterplot-0-1,0-105-149-0_1-50-83-0_
+p12,1379184262659,range select,scatterplot-0-1,0-105-156-0_1-42-83-0_
+p12,1379184262676,range select,scatterplot-0-1,0-105-159-0_1-37-83-0_
+p12,1379184262693,range select,scatterplot-0-1,0-105-162-0_1-34-83-0_
+p12,1379184262709,range select,scatterplot-0-1,0-105-163-0_1-31-83-0_
+p12,1379184262726,range select,scatterplot-0-1,0-105-164-0_1-28-83-0_
+p12,1379184262742,range select,scatterplot-0-1,0-105-165-0_1-24-83-0_
+p12,1379184262760,range select,scatterplot-0-1,0-105-166-0_1-20-83-0_
+p12,1379184262776,range select,scatterplot-0-1,0-105-168-0_1-18-83-0_
+p12,1379184262793,range select,scatterplot-0-1,0-105-168-0_1-17-83-0_
+p12,1379184263061,range select,scatterplot-0-1,0-105-169-0_1-16-83-0_
+p12,1379184263093,range select,scatterplot-0-1,0-105-170-0_1-16-83-0_
+p12,1379184263109,range select,scatterplot-0-1,0-105-171-0_1-15-83-0_
+p12,1379184263176,range select,scatterplot-0-1,0-105-171-0_1-14-83-0_
+p12,1379184263276,range select,scatterplot-0-1,0-105-171-0_1-13-83-0_
+p12,1379184263326,range select,scatterplot-0-1,0-105-171-0_1-12-83-0_
+p12,1379184263342,range select,scatterplot-0-1,0-105-171-0_1-10-83-0_
+p12,1379184263360,range select,scatterplot-0-1,0-105-171-0_1-9-83-0_
+p12,1379184263376,range select,scatterplot-0-1,0-105-171-0_1-8-83-0_
+p12,1379184263393,range select,scatterplot-0-1,0-105-171-0_1-7-83-0_
+p12,1379184263409,range select,scatterplot-0-1,0-105-171-0_1-6-83-0_
+p12,1379184265239,pan,scatterplot-0-1,0,0
+p12,1379184265240,adjustView,scatterplot-0-1,undefined
+p12,1379184266795,clear,undefined,undefined
+p12,1379184270240,range select,scatterplot-0-1,0-101-102-0_1-82-83-0_
+p12,1379184270261,range select,scatterplot-0-1,0-101-103-0_1-80-83-0_
+p12,1379184270278,range select,scatterplot-0-1,0-101-105-0_1-77-83-0_
+p12,1379184270294,range select,scatterplot-0-1,0-101-110-0_1-73-83-0_
+p12,1379184270311,range select,scatterplot-0-1,0-101-114-0_1-69-83-0_
+p12,1379184270328,range select,scatterplot-0-1,0-101-121-0_1-64-83-0_
+p12,1379184270344,range select,scatterplot-0-1,0-101-126-0_1-60-83-0_
+p12,1379184270361,range select,scatterplot-0-1,0-101-130-0_1-56-83-0_
+p12,1379184270377,range select,scatterplot-0-1,0-101-135-0_1-51-83-0_
+p12,1379184270394,range select,scatterplot-0-1,0-101-141-0_1-46-83-0_
+p12,1379184270411,range select,scatterplot-0-1,0-101-148-0_1-40-83-0_
+p12,1379184270428,range select,scatterplot-0-1,0-101-156-0_1-34-83-0_
+p12,1379184270444,range select,scatterplot-0-1,0-101-166-0_1-27-83-0_
+p12,1379184270461,range select,scatterplot-0-1,0-101-171-0_1-21-83-0_
+p12,1379184270477,range select,scatterplot-0-1,0-101-171-0_1-17-83-0_
+p12,1379184270494,range select,scatterplot-0-1,0-101-171-0_1-16-83-0_
+p12,1379184270511,range select,scatterplot-0-1,0-101-171-0_1-15-83-0_
+p12,1379184284691,clear,undefined,undefined
+p12,1379184291546,range select,scatterplot-0-1,0-99-99-0_1-81-81-0_
+p12,1379184291564,range select,scatterplot-0-1,0-99-100-0_1-81-81-0_
+p12,1379184291580,range select,scatterplot-0-1,0-99-103-0_1-79-81-0_
+p12,1379184291598,range select,scatterplot-0-1,0-99-108-0_1-76-81-0_
+p12,1379184291614,range select,scatterplot-0-1,0-99-116-0_1-67-81-0_
+p12,1379184291630,range select,scatterplot-0-1,0-99-123-0_1-60-81-0_
+p12,1379184291647,range select,scatterplot-0-1,0-99-134-0_1-51-81-0_
+p12,1379184291664,range select,scatterplot-0-1,0-99-142-0_1-41-81-0_
+p12,1379184291681,range select,scatterplot-0-1,0-99-149-0_1-34-81-0_
+p12,1379184291697,range select,scatterplot-0-1,0-99-154-0_1-28-81-0_
+p12,1379184291715,range select,scatterplot-0-1,0-99-159-0_1-23-81-0_
+p12,1379184291730,range select,scatterplot-0-1,0-99-160-0_1-18-81-0_
+p12,1379184291747,range select,scatterplot-0-1,0-99-161-0_1-16-81-0_
+p12,1379184291765,range select,scatterplot-0-1,0-99-162-0_1-14-81-0_
+p12,1379184291797,range select,scatterplot-0-1,0-99-162-0_1-13-81-0_
+p12,1379184291814,range select,scatterplot-0-1,0-99-163-0_1-12-81-0_
+p12,1379184291847,range select,scatterplot-0-1,0-99-164-0_1-12-81-0_
+p12,1379184291864,range select,scatterplot-0-1,0-99-165-0_1-12-81-0_
+p12,1379184291897,range select,scatterplot-0-1,0-99-166-0_1-11-81-0_
+p12,1379184291915,range select,scatterplot-0-1,0-99-167-0_1-11-81-0_
+p12,1379184291932,range select,scatterplot-0-1,0-99-168-0_1-10-81-0_
+p12,1379184291947,range select,scatterplot-0-1,0-99-170-0_1-10-81-0_
+p12,1379184291981,range select,scatterplot-0-1,0-99-171-0_1-10-81-0_
+p12,1379184317832,pan,scatterplot-0-1,-1,0
+p12,1379184317875,adjustView,scatterplot-0-1,undefined
+p12,1379184320131,range select,scatterplot-0-1,0--8--7-0_1-154-154-0_
+p12,1379184320152,range select,scatterplot-0-1,0--8--5-0_1-153-154-0_
+p12,1379184320168,range select,scatterplot-0-1,0--8-0-0_1-152-154-0_
+p12,1379184320186,range select,scatterplot-0-1,0--8-7-0_1-149-154-0_
+p12,1379184320202,range select,scatterplot-0-1,0--8-16-0_1-145-154-0_
+p12,1379184320218,range select,scatterplot-0-1,0--8-30-0_1-138-154-0_
+p12,1379184320235,range select,scatterplot-0-1,0--8-43-0_1-131-154-0_
+p12,1379184320252,range select,scatterplot-0-1,0--8-52-0_1-126-154-0_
+p12,1379184320268,range select,scatterplot-0-1,0--8-57-0_1-122-154-0_
+p12,1379184320285,range select,scatterplot-0-1,0--8-60-0_1-118-154-0_
+p12,1379184320302,range select,scatterplot-0-1,0--8-64-0_1-115-154-0_
+p12,1379184320318,range select,scatterplot-0-1,0--8-66-0_1-113-154-0_
+p12,1379184320335,range select,scatterplot-0-1,0--8-68-0_1-111-154-0_
+p12,1379184320352,range select,scatterplot-0-1,0--8-70-0_1-109-154-0_
+p12,1379184320402,range select,scatterplot-0-1,0--8-70-0_1-108-154-0_
+p12,1379184320451,range select,scatterplot-0-1,0--8-70-0_1-107-154-0_
+p12,1379184320518,range select,scatterplot-0-1,0--8-70-0_1-106-154-0_
+p12,1379184320552,range select,scatterplot-0-1,0--8-69-0_1-105-154-0_
+p12,1379184320585,range select,scatterplot-0-1,0--8-68-0_1-104-154-0_
+p12,1379184320602,range select,scatterplot-0-1,0--8-68-0_1-103-154-0_
+p12,1379184320870,range select,scatterplot-0-1,0--8-68-0_1-102-154-0_
+p12,1379184320885,range select,scatterplot-0-1,0--8-68-0_1-100-154-0_
+p12,1379184320901,range select,scatterplot-0-1,0--8-68-0_1-99-154-0_
+p12,1379184320919,range select,scatterplot-0-1,0--8-68-0_1-98-154-0_
+p12,1379184320936,range select,scatterplot-0-1,0--8-68-0_1-97-154-0_
+p12,1379184325149,pan,scatterplot-0-1,1,1
+p12,1379184325169,pan,scatterplot-0-1,1,2
+p12,1379184325186,pan,scatterplot-0-1,1,6
+p12,1379184325202,pan,scatterplot-0-1,0,8
+p12,1379184325219,pan,scatterplot-0-1,-1,12
+p12,1379184325235,pan,scatterplot-0-1,-2,17
+p12,1379184325252,pan,scatterplot-0-1,-4,22
+p12,1379184325268,pan,scatterplot-0-1,-7,28
+p12,1379184325286,pan,scatterplot-0-1,-10,32
+p12,1379184325303,pan,scatterplot-0-1,-12,35
+p12,1379184325319,pan,scatterplot-0-1,-13,37
+p12,1379184325335,pan,scatterplot-0-1,-14,38
+p12,1379184325352,pan,scatterplot-0-1,-16,40
+p12,1379184325369,pan,scatterplot-0-1,-17,41
+p12,1379184325386,pan,scatterplot-0-1,-18,42
+p12,1379184325418,pan,scatterplot-0-1,-19,42
+p12,1379184325436,pan,scatterplot-0-1,-20,43
+p12,1379184325452,pan,scatterplot-0-1,-21,44
+p12,1379184325469,pan,scatterplot-0-1,-22,45
+p12,1379184325486,pan,scatterplot-0-1,-23,45
+p12,1379184325503,pan,scatterplot-0-1,-25,47
+p12,1379184325519,pan,scatterplot-0-1,-27,48
+p12,1379184325535,pan,scatterplot-0-1,-29,50
+p12,1379184325552,pan,scatterplot-0-1,-31,51
+p12,1379184325569,pan,scatterplot-0-1,-34,53
+p12,1379184325586,pan,scatterplot-0-1,-38,55
+p12,1379184325602,pan,scatterplot-0-1,-40,56
+p12,1379184325715,adjustView,scatterplot-0-1,undefined
+p12,1379184328118,range select,scatterplot-0-1,0--30--30-0_1-180-180-0_
+p12,1379184328136,range select,scatterplot-0-1,0--30--29-0_1-179-180-0_
+p12,1379184328153,range select,scatterplot-0-1,0--30--27-0_1-178-180-0_
+p12,1379184328170,range select,scatterplot-0-1,0--30--20-0_1-173-180-0_
+p12,1379184328187,range select,scatterplot-0-1,0--30--13-0_1-167-180-0_
+p12,1379184328203,range select,scatterplot-0-1,0--30--6-0_1-161-180-0_
+p12,1379184328220,range select,scatterplot-0-1,0--30-1-0_1-156-180-0_
+p12,1379184328236,range select,scatterplot-0-1,0--30-7-0_1-151-180-0_
+p12,1379184328253,range select,scatterplot-0-1,0--30-11-0_1-147-180-0_
+p12,1379184328270,range select,scatterplot-0-1,0--30-17-0_1-142-180-0_
+p12,1379184328286,range select,scatterplot-0-1,0--30-22-0_1-137-180-0_
+p12,1379184328303,range select,scatterplot-0-1,0--30-27-0_1-134-180-0_
+p12,1379184328320,range select,scatterplot-0-1,0--30-32-0_1-131-180-0_
+p12,1379184328337,range select,scatterplot-0-1,0--30-35-0_1-128-180-0_
+p12,1379184328353,range select,scatterplot-0-1,0--30-36-0_1-126-180-0_
+p12,1379184328370,range select,scatterplot-0-1,0--30-38-0_1-124-180-0_
+p12,1379184328386,range select,scatterplot-0-1,0--30-40-0_1-122-180-0_
+p12,1379184328403,range select,scatterplot-0-1,0--30-42-0_1-120-180-0_
+p12,1379184328419,range select,scatterplot-0-1,0--30-42-0_1-119-180-0_
+p12,1379184328488,range select,scatterplot-0-1,0--30-43-0_1-119-180-0_
+p12,1379184328503,range select,scatterplot-0-1,0--30-43-0_1-118-180-0_
+p12,1379184328519,range select,scatterplot-0-1,0--30-44-0_1-118-180-0_
+p12,1379184328537,range select,scatterplot-0-1,0--30-46-0_1-117-180-0_
+p12,1379184328553,range select,scatterplot-0-1,0--30-47-0_1-116-180-0_
+p12,1379184328569,range select,scatterplot-0-1,0--30-48-0_1-116-180-0_
+p12,1379184328586,range select,scatterplot-0-1,0--30-50-0_1-114-180-0_
+p12,1379184328603,range select,scatterplot-0-1,0--30-55-0_1-112-180-0_
+p12,1379184328620,range select,scatterplot-0-1,0--30-58-0_1-111-180-0_
+p12,1379184328636,range select,scatterplot-0-1,0--30-60-0_1-111-180-0_
+p12,1379184328653,range select,scatterplot-0-1,0--30-61-0_1-110-180-0_
+p12,1379184328720,range select,scatterplot-0-1,0--30-62-0_1-109-180-0_
+p12,1379184328770,range select,scatterplot-0-1,0--30-63-0_1-108-180-0_
+p12,1379184328803,range select,scatterplot-0-1,0--30-64-0_1-108-180-0_
+p12,1379184328821,range select,scatterplot-0-1,0--30-64-0_1-107-180-0_
+p12,1379184328853,range select,scatterplot-0-1,0--30-65-0_1-107-180-0_
+p12,1379184328920,range select,scatterplot-0-1,0--30-66-0_1-107-180-0_
+p12,1379184334551,range select,scatterplot-0-1,0--19--18-0_1-167-167-0_
+p12,1379184334620,range select,scatterplot-0-1,0--19--17-0_1-167-167-0_
+p12,1379184334638,range select,scatterplot-0-1,0--19--17-0_1-166-167-0_
+p12,1379184334654,range select,scatterplot-0-1,0--19--15-0_1-166-167-0_
+p12,1379184334671,range select,scatterplot-0-1,0--19--13-0_1-164-167-0_
+p12,1379184334688,range select,scatterplot-0-1,0--19--10-0_1-159-167-0_
+p12,1379184334704,range select,scatterplot-0-1,0--19--2-0_1-153-167-0_
+p12,1379184334721,range select,scatterplot-0-1,0--19-12-0_1-145-167-0_
+p12,1379184334737,range select,scatterplot-0-1,0--19-26-0_1-137-167-0_
+p12,1379184334756,range select,scatterplot-0-1,0--19-36-0_1-130-167-0_
+p12,1379184334772,range select,scatterplot-0-1,0--19-40-0_1-126-167-0_
+p12,1379184334788,range select,scatterplot-0-1,0--19-43-0_1-124-167-0_
+p12,1379184334806,range select,scatterplot-0-1,0--19-46-0_1-121-167-0_
+p12,1379184334821,range select,scatterplot-0-1,0--19-48-0_1-119-167-0_
+p12,1379184334838,range select,scatterplot-0-1,0--19-50-0_1-117-167-0_
+p12,1379184334854,range select,scatterplot-0-1,0--19-51-0_1-116-167-0_
+p12,1379184334871,range select,scatterplot-0-1,0--19-52-0_1-115-167-0_
+p12,1379184334888,range select,scatterplot-0-1,0--19-52-0_1-114-167-0_
+p12,1379184334906,range select,scatterplot-0-1,0--19-53-0_1-113-167-0_
+p12,1379184334921,range select,scatterplot-0-1,0--19-54-0_1-112-167-0_
+p12,1379184334938,range select,scatterplot-0-1,0--19-55-0_1-111-167-0_
+p12,1379184334971,range select,scatterplot-0-1,0--19-56-0_1-111-167-0_
+p12,1379184334987,range select,scatterplot-0-1,0--19-56-0_1-110-167-0_
+p12,1379184335004,range select,scatterplot-0-1,0--19-57-0_1-109-167-0_
+p12,1379184335021,range select,scatterplot-0-1,0--19-57-0_1-108-167-0_
+p12,1379184335037,range select,scatterplot-0-1,0--19-58-0_1-107-167-0_
+p12,1379184335054,range select,scatterplot-0-1,0--19-59-0_1-106-167-0_
+p12,1379184335088,range select,scatterplot-0-1,0--19-60-0_1-105-167-0_
+p12,1379184335104,range select,scatterplot-0-1,0--19-60-0_1-104-167-0_
+p12,1379184335137,range select,scatterplot-0-1,0--19-60-0_1-103-167-0_
+p12,1379184335154,range select,scatterplot-0-1,0--19-61-0_1-102-167-0_
+p12,1379184340272,clear,undefined,undefined
+p12,1379184342702,pan,scatterplot-0-1,1,0
+p12,1379184342721,pan,scatterplot-0-1,2,0
+p12,1379184342738,pan,scatterplot-0-1,3,0
+p12,1379184342754,pan,scatterplot-0-1,7,0
+p12,1379184342771,pan,scatterplot-0-1,9,0
+p12,1379184342788,pan,scatterplot-0-1,12,0
+p12,1379184342805,pan,scatterplot-0-1,14,0
+p12,1379184342822,pan,scatterplot-0-1,17,1
+p12,1379184342838,pan,scatterplot-0-1,20,2
+p12,1379184342855,pan,scatterplot-0-1,23,2
+p12,1379184342872,pan,scatterplot-0-1,26,3
+p12,1379184342888,pan,scatterplot-0-1,29,4
+p12,1379184342905,pan,scatterplot-0-1,31,5
+p12,1379184342921,pan,scatterplot-0-1,33,6
+p12,1379184342938,pan,scatterplot-0-1,35,6
+p12,1379184342955,pan,scatterplot-0-1,36,7
+p12,1379184342971,pan,scatterplot-0-1,37,7
+p12,1379184342989,pan,scatterplot-0-1,38,8
+p12,1379184343005,pan,scatterplot-0-1,40,9
+p12,1379184343021,pan,scatterplot-0-1,41,10
+p12,1379184343038,pan,scatterplot-0-1,43,11
+p12,1379184343055,pan,scatterplot-0-1,44,11
+p12,1379184343071,pan,scatterplot-0-1,46,12
+p12,1379184343088,pan,scatterplot-0-1,49,13
+p12,1379184343105,pan,scatterplot-0-1,51,14
+p12,1379184343121,pan,scatterplot-0-1,53,16
+p12,1379184343138,pan,scatterplot-0-1,58,19
+p12,1379184343155,pan,scatterplot-0-1,64,26
+p12,1379184343172,pan,scatterplot-0-1,69,30
+p12,1379184343188,pan,scatterplot-0-1,73,33
+p12,1379184343205,pan,scatterplot-0-1,77,38
+p12,1379184343221,pan,scatterplot-0-1,79,39
+p12,1379184343238,pan,scatterplot-0-1,81,39
+p12,1379184343254,pan,scatterplot-0-1,82,40
+p12,1379184343380,adjustView,scatterplot-0-1,undefined
+p12,1379184343482,clear,undefined,undefined
+p12,1379184346849,pan,scatterplot-0-1,0,0
+p12,1379184346849,adjustView,scatterplot-0-1,undefined
+p12,1379184346853,clear,undefined,undefined
+p12,1379184348704,range select,scatterplot-0-1,0-2-2-0_1-167-168-0_
+p12,1379184348722,range select,scatterplot-0-1,0-2-3-0_1-165-168-0_
+p12,1379184348740,range select,scatterplot-0-1,0-2-4-0_1-164-168-0_
+p12,1379184348756,range select,scatterplot-0-1,0-2-7-0_1-159-168-0_
+p12,1379184348773,range select,scatterplot-0-1,0-2-12-0_1-151-168-0_
+p12,1379184348789,range select,scatterplot-0-1,0-2-18-0_1-143-168-0_
+p12,1379184348806,range select,scatterplot-0-1,0-2-24-0_1-135-168-0_
+p12,1379184348823,range select,scatterplot-0-1,0-2-31-0_1-127-168-0_
+p12,1379184348840,range select,scatterplot-0-1,0-2-37-0_1-120-168-0_
+p12,1379184348856,range select,scatterplot-0-1,0-2-44-0_1-113-168-0_
+p12,1379184348873,range select,scatterplot-0-1,0-2-51-0_1-107-168-0_
+p12,1379184348889,range select,scatterplot-0-1,0-2-57-0_1-101-168-0_
+p12,1379184348907,range select,scatterplot-0-1,0-2-63-0_1-95-168-0_
+p12,1379184348923,range select,scatterplot-0-1,0-2-67-0_1-92-168-0_
+p12,1379184348940,range select,scatterplot-0-1,0-2-69-0_1-90-168-0_
+p12,1379184349089,range select,scatterplot-0-1,0-2-69-0_1-92-168-0_
+p12,1379184349106,range select,scatterplot-0-1,0-2-69-0_1-94-168-0_
+p12,1379184349123,range select,scatterplot-0-1,0-2-69-0_1-97-168-0_
+p12,1379184349139,range select,scatterplot-0-1,0-2-69-0_1-98-168-0_
+p12,1379184382307,clear,undefined,undefined
+p12,1379184384992,range select,scatterplot-0-1,0-0-0-0_1-171-171-0_
+p12,1379184385028,range select,scatterplot-0-1,0-0-0-0_1-170-171-0_
+p12,1379184385061,range select,scatterplot-0-1,0-0-2-0_1-169-171-0_
+p12,1379184385078,range select,scatterplot-0-1,0-0-6-0_1-165-171-0_
+p12,1379184385095,range select,scatterplot-0-1,0-0-12-0_1-158-171-0_
+p12,1379184385112,range select,scatterplot-0-1,0-0-18-0_1-151-171-0_
+p12,1379184385128,range select,scatterplot-0-1,0-0-27-0_1-143-171-0_
+p12,1379184385145,range select,scatterplot-0-1,0-0-37-0_1-131-171-0_
+p12,1379184385161,range select,scatterplot-0-1,0-0-42-0_1-125-171-0_
+p12,1379184385179,range select,scatterplot-0-1,0-0-45-0_1-123-171-0_
+p12,1379184385195,range select,scatterplot-0-1,0-0-46-0_1-122-171-0_
+p12,1379184385211,range select,scatterplot-0-1,0-0-46-0_1-121-171-0_
+p12,1379184385228,range select,scatterplot-0-1,0-0-48-0_1-119-171-0_
+p12,1379184385247,range select,scatterplot-0-1,0-0-50-0_1-117-171-0_
+p12,1379184385262,range select,scatterplot-0-1,0-0-52-0_1-115-171-0_
+p12,1379184385278,range select,scatterplot-0-1,0-0-54-0_1-115-171-0_
+p12,1379184385295,range select,scatterplot-0-1,0-0-54-0_1-114-171-0_
+p12,1379184385412,range select,scatterplot-0-1,0-0-55-0_1-113-171-0_
+p12,1379184385428,range select,scatterplot-0-1,0-0-56-0_1-112-171-0_
+p12,1379184385445,range select,scatterplot-0-1,0-0-57-0_1-111-171-0_
+p12,1379184385461,range select,scatterplot-0-1,0-0-60-0_1-108-171-0_
+p12,1379184385478,range select,scatterplot-0-1,0-0-66-0_1-103-171-0_
+p12,1379184385495,range select,scatterplot-0-1,0-0-72-0_1-98-171-0_
+p12,1379184385512,range select,scatterplot-0-1,0-0-75-0_1-96-171-0_
+p12,1379184385529,range select,scatterplot-0-1,0-0-76-0_1-95-171-0_
+p12,1379184385761,range select,scatterplot-0-1,0-0-75-0_1-96-171-0_
+p12,1379184385778,range select,scatterplot-0-1,0-0-74-0_1-98-171-0_
+p12,1379184385796,range select,scatterplot-0-1,0-0-72-0_1-99-171-0_
+p12,1379184385812,range select,scatterplot-0-1,0-0-71-0_1-101-171-0_
+p12,1379184385828,range select,scatterplot-0-1,0-0-70-0_1-101-171-0_
+p12,1379184385845,range select,scatterplot-0-1,0-0-69-0_1-101-171-0_
+p12,1379184385862,range select,scatterplot-0-1,0-0-68-0_1-101-171-0_
+p12,1379184385878,range select,scatterplot-0-1,0-0-68-0_1-102-171-0_
+p12,1379184417532,zoom,scatterplot-0-1,1
+p12,1379184418119,tile cached,undefined,0-0-250-2x1-253-505-2x4-0-28-0
+p12,1379184418119,tile cached,undefined,0-0-250-2x1-506-758-2x4-0-28-0
+p12,1379184418124,tile cached,undefined,0-0-250-2x1-759-1011-2x4-0-28-0
+p12,1379184418797,pan,scatterplot-0-1,0,0
+p12,1379184418816,pan,scatterplot-0-1,0,-3
+p12,1379184418833,pan,scatterplot-0-1,0,-12
+p12,1379184418850,pan,scatterplot-0-1,0,-24
+p12,1379184418867,pan,scatterplot-0-1,0,-32
+p12,1379184418884,pan,scatterplot-0-1,0,-38
+p12,1379184418900,pan,scatterplot-0-1,0,-42
+p12,1379184418916,pan,scatterplot-0-1,0,-46
+p12,1379184418933,pan,scatterplot-0-1,0,-50
+p12,1379184418950,pan,scatterplot-0-1,0,-52
+p12,1379184418967,pan,scatterplot-0-1,0,-54
+p12,1379184418983,pan,scatterplot-0-1,0,-55
+p12,1379184418999,pan,scatterplot-0-1,0,-56
+p12,1379184419016,pan,scatterplot-0-1,0,-57
+p12,1379184419075,adjustView,scatterplot-0-1,undefined
+p12,1379184419644,tile cached,undefined,0-0-250-2x1-0-252-2x4-0-28-0
+p12,1379184419645,tile cached,undefined,0-502-752-2x1-0-252-2x4-0-28-0
+p12,1379184419644,tile cached,undefined,0-251-501-2x1-0-252-2x4-0-28-0
+p12,1379184419645,tile cached,undefined,0-753-1003-2x1-0-252-2x4-0-28-0
+p12,1379184420243,zoom,scatterplot-0-1,2
+p12,1379184421063,tile cached,undefined,0-0-250-2x1-253-505-2x2-0-21-0
+p12,1379184421063,tile cached,undefined,0-0-250-2x1-506-758-2x2-0-21-0
+p12,1379184421066,tile cached,undefined,0-251-501-2x1-253-505-2x2-0-21-0
+p12,1379184421073,tile cached,undefined,0-251-501-2x1-506-758-2x2-0-21-0
+p12,1379184421078,tile cached,undefined,0-0-250-2x1-253-505-2x3-0-11-0
+p12,1379184421079,tile cached,undefined,0-0-250-2x1-506-758-2x3-0-11-0
+p12,1379184421082,tile cached,undefined,0-251-501-2x1-506-758-2x3-0-11-0
+p12,1379184421085,tile cached,undefined,0-251-501-2x1-253-505-2x3-0-11-0
+p12,1379184421098,tile cached,undefined,0-0-250-2x1-506-758-2x4-0-28-0
+p12,1379184421105,tile cached,undefined,0-0-250-2x1-253-505-2x4-0-28-0
+p12,1379184421106,tile cached,undefined,0-251-501-2x1-253-505-2x4-0-28-0
+p12,1379184421119,tile cached,undefined,0-251-501-3x1-759-1011-3x4-0-28-0
+p12,1379184421119,tile cached,undefined,0-251-501-2x1-506-758-2x4-0-28-0
+p12,1379184421119,tile cached,undefined,0-251-501-3x1-506-758-3x4-0-28-0
+p12,1379184421120,tile cached,undefined,0-251-501-3x1-1012-1264-3x4-0-28-0
+p12,1379184421123,tile cached,undefined,0-502-752-3x1-506-758-3x4-0-28-0
+p12,1379184421136,tile cached,undefined,0-502-752-3x1-759-1011-3x4-0-28-0
+p12,1379184421136,tile cached,undefined,0-753-1003-3x1-506-758-3x4-0-28-0
+p12,1379184421140,tile cached,undefined,0-502-752-3x1-1012-1264-3x4-0-28-0
+p12,1379184421141,tile cached,undefined,0-753-1003-3x1-1012-1264-3x4-0-28-0
+p12,1379184421142,tile cached,undefined,0-753-1003-3x1-759-1011-3x4-0-28-0
+p12,1379184423659,zoom,scatterplot-0-1,1
+p12,1379184424803,zoom,scatterplot-0-1,0
+p12,1379184429683,zoom,scatterplot-0-1,1
+p12,1379184430603,zoom,scatterplot-0-1,2
+p12,1379184431251,tile cached,undefined,0-502-752-2x1-253-505-2x3-0-11-0
+p12,1379184431251,tile cached,undefined,0-502-752-2x1-253-505-2x2-0-21-0
+p12,1379184431258,tile cached,undefined,0-502-752-2x1-253-505-2x4-0-28-0
+p12,1379184431259,tile cached,undefined,0-1004-1254-3x1-506-758-3x4-0-28-0
+p12,1379184431263,tile cached,undefined,0-1004-1254-3x1-759-1011-3x4-0-28-0
+p12,1379184431269,tile cached,undefined,0-1255-1505-3x1-506-758-3x4-0-28-0
+p12,1379184431279,tile cached,undefined,0-1255-1505-3x1-759-1011-3x4-0-28-0
+p12,1379184431733,pan,scatterplot-0-1,-1,0
+p12,1379184431752,pan,scatterplot-0-1,-2,0
+p12,1379184431768,pan,scatterplot-0-1,-4,-1
+p12,1379184431785,pan,scatterplot-0-1,-10,-3
+p12,1379184431802,pan,scatterplot-0-1,-20,-8
+p12,1379184431819,pan,scatterplot-0-1,-31,-13
+p12,1379184431836,pan,scatterplot-0-1,-38,-15
+p12,1379184431852,pan,scatterplot-0-1,-43,-17
+p12,1379184431868,pan,scatterplot-0-1,-47,-19
+p12,1379184431885,pan,scatterplot-0-1,-53,-21
+p12,1379184431902,pan,scatterplot-0-1,-60,-25
+p12,1379184431919,pan,scatterplot-0-1,-70,-29
+p12,1379184431935,pan,scatterplot-0-1,-76,-32
+p12,1379184431952,pan,scatterplot-0-1,-83,-35
+p12,1379184431968,pan,scatterplot-0-1,-88,-38
+p12,1379184431985,pan,scatterplot-0-1,-91,-40
+p12,1379184432002,pan,scatterplot-0-1,-92,-41
+p12,1379184432018,pan,scatterplot-0-1,-93,-41
+p12,1379184432035,pan,scatterplot-0-1,-93,-42
+p12,1379184432067,adjustView,scatterplot-0-1,undefined
+p12,1379184434216,range select,scatterplot-0-1,0-387-388-2_1-494-494-2_
+p12,1379184434253,range select,scatterplot-0-1,0-387-388-2_1-493-494-2_
+p12,1379184434269,range select,scatterplot-0-1,0-387-389-2_1-493-494-2_
+p12,1379184434286,range select,scatterplot-0-1,0-387-391-2_1-489-494-2_
+p12,1379184434302,range select,scatterplot-0-1,0-387-393-2_1-483-494-2_
+p12,1379184434319,range select,scatterplot-0-1,0-387-400-2_1-472-494-2_
+p12,1379184434336,range select,scatterplot-0-1,0-387-411-2_1-453-494-2_
+p12,1379184434353,range select,scatterplot-0-1,0-387-426-2_1-434-494-2_
+p12,1379184434369,range select,scatterplot-0-1,0-387-440-2_1-416-494-2_
+p12,1379184434386,range select,scatterplot-0-1,0-387-451-2_1-403-494-2_
+p12,1379184434402,range select,scatterplot-0-1,0-387-460-2_1-393-494-2_
+p12,1379184434419,range select,scatterplot-0-1,0-387-465-2_1-389-494-2_
+p12,1379184434436,range select,scatterplot-0-1,0-387-467-2_1-388-494-2_
+p12,1379184434452,range select,scatterplot-0-1,0-387-468-2_1-388-494-2_
+p12,1379184434487,range select,scatterplot-0-1,0-387-468-2_1-387-494-2_
+p12,1379184434553,range select,scatterplot-0-1,0-387-469-2_1-387-494-2_
+p12,1379184434569,range select,scatterplot-0-1,0-387-470-2_1-387-494-2_
+p12,1379184434586,range select,scatterplot-0-1,0-387-470-2_1-386-494-2_
+p12,1379184440411,clear,undefined,undefined
+p12,1379184444179,zoom,scatterplot-0-1,3
+p12,1379184444614,clear,undefined,undefined
+p12,1379184444996,tile cached,undefined,0-502-752-3x1-1012-1264-3x2-0-21-0
+p12,1379184445001,tile cached,undefined,0-502-752-3x1-759-1011-3x2-0-21-0
+p12,1379184445002,tile cached,undefined,0-753-1003-3x1-759-1011-3x2-0-21-0
+p12,1379184445002,tile cached,undefined,0-502-752-3x1-759-1011-3x3-0-11-0
+p12,1379184445008,tile cached,undefined,0-753-1003-3x1-1012-1264-3x2-0-21-0
+p12,1379184445011,tile cached,undefined,0-502-752-3x1-1012-1264-3x3-0-11-0
+p12,1379184445025,tile cached,undefined,0-753-1003-3x1-759-1011-3x3-0-11-0
+p12,1379184445030,tile cached,undefined,0-502-752-3x1-759-1011-3x4-0-28-0
+p12,1379184445030,tile cached,undefined,0-502-752-3x1-1012-1264-3x4-0-28-0
+p12,1379184445032,tile cached,undefined,0-753-1003-3x1-1012-1264-3x3-0-11-0
+p12,1379184445044,tile cached,undefined,0-753-1003-3x1-1012-1264-3x4-0-28-0
+p12,1379184445054,tile cached,undefined,0-1255-1505-4x1-1771-2023-4x4-0-28-0
+p12,1379184445054,tile cached,undefined,0-753-1003-3x1-759-1011-3x4-0-28-0
+p12,1379184445060,tile cached,undefined,0-1255-1505-4x1-2024-2276-4x4-0-28-0
+p12,1379184445061,tile cached,undefined,0-1255-1505-4x1-1518-1770-4x4-0-28-0
+p12,1379184445075,tile cached,undefined,0-1506-1756-4x1-1771-2023-4x4-0-28-0
+p12,1379184445080,tile cached,undefined,0-1757-2007-4x1-1518-1770-4x4-0-28-0
+p12,1379184445081,tile cached,undefined,0-1506-1756-4x1-1518-1770-4x4-0-28-0
+p12,1379184445082,tile cached,undefined,0-1757-2007-4x1-1771-2023-4x4-0-28-0
+p12,1379184445096,tile cached,undefined,0-1506-1756-4x1-2024-2276-4x4-0-28-0
+p12,1379184445096,tile cached,undefined,0-1757-2007-4x1-2024-2276-4x4-0-28-0
+p12,1379184445518,pan,scatterplot-0-1,-1,0
+p12,1379184445554,pan,scatterplot-0-1,-2,0
+p12,1379184445570,pan,scatterplot-0-1,-5,-3
+p12,1379184445587,pan,scatterplot-0-1,-11,-9
+p12,1379184445607,pan,scatterplot-0-1,-17,-15
+p12,1379184445620,pan,scatterplot-0-1,-26,-23
+p12,1379184445637,pan,scatterplot-0-1,-42,-40
+p12,1379184445654,pan,scatterplot-0-1,-55,-55
+p12,1379184445672,pan,scatterplot-0-1,-62,-64
+p12,1379184445687,pan,scatterplot-0-1,-70,-71
+p12,1379184445704,pan,scatterplot-0-1,-75,-78
+p12,1379184445721,pan,scatterplot-0-1,-80,-83
+p12,1379184445738,pan,scatterplot-0-1,-83,-88
+p12,1379184445754,pan,scatterplot-0-1,-86,-90
+p12,1379184445770,pan,scatterplot-0-1,-87,-91
+p12,1379184445788,pan,scatterplot-0-1,-87,-92
+p12,1379184445804,pan,scatterplot-0-1,-88,-92
+p12,1379184445821,pan,scatterplot-0-1,-88,-93
+p12,1379184445822,adjustView,scatterplot-0-1,undefined
+p12,1379184445924,clear,undefined,undefined
+p12,1379184446605,tile cached,undefined,0-753-1003-3x1-506-758-3x2-0-21-0
+p12,1379184446605,tile cached,undefined,0-502-752-3x1-506-758-3x2-0-21-0
+p12,1379184446606,tile cached,undefined,0-502-752-3x1-506-758-3x3-0-11-0
+p12,1379184446606,tile cached,undefined,0-753-1003-3x1-506-758-3x3-0-11-0
+p12,1379184446606,tile cached,undefined,0-502-752-3x1-506-758-3x4-0-28-0
+p12,1379184446606,tile cached,undefined,0-1004-1254-4x1-1265-1517-4x4-0-28-0
+p12,1379184446606,tile cached,undefined,0-753-1003-3x1-506-758-3x4-0-28-0
+p12,1379184446606,tile cached,undefined,0-1004-1254-4x1-1518-1770-4x4-0-28-0
+p12,1379184446606,tile cached,undefined,0-1004-1254-4x1-1771-2023-4x4-0-28-0
+p12,1379184446607,tile cached,undefined,0-1506-1756-4x1-1265-1517-4x4-0-28-0
+p12,1379184446607,tile cached,undefined,0-1255-1505-4x1-1265-1517-4x4-0-28-0
+p12,1379184446607,tile cached,undefined,0-1757-2007-4x1-1265-1517-4x4-0-28-0
+p12,1379184447602,pan,scatterplot-0-1,0,1
+p12,1379184447621,pan,scatterplot-0-1,-1,1
+p12,1379184447637,pan,scatterplot-0-1,-4,0
+p12,1379184447654,pan,scatterplot-0-1,-6,-1
+p12,1379184447671,pan,scatterplot-0-1,-13,-5
+p12,1379184447688,pan,scatterplot-0-1,-18,-10
+p12,1379184447704,pan,scatterplot-0-1,-25,-17
+p12,1379184447721,pan,scatterplot-0-1,-28,-21
+p12,1379184447737,pan,scatterplot-0-1,-30,-24
+p12,1379184447755,pan,scatterplot-0-1,-33,-28
+p12,1379184447772,pan,scatterplot-0-1,-35,-30
+p12,1379184447788,pan,scatterplot-0-1,-36,-32
+p12,1379184447805,pan,scatterplot-0-1,-38,-34
+p12,1379184447821,pan,scatterplot-0-1,-39,-35
+p12,1379184447851,adjustView,scatterplot-0-1,undefined
+p12,1379184447881,clear,undefined,undefined
+p12,1379184449163,zoom,scatterplot-0-1,4
+p12,1379184449944,clear,undefined,undefined
+p12,1379184449984,tile cached,undefined,0-1004-1254-4x1-1265-1517-4x2-0-21-0
+p12,1379184449984,tile cached,undefined,0-1004-1254-4x1-1518-1770-4x2-0-21-0
+p12,1379184449991,tile cached,undefined,0-1004-1254-4x1-1265-1517-4x3-0-11-0
+p12,1379184449991,tile cached,undefined,0-1004-1254-4x1-1518-1770-4x3-0-11-0
+p12,1379184449998,tile cached,undefined,0-1255-1505-4x1-1518-1770-4x2-0-21-0
+p12,1379184450006,tile cached,undefined,0-1255-1505-4x1-1265-1517-4x2-0-21-0
+p12,1379184450009,tile cached,undefined,0-1004-1254-4x1-1265-1517-4x4-0-28-0
+p12,1379184450013,tile cached,undefined,0-1255-1505-4x1-1518-1770-4x3-0-11-0
+p12,1379184450023,tile cached,undefined,0-1255-1505-4x1-1265-1517-4x3-0-11-0
+p12,1379184450023,tile cached,undefined,0-1004-1254-4x1-1518-1770-4x4-0-28-0
+p12,1379184450030,tile cached,undefined,0-1255-1505-4x1-1518-1770-4x4-0-28-0
+p12,1379184450035,tile cached,undefined,0-1255-1505-4x1-1265-1517-4x4-0-28-0
+p12,1379184450868,pan,scatterplot-0-1,1,0
+p12,1379184450888,pan,scatterplot-0-1,1,-1
+p12,1379184450904,pan,scatterplot-0-1,2,-2
+p12,1379184450921,pan,scatterplot-0-1,6,-7
+p12,1379184450938,pan,scatterplot-0-1,11,-13
+p12,1379184450955,pan,scatterplot-0-1,21,-22
+p12,1379184450972,pan,scatterplot-0-1,35,-33
+p12,1379184450988,pan,scatterplot-0-1,49,-43
+p12,1379184451005,pan,scatterplot-0-1,63,-52
+p12,1379184451021,pan,scatterplot-0-1,70,-58
+p12,1379184451038,pan,scatterplot-0-1,76,-62
+p12,1379184451055,pan,scatterplot-0-1,80,-64
+p12,1379184451071,pan,scatterplot-0-1,82,-65
+p12,1379184451088,pan,scatterplot-0-1,83,-65
+p12,1379184451107,adjustView,scatterplot-0-1,undefined
+p12,1379184451114,clear,undefined,undefined
+p12,1379184451834,tile cached,undefined,0-1506-1756-4x1-1265-1517-4x3-0-11-0
+p12,1379184451834,tile cached,undefined,0-1506-1756-4x1-1265-1517-4x2-0-21-0
+p12,1379184451834,tile cached,undefined,0-1506-1756-4x1-1265-1517-4x4-0-28-0
+p12,1379184451834,tile cached,undefined,0-1506-1756-4x1-1518-1770-4x2-0-21-0
+p12,1379184451835,tile cached,undefined,0-1506-1756-4x1-1518-1770-4x4-0-28-0
+p12,1379184451835,tile cached,undefined,0-1506-1756-4x1-1518-1770-4x3-0-11-0
+p12,1379184453952,range select,scatterplot-0-1,0-1443-1443-4_1-1513-1513-4_
+p12,1379184453972,range select,scatterplot-0-1,0-1443-1443-4_1-1511-1513-4_
+p12,1379184453988,range select,scatterplot-0-1,0-1443-1445-4_1-1509-1513-4_
+p12,1379184454005,range select,scatterplot-0-1,0-1443-1447-4_1-1507-1513-4_
+p12,1379184454022,range select,scatterplot-0-1,0-1443-1449-4_1-1505-1513-4_
+p12,1379184454044,range select,scatterplot-0-1,0-1443-1453-4_1-1500-1513-4_
+p12,1379184454055,range select,scatterplot-0-1,0-1443-1459-4_1-1495-1513-4_
+p12,1379184454074,range select,scatterplot-0-1,0-1443-1464-4_1-1492-1513-4_
+p12,1379184454089,range select,scatterplot-0-1,0-1443-1467-4_1-1490-1513-4_
+p12,1379184454106,range select,scatterplot-0-1,0-1443-1469-4_1-1488-1513-4_
+p12,1379184454122,range select,scatterplot-0-1,0-1443-1470-4_1-1487-1513-4_
+p12,1379184454139,range select,scatterplot-0-1,0-1443-1471-4_1-1486-1513-4_
+p12,1379184454156,range select,scatterplot-0-1,0-1443-1472-4_1-1486-1513-4_
+p12,1379184454172,range select,scatterplot-0-1,0-1443-1474-4_1-1486-1513-4_
+p12,1379184454189,range select,scatterplot-0-1,0-1443-1475-4_1-1485-1513-4_
+p12,1379184454206,range select,scatterplot-0-1,0-1443-1476-4_1-1485-1513-4_
+p12,1379184454223,range select,scatterplot-0-1,0-1443-1477-4_1-1484-1513-4_
+p12,1379184454256,range select,scatterplot-0-1,0-1443-1479-4_1-1483-1513-4_
+p12,1379184454272,range select,scatterplot-0-1,0-1443-1481-4_1-1482-1513-4_
+p12,1379184454289,range select,scatterplot-0-1,0-1443-1483-4_1-1480-1513-4_
+p12,1379184454305,range select,scatterplot-0-1,0-1443-1484-4_1-1479-1513-4_
+p12,1379184454322,range select,scatterplot-0-1,0-1443-1486-4_1-1478-1513-4_
+p12,1379184454339,range select,scatterplot-0-1,0-1443-1487-4_1-1477-1513-4_
+p12,1379184454373,range select,scatterplot-0-1,0-1443-1488-4_1-1476-1513-4_
+p12,1379184454389,range select,scatterplot-0-1,0-1443-1489-4_1-1475-1513-4_
+p12,1379184454406,range select,scatterplot-0-1,0-1443-1491-4_1-1473-1513-4_
+p12,1379184454422,range select,scatterplot-0-1,0-1443-1492-4_1-1472-1513-4_
+p12,1379184454439,range select,scatterplot-0-1,0-1443-1493-4_1-1472-1513-4_
+p12,1379184458119,pan,scatterplot-0-1,0,0
+p12,1379184458119,adjustView,scatterplot-0-1,undefined
+p12,1379184460721,range select,scatterplot-0-1,0-1419-1419-4_1-1479-1479-4_
+p12,1379184460740,range select,scatterplot-0-1,0-1419-1419-4_1-1478-1479-4_
+p12,1379184460773,range select,scatterplot-0-1,0-1419-1419-4_1-1477-1479-4_
+p12,1379184460790,range select,scatterplot-0-1,0-1419-1420-4_1-1476-1479-4_
+p12,1379184460807,range select,scatterplot-0-1,0-1419-1422-4_1-1473-1479-4_
+p12,1379184460823,range select,scatterplot-0-1,0-1419-1425-4_1-1470-1479-4_
+p12,1379184460840,range select,scatterplot-0-1,0-1419-1427-4_1-1468-1479-4_
+p12,1379184460856,range select,scatterplot-0-1,0-1419-1430-4_1-1465-1479-4_
+p12,1379184460874,range select,scatterplot-0-1,0-1419-1434-4_1-1462-1479-4_
+p12,1379184460890,range select,scatterplot-0-1,0-1419-1440-4_1-1459-1479-4_
+p12,1379184460907,range select,scatterplot-0-1,0-1419-1446-4_1-1456-1479-4_
+p12,1379184460924,range select,scatterplot-0-1,0-1419-1450-4_1-1453-1479-4_
+p12,1379184460941,range select,scatterplot-0-1,0-1419-1453-4_1-1452-1479-4_
+p12,1379184460957,range select,scatterplot-0-1,0-1419-1454-4_1-1452-1479-4_
+p12,1379184461023,range select,scatterplot-0-1,0-1419-1455-4_1-1452-1479-4_
+p12,1379184466894,pan,scatterplot-0-1,0,0
+p12,1379184466894,adjustView,scatterplot-0-1,undefined
+p12,1379184468472,range select,scatterplot-0-1,0-1414-1414-4_1-1471-1472-4_
+p12,1379184468507,range select,scatterplot-0-1,0-1414-1414-4_1-1470-1472-4_
+p12,1379184468524,range select,scatterplot-0-1,0-1414-1415-4_1-1470-1472-4_
+p12,1379184468541,range select,scatterplot-0-1,0-1414-1415-4_1-1469-1472-4_
+p12,1379184468557,range select,scatterplot-0-1,0-1414-1417-4_1-1467-1472-4_
+p12,1379184468575,range select,scatterplot-0-1,0-1414-1418-4_1-1466-1472-4_
+p12,1379184468591,range select,scatterplot-0-1,0-1414-1422-4_1-1463-1472-4_
+p12,1379184468608,range select,scatterplot-0-1,0-1414-1426-4_1-1460-1472-4_
+p12,1379184468625,range select,scatterplot-0-1,0-1414-1431-4_1-1455-1472-4_
+p12,1379184468641,range select,scatterplot-0-1,0-1414-1436-4_1-1452-1472-4_
+p12,1379184468658,range select,scatterplot-0-1,0-1414-1441-4_1-1450-1472-4_
+p12,1379184468675,range select,scatterplot-0-1,0-1414-1446-4_1-1447-1472-4_
+p12,1379184468691,range select,scatterplot-0-1,0-1414-1451-4_1-1445-1472-4_
+p12,1379184468708,range select,scatterplot-0-1,0-1414-1454-4_1-1444-1472-4_
+p12,1379184468724,range select,scatterplot-0-1,0-1414-1455-4_1-1444-1472-4_
+p12,1379184468960,range select,scatterplot-0-1,0-1414-1455-4_1-1443-1472-4_
+p12,1379184468974,range select,scatterplot-0-1,0-1414-1456-4_1-1443-1472-4_
+p12,1379184468991,range select,scatterplot-0-1,0-1414-1456-4_1-1442-1472-4_
+p12,1379184469008,range select,scatterplot-0-1,0-1414-1458-4_1-1439-1472-4_
+p12,1379184469024,range select,scatterplot-0-1,0-1414-1459-4_1-1437-1472-4_
+p12,1379184469041,range select,scatterplot-0-1,0-1414-1460-4_1-1437-1472-4_
+p12,1379184473830,pan,scatterplot-0-1,0,0
+p12,1379184473830,adjustView,scatterplot-0-1,undefined
+p12,1379184475923,range select,scatterplot-0-1,0-1411-1412-4_1-1485-1485-4_
+p12,1379184475942,range select,scatterplot-0-1,0-1411-1413-4_1-1484-1485-4_
+p12,1379184475959,range select,scatterplot-0-1,0-1411-1414-4_1-1483-1485-4_
+p12,1379184475976,range select,scatterplot-0-1,0-1411-1415-4_1-1482-1485-4_
+p12,1379184475993,range select,scatterplot-0-1,0-1411-1416-4_1-1481-1485-4_
+p12,1379184476009,range select,scatterplot-0-1,0-1411-1418-4_1-1479-1485-4_
+p12,1379184476026,range select,scatterplot-0-1,0-1411-1419-4_1-1478-1485-4_
+p12,1379184476043,range select,scatterplot-0-1,0-1411-1421-4_1-1476-1485-4_
+p12,1379184476059,range select,scatterplot-0-1,0-1411-1423-4_1-1474-1485-4_
+p12,1379184476076,range select,scatterplot-0-1,0-1411-1425-4_1-1471-1485-4_
+p12,1379184476092,range select,scatterplot-0-1,0-1411-1427-4_1-1470-1485-4_
+p12,1379184476109,range select,scatterplot-0-1,0-1411-1428-4_1-1468-1485-4_
+p12,1379184476126,range select,scatterplot-0-1,0-1411-1429-4_1-1466-1485-4_
+p12,1379184476142,range select,scatterplot-0-1,0-1411-1431-4_1-1464-1485-4_
+p12,1379184476159,range select,scatterplot-0-1,0-1411-1432-4_1-1462-1485-4_
+p12,1379184476176,range select,scatterplot-0-1,0-1411-1433-4_1-1460-1485-4_
+p12,1379184476192,range select,scatterplot-0-1,0-1411-1434-4_1-1459-1485-4_
+p12,1379184476209,range select,scatterplot-0-1,0-1411-1436-4_1-1458-1485-4_
+p12,1379184476226,range select,scatterplot-0-1,0-1411-1437-4_1-1456-1485-4_
+p12,1379184476243,range select,scatterplot-0-1,0-1411-1438-4_1-1455-1485-4_
+p12,1379184476275,range select,scatterplot-0-1,0-1411-1438-4_1-1454-1485-4_
+p12,1379184476292,range select,scatterplot-0-1,0-1411-1439-4_1-1454-1485-4_
+p12,1379184476309,range select,scatterplot-0-1,0-1411-1440-4_1-1453-1485-4_
+p12,1379184476325,range select,scatterplot-0-1,0-1411-1442-4_1-1452-1485-4_
+p12,1379184476342,range select,scatterplot-0-1,0-1411-1444-4_1-1449-1485-4_
+p12,1379184476359,range select,scatterplot-0-1,0-1411-1446-4_1-1448-1485-4_
+p12,1379184476376,range select,scatterplot-0-1,0-1411-1447-4_1-1446-1485-4_
+p12,1379184476392,range select,scatterplot-0-1,0-1411-1448-4_1-1446-1485-4_
+p12,1379184476409,range select,scatterplot-0-1,0-1411-1448-4_1-1445-1485-4_
+p12,1379184476426,range select,scatterplot-0-1,0-1411-1449-4_1-1445-1485-4_
+p12,1379184476443,range select,scatterplot-0-1,0-1411-1449-4_1-1444-1485-4_
+p12,1379184476458,range select,scatterplot-0-1,0-1411-1450-4_1-1444-1485-4_
+p12,1379184476676,range select,scatterplot-0-1,0-1411-1451-4_1-1443-1485-4_
+p12,1379184476812,range select,scatterplot-0-1,0-1411-1451-4_1-1442-1485-4_
+p12,1379184476876,range select,scatterplot-0-1,0-1411-1452-4_1-1442-1485-4_
+p12,1379184476942,range select,scatterplot-0-1,0-1411-1453-4_1-1442-1485-4_
+p12,1379184476993,range select,scatterplot-0-1,0-1411-1454-4_1-1442-1485-4_
+p12,1379184477543,range select,scatterplot-0-1,0-1411-1454-4_1-1441-1485-4_
+p12,1379184477625,range select,scatterplot-0-1,0-1411-1455-4_1-1441-1485-4_
+p12,1379184477659,range select,scatterplot-0-1,0-1411-1455-4_1-1440-1485-4_
+p12,1379184477709,range select,scatterplot-0-1,0-1411-1456-4_1-1440-1485-4_
+p12,1379184477776,range select,scatterplot-0-1,0-1411-1457-4_1-1440-1485-4_
+p12,1379184478309,range select,scatterplot-0-1,0-1411-1457-4_1-1439-1485-4_
+p12,1379184484595,clear,undefined,undefined
+p12,1379184487740,range select,scatterplot-0-1,0-1412-1412-4_1-1484-1485-4_
+p12,1379184487761,range select,scatterplot-0-1,0-1412-1413-4_1-1484-1485-4_
+p12,1379184487794,range select,scatterplot-0-1,0-1412-1414-4_1-1483-1485-4_
+p12,1379184487813,range select,scatterplot-0-1,0-1412-1415-4_1-1482-1485-4_
+p12,1379184487827,range select,scatterplot-0-1,0-1412-1416-4_1-1481-1485-4_
+p12,1379184487844,range select,scatterplot-0-1,0-1412-1418-4_1-1480-1485-4_
+p12,1379184487861,range select,scatterplot-0-1,0-1412-1420-4_1-1478-1485-4_
+p12,1379184487877,range select,scatterplot-0-1,0-1412-1423-4_1-1475-1485-4_
+p12,1379184487894,range select,scatterplot-0-1,0-1412-1425-4_1-1474-1485-4_
+p12,1379184487911,range select,scatterplot-0-1,0-1412-1427-4_1-1472-1485-4_
+p12,1379184487928,range select,scatterplot-0-1,0-1412-1429-4_1-1469-1485-4_
+p12,1379184487944,range select,scatterplot-0-1,0-1412-1431-4_1-1468-1485-4_
+p12,1379184487961,range select,scatterplot-0-1,0-1412-1433-4_1-1465-1485-4_
+p12,1379184487977,range select,scatterplot-0-1,0-1412-1435-4_1-1463-1485-4_
+p12,1379184487994,range select,scatterplot-0-1,0-1412-1437-4_1-1460-1485-4_
+p12,1379184488011,range select,scatterplot-0-1,0-1412-1439-4_1-1457-1485-4_
+p12,1379184488028,range select,scatterplot-0-1,0-1412-1440-4_1-1456-1485-4_
+p12,1379184488044,range select,scatterplot-0-1,0-1412-1441-4_1-1454-1485-4_
+p12,1379184488061,range select,scatterplot-0-1,0-1412-1442-4_1-1453-1485-4_
+p12,1379184488077,range select,scatterplot-0-1,0-1412-1444-4_1-1452-1485-4_
+p12,1379184488095,range select,scatterplot-0-1,0-1412-1445-4_1-1451-1485-4_
+p12,1379184488111,range select,scatterplot-0-1,0-1412-1446-4_1-1449-1485-4_
+p12,1379184488127,range select,scatterplot-0-1,0-1412-1447-4_1-1448-1485-4_
+p12,1379184488161,range select,scatterplot-0-1,0-1412-1447-4_1-1447-1485-4_
+p12,1379184488177,range select,scatterplot-0-1,0-1412-1448-4_1-1446-1485-4_
+p12,1379184488194,range select,scatterplot-0-1,0-1412-1449-4_1-1446-1485-4_
+p12,1379184488213,range select,scatterplot-0-1,0-1412-1450-4_1-1445-1485-4_
+p12,1379184488227,range select,scatterplot-0-1,0-1412-1451-4_1-1444-1485-4_
+p12,1379184488244,range select,scatterplot-0-1,0-1412-1451-4_1-1443-1485-4_
+p12,1379184488311,range select,scatterplot-0-1,0-1412-1452-4_1-1443-1485-4_
+p12,1379184488444,range select,scatterplot-0-1,0-1412-1453-4_1-1443-1485-4_
+p12,1379184488461,range select,scatterplot-0-1,0-1412-1454-4_1-1443-1485-4_
+p12,1379184488478,range select,scatterplot-0-1,0-1412-1454-4_1-1442-1485-4_
+p12,1379184488511,range select,scatterplot-0-1,0-1412-1455-4_1-1442-1485-4_
+p12,1379184488577,range select,scatterplot-0-1,0-1412-1456-4_1-1441-1485-4_
+p12,1379184488629,range select,scatterplot-0-1,0-1412-1456-4_1-1440-1485-4_
+p12,1379184493767,pan,scatterplot-0-1,0,0
+p12,1379184493767,adjustView,scatterplot-0-1,undefined
+p12,1379184495559,range select,scatterplot-0-1,0-1413-1413-4_1-1450-1451-4_
+p12,1379184495595,range select,scatterplot-0-1,0-1413-1414-4_1-1447-1451-4_
+p12,1379184495612,range select,scatterplot-0-1,0-1413-1414-4_1-1446-1451-4_
+p12,1379184495628,range select,scatterplot-0-1,0-1413-1415-4_1-1445-1451-4_
+p12,1379184495646,range select,scatterplot-0-1,0-1413-1415-4_1-1444-1451-4_
+p12,1379184495679,range select,scatterplot-0-1,0-1413-1416-4_1-1444-1451-4_
+p12,1379184495696,range select,scatterplot-0-1,0-1413-1416-4_1-1443-1451-4_
+p12,1379184495713,range select,scatterplot-0-1,0-1413-1417-4_1-1443-1451-4_
+p12,1379184495746,range select,scatterplot-0-1,0-1413-1418-4_1-1443-1451-4_
+p12,1379184495762,range select,scatterplot-0-1,0-1413-1418-4_1-1442-1451-4_
+p12,1379184495796,range select,scatterplot-0-1,0-1413-1419-4_1-1442-1451-4_
+p12,1379184495812,range select,scatterplot-0-1,0-1413-1420-4_1-1441-1451-4_
+p12,1379184495845,range select,scatterplot-0-1,0-1413-1421-4_1-1441-1451-4_
+p12,1379184495862,range select,scatterplot-0-1,0-1413-1422-4_1-1441-1451-4_
+p12,1379184495878,range select,scatterplot-0-1,0-1413-1423-4_1-1440-1451-4_
+p12,1379184496013,range select,scatterplot-0-1,0-1413-1424-4_1-1440-1451-4_
+p12,1379184507422,pan,scatterplot-0-1,0,0
+p12,1379184507422,adjustView,scatterplot-0-1,undefined
+p12,1379184509612,range select,scatterplot-0-1,0-1412-1412-4_1-1448-1448-4_
+p12,1379184509632,range select,scatterplot-0-1,0-1412-1413-4_1-1448-1448-4_
+p12,1379184509665,range select,scatterplot-0-1,0-1412-1414-4_1-1448-1448-4_
+p12,1379184509681,range select,scatterplot-0-1,0-1412-1414-4_1-1447-1448-4_
+p12,1379184509698,range select,scatterplot-0-1,0-1412-1415-4_1-1447-1448-4_
+p12,1379184509731,range select,scatterplot-0-1,0-1412-1416-4_1-1447-1448-4_
+p12,1379184509748,range select,scatterplot-0-1,0-1412-1417-4_1-1446-1448-4_
+p12,1379184509781,range select,scatterplot-0-1,0-1412-1418-4_1-1446-1448-4_
+p12,1379184509817,range select,scatterplot-0-1,0-1412-1419-4_1-1445-1448-4_
+p12,1379184509865,range select,scatterplot-0-1,0-1412-1419-4_1-1444-1448-4_
+p12,1379184509898,range select,scatterplot-0-1,0-1412-1420-4_1-1443-1448-4_
+p12,1379184509931,range select,scatterplot-0-1,0-1412-1421-4_1-1442-1448-4_
+p12,1379184509982,range select,scatterplot-0-1,0-1412-1421-4_1-1441-1448-4_
+p12,1379184509997,range select,scatterplot-0-1,0-1412-1422-4_1-1441-1448-4_
+p12,1379184510048,range select,scatterplot-0-1,0-1412-1423-4_1-1441-1448-4_
+p12,1379184510064,range select,scatterplot-0-1,0-1412-1423-4_1-1440-1448-4_
+p12,1379184510115,range select,scatterplot-0-1,0-1412-1424-4_1-1440-1448-4_
+p12,1379184510147,range select,scatterplot-0-1,0-1412-1425-4_1-1440-1448-4_
+p12,1379184510198,range select,scatterplot-0-1,0-1412-1426-4_1-1440-1448-4_
+p12,1379184510248,range select,scatterplot-0-1,0-1412-1427-4_1-1440-1448-4_
+p12,1379184514094,pan,scatterplot-0-1,0,0
+p12,1379184514094,adjustView,scatterplot-0-1,undefined
+p12,1379184515662,range select,scatterplot-0-1,0-1411-1412-4_1-1447-1447-4_
+p12,1379184515715,range select,scatterplot-0-1,0-1411-1413-4_1-1446-1447-4_
+p12,1379184515749,range select,scatterplot-0-1,0-1411-1413-4_1-1445-1447-4_
+p12,1379184515767,range select,scatterplot-0-1,0-1411-1414-4_1-1445-1447-4_
+p12,1379184515782,range select,scatterplot-0-1,0-1411-1414-4_1-1444-1447-4_
+p12,1379184515798,range select,scatterplot-0-1,0-1411-1415-4_1-1444-1447-4_
+p12,1379184515815,range select,scatterplot-0-1,0-1411-1416-4_1-1443-1447-4_
+p12,1379184515849,range select,scatterplot-0-1,0-1411-1417-4_1-1442-1447-4_
+p12,1379184515883,range select,scatterplot-0-1,0-1411-1417-4_1-1441-1447-4_
+p12,1379184515898,range select,scatterplot-0-1,0-1411-1418-4_1-1441-1447-4_
+p12,1379184515915,range select,scatterplot-0-1,0-1411-1418-4_1-1440-1447-4_
+p12,1379184515932,range select,scatterplot-0-1,0-1411-1418-4_1-1439-1447-4_
+p12,1379184515965,range select,scatterplot-0-1,0-1411-1419-4_1-1439-1447-4_
+p12,1379184515982,range select,scatterplot-0-1,0-1411-1419-4_1-1438-1447-4_
+p12,1379184516131,range select,scatterplot-0-1,0-1411-1420-4_1-1438-1447-4_
+p12,1379184516198,range select,scatterplot-0-1,0-1411-1421-4_1-1438-1447-4_
+p12,1379184516215,range select,scatterplot-0-1,0-1411-1421-4_1-1437-1447-4_
+p12,1379184516232,range select,scatterplot-0-1,0-1411-1422-4_1-1437-1447-4_
+p12,1379184516265,range select,scatterplot-0-1,0-1411-1423-4_1-1437-1447-4_
+p12,1379184516366,range select,scatterplot-0-1,0-1411-1424-4_1-1437-1447-4_
+p12,1379184523963,pan,scatterplot-0-1,0,0
+p12,1379184523979,adjustView,scatterplot-0-1,undefined
+p12,1379184526230,range select,scatterplot-0-1,0-1400-1400-4_1-1449-1450-4_
+p12,1379184526284,range select,scatterplot-0-1,0-1400-1401-4_1-1449-1449-4_
+p12,1379184526300,range select,scatterplot-0-1,0-1400-1404-4_1-1447-1449-4_
+p12,1379184526316,range select,scatterplot-0-1,0-1400-1408-4_1-1445-1449-4_
+p12,1379184526334,range select,scatterplot-0-1,0-1400-1414-4_1-1442-1449-4_
+p12,1379184526350,range select,scatterplot-0-1,0-1400-1420-4_1-1439-1449-4_
+p12,1379184526366,range select,scatterplot-0-1,0-1400-1426-4_1-1436-1449-4_
+p12,1379184526383,range select,scatterplot-0-1,0-1400-1428-4_1-1435-1449-4_
+p12,1379184526400,range select,scatterplot-0-1,0-1400-1429-4_1-1434-1449-4_
+p12,1379184526417,range select,scatterplot-0-1,0-1400-1431-4_1-1433-1449-4_
+p12,1379184526433,range select,scatterplot-0-1,0-1400-1433-4_1-1431-1449-4_
+p12,1379184526450,range select,scatterplot-0-1,0-1400-1434-4_1-1430-1449-4_
+p12,1379184526467,range select,scatterplot-0-1,0-1400-1435-4_1-1430-1449-4_
+p12,1379184526518,range select,scatterplot-0-1,0-1400-1435-4_1-1429-1449-4_
+p12,1379184526534,range select,scatterplot-0-1,0-1400-1435-4_1-1428-1449-4_
+p12,1379184526550,range select,scatterplot-0-1,0-1400-1436-4_1-1427-1449-4_
+p12,1379184526617,range select,scatterplot-0-1,0-1400-1436-4_1-1426-1449-4_
+p12,1379184526650,range select,scatterplot-0-1,0-1400-1436-4_1-1425-1449-4_
+p12,1379184526684,range select,scatterplot-0-1,0-1400-1436-4_1-1424-1449-4_
+p12,1379184526820,range select,scatterplot-0-1,0-1400-1436-4_1-1425-1449-4_
+p12,1379184526833,range select,scatterplot-0-1,0-1400-1435-4_1-1425-1449-4_
+p12,1379184526850,range select,scatterplot-0-1,0-1400-1433-4_1-1425-1449-4_
+p12,1379184526868,range select,scatterplot-0-1,0-1400-1432-4_1-1426-1449-4_
+p12,1379184526883,range select,scatterplot-0-1,0-1400-1431-4_1-1426-1449-4_
+p12,1379184526900,range select,scatterplot-0-1,0-1400-1428-4_1-1427-1449-4_
+p12,1379184526916,range select,scatterplot-0-1,0-1400-1426-4_1-1428-1449-4_
+p12,1379184526933,range select,scatterplot-0-1,0-1400-1425-4_1-1428-1449-4_
+p12,1379184526951,range select,scatterplot-0-1,0-1400-1424-4_1-1428-1449-4_
+p12,1379184535727,pan,scatterplot-0-1,0,0
+p12,1379184535728,adjustView,scatterplot-0-1,undefined
+p12,1379184538399,range select,scatterplot-0-1,0-1413-1413-4_1-1458-1458-4_
+p12,1379184538455,range select,scatterplot-0-1,0-1413-1413-4_1-1457-1458-4_
+p12,1379184538468,range select,scatterplot-0-1,0-1413-1414-4_1-1457-1458-4_
+p12,1379184538485,range select,scatterplot-0-1,0-1413-1415-4_1-1455-1458-4_
+p12,1379184538502,range select,scatterplot-0-1,0-1413-1416-4_1-1454-1458-4_
+p12,1379184538518,range select,scatterplot-0-1,0-1413-1417-4_1-1453-1458-4_
+p12,1379184538535,range select,scatterplot-0-1,0-1413-1418-4_1-1451-1458-4_
+p12,1379184538552,range select,scatterplot-0-1,0-1413-1420-4_1-1450-1458-4_
+p12,1379184538568,range select,scatterplot-0-1,0-1413-1420-4_1-1449-1458-4_
+p12,1379184538585,range select,scatterplot-0-1,0-1413-1421-4_1-1448-1458-4_
+p12,1379184538619,range select,scatterplot-0-1,0-1413-1421-4_1-1447-1458-4_
+p12,1379184538635,range select,scatterplot-0-1,0-1413-1422-4_1-1447-1458-4_
+p12,1379184538652,range select,scatterplot-0-1,0-1413-1422-4_1-1446-1458-4_
+p12,1379184538668,range select,scatterplot-0-1,0-1413-1423-4_1-1446-1458-4_
+p12,1379184538702,range select,scatterplot-0-1,0-1413-1423-4_1-1445-1458-4_
+p12,1379184538719,range select,scatterplot-0-1,0-1413-1424-4_1-1445-1458-4_
+p12,1379184538735,range select,scatterplot-0-1,0-1413-1424-4_1-1444-1458-4_
+p12,1379184538752,range select,scatterplot-0-1,0-1413-1424-4_1-1443-1458-4_
+p12,1379184538835,range select,scatterplot-0-1,0-1413-1424-4_1-1442-1458-4_
+p12,1379184555654,pan,scatterplot-0-1,0,0
+p12,1379184555655,adjustView,scatterplot-0-1,undefined
+p12,1379184562411,repaintBg,log scale,false
+p12,1379184562411,repaintFg,log scale,false
+p12,1379184567235,pan,scatterplot-0-1,0,1
+p12,1379184567321,pan,scatterplot-0-1,-1,2
+p12,1379184567354,pan,scatterplot-0-1,-2,4
+p12,1379184567371,pan,scatterplot-0-1,-3,5
+p12,1379184567388,pan,scatterplot-0-1,-4,6
+p12,1379184567404,pan,scatterplot-0-1,-5,7
+p12,1379184567421,pan,scatterplot-0-1,-7,9
+p12,1379184567438,pan,scatterplot-0-1,-8,10
+p12,1379184567454,pan,scatterplot-0-1,-8,11
+p12,1379184567487,pan,scatterplot-0-1,-8,12
+p12,1379184567504,pan,scatterplot-0-1,-9,12
+p12,1379184567521,pan,scatterplot-0-1,-9,13
+p12,1379184567537,pan,scatterplot-0-1,-10,14
+p12,1379184567554,pan,scatterplot-0-1,-10,15
+p12,1379184567571,pan,scatterplot-0-1,-10,16
+p12,1379184567588,pan,scatterplot-0-1,-11,16
+p12,1379184567604,pan,scatterplot-0-1,-12,17
+p12,1379184567638,pan,scatterplot-0-1,-13,18
+p12,1379184567687,pan,scatterplot-0-1,-14,18
+p12,1379184567704,pan,scatterplot-0-1,-14,19
+p12,1379184567721,pan,scatterplot-0-1,-15,19
+p12,1379184567738,pan,scatterplot-0-1,-16,19
+p12,1379184567754,pan,scatterplot-0-1,-17,20
+p12,1379184567787,pan,scatterplot-0-1,-18,21
+p12,1379184567805,pan,scatterplot-0-1,-19,21
+p12,1379184567838,pan,scatterplot-0-1,-20,21
+p12,1379184567871,pan,scatterplot-0-1,-21,21
+p12,1379184568243,adjustView,scatterplot-0-1,undefined
+p12,1379184569552,pan,scatterplot-0-1,0,-1
+p12,1379184569588,pan,scatterplot-0-1,0,-2
+p12,1379184569604,pan,scatterplot-0-1,0,-3
+p12,1379184569622,pan,scatterplot-0-1,0,-4
+p12,1379184569638,pan,scatterplot-0-1,0,-7
+p12,1379184569655,pan,scatterplot-0-1,1,-12
+p12,1379184569671,pan,scatterplot-0-1,2,-19
+p12,1379184569689,pan,scatterplot-0-1,4,-29
+p12,1379184569705,pan,scatterplot-0-1,7,-36
+p12,1379184569721,pan,scatterplot-0-1,8,-40
+p12,1379184569738,pan,scatterplot-0-1,9,-43
+p12,1379184569754,pan,scatterplot-0-1,10,-44
+p12,1379184569772,pan,scatterplot-0-1,10,-45
+p12,1379184569843,adjustView,scatterplot-0-1,undefined
+p12,1379184572286,range select,scatterplot-0-1,0-1411-1412-4_1-1462-1462-4_
+p12,1379184572306,range select,scatterplot-0-1,0-1411-1412-4_1-1461-1462-4_
+p12,1379184572322,range select,scatterplot-0-1,0-1411-1414-4_1-1458-1462-4_
+p12,1379184572338,range select,scatterplot-0-1,0-1411-1416-4_1-1455-1462-4_
+p12,1379184572356,range select,scatterplot-0-1,0-1411-1417-4_1-1451-1462-4_
+p12,1379184572372,range select,scatterplot-0-1,0-1411-1419-4_1-1449-1462-4_
+p12,1379184572390,range select,scatterplot-0-1,0-1411-1419-4_1-1448-1462-4_
+p12,1379184572422,range select,scatterplot-0-1,0-1411-1420-4_1-1447-1462-4_
+p12,1379184572506,range select,scatterplot-0-1,0-1411-1420-4_1-1446-1462-4_
+p12,1379184572522,range select,scatterplot-0-1,0-1411-1420-4_1-1445-1462-4_
+p12,1379184572539,range select,scatterplot-0-1,0-1411-1421-4_1-1445-1462-4_
+p12,1379184572572,range select,scatterplot-0-1,0-1411-1421-4_1-1444-1462-4_
+p12,1379184572606,range select,scatterplot-0-1,0-1411-1421-4_1-1443-1462-4_
+p12,1379184572622,range select,scatterplot-0-1,0-1411-1422-4_1-1443-1462-4_
+p12,1379184572639,range select,scatterplot-0-1,0-1411-1423-4_1-1443-1462-4_
+p12,1379184572656,range select,scatterplot-0-1,0-1411-1424-4_1-1442-1462-4_
+p12,1379184572672,range select,scatterplot-0-1,0-1411-1426-4_1-1442-1462-4_
+p12,1379184572688,range select,scatterplot-0-1,0-1411-1427-4_1-1442-1462-4_
+p12,1379184572706,range select,scatterplot-0-1,0-1411-1428-4_1-1441-1462-4_
+p12,1379184572722,range select,scatterplot-0-1,0-1411-1430-4_1-1441-1462-4_
+p12,1379184572738,range select,scatterplot-0-1,0-1411-1431-4_1-1440-1462-4_
+p12,1379184572755,range select,scatterplot-0-1,0-1411-1433-4_1-1440-1462-4_
+p12,1379184572772,range select,scatterplot-0-1,0-1411-1434-4_1-1440-1462-4_
+p12,1379184572790,range select,scatterplot-0-1,0-1411-1435-4_1-1440-1462-4_
+p12,1379184572822,range select,scatterplot-0-1,0-1411-1436-4_1-1440-1462-4_
+p12,1379184573057,range select,scatterplot-0-1,0-1411-1437-4_1-1440-1462-4_
+p12,1379184573106,range select,scatterplot-0-1,0-1411-1438-4_1-1439-1462-4_
+p12,1379184573122,range select,scatterplot-0-1,0-1411-1439-4_1-1439-1462-4_
+p12,1379184574173,pan,scatterplot-0-1,0,0
+p12,1379184574174,adjustView,scatterplot-0-1,undefined
+p12,1379184575304,range select,scatterplot-0-1,0-1398-1398-4_1-1460-1461-4_
+p12,1379184575340,range select,scatterplot-0-1,0-1398-1399-4_1-1459-1461-4_
+p12,1379184575373,range select,scatterplot-0-1,0-1398-1403-4_1-1456-1461-4_
+p12,1379184575389,range select,scatterplot-0-1,0-1398-1405-4_1-1455-1461-4_
+p12,1379184575406,range select,scatterplot-0-1,0-1398-1409-4_1-1453-1461-4_
+p12,1379184575422,range select,scatterplot-0-1,0-1398-1412-4_1-1450-1461-4_
+p12,1379184575439,range select,scatterplot-0-1,0-1398-1414-4_1-1449-1461-4_
+p12,1379184575456,range select,scatterplot-0-1,0-1398-1415-4_1-1447-1461-4_
+p12,1379184575472,range select,scatterplot-0-1,0-1398-1417-4_1-1444-1461-4_
+p12,1379184575489,range select,scatterplot-0-1,0-1398-1419-4_1-1443-1461-4_
+p12,1379184575506,range select,scatterplot-0-1,0-1398-1421-4_1-1442-1461-4_
+p12,1379184575523,range select,scatterplot-0-1,0-1398-1423-4_1-1440-1461-4_
+p12,1379184575539,range select,scatterplot-0-1,0-1398-1425-4_1-1437-1461-4_
+p12,1379184575556,range select,scatterplot-0-1,0-1398-1428-4_1-1436-1461-4_
+p12,1379184575572,range select,scatterplot-0-1,0-1398-1430-4_1-1435-1461-4_
+p12,1379184575589,range select,scatterplot-0-1,0-1398-1431-4_1-1435-1461-4_
+p12,1379184575606,range select,scatterplot-0-1,0-1398-1431-4_1-1434-1461-4_
+p12,1379184575622,range select,scatterplot-0-1,0-1398-1432-4_1-1434-1461-4_
+p12,1379184575858,range select,scatterplot-0-1,0-1398-1432-4_1-1433-1461-4_
+p12,1379184575873,range select,scatterplot-0-1,0-1398-1432-4_1-1432-1461-4_
+p12,1379184575889,range select,scatterplot-0-1,0-1398-1432-4_1-1431-1461-4_
+p12,1379184575906,range select,scatterplot-0-1,0-1398-1433-4_1-1431-1461-4_
+p12,1379184575973,range select,scatterplot-0-1,0-1398-1433-4_1-1430-1461-4_
+p12,1379184576023,range select,scatterplot-0-1,0-1398-1433-4_1-1429-1461-4_
+p12,1379184576656,range select,scatterplot-0-1,0-1398-1433-4_1-1427-1461-4_
+p12,1379184576673,range select,scatterplot-0-1,0-1398-1433-4_1-1426-1461-4_
+p12,1379184576689,range select,scatterplot-0-1,0-1398-1433-4_1-1425-1461-4_
+p12,1379184576706,range select,scatterplot-0-1,0-1398-1433-4_1-1424-1461-4_
+p12,1379184588997,pan,scatterplot-0-1,0,0
+p12,1379184588998,adjustView,scatterplot-0-1,undefined
+p12,1379184590873,range select,scatterplot-0-1,0-1397-1397-4_1-1457-1458-4_
+p12,1379184590891,range select,scatterplot-0-1,0-1397-1398-4_1-1457-1458-4_
+p12,1379184590908,range select,scatterplot-0-1,0-1397-1399-4_1-1455-1458-4_
+p12,1379184590925,range select,scatterplot-0-1,0-1397-1401-4_1-1453-1458-4_
+p12,1379184590942,range select,scatterplot-0-1,0-1397-1404-4_1-1450-1458-4_
+p12,1379184590958,range select,scatterplot-0-1,0-1397-1405-4_1-1448-1458-4_
+p12,1379184590982,range select,scatterplot-0-1,0-1397-1407-4_1-1446-1458-4_
+p12,1379184590995,range select,scatterplot-0-1,0-1397-1408-4_1-1444-1458-4_
+p12,1379184591008,range select,scatterplot-0-1,0-1397-1411-4_1-1440-1458-4_
+p12,1379184591025,range select,scatterplot-0-1,0-1397-1413-4_1-1438-1458-4_
+p12,1379184591042,range select,scatterplot-0-1,0-1397-1415-4_1-1436-1458-4_
+p12,1379184591059,range select,scatterplot-0-1,0-1397-1418-4_1-1433-1458-4_
+p12,1379184591075,range select,scatterplot-0-1,0-1397-1420-4_1-1430-1458-4_
+p12,1379184591091,range select,scatterplot-0-1,0-1397-1424-4_1-1428-1458-4_
+p12,1379184591109,range select,scatterplot-0-1,0-1397-1428-4_1-1424-1458-4_
+p12,1379184591125,range select,scatterplot-0-1,0-1397-1430-4_1-1422-1458-4_
+p12,1379184591141,range select,scatterplot-0-1,0-1397-1432-4_1-1421-1458-4_
+p12,1379184591158,range select,scatterplot-0-1,0-1397-1433-4_1-1420-1458-4_
+p12,1379184598983,pan,scatterplot-0-1,0,0
+p12,1379184598984,adjustView,scatterplot-0-1,undefined
+p12,1379184600127,pan,scatterplot-0-1,0,0
+p12,1379184600193,pan,scatterplot-0-1,-1,0
+p12,1379184600226,pan,scatterplot-0-1,-2,0
+p12,1379184600243,pan,scatterplot-0-1,-3,2
+p12,1379184600260,pan,scatterplot-0-1,-5,4
+p12,1379184600277,pan,scatterplot-0-1,-8,6
+p12,1379184600293,pan,scatterplot-0-1,-11,9
+p12,1379184600309,pan,scatterplot-0-1,-13,11
+p12,1379184600326,pan,scatterplot-0-1,-16,13
+p12,1379184600343,pan,scatterplot-0-1,-18,16
+p12,1379184600359,pan,scatterplot-0-1,-20,18
+p12,1379184600376,pan,scatterplot-0-1,-21,21
+p12,1379184600393,pan,scatterplot-0-1,-22,22
+p12,1379184600409,pan,scatterplot-0-1,-24,24
+p12,1379184600426,pan,scatterplot-0-1,-25,27
+p12,1379184600443,pan,scatterplot-0-1,-27,30
+p12,1379184600460,pan,scatterplot-0-1,-28,32
+p12,1379184600476,pan,scatterplot-0-1,-29,34
+p12,1379184600526,pan,scatterplot-0-1,-30,35
+p12,1379184600543,pan,scatterplot-0-1,-31,35
+p12,1379184600576,pan,scatterplot-0-1,-32,35
+p12,1379184601203,adjustView,scatterplot-0-1,undefined
+p12,1379184602058,pan,scatterplot-0-1,0,-1
+p12,1379184602076,pan,scatterplot-0-1,0,-5
+p12,1379184602093,pan,scatterplot-0-1,1,-10
+p12,1379184602110,pan,scatterplot-0-1,2,-17
+p12,1379184602127,pan,scatterplot-0-1,3,-23
+p12,1379184602143,pan,scatterplot-0-1,3,-27
+p12,1379184602160,pan,scatterplot-0-1,3,-32
+p12,1379184602176,pan,scatterplot-0-1,4,-36
+p12,1379184602193,pan,scatterplot-0-1,5,-39
+p12,1379184602211,pan,scatterplot-0-1,5,-40
+p12,1379184602226,pan,scatterplot-0-1,5,-41
+p12,1379184602291,adjustView,scatterplot-0-1,undefined
+p12,1379184603641,range select,scatterplot-0-1,0-1395-1395-4_1-1456-1456-4_
+p12,1379184603660,range select,scatterplot-0-1,0-1395-1395-4_1-1455-1456-4_
+p12,1379184603677,range select,scatterplot-0-1,0-1395-1396-4_1-1453-1456-4_
+p12,1379184603693,range select,scatterplot-0-1,0-1395-1397-4_1-1452-1456-4_
+p12,1379184603711,range select,scatterplot-0-1,0-1395-1399-4_1-1449-1456-4_
+p12,1379184603728,range select,scatterplot-0-1,0-1395-1401-4_1-1447-1456-4_
+p12,1379184603744,range select,scatterplot-0-1,0-1395-1404-4_1-1444-1456-4_
+p12,1379184603761,range select,scatterplot-0-1,0-1395-1408-4_1-1441-1456-4_
+p12,1379184603777,range select,scatterplot-0-1,0-1395-1412-4_1-1437-1456-4_
+p12,1379184603794,range select,scatterplot-0-1,0-1395-1416-4_1-1434-1456-4_
+p12,1379184603810,range select,scatterplot-0-1,0-1395-1419-4_1-1431-1456-4_
+p12,1379184603827,range select,scatterplot-0-1,0-1395-1419-4_1-1430-1456-4_
+p12,1379184603861,range select,scatterplot-0-1,0-1395-1420-4_1-1430-1456-4_
+p12,1379184603910,range select,scatterplot-0-1,0-1395-1420-4_1-1429-1456-4_
+p12,1379184603994,range select,scatterplot-0-1,0-1395-1421-4_1-1428-1456-4_
+p12,1379184604010,range select,scatterplot-0-1,0-1395-1423-4_1-1424-1456-4_
+p12,1379184604027,range select,scatterplot-0-1,0-1395-1427-4_1-1417-1456-4_
+p12,1379184604044,range select,scatterplot-0-1,0-1395-1430-4_1-1413-1456-4_
+p12,1379184604061,range select,scatterplot-0-1,0-1395-1431-4_1-1411-1456-4_
+p12,1379184604077,range select,scatterplot-0-1,0-1395-1432-4_1-1411-1456-4_
+p12,1379184604228,range select,scatterplot-0-1,0-1395-1432-4_1-1412-1456-4_
+p12,1379184604244,range select,scatterplot-0-1,0-1395-1432-4_1-1414-1456-4_
+p12,1379184604261,range select,scatterplot-0-1,0-1395-1432-4_1-1416-1456-4_
+p12,1379184604277,range select,scatterplot-0-1,0-1395-1432-4_1-1418-1456-4_
+p12,1379184604294,range select,scatterplot-0-1,0-1395-1432-4_1-1419-1456-4_
+p12,1379184604310,range select,scatterplot-0-1,0-1395-1432-4_1-1421-1456-4_
+p12,1379184604327,range select,scatterplot-0-1,0-1395-1432-4_1-1422-1456-4_
+p12,1379184604344,range select,scatterplot-0-1,0-1395-1432-4_1-1423-1456-4_
+p12,1379184604410,range select,scatterplot-0-1,0-1395-1432-4_1-1424-1456-4_
+p12,1379184604562,range select,scatterplot-0-1,0-1395-1431-4_1-1424-1456-4_
+p12,1379184613446,pan,scatterplot-0-1,0,0
+p12,1379184613446,adjustView,scatterplot-0-1,undefined
+p12,1379184615122,repaintBg,log scale,true
+p12,1379184615123,repaintFg,log scale,true
+p12,1379184617562,range select,scatterplot-0-1,0-1396-1397-4_1-1453-1454-4_
+p12,1379184617581,range select,scatterplot-0-1,0-1396-1398-4_1-1453-1454-4_
+p12,1379184617597,range select,scatterplot-0-1,0-1396-1400-4_1-1451-1454-4_
+p12,1379184617614,range select,scatterplot-0-1,0-1396-1404-4_1-1449-1454-4_
+p12,1379184617631,range select,scatterplot-0-1,0-1396-1408-4_1-1445-1454-4_
+p12,1379184617647,range select,scatterplot-0-1,0-1396-1413-4_1-1443-1454-4_
+p12,1379184617664,range select,scatterplot-0-1,0-1396-1415-4_1-1440-1454-4_
+p12,1379184617681,range select,scatterplot-0-1,0-1396-1416-4_1-1439-1454-4_
+p12,1379184617697,range select,scatterplot-0-1,0-1396-1417-4_1-1439-1454-4_
+p12,1379184617714,range select,scatterplot-0-1,0-1396-1417-4_1-1438-1454-4_
+p12,1379184617731,range select,scatterplot-0-1,0-1396-1418-4_1-1438-1454-4_
+p12,1379184617748,range select,scatterplot-0-1,0-1396-1418-4_1-1437-1454-4_
+p12,1379184617765,range select,scatterplot-0-1,0-1396-1419-4_1-1436-1454-4_
+p12,1379184617781,range select,scatterplot-0-1,0-1396-1420-4_1-1435-1454-4_
+p12,1379184617831,range select,scatterplot-0-1,0-1396-1421-4_1-1435-1454-4_
+p12,1379184617847,range select,scatterplot-0-1,0-1396-1423-4_1-1433-1454-4_
+p12,1379184617864,range select,scatterplot-0-1,0-1396-1424-4_1-1431-1454-4_
+p12,1379184617881,range select,scatterplot-0-1,0-1396-1425-4_1-1429-1454-4_
+p12,1379184618166,range select,scatterplot-0-1,0-1396-1425-4_1-1428-1454-4_
+p12,1379184618198,range select,scatterplot-0-1,0-1396-1426-4_1-1427-1454-4_
+p12,1379184618514,range select,scatterplot-0-1,0-1396-1427-4_1-1426-1454-4_
+p12,1379184618531,range select,scatterplot-0-1,0-1396-1427-4_1-1425-1454-4_
+p12,1379184621214,pan,scatterplot-0-1,0,0
+p12,1379184621214,adjustView,scatterplot-0-1,undefined
+p12,1379184622313,range select,scatterplot-0-1,0-1391-1391-4_1-1451-1452-4_
+p12,1379184622331,range select,scatterplot-0-1,0-1391-1393-4_1-1451-1452-4_
+p12,1379184622365,range select,scatterplot-0-1,0-1391-1395-4_1-1450-1452-4_
+p12,1379184622398,range select,scatterplot-0-1,0-1391-1396-4_1-1448-1452-4_
+p12,1379184622414,range select,scatterplot-0-1,0-1391-1398-4_1-1446-1452-4_
+p12,1379184622431,range select,scatterplot-0-1,0-1391-1399-4_1-1445-1452-4_
+p12,1379184622448,range select,scatterplot-0-1,0-1391-1401-4_1-1443-1452-4_
+p12,1379184622465,range select,scatterplot-0-1,0-1391-1402-4_1-1441-1452-4_
+p12,1379184622481,range select,scatterplot-0-1,0-1391-1404-4_1-1439-1452-4_
+p12,1379184622498,range select,scatterplot-0-1,0-1391-1405-4_1-1437-1452-4_
+p12,1379184622515,range select,scatterplot-0-1,0-1391-1408-4_1-1433-1452-4_
+p12,1379184622531,range select,scatterplot-0-1,0-1391-1410-4_1-1431-1452-4_
+p12,1379184622549,range select,scatterplot-0-1,0-1391-1412-4_1-1430-1452-4_
+p12,1379184622564,range select,scatterplot-0-1,0-1391-1413-4_1-1429-1452-4_
+p12,1379184622582,range select,scatterplot-0-1,0-1391-1414-4_1-1427-1452-4_
+p12,1379184622598,range select,scatterplot-0-1,0-1391-1416-4_1-1426-1452-4_
+p12,1379184622615,range select,scatterplot-0-1,0-1391-1418-4_1-1424-1452-4_
+p12,1379184622632,range select,scatterplot-0-1,0-1391-1419-4_1-1422-1452-4_
+p12,1379184622648,range select,scatterplot-0-1,0-1391-1420-4_1-1420-1452-4_
+p12,1379184622666,range select,scatterplot-0-1,0-1391-1421-4_1-1419-1452-4_
+p12,1379184622681,range select,scatterplot-0-1,0-1391-1423-4_1-1418-1452-4_
+p12,1379184622698,range select,scatterplot-0-1,0-1391-1424-4_1-1417-1452-4_
+p12,1379184622715,range select,scatterplot-0-1,0-1391-1425-4_1-1416-1452-4_
+p12,1379184622798,range select,scatterplot-0-1,0-1391-1426-4_1-1416-1452-4_
+p12,1379184622815,range select,scatterplot-0-1,0-1391-1426-4_1-1415-1452-4_
+p12,1379184622831,range select,scatterplot-0-1,0-1391-1427-4_1-1414-1452-4_
+p12,1379184622848,range select,scatterplot-0-1,0-1391-1428-4_1-1412-1452-4_
+p12,1379184622867,range select,scatterplot-0-1,0-1391-1429-4_1-1412-1452-4_
+p12,1379184622898,range select,scatterplot-0-1,0-1391-1430-4_1-1411-1452-4_
+p12,1379184625286,pan,scatterplot-0-1,0,0
+p12,1379184625286,adjustView,scatterplot-0-1,undefined
+p12,1379184626561,pan,scatterplot-0-1,0,1
+p12,1379184626582,pan,scatterplot-0-1,0,2
+p12,1379184626598,pan,scatterplot-0-1,0,5
+p12,1379184626615,pan,scatterplot-0-1,-1,7
+p12,1379184626631,pan,scatterplot-0-1,-4,11
+p12,1379184626648,pan,scatterplot-0-1,-7,14
+p12,1379184626665,pan,scatterplot-0-1,-10,18
+p12,1379184626682,pan,scatterplot-0-1,-14,21
+p12,1379184626698,pan,scatterplot-0-1,-18,25
+p12,1379184626715,pan,scatterplot-0-1,-21,28
+p12,1379184626732,pan,scatterplot-0-1,-23,30
+p12,1379184626748,pan,scatterplot-0-1,-26,32
+p12,1379184626765,pan,scatterplot-0-1,-28,34
+p12,1379184626782,pan,scatterplot-0-1,-29,37
+p12,1379184626798,pan,scatterplot-0-1,-31,38
+p12,1379184626815,pan,scatterplot-0-1,-32,40
+p12,1379184626832,pan,scatterplot-0-1,-34,41
+p12,1379184626848,pan,scatterplot-0-1,-35,42
+p12,1379184626865,pan,scatterplot-0-1,-36,43
+p12,1379184626915,pan,scatterplot-0-1,-37,44
+p12,1379184626948,pan,scatterplot-0-1,-39,46
+p12,1379184626966,pan,scatterplot-0-1,-40,47
+p12,1379184627971,adjustView,scatterplot-0-1,undefined
+p12,1379184628534,pan,scatterplot-0-1,0,-1
+p12,1379184628549,pan,scatterplot-0-1,1,-3
+p12,1379184628565,pan,scatterplot-0-1,1,-6
+p12,1379184628582,pan,scatterplot-0-1,2,-12
+p12,1379184628599,pan,scatterplot-0-1,4,-20
+p12,1379184628615,pan,scatterplot-0-1,6,-28
+p12,1379184628633,pan,scatterplot-0-1,6,-39
+p12,1379184628648,pan,scatterplot-0-1,9,-53
+p12,1379184628665,pan,scatterplot-0-1,9,-69
+p12,1379184628682,pan,scatterplot-0-1,9,-84
+p12,1379184628699,pan,scatterplot-0-1,9,-95
+p12,1379184628716,pan,scatterplot-0-1,9,-100
+p12,1379184628732,pan,scatterplot-0-1,9,-102
+p12,1379184628748,pan,scatterplot-0-1,9,-103
+p12,1379184628803,adjustView,scatterplot-0-1,undefined
+p12,1379184631147,range select,scatterplot-0-1,0-1388-1389-4_1-1472-1472-4_
+p12,1379184631183,range select,scatterplot-0-1,0-1388-1390-4_1-1471-1472-4_
+p12,1379184631199,range select,scatterplot-0-1,0-1388-1391-4_1-1469-1472-4_
+p12,1379184631216,range select,scatterplot-0-1,0-1388-1394-4_1-1467-1472-4_
+p12,1379184631232,range select,scatterplot-0-1,0-1388-1397-4_1-1463-1472-4_
+p12,1379184631249,range select,scatterplot-0-1,0-1388-1403-4_1-1456-1472-4_
+p12,1379184631269,range select,scatterplot-0-1,0-1388-1409-4_1-1448-1472-4_
+p12,1379184631283,range select,scatterplot-0-1,0-1388-1413-4_1-1443-1472-4_
+p12,1379184631300,range select,scatterplot-0-1,0-1388-1416-4_1-1440-1472-4_
+p12,1379184631317,range select,scatterplot-0-1,0-1388-1419-4_1-1436-1472-4_
+p12,1379184631333,range select,scatterplot-0-1,0-1388-1421-4_1-1433-1472-4_
+p12,1379184631349,range select,scatterplot-0-1,0-1388-1423-4_1-1431-1472-4_
+p12,1379184631366,range select,scatterplot-0-1,0-1388-1424-4_1-1429-1472-4_
+p12,1379184631384,range select,scatterplot-0-1,0-1388-1425-4_1-1429-1472-4_
+p12,1379184631399,range select,scatterplot-0-1,0-1388-1425-4_1-1428-1472-4_
+p12,1379184631416,range select,scatterplot-0-1,0-1388-1426-4_1-1428-1472-4_
+p12,1379184631449,range select,scatterplot-0-1,0-1388-1427-4_1-1427-1472-4_
+p12,1379184631466,range select,scatterplot-0-1,0-1388-1428-4_1-1426-1472-4_
+p12,1379184631484,range select,scatterplot-0-1,0-1388-1430-4_1-1426-1472-4_
+p12,1379184631500,range select,scatterplot-0-1,0-1388-1430-4_1-1425-1472-4_
+p12,1379184631516,range select,scatterplot-0-1,0-1388-1431-4_1-1425-1472-4_
+p12,1379184631532,range select,scatterplot-0-1,0-1388-1432-4_1-1425-1472-4_
+p12,1379184631550,range select,scatterplot-0-1,0-1388-1433-4_1-1424-1472-4_
+p12,1379184631566,range select,scatterplot-0-1,0-1388-1434-4_1-1422-1472-4_
+p12,1379184631583,range select,scatterplot-0-1,0-1388-1435-4_1-1420-1472-4_
+p12,1379184631599,range select,scatterplot-0-1,0-1388-1435-4_1-1419-1472-4_
+p12,1379184642744,pan,scatterplot-0-1,0,0
+p12,1379184642744,adjustView,scatterplot-0-1,undefined
+p12,1379184644548,range select,scatterplot-0-1,0-1391-1391-4_1-1452-1453-4_
+p12,1379184644568,range select,scatterplot-0-1,0-1391-1392-4_1-1452-1453-4_
+p12,1379184644585,range select,scatterplot-0-1,0-1391-1393-4_1-1451-1453-4_
+p12,1379184644601,range select,scatterplot-0-1,0-1391-1395-4_1-1449-1453-4_
+p12,1379184644618,range select,scatterplot-0-1,0-1391-1396-4_1-1447-1453-4_
+p12,1379184644635,range select,scatterplot-0-1,0-1391-1398-4_1-1445-1453-4_
+p12,1379184644651,range select,scatterplot-0-1,0-1391-1400-4_1-1442-1453-4_
+p12,1379184644668,range select,scatterplot-0-1,0-1391-1404-4_1-1439-1453-4_
+p12,1379184644686,range select,scatterplot-0-1,0-1391-1408-4_1-1435-1453-4_
+p12,1379184644702,range select,scatterplot-0-1,0-1391-1411-4_1-1433-1453-4_
+p12,1379184644718,range select,scatterplot-0-1,0-1391-1414-4_1-1429-1453-4_
+p12,1379184644735,range select,scatterplot-0-1,0-1391-1416-4_1-1428-1453-4_
+p12,1379184644752,range select,scatterplot-0-1,0-1391-1418-4_1-1426-1453-4_
+p12,1379184644768,range select,scatterplot-0-1,0-1391-1419-4_1-1426-1453-4_
+p12,1379184644802,range select,scatterplot-0-1,0-1391-1419-4_1-1425-1453-4_
+p12,1379184644835,range select,scatterplot-0-1,0-1391-1420-4_1-1425-1453-4_
+p12,1379184644851,range select,scatterplot-0-1,0-1391-1421-4_1-1425-1453-4_
+p12,1379184644868,range select,scatterplot-0-1,0-1391-1421-4_1-1424-1453-4_
+p12,1379184644885,range select,scatterplot-0-1,0-1391-1422-4_1-1424-1453-4_
+p12,1379184644934,range select,scatterplot-0-1,0-1391-1423-4_1-1424-1453-4_
+p12,1379184644951,range select,scatterplot-0-1,0-1391-1423-4_1-1423-1453-4_
+p12,1379184644968,range select,scatterplot-0-1,0-1391-1425-4_1-1422-1453-4_
+p12,1379184644985,range select,scatterplot-0-1,0-1391-1428-4_1-1420-1453-4_
+p12,1379184645001,range select,scatterplot-0-1,0-1391-1429-4_1-1418-1453-4_
+p12,1379184647526,pan,scatterplot-0-1,0,0
+p12,1379184647526,adjustView,scatterplot-0-1,undefined
+p12,1379184648665,pan,scatterplot-0-1,0,-1
+p12,1379184648685,pan,scatterplot-0-1,1,-1
+p12,1379184648701,pan,scatterplot-0-1,3,-6
+p12,1379184648718,pan,scatterplot-0-1,4,-11
+p12,1379184648735,pan,scatterplot-0-1,6,-16
+p12,1379184648752,pan,scatterplot-0-1,9,-23
+p12,1379184648768,pan,scatterplot-0-1,14,-31
+p12,1379184648786,pan,scatterplot-0-1,19,-40
+p12,1379184648802,pan,scatterplot-0-1,24,-46
+p12,1379184648818,pan,scatterplot-0-1,25,-48
+p12,1379184648851,pan,scatterplot-0-1,26,-48
+p12,1379184648952,pan,scatterplot-0-1,27,-48
+p12,1379184649053,pan,scatterplot-0-1,28,-48
+p12,1379184649068,pan,scatterplot-0-1,28,-47
+p12,1379184649085,pan,scatterplot-0-1,29,-47
+p12,1379184649119,pan,scatterplot-0-1,30,-47
+p12,1379184649152,pan,scatterplot-0-1,31,-47
+p12,1379184649186,pan,scatterplot-0-1,32,-47
+p12,1379184649218,pan,scatterplot-0-1,34,-47
+p12,1379184649235,pan,scatterplot-0-1,35,-48
+p12,1379184649252,pan,scatterplot-0-1,36,-48
+p12,1379184649268,pan,scatterplot-0-1,39,-48
+p12,1379184649285,pan,scatterplot-0-1,40,-48
+p12,1379184649302,pan,scatterplot-0-1,41,-49
+p12,1379184649319,pan,scatterplot-0-1,42,-49
+p12,1379184649547,adjustView,scatterplot-0-1,undefined
+p12,1379184651366,range select,scatterplot-0-1,0-1388-1388-4_1-1465-1465-4_
+p12,1379184651386,range select,scatterplot-0-1,0-1388-1389-4_1-1464-1465-4_
+p12,1379184651403,range select,scatterplot-0-1,0-1388-1390-4_1-1462-1465-4_
+p12,1379184651419,range select,scatterplot-0-1,0-1388-1395-4_1-1458-1465-4_
+p12,1379184651436,range select,scatterplot-0-1,0-1388-1400-4_1-1452-1465-4_
+p12,1379184651453,range select,scatterplot-0-1,0-1388-1406-4_1-1446-1465-4_
+p12,1379184651469,range select,scatterplot-0-1,0-1388-1412-4_1-1440-1465-4_
+p12,1379184651486,range select,scatterplot-0-1,0-1388-1417-4_1-1434-1465-4_
+p12,1379184651502,range select,scatterplot-0-1,0-1388-1421-4_1-1429-1465-4_
+p12,1379184651520,range select,scatterplot-0-1,0-1388-1423-4_1-1425-1465-4_
+p12,1379184651536,range select,scatterplot-0-1,0-1388-1424-4_1-1423-1465-4_
+p12,1379184651552,range select,scatterplot-0-1,0-1388-1426-4_1-1421-1465-4_
+p12,1379184651569,range select,scatterplot-0-1,0-1388-1427-4_1-1419-1465-4_
+p12,1379184651586,range select,scatterplot-0-1,0-1388-1428-4_1-1418-1465-4_
+p12,1379184651603,range select,scatterplot-0-1,0-1388-1429-4_1-1417-1465-4_
+p12,1379184651619,range select,scatterplot-0-1,0-1388-1429-4_1-1416-1465-4_
+p12,1379184651636,range select,scatterplot-0-1,0-1388-1430-4_1-1415-1465-4_
+p12,1379184651669,range select,scatterplot-0-1,0-1388-1430-4_1-1414-1465-4_
+p12,1379184656816,pan,scatterplot-0-1,0,0
+p12,1379184656816,adjustView,scatterplot-0-1,undefined
+p12,1379184658995,range select,bar-4,4-25-25-0_
+p12,1379184663501,pan,scatterplot-0-1,1,1
+p12,1379184663521,pan,scatterplot-0-1,2,2
+p12,1379184663537,pan,scatterplot-0-1,3,5
+p12,1379184663554,pan,scatterplot-0-1,6,12
+p12,1379184663571,pan,scatterplot-0-1,9,24
+p12,1379184663587,pan,scatterplot-0-1,10,41
+p12,1379184663604,pan,scatterplot-0-1,10,61
+p12,1379184663620,pan,scatterplot-0-1,10,78
+p12,1379184663637,pan,scatterplot-0-1,9,90
+p12,1379184663655,pan,scatterplot-0-1,9,100
+p12,1379184663671,pan,scatterplot-0-1,9,104
+p12,1379184663688,pan,scatterplot-0-1,9,107
+p12,1379184663704,pan,scatterplot-0-1,9,108
+p12,1379184663787,adjustView,scatterplot-0-1,undefined
+p12,1379184665515,zoom,scatterplot-0-1,3
+p12,1379184666099,tile cached,undefined,0-1004-1254-4x1-1012-1264-4x4-0-28-0
+p12,1379184666102,tile cached,undefined,0-1255-1505-4x1-1012-1264-4x4-0-28-0
+p12,1379184666109,tile cached,undefined,0-1506-1756-4x1-1012-1264-4x4-0-28-0
+p12,1379184666109,tile cached,undefined,0-1757-2007-4x1-1012-1264-4x4-0-28-0
+p12,1379184666723,zoom,scatterplot-0-1,2
+p12,1379184667428,tile cached,undefined,0-251-501-2x1-0-252-2x2-0-21-0
+p12,1379184667429,tile cached,undefined,0-0-250-2x1-0-252-2x2-0-21-0
+p12,1379184667429,tile cached,undefined,0-0-250-2x1-0-252-2x3-0-11-0
+p12,1379184667438,tile cached,undefined,0-251-501-2x1-0-252-2x3-0-11-0
+p12,1379184667439,tile cached,undefined,0-251-501-3x1-253-505-3x4-0-28-0
+p12,1379184667440,tile cached,undefined,0-0-250-2x1-0-252-2x4-0-28-0
+p12,1379184667447,tile cached,undefined,0-502-752-3x1-253-505-3x4-0-28-0
+p12,1379184667451,tile cached,undefined,0-753-1003-3x1-253-505-3x4-0-28-0
+p12,1379184667452,tile cached,undefined,0-251-501-2x1-0-252-2x4-0-28-0
+p12,1379184667923,zoom,scatterplot-0-1,1
+p12,1379184670036,pan,scatterplot-0-1,0,1
+p12,1379184670071,pan,scatterplot-0-1,0,2
+p12,1379184670088,pan,scatterplot-0-1,0,3
+p12,1379184670105,pan,scatterplot-0-1,0,6
+p12,1379184670121,pan,scatterplot-0-1,0,11
+p12,1379184670139,pan,scatterplot-0-1,0,16
+p12,1379184670155,pan,scatterplot-0-1,0,20
+p12,1379184670172,pan,scatterplot-0-1,0,23
+p12,1379184670188,pan,scatterplot-0-1,1,25
+p12,1379184670205,pan,scatterplot-0-1,1,26
+p12,1379184670238,pan,scatterplot-0-1,1,27
+p12,1379184670403,adjustView,scatterplot-0-1,undefined
+p12,1379184675003,pan,scatterplot-0-1,0,0
+p12,1379184675090,pan,scatterplot-0-1,1,1
+p12,1379184675139,pan,scatterplot-0-1,2,2
+p12,1379184675156,pan,scatterplot-0-1,3,2
+p12,1379184675172,pan,scatterplot-0-1,4,3
+p12,1379184675189,pan,scatterplot-0-1,6,4
+p12,1379184675205,pan,scatterplot-0-1,10,6
+p12,1379184675223,pan,scatterplot-0-1,13,7
+p12,1379184675239,pan,scatterplot-0-1,16,10
+p12,1379184675256,pan,scatterplot-0-1,18,10
+p12,1379184675272,pan,scatterplot-0-1,18,11
+p12,1379184675451,adjustView,scatterplot-0-1,undefined
+p12,1379184684363,range select,bar-4,4-0-0-0_
+p12,1379184696555,range select,bar-4,4-7-7-0_
+p12,1379184698424,pan,scatterplot-0-1,0,0
+p12,1379184698442,pan,scatterplot-0-1,-1,0
+p12,1379184698460,pan,scatterplot-0-1,-3,0
+p12,1379184698476,pan,scatterplot-0-1,-5,-1
+p12,1379184698492,pan,scatterplot-0-1,-10,-2
+p12,1379184698510,pan,scatterplot-0-1,-15,-4
+p12,1379184698526,pan,scatterplot-0-1,-18,-5
+p12,1379184698543,pan,scatterplot-0-1,-21,-7
+p12,1379184698559,pan,scatterplot-0-1,-25,-9
+p12,1379184698576,pan,scatterplot-0-1,-28,-11
+p12,1379184698592,pan,scatterplot-0-1,-30,-12
+p12,1379184698610,pan,scatterplot-0-1,-32,-13
+p12,1379184698627,pan,scatterplot-0-1,-34,-14
+p12,1379184698643,pan,scatterplot-0-1,-36,-15
+p12,1379184698659,pan,scatterplot-0-1,-37,-15
+p12,1379184698676,pan,scatterplot-0-1,-38,-16
+p12,1379184698709,pan,scatterplot-0-1,-39,-16
+p12,1379184698760,pan,scatterplot-0-1,-40,-16
+p12,1379184698776,pan,scatterplot-0-1,-41,-17
+p12,1379184698809,pan,scatterplot-0-1,-42,-17
+p12,1379184698842,pan,scatterplot-0-1,-43,-17
+p12,1379184698859,pan,scatterplot-0-1,-44,-17
+p12,1379184698893,pan,scatterplot-0-1,-46,-17
+p12,1379184698910,pan,scatterplot-0-1,-47,-17
+p12,1379184698926,pan,scatterplot-0-1,-48,-17
+p12,1379184698943,pan,scatterplot-0-1,-50,-17
+p12,1379184698959,pan,scatterplot-0-1,-51,-17
+p12,1379184698977,pan,scatterplot-0-1,-53,-17
+p12,1379184698993,pan,scatterplot-0-1,-54,-17
+p12,1379184699009,pan,scatterplot-0-1,-55,-17
+p12,1379184699043,pan,scatterplot-0-1,-56,-17
+p12,1379184699146,adjustView,scatterplot-0-1,undefined
+p12,1379184708326,pan,scatterplot-0-1,1,0
+p12,1379184708344,pan,scatterplot-0-1,5,1
+p12,1379184708361,pan,scatterplot-0-1,10,3
+p12,1379184708377,pan,scatterplot-0-1,14,4
+p12,1379184708395,pan,scatterplot-0-1,15,4
+p12,1379184708511,pan,scatterplot-0-1,15,5
+p12,1379184708527,pan,scatterplot-0-1,16,5
+p12,1379184708544,pan,scatterplot-0-1,17,5
+p12,1379184708577,pan,scatterplot-0-1,17,6
+p12,1379184708683,adjustView,scatterplot-0-1,undefined
+p12,1379184710603,zoom,scatterplot-0-1,0
+p12,1379184712493,pan,scatterplot-0-1,-1,1
+p12,1379184712513,pan,scatterplot-0-1,-5,0
+p12,1379184712528,pan,scatterplot-0-1,-16,-2
+p12,1379184712545,pan,scatterplot-0-1,-31,-5
+p12,1379184712562,pan,scatterplot-0-1,-44,-7
+p12,1379184712578,pan,scatterplot-0-1,-53,-9
+p12,1379184712595,pan,scatterplot-0-1,-57,-10
+p12,1379184712611,pan,scatterplot-0-1,-60,-11
+p12,1379184712628,pan,scatterplot-0-1,-61,-11
+p12,1379184712645,pan,scatterplot-0-1,-61,-12
+p12,1379184712661,pan,scatterplot-0-1,-62,-12
+p12,1379184712739,adjustView,scatterplot-0-1,undefined
+p12,1379184714363,range select,bar-4,4-6-6-0_
+p12,1379184718643,range select,bar-4,4-7-7-0_
+p12,1379184728707,range select,bar-4,4-6-6-0_
+p12,1379184729867,range select,bar-4,4-0-0-0_
+p12,1379184732163,range select,bar-4,4-1-1-0_
+p12,1379184733131,range select,bar-4,4-2-2-0_
+p12,1379184734715,range select,bar-4,4-1-1-0_
+p12,1379184741682,repaintBg,log scale,false
+p12,1379184741683,repaintFg,log scale,false
+p12,1379184752339,range select,bar-4,4-0-0-0_
+p12,1379184769635,range select,bar-4,4-1-1-0_
+p12,1379184770970,range select,bar-4,4-2-2-0_
+p12,1379184779699,range select,bar-4,4-3-3-0_
+p12,1379184809883,range select,bar-4,4-4-4-0_
+p12,1379184811699,range select,bar-4,4-5-5-0_
+p12,1379184813627,range select,bar-4,4-6-6-0_
+p12,1379184815355,range select,bar-4,4-7-7-0_
+p12,1379184817435,range select,bar-4,4-8-8-0_
+p12,1379184830611,range select,bar-4,4-9-9-0_
+p12,1379184832907,range select,bar-4,4-8-8-0_
+p12,1379184847195,range select,bar-4,4-7-7-0_
+p12,1379184850139,range select,bar-4,4-8-8-0_
+p12,1379184851163,range select,bar-4,4-9-9-0_
+p12,1379184858731,range select,bar-4,4-10-10-0_
+p12,1379184873579,range select,bar-4,4-11-11-0_
+p12,1379184875507,range select,bar-4,4-12-12-0_
+p12,1379184878795,range select,bar-4,4-13-13-0_
+p12,1379184882083,range select,bar-4,4-14-14-0_
+p12,1379184889419,range select,bar-4,4-15-15-0_
+p12,1379184893163,range select,bar-4,4-16-16-0_
+p12,1379184904467,range select,bar-4,4-17-17-0_
+p12,1379184907411,range select,bar-4,4-18-18-0_
+p12,1379184911123,range select,bar-4,4-19-19-0_
+p12,1379184914211,range select,bar-4,4-20-20-0_
+p12,1379184918883,range select,bar-4,4-21-21-0_
+p12,1379184920371,range select,bar-4,4-22-22-0_
+p12,1379184921971,range select,bar-4,4-23-23-0_
+p12,1379184923427,range select,bar-4,4-24-24-0_
+p12,1379184929219,range select,bar-4,4-25-25-0_
+p12,1379184934914,repaintBg,log scale,true
+p12,1379184934914,repaintFg,log scale,true
+p12,1379184937994,repaintBg,log scale,false
+p12,1379184937995,repaintFg,log scale,false
+p12,1379184939986,range select,bar-4,4-26-26-0_
+p12,1379184942411,clear,undefined,undefined
+p12,1379184944323,brush,bar-4,4-28-28-0_
+p12,1379184946057,clear,undefined,undefined
+p12,1379184947056,brush,bar-4,4-17-17-0_
+p12,1379184947097,brush,bar-4,4-13-13-0_
+p12,1379184947107,brush,bar-4,4-11-11-0_
+p12,1379184947123,brush,bar-4,4-10-10-0_
+p12,1379184947140,brush,bar-4,4-8-8-0_
+p12,1379184947157,brush,bar-4,4-7-7-0_
+p12,1379184947174,brush,bar-4,4-5-5-0_
+p12,1379184947190,brush,bar-4,4-4-4-0_
+p12,1379184947207,brush,bar-4,4-3-3-0_
+p12,1379184947223,brush,bar-4,4-2-2-0_
+p12,1379184947240,brush,bar-4,4-1-1-0_
+p12,1379184948024,brush,bar-4,4-2-2-0_
+p12,1379184948140,brush,bar-4,4-3-3-0_
+p12,1379184948157,clear,undefined,undefined
+p12,1379184950057,brush,bar-4,4-22-22-0_
+p12,1379184950074,brush,bar-4,4-19-19-0_
+p12,1379184950090,brush,bar-4,4-15-15-0_
+p12,1379184950107,brush,bar-4,4-13-13-0_
+p12,1379184950124,brush,bar-4,4-12-12-0_
+p12,1379184950141,brush,bar-4,4-11-11-0_
+p12,1379184950207,brush,bar-4,4-10-10-0_
+p12,1379184950541,brush,bar-4,4-9-9-0_
+p12,1379184950574,brush,bar-4,4-8-8-0_
+p12,1379184950757,brush,bar-4,4-9-9-0_
+p12,1379184950774,brush,bar-4,4-10-10-0_
+p12,1379184950808,brush,bar-4,4-11-11-0_
+p12,1379184950824,brush,bar-4,4-12-12-0_
+p12,1379184950841,brush,bar-4,4-14-14-0_
+p12,1379184950857,brush,bar-4,4-17-17-0_
+p12,1379184950874,brush,bar-4,4-19-19-0_
+p12,1379184950891,brush,bar-4,4-20-20-0_
+p12,1379184950907,brush,bar-4,4-21-21-0_
+p12,1379184950941,brush,bar-4,4-22-22-0_
+p12,1379184951124,brush,bar-4,4-23-23-0_
+p12,1379184951158,brush,bar-4,4-24-24-0_
+p12,1379184951224,brush,bar-4,4-25-25-0_
+p12,1379184951308,brush,bar-4,4-26-26-0_
+p12,1379184951374,brush,bar-4,4-27-27-0_
+p12,1379184951474,brush,bar-4,4-28-28-0_
+p12,1379184952331,range select,bar-4,4-28-28-0_
+p12,1379184960714,repaintBg,log scale,true
+p12,1379184960715,repaintFg,log scale,true
+p12,1379184965674,repaintBg,log scale,false
+p12,1379184965674,repaintFg,log scale,false
+p12,1379184967899,repaintBg,log scale,true
+p12,1379184967899,repaintFg,log scale,true
+p12,1379184979427,repaintBg,log scale,false
+p12,1379184979427,repaintFg,log scale,false
+p12,1379184982835,range select,bar-4,4-0-0-0_
+p12,1379184995155,range select,bar-4,4-1-1-0_
+p12,1379184997051,range select,bar-4,4-0-0-0_
+p12,1379184999099,range select,bar-4,4-1-1-0_
+p12,1379185000283,range select,bar-4,4-0-0-0_
+p12,1379185011307,range select,bar-4,4-1-1-0_
+p12,1379185016627,range select,bar-4,4-2-2-0_
+p12,1379185025899,range select,bar-4,4-3-3-0_
+p12,1379185027051,range select,bar-4,4-2-2-0_
+p12,1379185042515,range select,bar-4,4-3-3-0_
+p12,1379185044579,range select,bar-4,4-4-4-0_
+p12,1379185048339,range select,bar-4,4-5-5-0_
+p12,1379185050627,range select,bar-4,4-6-6-0_
+p12,1379185051571,range select,bar-4,4-7-7-0_
+p12,1379185053123,range select,bar-4,4-8-8-0_
+p12,1379185056707,range select,bar-4,4-9-9-0_
+p12,1379185058859,range select,bar-4,4-7-7-0_
+p12,1379185059995,range select,bar-4,4-8-8-0_
+p12,1379185061611,range select,bar-4,4-9-9-0_
+p12,1379185062323,range select,bar-4,4-10-10-0_
+p12,1379185063819,range select,bar-4,4-11-11-0_
+p12,1379185065787,range select,bar-4,4-10-10-0_
+p12,1379185068971,range select,bar-4,4-9-9-0_
+p12,1379185070786,range select,bar-4,4-12-12-0_
+p12,1379185071731,range select,bar-4,4-13-13-0_
+p12,1379185073523,range select,bar-4,4-14-14-0_
+p12,1379185074475,range select,bar-4,4-15-15-0_
+p12,1379185075843,range select,bar-4,4-16-16-0_
+p12,1379185076635,range select,bar-4,4-17-17-0_
+p12,1379185078250,range select,bar-4,4-18-18-0_
+p12,1379185079267,range select,bar-4,4-19-19-0_
+p12,1379185098979,range select,bar-4,4-20-20-0_
+p12,1379185100139,range select,bar-4,4-21-21-0_
+p12,1379185101131,range select,bar-4,4-22-22-0_
+p12,1379185102835,range select,bar-4,4-23-23-0_
+p12,1379185104299,range select,bar-4,4-24-24-0_
+p12,1379185105843,range select,bar-4,4-25-25-0_
+p12,1379185107323,range select,bar-4,4-26-26-0_
+p12,1379185108163,range select,bar-4,4-27-27-0_
+p12,1379185108635,range select,bar-4,4-28-28-0_
+p12,1379185109627,range select,bar-4,4-10-10-0_
+p12,1379185113107,range select,bar-4,4-7-7-0_
+p12,1379185116702,pan,scatterplot-0-1,0,0
+p12,1379185116722,pan,scatterplot-0-1,-1,0
+p12,1379185116738,pan,scatterplot-0-1,-2,0
+p12,1379185116755,pan,scatterplot-0-1,-3,0
+p12,1379185116772,pan,scatterplot-0-1,-5,0
+p12,1379185116789,pan,scatterplot-0-1,-12,-1
+p12,1379185116805,pan,scatterplot-0-1,-22,-2
+p12,1379185116822,pan,scatterplot-0-1,-36,-2
+p12,1379185116839,pan,scatterplot-0-1,-45,-2
+p12,1379185116855,pan,scatterplot-0-1,-52,-2
+p12,1379185116871,pan,scatterplot-0-1,-56,-3
+p12,1379185116888,pan,scatterplot-0-1,-58,-3
+p12,1379185116905,pan,scatterplot-0-1,-60,-3
+p12,1379185116922,pan,scatterplot-0-1,-62,-3
+p12,1379185116938,pan,scatterplot-0-1,-63,-4
+p12,1379185116955,pan,scatterplot-0-1,-65,-4
+p12,1379185117043,adjustView,scatterplot-0-1,undefined
+p12,1379185118243,zoom,scatterplot-0-1,1
+p12,1379185119554,pan,scatterplot-0-1,-1,0
+p12,1379185119572,pan,scatterplot-0-1,-2,0
+p12,1379185119589,pan,scatterplot-0-1,-5,0
+p12,1379185119606,pan,scatterplot-0-1,-12,0
+p12,1379185119622,pan,scatterplot-0-1,-25,0
+p12,1379185119639,pan,scatterplot-0-1,-41,1
+p12,1379185119655,pan,scatterplot-0-1,-58,1
+p12,1379185119672,pan,scatterplot-0-1,-77,1
+p12,1379185119689,pan,scatterplot-0-1,-92,1
+p12,1379185119705,pan,scatterplot-0-1,-104,2
+p12,1379185119722,pan,scatterplot-0-1,-112,2
+p12,1379185119739,pan,scatterplot-0-1,-115,2
+p12,1379185119755,pan,scatterplot-0-1,-118,2
+p12,1379185119772,pan,scatterplot-0-1,-120,2
+p12,1379185119789,pan,scatterplot-0-1,-121,2
+p12,1379185119794,adjustView,scatterplot-0-1,undefined
+p12,1379185121251,zoom,scatterplot-0-1,2
+p12,1379185121403,zoom,scatterplot-0-1,3
+p12,1379185121571,zoom,scatterplot-0-1,4
+p12,1379185122149,tile cached,undefined,0-251-501-4x1-1518-1770-4x4-0-28-0
+p12,1379185122149,tile cached,undefined,0-251-501-4x1-1771-2023-4x4-0-28-0
+p12,1379185122150,tile cached,undefined,0-502-752-4x1-1518-1770-4x4-0-28-0
+p12,1379185122150,tile cached,undefined,0-502-752-4x1-1771-2023-4x4-0-28-0
+p12,1379185122158,tile cached,undefined,0-251-501-4x1-1518-1770-4x2-0-21-0
+p12,1379185122162,tile cached,undefined,0-251-501-4x1-1771-2023-4x2-0-21-0
+p12,1379185122172,tile cached,undefined,0-251-501-4x1-1518-1770-4x3-0-11-0
+p12,1379185122176,tile cached,undefined,0-502-752-4x1-1518-1770-4x2-0-21-0
+p12,1379185122181,tile cached,undefined,0-502-752-4x1-1771-2023-4x2-0-21-0
+p12,1379185122184,tile cached,undefined,0-251-501-4x1-1771-2023-4x3-0-11-0
+p12,1379185122194,tile cached,undefined,0-502-752-4x1-1518-1770-4x3-0-11-0
+p12,1379185122198,tile cached,undefined,0-502-752-4x1-1771-2023-4x3-0-11-0
+p12,1379185123938,pan,scatterplot-0-1,0,-1
+p12,1379185123973,pan,scatterplot-0-1,1,-2
+p12,1379185123990,pan,scatterplot-0-1,4,-5
+p12,1379185124006,pan,scatterplot-0-1,10,-12
+p12,1379185124023,pan,scatterplot-0-1,19,-18
+p12,1379185124040,pan,scatterplot-0-1,32,-30
+p12,1379185124057,pan,scatterplot-0-1,48,-44
+p12,1379185124073,pan,scatterplot-0-1,57,-52
+p12,1379185124090,pan,scatterplot-0-1,64,-59
+p12,1379185124106,pan,scatterplot-0-1,70,-64
+p12,1379185124123,pan,scatterplot-0-1,74,-68
+p12,1379185124140,pan,scatterplot-0-1,78,-72
+p12,1379185124156,pan,scatterplot-0-1,82,-74
+p12,1379185124173,pan,scatterplot-0-1,85,-76
+p12,1379185124190,pan,scatterplot-0-1,87,-78
+p12,1379185124207,pan,scatterplot-0-1,90,-79
+p12,1379185124223,pan,scatterplot-0-1,93,-80
+p12,1379185124240,pan,scatterplot-0-1,95,-81
+p12,1379185124257,pan,scatterplot-0-1,96,-81
+p12,1379185124273,pan,scatterplot-0-1,97,-81
+p12,1379185124326,adjustView,scatterplot-0-1,undefined
+p12,1379185125204,pan,scatterplot-0-1,1,1
+p12,1379185125240,pan,scatterplot-0-1,4,1
+p12,1379185125256,pan,scatterplot-0-1,8,1
+p12,1379185125273,pan,scatterplot-0-1,13,1
+p12,1379185125290,pan,scatterplot-0-1,20,1
+p12,1379185125307,pan,scatterplot-0-1,30,2
+p12,1379185125323,pan,scatterplot-0-1,45,3
+p12,1379185125341,pan,scatterplot-0-1,60,5
+p12,1379185125358,pan,scatterplot-0-1,73,5
+p12,1379185125374,pan,scatterplot-0-1,83,6
+p12,1379185125390,pan,scatterplot-0-1,93,6
+p12,1379185125407,pan,scatterplot-0-1,100,7
+p12,1379185125424,pan,scatterplot-0-1,113,7
+p12,1379185125440,pan,scatterplot-0-1,129,7
+p12,1379185125456,pan,scatterplot-0-1,140,7
+p12,1379185125473,pan,scatterplot-0-1,149,7
+p12,1379185125490,pan,scatterplot-0-1,156,7
+p12,1379185125506,pan,scatterplot-0-1,164,7
+p12,1379185125524,pan,scatterplot-0-1,171,7
+p12,1379185125540,pan,scatterplot-0-1,175,7
+p12,1379185125557,pan,scatterplot-0-1,178,7
+p12,1379185125575,pan,scatterplot-0-1,180,7
+p12,1379185125590,pan,scatterplot-0-1,181,7
+p12,1379185125624,pan,scatterplot-0-1,182,7
+p12,1379185125640,pan,scatterplot-0-1,183,7
+p12,1379185125642,adjustView,scatterplot-0-1,undefined
+p12,1379185126252,tile cached,undefined,0-753-1003-4x1-1518-1770-4x4-0-28-0
+p12,1379185126252,tile cached,undefined,0-753-1003-4x1-1771-2023-4x4-0-28-0
+p12,1379185126254,tile cached,undefined,0-753-1003-4x1-1518-1770-4x2-0-21-0
+p12,1379185126254,tile cached,undefined,0-753-1003-4x1-1771-2023-4x2-0-21-0
+p12,1379185126254,tile cached,undefined,0-753-1003-4x1-1518-1770-4x3-0-11-0
+p12,1379185126254,tile cached,undefined,0-753-1003-4x1-1771-2023-4x3-0-11-0
+p12,1379185127010,clear,undefined,undefined
+p12,1379185128756,pan,scatterplot-0-1,2,0
+p12,1379185128774,pan,scatterplot-0-1,5,0
+p12,1379185128790,pan,scatterplot-0-1,10,0
+p12,1379185128807,pan,scatterplot-0-1,20,-1
+p12,1379185128823,pan,scatterplot-0-1,32,-2
+p12,1379185128840,pan,scatterplot-0-1,41,-2
+p12,1379185128857,pan,scatterplot-0-1,49,-2
+p12,1379185128874,pan,scatterplot-0-1,58,-2
+p12,1379185128890,pan,scatterplot-0-1,64,-2
+p12,1379185128908,pan,scatterplot-0-1,68,-2
+p12,1379185128924,pan,scatterplot-0-1,72,-2
+p12,1379185128940,pan,scatterplot-0-1,75,-2
+p12,1379185128957,pan,scatterplot-0-1,79,-2
+p12,1379185128973,pan,scatterplot-0-1,83,-2
+p12,1379185128990,pan,scatterplot-0-1,87,-2
+p12,1379185129007,pan,scatterplot-0-1,91,-2
+p12,1379185129010,adjustView,scatterplot-0-1,undefined
+p12,1379185129019,clear,undefined,undefined
+p12,1379185130288,pan,scatterplot-0-1,1,0
+p12,1379185130307,pan,scatterplot-0-1,5,1
+p12,1379185130324,pan,scatterplot-0-1,11,3
+p12,1379185130340,pan,scatterplot-0-1,24,5
+p12,1379185130357,pan,scatterplot-0-1,40,6
+p12,1379185130374,pan,scatterplot-0-1,65,6
+p12,1379185130391,pan,scatterplot-0-1,91,7
+p12,1379185130407,pan,scatterplot-0-1,110,7
+p12,1379185130424,pan,scatterplot-0-1,124,8
+p12,1379185130441,pan,scatterplot-0-1,134,9
+p12,1379185130458,pan,scatterplot-0-1,137,9
+p12,1379185130491,pan,scatterplot-0-1,138,9
+p12,1379185130492,adjustView,scatterplot-0-1,undefined
+p12,1379185130568,clear,undefined,undefined
+p12,1379185131180,tile cached,undefined,0-1004-1254-4x1-1771-2023-4x2-0-21-0
+p12,1379185131180,tile cached,undefined,0-1004-1254-4x1-1771-2023-4x3-0-11-0
+p12,1379185131180,tile cached,undefined,0-1004-1254-4x1-1771-2023-4x4-0-28-0
+p12,1379185132250,zoom,scatterplot-0-1,3
+p12,1379185132947,tile cached,undefined,0-753-1003-4x1-1265-1517-4x4-0-28-0
+p12,1379185132950,tile cached,undefined,0-251-501-3x1-506-758-3x2-0-21-0
+p12,1379185132951,tile cached,undefined,0-251-501-3x1-759-1011-3x2-0-21-0
+p12,1379185132955,tile cached,undefined,0-251-501-3x1-506-758-3x3-0-11-0
+p12,1379185132963,tile cached,undefined,0-251-501-3x1-506-758-3x4-0-28-0
+p12,1379185132967,tile cached,undefined,0-251-501-3x1-759-1011-3x4-0-28-0
+p12,1379185132967,tile cached,undefined,0-251-501-3x1-759-1011-3x3-0-11-0
+p12,1379185134027,zoom,scatterplot-0-1,2
+p12,1379185135085,clear,undefined,undefined
+p12,1379185135506,pan,scatterplot-0-1,0,-1
+p12,1379185135524,pan,scatterplot-0-1,1,-2
+p12,1379185135542,pan,scatterplot-0-1,5,-6
+p12,1379185135558,pan,scatterplot-0-1,12,-12
+p12,1379185135575,pan,scatterplot-0-1,18,-18
+p12,1379185135591,pan,scatterplot-0-1,27,-26
+p12,1379185135608,pan,scatterplot-0-1,33,-32
+p12,1379185135625,pan,scatterplot-0-1,38,-37
+p12,1379185135641,pan,scatterplot-0-1,43,-42
+p12,1379185135658,pan,scatterplot-0-1,47,-47
+p12,1379185135674,pan,scatterplot-0-1,52,-51
+p12,1379185135692,pan,scatterplot-0-1,56,-56
+p12,1379185135708,pan,scatterplot-0-1,59,-59
+p12,1379185135725,pan,scatterplot-0-1,62,-62
+p12,1379185135741,pan,scatterplot-0-1,63,-63
+p12,1379185135758,pan,scatterplot-0-1,63,-64
+p12,1379185135808,pan,scatterplot-0-1,64,-65
+p12,1379185135841,pan,scatterplot-0-1,65,-65
+p12,1379185135877,adjustView,scatterplot-0-1,undefined
+p12,1379185135903,clear,undefined,undefined
+p12,1379185137811,zoom,scatterplot-0-1,3
+p12,1379185137987,zoom,scatterplot-0-1,4
+p12,1379185138969,clear,undefined,undefined
+p12,1379185139406,pan,scatterplot-0-1,0,0
+p12,1379185139427,pan,scatterplot-0-1,3,0
+p12,1379185139442,pan,scatterplot-0-1,12,-4
+p12,1379185139459,pan,scatterplot-0-1,30,-7
+p12,1379185139475,pan,scatterplot-0-1,60,-10
+p12,1379185139492,pan,scatterplot-0-1,83,-11
+p12,1379185139509,pan,scatterplot-0-1,94,-11
+p12,1379185139525,pan,scatterplot-0-1,99,-11
+p12,1379185139542,pan,scatterplot-0-1,101,-11
+p12,1379185139586,adjustView,scatterplot-0-1,undefined
+p12,1379185139636,clear,undefined,undefined
+p12,1379185142370,brush,bar-4,4-22-22-0_
+p12,1379185142387,brush,bar-4,4-23-23-0_
+p12,1379185142403,brush,bar-4,4-24-24-0_
+p12,1379185142421,clear,undefined,undefined
+p12,1379185142620,brush,hist-3,3-0-0-0_
+p12,1379185142653,brush,hist-3,3-1-1-0_
+p12,1379185142670,brush,hist-3,3-2-2-0_
+p12,1379185142737,brush,hist-3,3-3-3-0_
+p12,1379185143087,brush,hist-3,3-2-2-0_
+p12,1379185143270,brush,hist-3,3-1-1-0_
+p12,1379185143891,brush,hist-3,3-2-2-0_
+p12,1379185145154,brush,hist-3,3-1-1-0_
+p12,1379185145170,brush,hist-3,3-0-0-0_
+p12,1379185145187,clear,undefined,undefined
+p12,1379185145204,brush,bar-4,4-16-16-0_
+p12,1379185145221,brush,bar-4,4-12-12-0_
+p12,1379185145237,brush,bar-4,4-9-9-0_
+p12,1379185145254,clear,undefined,undefined
+p12,1379185146192,pan,scatterplot-0-1,1,0
+p12,1379185146210,pan,scatterplot-0-1,3,0
+p12,1379185146226,pan,scatterplot-0-1,8,0
+p12,1379185146243,pan,scatterplot-0-1,16,0
+p12,1379185146259,pan,scatterplot-0-1,27,0
+p12,1379185146276,pan,scatterplot-0-1,36,0
+p12,1379185146293,pan,scatterplot-0-1,46,0
+p12,1379185146310,pan,scatterplot-0-1,51,0
+p12,1379185146326,pan,scatterplot-0-1,55,0
+p12,1379185146343,pan,scatterplot-0-1,57,0
+p12,1379185146360,pan,scatterplot-0-1,58,0
+p12,1379185146393,pan,scatterplot-0-1,59,0
+p12,1379185146499,adjustView,scatterplot-0-1,undefined
+p12,1379185146507,clear,undefined,undefined
+p12,1379185150891,pan,scatterplot-0-1,0,0
+p12,1379185150910,pan,scatterplot-0-1,-1,0
+p12,1379185150944,pan,scatterplot-0-1,-2,0
+p12,1379185150960,pan,scatterplot-0-1,-3,2
+p12,1379185150977,pan,scatterplot-0-1,-5,3
+p12,1379185150994,pan,scatterplot-0-1,-7,5
+p12,1379185151010,pan,scatterplot-0-1,-9,8
+p12,1379185151028,pan,scatterplot-0-1,-12,12
+p12,1379185151044,pan,scatterplot-0-1,-14,17
+p12,1379185151060,pan,scatterplot-0-1,-17,22
+p12,1379185151077,pan,scatterplot-0-1,-18,25
+p12,1379185151094,pan,scatterplot-0-1,-20,25
+p12,1379185151127,pan,scatterplot-0-1,-20,26
+p12,1379185151196,pan,scatterplot-0-1,-20,27
+p12,1379185151227,pan,scatterplot-0-1,-20,28
+p12,1379185151249,pan,scatterplot-0-1,-21,29
+p12,1379185151263,pan,scatterplot-0-1,-22,30
+p12,1379185151313,pan,scatterplot-0-1,-23,30
+p12,1379185151475,adjustView,scatterplot-0-1,undefined
+p12,1379185151577,clear,undefined,undefined
+p12,1379185154294,range select,scatterplot-0-1,0-1399-1399-4_1-1459-1459-4_
+p12,1379185154312,range select,scatterplot-0-1,0-1399-1400-4_1-1459-1459-4_
+p12,1379185154328,range select,scatterplot-0-1,0-1399-1401-4_1-1458-1459-4_
+p12,1379185154345,range select,scatterplot-0-1,0-1399-1402-4_1-1457-1459-4_
+p12,1379185154362,range select,scatterplot-0-1,0-1399-1404-4_1-1454-1459-4_
+p12,1379185154378,range select,scatterplot-0-1,0-1399-1407-4_1-1452-1459-4_
+p12,1379185154395,range select,scatterplot-0-1,0-1399-1409-4_1-1449-1459-4_
+p12,1379185154411,range select,scatterplot-0-1,0-1399-1410-4_1-1447-1459-4_
+p12,1379185154428,range select,scatterplot-0-1,0-1399-1412-4_1-1444-1459-4_
+p12,1379185154445,range select,scatterplot-0-1,0-1399-1413-4_1-1441-1459-4_
+p12,1379185154461,range select,scatterplot-0-1,0-1399-1415-4_1-1437-1459-4_
+p12,1379185154478,range select,scatterplot-0-1,0-1399-1417-4_1-1435-1459-4_
+p12,1379185154495,range select,scatterplot-0-1,0-1399-1418-4_1-1434-1459-4_
+p12,1379185154511,range select,scatterplot-0-1,0-1399-1419-4_1-1433-1459-4_
+p12,1379185154528,range select,scatterplot-0-1,0-1399-1420-4_1-1433-1459-4_
+p12,1379185154545,range select,scatterplot-0-1,0-1399-1421-4_1-1432-1459-4_
+p12,1379185154578,range select,scatterplot-0-1,0-1399-1422-4_1-1431-1459-4_
+p12,1379185154611,range select,scatterplot-0-1,0-1399-1423-4_1-1431-1459-4_
+p12,1379185154645,range select,scatterplot-0-1,0-1399-1424-4_1-1431-1459-4_
+p12,1379185154662,range select,scatterplot-0-1,0-1399-1424-4_1-1430-1459-4_
+p12,1379185154678,range select,scatterplot-0-1,0-1399-1425-4_1-1430-1459-4_
+p12,1379185154695,range select,scatterplot-0-1,0-1399-1426-4_1-1428-1459-4_
+p12,1379185154728,range select,scatterplot-0-1,0-1399-1427-4_1-1427-1459-4_
+p12,1379185157166,pan,scatterplot-0-1,0,0
+p12,1379185157167,adjustView,scatterplot-0-1,undefined
+p12,1379185159094,range select,scatterplot-0-1,0-1398-1398-4_1-1451-1452-4_
+p12,1379185159112,range select,scatterplot-0-1,0-1398-1398-4_1-1450-1452-4_
+p12,1379185159129,range select,scatterplot-0-1,0-1398-1398-4_1-1448-1452-4_
+p12,1379185159146,range select,scatterplot-0-1,0-1398-1400-4_1-1445-1452-4_
+p12,1379185159162,range select,scatterplot-0-1,0-1398-1402-4_1-1442-1452-4_
+p12,1379185159179,range select,scatterplot-0-1,0-1398-1404-4_1-1440-1452-4_
+p12,1379185159195,range select,scatterplot-0-1,0-1398-1407-4_1-1437-1452-4_
+p12,1379185159212,range select,scatterplot-0-1,0-1398-1409-4_1-1436-1452-4_
+p12,1379185159229,range select,scatterplot-0-1,0-1398-1411-4_1-1434-1452-4_
+p12,1379185159246,range select,scatterplot-0-1,0-1398-1414-4_1-1433-1452-4_
+p12,1379185159262,range select,scatterplot-0-1,0-1398-1417-4_1-1431-1452-4_
+p12,1379185159279,range select,scatterplot-0-1,0-1398-1421-4_1-1430-1452-4_
+p12,1379185159295,range select,scatterplot-0-1,0-1398-1423-4_1-1429-1452-4_
+p12,1379185159314,range select,scatterplot-0-1,0-1398-1426-4_1-1428-1452-4_
+p12,1379185159329,range select,scatterplot-0-1,0-1398-1428-4_1-1427-1452-4_
+p12,1379185159362,range select,scatterplot-0-1,0-1398-1429-4_1-1427-1452-4_
+p12,1379185159530,range select,scatterplot-0-1,0-1398-1429-4_1-1426-1452-4_
+p12,1379185159562,range select,scatterplot-0-1,0-1398-1429-4_1-1424-1452-4_
+p12,1379185159579,range select,scatterplot-0-1,0-1398-1429-4_1-1421-1452-4_
+p12,1379185159596,range select,scatterplot-0-1,0-1398-1429-4_1-1418-1452-4_
+p12,1379185159612,range select,scatterplot-0-1,0-1398-1429-4_1-1417-1452-4_
+p12,1379185159749,range select,scatterplot-0-1,0-1398-1429-4_1-1418-1452-4_
+p12,1379185159763,range select,scatterplot-0-1,0-1398-1429-4_1-1420-1452-4_
+p12,1379185159779,range select,scatterplot-0-1,0-1398-1428-4_1-1422-1452-4_
+p12,1379185159795,range select,scatterplot-0-1,0-1398-1427-4_1-1422-1452-4_
+p12,1379185159879,range select,scatterplot-0-1,0-1398-1426-4_1-1422-1452-4_
+p12,1379185159895,range select,scatterplot-0-1,0-1398-1425-4_1-1422-1452-4_
+p12,1379185159912,range select,scatterplot-0-1,0-1398-1425-4_1-1423-1452-4_
+p12,1379185159945,range select,scatterplot-0-1,0-1398-1424-4_1-1423-1452-4_
+p12,1379185159962,range select,scatterplot-0-1,0-1398-1423-4_1-1423-1452-4_
+p12,1379185160012,range select,scatterplot-0-1,0-1398-1423-4_1-1424-1452-4_
+p12,1379185192383,pan,scatterplot-0-1,0,0
+p12,1379185192383,adjustView,scatterplot-0-1,undefined
+p12,1379185194834,range select,scatterplot-0-1,0-1406-1407-4_1-1443-1444-4_
+p12,1379185194851,range select,scatterplot-0-1,0-1406-1407-4_1-1442-1444-4_
+p12,1379185194868,range select,scatterplot-0-1,0-1406-1408-4_1-1442-1444-4_
+p12,1379185194885,range select,scatterplot-0-1,0-1406-1409-4_1-1441-1444-4_
+p12,1379185194900,range select,scatterplot-0-1,0-1406-1410-4_1-1440-1444-4_
+p12,1379185194934,range select,scatterplot-0-1,0-1406-1411-4_1-1439-1444-4_
+p12,1379185194951,range select,scatterplot-0-1,0-1406-1412-4_1-1438-1444-4_
+p12,1379185194984,range select,scatterplot-0-1,0-1406-1413-4_1-1437-1444-4_
+p12,1379185195001,range select,scatterplot-0-1,0-1406-1414-4_1-1437-1444-4_
+p12,1379185195018,range select,scatterplot-0-1,0-1406-1414-4_1-1436-1444-4_
+p12,1379185195035,range select,scatterplot-0-1,0-1406-1415-4_1-1436-1444-4_
+p12,1379185195051,range select,scatterplot-0-1,0-1406-1415-4_1-1435-1444-4_
+p12,1379185195151,range select,scatterplot-0-1,0-1406-1416-4_1-1435-1444-4_
+p12,1379185195303,range select,scatterplot-0-1,0-1406-1417-4_1-1435-1444-4_
+p12,1379185195351,range select,scatterplot-0-1,0-1406-1418-4_1-1435-1444-4_
+p12,1379185195368,range select,scatterplot-0-1,0-1406-1418-4_1-1434-1444-4_
+p12,1379185195384,range select,scatterplot-0-1,0-1406-1419-4_1-1434-1444-4_
+p12,1379185198159,pan,scatterplot-0-1,0,0
+p12,1379185198159,adjustView,scatterplot-0-1,undefined
+p12,1379185200033,range select,scatterplot-0-1,0-1403-1404-4_1-1444-1444-4_
+p12,1379185200068,range select,scatterplot-0-1,0-1403-1405-4_1-1444-1444-4_
+p12,1379185200102,range select,scatterplot-0-1,0-1403-1406-4_1-1444-1444-4_
+p12,1379185200118,range select,scatterplot-0-1,0-1403-1407-4_1-1442-1444-4_
+p12,1379185200135,range select,scatterplot-0-1,0-1403-1408-4_1-1440-1444-4_
+p12,1379185200151,range select,scatterplot-0-1,0-1403-1410-4_1-1439-1444-4_
+p12,1379185200169,range select,scatterplot-0-1,0-1403-1412-4_1-1438-1444-4_
+p12,1379185200185,range select,scatterplot-0-1,0-1403-1413-4_1-1437-1444-4_
+p12,1379185200203,range select,scatterplot-0-1,0-1403-1413-4_1-1436-1444-4_
+p12,1379185200218,range select,scatterplot-0-1,0-1403-1414-4_1-1435-1444-4_
+p12,1379185200235,range select,scatterplot-0-1,0-1403-1415-4_1-1435-1444-4_
+p12,1379185200252,range select,scatterplot-0-1,0-1403-1416-4_1-1434-1444-4_
+p12,1379185200268,range select,scatterplot-0-1,0-1403-1416-4_1-1433-1444-4_
+p12,1379185200285,range select,scatterplot-0-1,0-1403-1417-4_1-1433-1444-4_
+p12,1379185200301,range select,scatterplot-0-1,0-1403-1417-4_1-1432-1444-4_
+p12,1379185200318,range select,scatterplot-0-1,0-1403-1418-4_1-1432-1444-4_
+p12,1379185200335,range select,scatterplot-0-1,0-1403-1418-4_1-1431-1444-4_
+p12,1379185200352,range select,scatterplot-0-1,0-1403-1420-4_1-1430-1444-4_
+p12,1379185200368,range select,scatterplot-0-1,0-1403-1421-4_1-1429-1444-4_
+p12,1379185200385,range select,scatterplot-0-1,0-1403-1422-4_1-1428-1444-4_
+p12,1379185200451,range select,scatterplot-0-1,0-1403-1423-4_1-1427-1444-4_
+p12,1379185200485,range select,scatterplot-0-1,0-1403-1424-4_1-1426-1444-4_
+p12,1379185200553,range select,scatterplot-0-1,0-1403-1425-4_1-1426-1444-4_
+p12,1379185202413,pan,scatterplot-0-1,0,0
+p12,1379185202413,adjustView,scatterplot-0-1,undefined
+p12,1379185203733,range select,scatterplot-0-1,0-1396-1396-4_1-1453-1453-4_
+p12,1379185203787,range select,scatterplot-0-1,0-1396-1397-4_1-1453-1453-4_
+p12,1379185203802,range select,scatterplot-0-1,0-1396-1397-4_1-1452-1453-4_
+p12,1379185203818,range select,scatterplot-0-1,0-1396-1397-4_1-1451-1453-4_
+p12,1379185203835,range select,scatterplot-0-1,0-1396-1400-4_1-1449-1453-4_
+p12,1379185203853,range select,scatterplot-0-1,0-1396-1401-4_1-1447-1453-4_
+p12,1379185203869,range select,scatterplot-0-1,0-1396-1406-4_1-1444-1453-4_
+p12,1379185203886,range select,scatterplot-0-1,0-1396-1410-4_1-1441-1453-4_
+p12,1379185203902,range select,scatterplot-0-1,0-1396-1414-4_1-1437-1453-4_
+p12,1379185203919,range select,scatterplot-0-1,0-1396-1417-4_1-1434-1453-4_
+p12,1379185203936,range select,scatterplot-0-1,0-1396-1419-4_1-1431-1453-4_
+p12,1379185203952,range select,scatterplot-0-1,0-1396-1421-4_1-1430-1453-4_
+p12,1379185204238,range select,scatterplot-0-1,0-1396-1423-4_1-1430-1453-4_
+p12,1379185204269,range select,scatterplot-0-1,0-1396-1425-4_1-1429-1453-4_
+p12,1379185204286,range select,scatterplot-0-1,0-1396-1427-4_1-1427-1453-4_
+p12,1379185204302,range select,scatterplot-0-1,0-1396-1428-4_1-1426-1453-4_
+p12,1379185204319,range select,scatterplot-0-1,0-1396-1429-4_1-1426-1453-4_
+p12,1379185210542,pan,scatterplot-0-1,0,0
+p12,1379185210543,adjustView,scatterplot-0-1,undefined
+p12,1379185211734,pan,scatterplot-0-1,0,1
+p12,1379185211753,pan,scatterplot-0-1,-2,3
+p12,1379185211769,pan,scatterplot-0-1,-4,5
+p12,1379185211786,pan,scatterplot-0-1,-7,8
+p12,1379185211803,pan,scatterplot-0-1,-9,10
+p12,1379185211819,pan,scatterplot-0-1,-12,11
+p12,1379185211836,pan,scatterplot-0-1,-14,12
+p12,1379185211853,pan,scatterplot-0-1,-16,14
+p12,1379185211870,pan,scatterplot-0-1,-19,16
+p12,1379185211886,pan,scatterplot-0-1,-20,17
+p12,1379185211903,pan,scatterplot-0-1,-21,18
+p12,1379185211920,pan,scatterplot-0-1,-23,19
+p12,1379185211936,pan,scatterplot-0-1,-24,20
+p12,1379185211953,pan,scatterplot-0-1,-24,21
+p12,1379185211987,pan,scatterplot-0-1,-25,21
+p12,1379185212070,pan,scatterplot-0-1,-25,22
+p12,1379185212103,pan,scatterplot-0-1,-26,22
+p12,1379185212136,pan,scatterplot-0-1,-27,22
+p12,1379185212154,pan,scatterplot-0-1,-27,23
+p12,1379185212290,adjustView,scatterplot-0-1,undefined
+p12,1379185214086,range select,scatterplot-0-1,0-1401-1402-4_1-1449-1449-4_
+p12,1379185214103,range select,scatterplot-0-1,0-1401-1403-4_1-1449-1449-4_
+p12,1379185214120,range select,scatterplot-0-1,0-1401-1403-4_1-1448-1449-4_
+p12,1379185214137,range select,scatterplot-0-1,0-1401-1404-4_1-1448-1449-4_
+p12,1379185214154,range select,scatterplot-0-1,0-1401-1406-4_1-1446-1449-4_
+p12,1379185214170,range select,scatterplot-0-1,0-1401-1408-4_1-1445-1449-4_
+p12,1379185214187,range select,scatterplot-0-1,0-1401-1412-4_1-1444-1449-4_
+p12,1379185214204,range select,scatterplot-0-1,0-1401-1416-4_1-1441-1449-4_
+p12,1379185214220,range select,scatterplot-0-1,0-1401-1419-4_1-1438-1449-4_
+p12,1379185214237,range select,scatterplot-0-1,0-1401-1421-4_1-1436-1449-4_
+p12,1379185214254,range select,scatterplot-0-1,0-1401-1423-4_1-1435-1449-4_
+p12,1379185214288,range select,scatterplot-0-1,0-1401-1424-4_1-1435-1449-4_
+p12,1379185214304,range select,scatterplot-0-1,0-1401-1424-4_1-1434-1449-4_
+p12,1379185214371,range select,scatterplot-0-1,0-1401-1425-4_1-1434-1449-4_
+p12,1379185214404,range select,scatterplot-0-1,0-1401-1425-4_1-1433-1449-4_
+p12,1379185214454,range select,scatterplot-0-1,0-1401-1425-4_1-1432-1449-4_
+p12,1379185214470,range select,scatterplot-0-1,0-1401-1425-4_1-1431-1449-4_
+p12,1379185214487,range select,scatterplot-0-1,0-1401-1426-4_1-1429-1449-4_
+p12,1379185219550,pan,scatterplot-0-1,0,0
+p12,1379185219550,adjustView,scatterplot-0-1,undefined
+p12,1379185221683,repaintBg,log scale,true
+p12,1379185221683,repaintFg,log scale,true
+p12,1379185224021,range select,scatterplot-0-1,0-1403-1403-4_1-1452-1452-4_
+p12,1379185224057,range select,scatterplot-0-1,0-1403-1403-4_1-1451-1452-4_
+p12,1379185224073,range select,scatterplot-0-1,0-1403-1404-4_1-1450-1452-4_
+p12,1379185224090,range select,scatterplot-0-1,0-1403-1404-4_1-1449-1452-4_
+p12,1379185224107,range select,scatterplot-0-1,0-1403-1404-4_1-1447-1452-4_
+p12,1379185224123,range select,scatterplot-0-1,0-1403-1405-4_1-1445-1452-4_
+p12,1379185224141,range select,scatterplot-0-1,0-1403-1406-4_1-1444-1452-4_
+p12,1379185224157,range select,scatterplot-0-1,0-1403-1407-4_1-1442-1452-4_
+p12,1379185224174,range select,scatterplot-0-1,0-1403-1408-4_1-1441-1452-4_
+p12,1379185224190,range select,scatterplot-0-1,0-1403-1409-4_1-1440-1452-4_
+p12,1379185224207,range select,scatterplot-0-1,0-1403-1410-4_1-1439-1452-4_
+p12,1379185224223,range select,scatterplot-0-1,0-1403-1412-4_1-1437-1452-4_
+p12,1379185224241,range select,scatterplot-0-1,0-1403-1413-4_1-1436-1452-4_
+p12,1379185224257,range select,scatterplot-0-1,0-1403-1414-4_1-1435-1452-4_
+p12,1379185224273,range select,scatterplot-0-1,0-1403-1415-4_1-1434-1452-4_
+p12,1379185224290,range select,scatterplot-0-1,0-1403-1415-4_1-1433-1452-4_
+p12,1379185224307,range select,scatterplot-0-1,0-1403-1416-4_1-1433-1452-4_
+p12,1379185224324,range select,scatterplot-0-1,0-1403-1417-4_1-1433-1452-4_
+p12,1379185224340,range select,scatterplot-0-1,0-1403-1418-4_1-1431-1452-4_
+p12,1379185224357,range select,scatterplot-0-1,0-1403-1419-4_1-1431-1452-4_
+p12,1379185224423,range select,scatterplot-0-1,0-1403-1420-4_1-1430-1452-4_
+p12,1379185224440,range select,scatterplot-0-1,0-1403-1421-4_1-1430-1452-4_
+p12,1379185224458,range select,scatterplot-0-1,0-1403-1424-4_1-1429-1452-4_
+p12,1379185224474,range select,scatterplot-0-1,0-1403-1425-4_1-1428-1452-4_
+p12,1379185224490,range select,scatterplot-0-1,0-1403-1426-4_1-1428-1452-4_
+p12,1379185225998,pan,scatterplot-0-1,0,0
+p12,1379185225999,adjustView,scatterplot-0-1,undefined
+p12,1379185227322,pan,scatterplot-0-1,0,0
+p12,1379185227341,pan,scatterplot-0-1,-1,0
+p12,1379185227357,pan,scatterplot-0-1,-3,0
+p12,1379185227374,pan,scatterplot-0-1,-5,1
+p12,1379185227390,pan,scatterplot-0-1,-11,2
+p12,1379185227407,pan,scatterplot-0-1,-16,4
+p12,1379185227423,pan,scatterplot-0-1,-18,5
+p12,1379185227441,pan,scatterplot-0-1,-20,6
+p12,1379185227457,pan,scatterplot-0-1,-21,7
+p12,1379185227475,pan,scatterplot-0-1,-22,8
+p12,1379185227491,pan,scatterplot-0-1,-24,10
+p12,1379185227507,pan,scatterplot-0-1,-25,12
+p12,1379185227524,pan,scatterplot-0-1,-27,14
+p12,1379185227540,pan,scatterplot-0-1,-29,16
+p12,1379185227557,pan,scatterplot-0-1,-31,17
+p12,1379185227574,pan,scatterplot-0-1,-32,19
+p12,1379185227591,pan,scatterplot-0-1,-33,20
+p12,1379185227757,pan,scatterplot-0-1,-33,21
+p12,1379185227790,pan,scatterplot-0-1,-33,22
+p12,1379185227877,pan,scatterplot-0-1,-33,23
+p12,1379185228290,pan,scatterplot-0-1,-32,23
+p12,1379185228324,pan,scatterplot-0-1,-31,23
+p12,1379185228358,pan,scatterplot-0-1,-30,23
+p12,1379185228374,pan,scatterplot-0-1,-29,24
+p12,1379185228723,adjustView,scatterplot-0-1,undefined
+p12,1379185230755,range select,scatterplot-0-1,0-1397-1397-4_1-1454-1455-4_
+p12,1379185230776,range select,scatterplot-0-1,0-1397-1398-4_1-1454-1455-4_
+p12,1379185230791,range select,scatterplot-0-1,0-1397-1399-4_1-1452-1455-4_
+p12,1379185230808,range select,scatterplot-0-1,0-1397-1400-4_1-1451-1455-4_
+p12,1379185230825,range select,scatterplot-0-1,0-1397-1403-4_1-1449-1455-4_
+p12,1379185230841,range select,scatterplot-0-1,0-1397-1404-4_1-1447-1455-4_
+p12,1379185230857,range select,scatterplot-0-1,0-1397-1406-4_1-1446-1455-4_
+p12,1379185230874,range select,scatterplot-0-1,0-1397-1407-4_1-1445-1455-4_
+p12,1379185230892,range select,scatterplot-0-1,0-1397-1408-4_1-1444-1455-4_
+p12,1379185230908,range select,scatterplot-0-1,0-1397-1408-4_1-1442-1455-4_
+p12,1379185230925,range select,scatterplot-0-1,0-1397-1410-4_1-1440-1455-4_
+p12,1379185230941,range select,scatterplot-0-1,0-1397-1411-4_1-1438-1455-4_
+p12,1379185230958,range select,scatterplot-0-1,0-1397-1412-4_1-1436-1455-4_
+p12,1379185230976,range select,scatterplot-0-1,0-1397-1413-4_1-1435-1455-4_
+p12,1379185230991,range select,scatterplot-0-1,0-1397-1414-4_1-1434-1455-4_
+p12,1379185231025,range select,scatterplot-0-1,0-1397-1415-4_1-1434-1455-4_
+p12,1379185231041,range select,scatterplot-0-1,0-1397-1415-4_1-1433-1455-4_
+p12,1379185231058,range select,scatterplot-0-1,0-1397-1416-4_1-1432-1455-4_
+p12,1379185231074,range select,scatterplot-0-1,0-1397-1417-4_1-1431-1455-4_
+p12,1379185231125,range select,scatterplot-0-1,0-1397-1418-4_1-1431-1455-4_
+p12,1379185231174,range select,scatterplot-0-1,0-1397-1419-4_1-1431-1455-4_
+p12,1379185231208,range select,scatterplot-0-1,0-1397-1420-4_1-1431-1455-4_
+p12,1379185231225,range select,scatterplot-0-1,0-1397-1421-4_1-1431-1455-4_
+p12,1379185231241,range select,scatterplot-0-1,0-1397-1422-4_1-1431-1455-4_
+p12,1379185231258,range select,scatterplot-0-1,0-1397-1423-4_1-1431-1455-4_
+p12,1379185231275,range select,scatterplot-0-1,0-1397-1425-4_1-1431-1455-4_
+p12,1379185231358,range select,scatterplot-0-1,0-1397-1426-4_1-1431-1455-4_
+p12,1379185231442,range select,scatterplot-0-1,0-1397-1427-4_1-1431-1455-4_
+p12,1379185231725,range select,scatterplot-0-1,0-1397-1427-4_1-1430-1455-4_
+p12,1379185231808,range select,scatterplot-0-1,0-1397-1428-4_1-1430-1455-4_
+p12,1379185234057,pan,scatterplot-0-1,0,0
+p12,1379185234057,adjustView,scatterplot-0-1,undefined
+p12,1379185236531,repaintBg,log scale,false
+p12,1379185236531,repaintFg,log scale,false
+p12,1379185238606,range select,scatterplot-0-1,0-1397-1398-4_1-1449-1449-4_
+p12,1379185238658,range select,scatterplot-0-1,0-1397-1399-4_1-1449-1449-4_
+p12,1379185238674,range select,scatterplot-0-1,0-1397-1403-4_1-1445-1449-4_
+p12,1379185238691,range select,scatterplot-0-1,0-1397-1409-4_1-1439-1449-4_
+p12,1379185238707,range select,scatterplot-0-1,0-1397-1415-4_1-1434-1449-4_
+p12,1379185238724,range select,scatterplot-0-1,0-1397-1417-4_1-1432-1449-4_
+p12,1379185238741,range select,scatterplot-0-1,0-1397-1419-4_1-1430-1449-4_
+p12,1379185238757,range select,scatterplot-0-1,0-1397-1419-4_1-1429-1449-4_
+p12,1379185238791,range select,scatterplot-0-1,0-1397-1420-4_1-1428-1449-4_
+p12,1379185238824,range select,scatterplot-0-1,0-1397-1420-4_1-1427-1449-4_
+p12,1379185238841,range select,scatterplot-0-1,0-1397-1420-4_1-1426-1449-4_
+p12,1379185238857,range select,scatterplot-0-1,0-1397-1421-4_1-1424-1449-4_
+p12,1379185238874,range select,scatterplot-0-1,0-1397-1423-4_1-1421-1449-4_
+p12,1379185238891,range select,scatterplot-0-1,0-1397-1423-4_1-1420-1449-4_
+p12,1379185238908,range select,scatterplot-0-1,0-1397-1424-4_1-1420-1449-4_
+p12,1379185238957,range select,scatterplot-0-1,0-1397-1424-4_1-1419-1449-4_
+p12,1379185238974,range select,scatterplot-0-1,0-1397-1425-4_1-1419-1449-4_
+p12,1379185239226,range select,scatterplot-0-1,0-1397-1426-4_1-1419-1449-4_
+p12,1379185239241,range select,scatterplot-0-1,0-1397-1425-4_1-1421-1449-4_
+p12,1379185239258,range select,scatterplot-0-1,0-1397-1425-4_1-1422-1449-4_
+p12,1379185239274,range select,scatterplot-0-1,0-1397-1425-4_1-1423-1449-4_
+p12,1379185239291,range select,scatterplot-0-1,0-1397-1425-4_1-1424-1449-4_
+p12,1379185239307,range select,scatterplot-0-1,0-1397-1424-4_1-1424-1449-4_
+p12,1379185240990,pan,scatterplot-0-1,0,0
+p12,1379185240990,adjustView,scatterplot-0-1,undefined
+p12,1379185245827,range select,hist-3,3-11-11-0_
+p12,1379185247771,zoom,scatterplot-0-1,3
+p12,1379185247915,zoom,scatterplot-0-1,2
+p12,1379185248259,zoom,scatterplot-0-1,1
+p12,1379185248427,zoom,scatterplot-0-1,0
+p12,1379185250891,zoom,scatterplot-0-1,1
+p12,1379185252473,pan,scatterplot-0-1,-1,0
+p12,1379185252493,pan,scatterplot-0-1,-2,0
+p12,1379185252510,pan,scatterplot-0-1,-7,-1
+p12,1379185252526,pan,scatterplot-0-1,-18,-4
+p12,1379185252542,pan,scatterplot-0-1,-31,-8
+p12,1379185252559,pan,scatterplot-0-1,-41,-10
+p12,1379185252576,pan,scatterplot-0-1,-47,-12
+p12,1379185252592,pan,scatterplot-0-1,-50,-14
+p12,1379185252609,pan,scatterplot-0-1,-52,-15
+p12,1379185252626,pan,scatterplot-0-1,-54,-17
+p12,1379185252643,pan,scatterplot-0-1,-55,-18
+p12,1379185252659,pan,scatterplot-0-1,-56,-18
+p12,1379185252723,adjustView,scatterplot-0-1,undefined
+p12,1379185254266,range select,hist-3,3-10-10-0_
+p12,1379185256139,range select,hist-3,3-9-9-0_
+p12,1379185257774,pan,scatterplot-0-1,-1,0
+p12,1379185257843,pan,scatterplot-0-1,-2,0
+p12,1379185257860,pan,scatterplot-0-1,-3,-1
+p12,1379185257877,pan,scatterplot-0-1,-5,-4
+p12,1379185257894,pan,scatterplot-0-1,-8,-8
+p12,1379185257910,pan,scatterplot-0-1,-12,-14
+p12,1379185257927,pan,scatterplot-0-1,-16,-20
+p12,1379185257943,pan,scatterplot-0-1,-16,-23
+p12,1379185257960,pan,scatterplot-0-1,-17,-25
+p12,1379185257977,pan,scatterplot-0-1,-17,-26
+p12,1379185258011,pan,scatterplot-0-1,-17,-27
+p12,1379185258171,adjustView,scatterplot-0-1,undefined
+p12,1379185259403,zoom,scatterplot-0-1,0
+p12,1379185261008,pan,scatterplot-0-1,-1,0
+p12,1379185261027,pan,scatterplot-0-1,-2,0
+p12,1379185261044,pan,scatterplot-0-1,-5,0
+p12,1379185261061,pan,scatterplot-0-1,-9,-1
+p12,1379185261077,pan,scatterplot-0-1,-16,-3
+p12,1379185261094,pan,scatterplot-0-1,-22,-5
+p12,1379185261111,pan,scatterplot-0-1,-26,-6
+p12,1379185261127,pan,scatterplot-0-1,-29,-8
+p12,1379185261144,pan,scatterplot-0-1,-30,-8
+p12,1379185261177,pan,scatterplot-0-1,-31,-9
+p12,1379185261283,adjustView,scatterplot-0-1,undefined
+p12,1379185265331,range select,hist-3,3-8-8-0_
+p12,1379185267283,range select,hist-3,3-7-7-0_
+p12,1379185276371,range select,hist-3,3-6-6-0_
+p12,1379185278419,range select,hist-3,3-5-5-0_
+p12,1379185281331,range select,hist-3,3-4-4-0_
+p12,1379185283729,pan,scatterplot-0-1,0,0
+p12,1379185283764,pan,scatterplot-0-1,-2,0
+p12,1379185283780,pan,scatterplot-0-1,-7,0
+p12,1379185283797,pan,scatterplot-0-1,-16,-2
+p12,1379185283814,pan,scatterplot-0-1,-25,-3
+p12,1379185283831,pan,scatterplot-0-1,-31,-4
+p12,1379185283847,pan,scatterplot-0-1,-35,-6
+p12,1379185283864,pan,scatterplot-0-1,-37,-7
+p12,1379185283881,pan,scatterplot-0-1,-39,-8
+p12,1379185283898,pan,scatterplot-0-1,-40,-9
+p12,1379185283931,pan,scatterplot-0-1,-41,-9
+p12,1379185284003,adjustView,scatterplot-0-1,undefined
+p12,1379185286500,range select,hist-3,3-3-3-0_
+p12,1379185288739,range select,hist-3,3-2-2-0_
+p12,1379185290443,range select,hist-3,3-0-0-0_
+p12,1379185294011,range select,hist-3,3-11-11-0_
+p12,1379185298915,range select,hist-3,3-10-10-0_
+p12,1379185302371,range select,hist-3,3-9-9-0_
+p12,1379185309997,pan,scatterplot-0-1,0,0
+p12,1379185309998,adjustView,scatterplot-0-1,undefined
+p12,1379185313720,range select,scatterplot-0-1,0-86-86-0_1-185-186-0_
+p12,1379185313735,range select,scatterplot-0-1,0-86-87-0_1-185-186-0_
+p12,1379185313752,range select,scatterplot-0-1,0-86-87-0_1-184-186-0_
+p12,1379185313769,range select,scatterplot-0-1,0-86-87-0_1-183-186-0_
+p12,1379185313785,range select,scatterplot-0-1,0-86-88-0_1-182-186-0_
+p12,1379185313802,range select,scatterplot-0-1,0-86-88-0_1-180-186-0_
+p12,1379185313819,range select,scatterplot-0-1,0-86-88-0_1-179-186-0_
+p12,1379185313836,range select,scatterplot-0-1,0-86-88-0_1-176-186-0_
+p12,1379185313852,range select,scatterplot-0-1,0-86-88-0_1-171-186-0_
+p12,1379185313869,range select,scatterplot-0-1,0-86-89-0_1-166-186-0_
+p12,1379185313886,range select,scatterplot-0-1,0-86-89-0_1-161-186-0_
+p12,1379185313902,range select,scatterplot-0-1,0-86-89-0_1-157-186-0_
+p12,1379185313919,range select,scatterplot-0-1,0-86-89-0_1-155-186-0_
+p12,1379185313935,range select,scatterplot-0-1,0-86-89-0_1-151-186-0_
+p12,1379185313953,range select,scatterplot-0-1,0-86-89-0_1-149-186-0_
+p12,1379185313969,range select,scatterplot-0-1,0-86-89-0_1-147-186-0_
+p12,1379185313986,range select,scatterplot-0-1,0-86-89-0_1-144-186-0_
+p12,1379185314002,range select,scatterplot-0-1,0-86-89-0_1-141-186-0_
+p12,1379185314019,range select,scatterplot-0-1,0-86-89-0_1-138-186-0_
+p12,1379185314036,range select,scatterplot-0-1,0-86-89-0_1-136-186-0_
+p12,1379185314052,range select,scatterplot-0-1,0-86-89-0_1-133-186-0_
+p12,1379185314069,range select,scatterplot-0-1,0-86-89-0_1-131-186-0_
+p12,1379185314086,range select,scatterplot-0-1,0-86-89-0_1-130-186-0_
+p12,1379185314102,range select,scatterplot-0-1,0-86-89-0_1-129-186-0_
+p12,1379185314119,range select,scatterplot-0-1,0-86-90-0_1-127-186-0_
+p12,1379185314135,range select,scatterplot-0-1,0-86-90-0_1-126-186-0_
+p12,1379185314152,range select,scatterplot-0-1,0-86-90-0_1-125-186-0_
+p12,1379185314169,range select,scatterplot-0-1,0-86-91-0_1-124-186-0_
+p12,1379185314186,range select,scatterplot-0-1,0-86-91-0_1-122-186-0_
+p12,1379185314202,range select,scatterplot-0-1,0-86-91-0_1-121-186-0_
+p12,1379185314219,range select,scatterplot-0-1,0-86-92-0_1-120-186-0_
+p12,1379185314235,range select,scatterplot-0-1,0-86-92-0_1-118-186-0_
+p12,1379185314254,range select,scatterplot-0-1,0-86-92-0_1-117-186-0_
+p12,1379185314269,range select,scatterplot-0-1,0-86-92-0_1-115-186-0_
+p12,1379185314285,range select,scatterplot-0-1,0-86-92-0_1-113-186-0_
+p12,1379185314320,range select,scatterplot-0-1,0-86-92-0_1-112-186-0_
+p12,1379185314336,range select,scatterplot-0-1,0-86-92-0_1-111-186-0_
+p12,1379185314352,range select,scatterplot-0-1,0-86-93-0_1-110-186-0_
+p12,1379185314369,range select,scatterplot-0-1,0-86-93-0_1-109-186-0_
+p12,1379185314386,range select,scatterplot-0-1,0-86-93-0_1-108-186-0_
+p12,1379185314402,range select,scatterplot-0-1,0-86-93-0_1-107-186-0_
+p12,1379185314419,range select,scatterplot-0-1,0-86-93-0_1-106-186-0_
+p12,1379185314469,range select,scatterplot-0-1,0-86-93-0_1-105-186-0_
+p12,1379185314502,range select,scatterplot-0-1,0-86-93-0_1-104-186-0_
+p12,1379185314535,range select,scatterplot-0-1,0-86-93-0_1-103-186-0_
+p12,1379185314552,range select,scatterplot-0-1,0-86-93-0_1-102-186-0_
+p12,1379185314569,range select,scatterplot-0-1,0-86-93-0_1-101-186-0_
+p12,1379185314602,range select,scatterplot-0-1,0-86-93-0_1-100-186-0_
+p12,1379185314636,range select,scatterplot-0-1,0-86-93-0_1-99-186-0_
+p12,1379185314752,range select,scatterplot-0-1,0-86-93-0_1-98-186-0_
+p12,1379185314871,range select,scatterplot-0-1,0-86-93-0_1-97-186-0_
+p12,1379185320675,repaintBg,log scale,true
+p12,1379185320675,repaintFg,log scale,true
+p12,1379185330272,pan,scatterplot-0-1,0,0
+p12,1379185330272,adjustView,scatterplot-0-1,undefined
+p12,1379185332522,range select,scatterplot-0-1,0-86-87-0_1-183-183-0_
+p12,1379185332607,range select,scatterplot-0-1,0-86-87-0_1-181-183-0_
+p12,1379185332624,range select,scatterplot-0-1,0-86-88-0_1-178-183-0_
+p12,1379185332640,range select,scatterplot-0-1,0-86-90-0_1-173-183-0_
+p12,1379185332657,range select,scatterplot-0-1,0-86-91-0_1-168-183-0_
+p12,1379185332674,range select,scatterplot-0-1,0-86-92-0_1-163-183-0_
+p12,1379185332692,range select,scatterplot-0-1,0-86-92-0_1-158-183-0_
+p12,1379185332707,range select,scatterplot-0-1,0-86-92-0_1-153-183-0_
+p12,1379185332723,range select,scatterplot-0-1,0-86-92-0_1-148-183-0_
+p12,1379185332740,range select,scatterplot-0-1,0-86-92-0_1-143-183-0_
+p12,1379185332757,range select,scatterplot-0-1,0-86-92-0_1-138-183-0_
+p12,1379185332774,range select,scatterplot-0-1,0-86-93-0_1-134-183-0_
+p12,1379185332790,range select,scatterplot-0-1,0-86-93-0_1-130-183-0_
+p12,1379185332806,range select,scatterplot-0-1,0-86-93-0_1-127-183-0_
+p12,1379185332823,range select,scatterplot-0-1,0-86-93-0_1-124-183-0_
+p12,1379185332840,range select,scatterplot-0-1,0-86-93-0_1-121-183-0_
+p12,1379185332857,range select,scatterplot-0-1,0-86-93-0_1-117-183-0_
+p12,1379185332873,range select,scatterplot-0-1,0-86-93-0_1-114-183-0_
+p12,1379185332890,range select,scatterplot-0-1,0-86-93-0_1-112-183-0_
+p12,1379185332907,range select,scatterplot-0-1,0-86-93-0_1-111-183-0_
+p12,1379185332924,range select,scatterplot-0-1,0-86-93-0_1-110-183-0_
+p12,1379185332940,range select,scatterplot-0-1,0-86-93-0_1-109-183-0_
+p12,1379185332957,range select,scatterplot-0-1,0-86-93-0_1-108-183-0_
+p12,1379185332974,range select,scatterplot-0-1,0-86-93-0_1-107-183-0_
+p12,1379185333007,range select,scatterplot-0-1,0-86-93-0_1-106-183-0_
+p12,1379185333058,range select,scatterplot-0-1,0-86-93-0_1-105-183-0_
+p12,1379185333107,range select,scatterplot-0-1,0-86-93-0_1-104-183-0_
+p12,1379185333140,range select,scatterplot-0-1,0-86-93-0_1-103-183-0_
+p12,1379185333157,range select,scatterplot-0-1,0-86-93-0_1-102-183-0_
+p12,1379185333173,range select,scatterplot-0-1,0-86-93-0_1-101-183-0_
+p12,1379185333223,range select,scatterplot-0-1,0-86-93-0_1-100-183-0_
+p12,1379185333307,range select,scatterplot-0-1,0-86-93-0_1-99-183-0_
+p12,1379185333374,range select,scatterplot-0-1,0-86-93-0_1-98-183-0_
+p12,1379185333676,range select,scatterplot-0-1,0-86-93-0_1-97-183-0_
+p12,1379185334290,range select,scatterplot-0-1,0-86-92-0_1-97-183-0_
+p12,1379185334324,range select,scatterplot-0-1,0-86-92-0_1-96-183-0_
+p12,1379185334660,range select,scatterplot-0-1,0-86-91-0_1-96-183-0_
+p12,1379185334726,range select,scatterplot-0-1,0-86-90-0_1-96-183-0_
+p12,1379185334773,range select,scatterplot-0-1,0-86-89-0_1-96-183-0_
+p12,1379185365032,pan,scatterplot-0-1,0,0
+p12,1379185365032,adjustView,scatterplot-0-1,undefined
+p12,1379185367544,range select,scatterplot-0-1,0-88-88-0_1-81-82-0_
+p12,1379185367579,range select,scatterplot-0-1,0-88-88-0_1-79-82-0_
+p12,1379185367595,range select,scatterplot-0-1,0-88-88-0_1-77-82-0_
+p12,1379185367613,range select,scatterplot-0-1,0-88-88-0_1-75-82-0_
+p12,1379185367629,range select,scatterplot-0-1,0-88-89-0_1-72-82-0_
+p12,1379185367646,range select,scatterplot-0-1,0-88-89-0_1-68-82-0_
+p12,1379185367663,range select,scatterplot-0-1,0-88-90-0_1-64-82-0_
+p12,1379185367680,range select,scatterplot-0-1,0-88-90-0_1-61-82-0_
+p12,1379185367696,range select,scatterplot-0-1,0-88-90-0_1-58-82-0_
+p12,1379185367712,range select,scatterplot-0-1,0-88-91-0_1-54-82-0_
+p12,1379185367729,range select,scatterplot-0-1,0-88-91-0_1-52-82-0_
+p12,1379185367746,range select,scatterplot-0-1,0-88-91-0_1-50-82-0_
+p12,1379185367763,range select,scatterplot-0-1,0-88-91-0_1-48-82-0_
+p12,1379185367779,range select,scatterplot-0-1,0-88-92-0_1-45-82-0_
+p12,1379185367796,range select,scatterplot-0-1,0-88-92-0_1-43-82-0_
+p12,1379185367812,range select,scatterplot-0-1,0-88-92-0_1-42-82-0_
+p12,1379185367829,range select,scatterplot-0-1,0-88-92-0_1-41-82-0_
+p12,1379185367846,range select,scatterplot-0-1,0-88-92-0_1-40-82-0_
+p12,1379185367863,range select,scatterplot-0-1,0-88-93-0_1-40-82-0_
+p12,1379185367879,range select,scatterplot-0-1,0-88-93-0_1-39-82-0_
+p12,1379185367896,range select,scatterplot-0-1,0-88-93-0_1-38-82-0_
+p12,1379185367912,range select,scatterplot-0-1,0-88-93-0_1-36-82-0_
+p12,1379185367929,range select,scatterplot-0-1,0-88-93-0_1-34-82-0_
+p12,1379185367946,range select,scatterplot-0-1,0-88-93-0_1-33-82-0_
+p12,1379185367962,range select,scatterplot-0-1,0-88-93-0_1-31-82-0_
+p12,1379185367979,range select,scatterplot-0-1,0-88-93-0_1-30-82-0_
+p12,1379185367995,range select,scatterplot-0-1,0-88-93-0_1-28-82-0_
+p12,1379185368012,range select,scatterplot-0-1,0-88-93-0_1-26-82-0_
+p12,1379185368046,range select,scatterplot-0-1,0-88-93-0_1-25-82-0_
+p12,1379185368349,range select,scatterplot-0-1,0-88-93-0_1-24-82-0_
+p12,1379185368362,range select,scatterplot-0-1,0-88-93-0_1-23-82-0_
+p12,1379185368379,range select,scatterplot-0-1,0-88-93-0_1-22-82-0_
+p12,1379185380143,pan,scatterplot-0-1,0,0
+p12,1379185380144,adjustView,scatterplot-0-1,undefined
+p12,1379185382894,pan,scatterplot-0-1,1,0
+p12,1379185382914,pan,scatterplot-0-1,2,0
+p12,1379185382948,pan,scatterplot-0-1,4,0
+p12,1379185382964,pan,scatterplot-0-1,7,0
+p12,1379185382981,pan,scatterplot-0-1,10,1
+p12,1379185382998,pan,scatterplot-0-1,13,1
+p12,1379185383014,pan,scatterplot-0-1,16,1
+p12,1379185383031,pan,scatterplot-0-1,19,1
+p12,1379185383047,pan,scatterplot-0-1,24,1
+p12,1379185383065,pan,scatterplot-0-1,30,1
+p12,1379185383081,pan,scatterplot-0-1,39,1
+p12,1379185383097,pan,scatterplot-0-1,50,1
+p12,1379185383115,pan,scatterplot-0-1,58,1
+p12,1379185383131,pan,scatterplot-0-1,63,1
+p12,1379185383147,pan,scatterplot-0-1,65,1
+p12,1379185383165,pan,scatterplot-0-1,67,1
+p12,1379185383181,pan,scatterplot-0-1,68,1
+p12,1379185383197,pan,scatterplot-0-1,69,1
+p12,1379185383214,pan,scatterplot-0-1,70,1
+p12,1379185383232,pan,scatterplot-0-1,71,1
+p12,1379185383248,pan,scatterplot-0-1,72,1
+p12,1379185383381,pan,scatterplot-0-1,72,0
+p12,1379185383414,pan,scatterplot-0-1,72,-1
+p12,1379185383465,pan,scatterplot-0-1,72,-2
+p12,1379185383532,pan,scatterplot-0-1,73,-3
+p12,1379185383548,pan,scatterplot-0-1,74,-3
+p12,1379185383564,pan,scatterplot-0-1,74,-4
+p12,1379185383634,pan,scatterplot-0-1,75,-4
+p12,1379185383715,pan,scatterplot-0-1,76,-4
+p12,1379185383766,pan,scatterplot-0-1,77,-4
+p12,1379185383981,pan,scatterplot-0-1,77,-5
+p12,1379185384015,pan,scatterplot-0-1,78,-5
+p12,1379185384243,adjustView,scatterplot-0-1,undefined
+p12,1379185386647,range select,scatterplot-0-1,0-169-170-0_1-89-89-0_
+p12,1379185386665,range select,scatterplot-0-1,0-167-170-0_1-89-89-0_
+p12,1379185386682,range select,scatterplot-0-1,0-165-170-0_1-89-89-0_
+p12,1379185386699,range select,scatterplot-0-1,0-160-170-0_1-89-89-0_
+p12,1379185386715,range select,scatterplot-0-1,0-156-170-0_1-89-89-0_
+p12,1379185386733,range select,scatterplot-0-1,0-153-170-0_1-89-89-0_
+p12,1379185386749,range select,scatterplot-0-1,0-151-170-0_1-89-89-0_
+p12,1379185386765,range select,scatterplot-0-1,0-148-170-0_1-89-89-0_
+p12,1379185386782,range select,scatterplot-0-1,0-144-170-0_1-88-89-0_
+p12,1379185386798,range select,scatterplot-0-1,0-139-170-0_1-88-89-0_
+p12,1379185386815,range select,scatterplot-0-1,0-133-170-0_1-88-89-0_
+p12,1379185386832,range select,scatterplot-0-1,0-127-170-0_1-87-89-0_
+p12,1379185386849,range select,scatterplot-0-1,0-123-170-0_1-87-89-0_
+p12,1379185386865,range select,scatterplot-0-1,0-119-170-0_1-87-89-0_
+p12,1379185386882,range select,scatterplot-0-1,0-116-170-0_1-87-89-0_
+p12,1379185386899,range select,scatterplot-0-1,0-115-170-0_1-87-89-0_
+p12,1379185386915,range select,scatterplot-0-1,0-113-170-0_1-87-89-0_
+p12,1379185386932,range select,scatterplot-0-1,0-111-170-0_1-87-89-0_
+p12,1379185386949,range select,scatterplot-0-1,0-109-170-0_1-87-89-0_
+p12,1379185386965,range select,scatterplot-0-1,0-108-170-0_1-87-89-0_
+p12,1379185386983,range select,scatterplot-0-1,0-107-170-0_1-87-89-0_
+p12,1379185386999,range select,scatterplot-0-1,0-106-170-0_1-87-89-0_
+p12,1379185387032,range select,scatterplot-0-1,0-105-170-0_1-88-89-0_
+p12,1379185387065,range select,scatterplot-0-1,0-103-170-0_1-89-89-0_
+p12,1379185387082,range select,scatterplot-0-1,0-102-170-0_1-89-91-0_
+p12,1379185387098,range select,scatterplot-0-1,0-101-170-0_1-89-91-0_
+p12,1379185387133,range select,scatterplot-0-1,0-101-170-0_1-89-92-0_
+p12,1379185387285,range select,scatterplot-0-1,0-101-170-0_1-89-93-0_
+p12,1379185387383,range select,scatterplot-0-1,0-100-170-0_1-89-93-0_
+p12,1379185387415,range select,scatterplot-0-1,0-99-170-0_1-89-93-0_
+p12,1379185387448,range select,scatterplot-0-1,0-98-170-0_1-89-93-0_
+p12,1379185387551,range select,scatterplot-0-1,0-97-170-0_1-89-93-0_
+p12,1379185404971,clear,undefined,undefined
+p12,1379185407267,range select,scatterplot-0-1,0-169-169-0_1-88-88-0_
+p12,1379185407302,range select,scatterplot-0-1,0-168-169-0_1-88-88-0_
+p12,1379185407318,range select,scatterplot-0-1,0-167-169-0_1-88-88-0_
+p12,1379185407335,range select,scatterplot-0-1,0-165-169-0_1-88-88-0_
+p12,1379185407352,range select,scatterplot-0-1,0-163-169-0_1-88-88-0_
+p12,1379185407368,range select,scatterplot-0-1,0-159-169-0_1-88-89-0_
+p12,1379185407385,range select,scatterplot-0-1,0-152-169-0_1-88-89-0_
+p12,1379185407402,range select,scatterplot-0-1,0-143-169-0_1-88-89-0_
+p12,1379185407418,range select,scatterplot-0-1,0-135-169-0_1-88-89-0_
+p12,1379185407435,range select,scatterplot-0-1,0-128-169-0_1-88-89-0_
+p12,1379185407451,range select,scatterplot-0-1,0-122-169-0_1-88-89-0_
+p12,1379185407468,range select,scatterplot-0-1,0-117-169-0_1-88-89-0_
+p12,1379185407485,range select,scatterplot-0-1,0-114-169-0_1-88-89-0_
+p12,1379185407502,range select,scatterplot-0-1,0-111-169-0_1-88-89-0_
+p12,1379185407518,range select,scatterplot-0-1,0-110-169-0_1-88-89-0_
+p12,1379185407535,range select,scatterplot-0-1,0-109-169-0_1-88-89-0_
+p12,1379185407552,range select,scatterplot-0-1,0-108-169-0_1-88-89-0_
+p12,1379185407618,range select,scatterplot-0-1,0-107-169-0_1-88-89-0_
+p12,1379185407701,range select,scatterplot-0-1,0-107-169-0_1-88-90-0_
+p12,1379185407734,range select,scatterplot-0-1,0-106-169-0_1-88-91-0_
+p12,1379185407752,range select,scatterplot-0-1,0-106-169-0_1-88-92-0_
+p12,1379185407768,range select,scatterplot-0-1,0-105-169-0_1-88-93-0_
+p12,1379185407785,range select,scatterplot-0-1,0-104-169-0_1-88-93-0_
+p12,1379185407801,range select,scatterplot-0-1,0-103-169-0_1-88-93-0_
+p12,1379185407818,range select,scatterplot-0-1,0-100-169-0_1-88-93-0_
+p12,1379185407835,range select,scatterplot-0-1,0-99-169-0_1-88-93-0_
+p12,1379185407852,range select,scatterplot-0-1,0-98-169-0_1-88-93-0_
+p12,1379185407886,range select,scatterplot-0-1,0-97-169-0_1-88-93-0_
+p12,1379185407968,range select,scatterplot-0-1,0-96-169-0_1-88-93-0_
+p12,1379185408035,range select,scatterplot-0-1,0-95-169-0_1-88-93-0_
+p12,1379185411658,clear,undefined,undefined
+p12,1379185414451,range select,scatterplot-0-1,0-171-171-0_1-89-89-0_
+p12,1379185414470,range select,scatterplot-0-1,0-168-171-0_1-89-89-0_
+p12,1379185414486,range select,scatterplot-0-1,0-165-171-0_1-89-89-0_
+p12,1379185414503,range select,scatterplot-0-1,0-161-171-0_1-89-89-0_
+p12,1379185414519,range select,scatterplot-0-1,0-155-171-0_1-89-89-0_
+p12,1379185414536,range select,scatterplot-0-1,0-146-171-0_1-88-89-0_
+p12,1379185414553,range select,scatterplot-0-1,0-131-171-0_1-88-89-0_
+p12,1379185414569,range select,scatterplot-0-1,0-114-171-0_1-88-89-0_
+p12,1379185414587,range select,scatterplot-0-1,0-101-171-0_1-88-89-0_
+p12,1379185414602,range select,scatterplot-0-1,0-96-171-0_1-88-89-0_
+p12,1379185414620,range select,scatterplot-0-1,0-93-171-0_1-88-89-0_
+p12,1379185414638,range select,scatterplot-0-1,0-92-171-0_1-88-89-0_
+p12,1379185414671,range select,scatterplot-0-1,0-91-171-0_1-88-89-0_
+p12,1379185414803,range select,scatterplot-0-1,0-92-171-0_1-88-89-0_
+p12,1379185414821,range select,scatterplot-0-1,0-93-171-0_1-88-89-0_
+p12,1379185414838,range select,scatterplot-0-1,0-96-171-0_1-89-89-0_
+p12,1379185414853,range select,scatterplot-0-1,0-99-171-0_1-89-90-0_
+p12,1379185414870,range select,scatterplot-0-1,0-102-171-0_1-89-92-0_
+p12,1379185414886,range select,scatterplot-0-1,0-103-171-0_1-89-93-0_
+p12,1379185415070,range select,scatterplot-0-1,0-102-171-0_1-89-93-0_
+p12,1379185415120,range select,scatterplot-0-1,0-100-171-0_1-89-93-0_
+p12,1379185415136,range select,scatterplot-0-1,0-99-171-0_1-89-93-0_
+p12,1379185415154,range select,scatterplot-0-1,0-98-171-0_1-89-93-0_
+p12,1379185415170,range select,scatterplot-0-1,0-97-171-0_1-89-93-0_
+p12,1379185415187,range select,scatterplot-0-1,0-96-171-0_1-89-92-0_
+p12,1379185418222,pan,scatterplot-0-1,0,0
+p12,1379185418222,adjustView,scatterplot-0-1,undefined
+p12,1379185420468,range select,scatterplot-0-1,0-79-79-0_1-88-88-0_
+p12,1379185420487,range select,scatterplot-0-1,0-78-79-0_1-88-88-0_
+p12,1379185420520,range select,scatterplot-0-1,0-77-79-0_1-88-88-0_
+p12,1379185420537,range select,scatterplot-0-1,0-76-79-0_1-88-88-0_
+p12,1379185420554,range select,scatterplot-0-1,0-75-79-0_1-88-88-0_
+p12,1379185420571,range select,scatterplot-0-1,0-72-79-0_1-88-88-0_
+p12,1379185420587,range select,scatterplot-0-1,0-70-79-0_1-88-88-0_
+p12,1379185420604,range select,scatterplot-0-1,0-67-79-0_1-88-88-0_
+p12,1379185420620,range select,scatterplot-0-1,0-64-79-0_1-88-88-0_
+p12,1379185420637,range select,scatterplot-0-1,0-59-79-0_1-88-88-0_
+p12,1379185420654,range select,scatterplot-0-1,0-53-79-0_1-88-88-0_
+p12,1379185420670,range select,scatterplot-0-1,0-48-79-0_1-88-88-0_
+p12,1379185420687,range select,scatterplot-0-1,0-43-79-0_1-88-88-0_
+p12,1379185420704,range select,scatterplot-0-1,0-38-79-0_1-88-88-0_
+p12,1379185420720,range select,scatterplot-0-1,0-34-79-0_1-88-88-0_
+p12,1379185420737,range select,scatterplot-0-1,0-32-79-0_1-88-88-0_
+p12,1379185420755,range select,scatterplot-0-1,0-30-79-0_1-88-88-0_
+p12,1379185420770,range select,scatterplot-0-1,0-28-79-0_1-88-88-0_
+p12,1379185420803,range select,scatterplot-0-1,0-27-79-0_1-88-88-0_
+p12,1379185420820,range select,scatterplot-0-1,0-26-79-0_1-88-88-0_
+p12,1379185420871,range select,scatterplot-0-1,0-25-79-0_1-88-88-0_
+p12,1379185420887,range select,scatterplot-0-1,0-25-79-0_1-88-89-0_
+p12,1379185420904,range select,scatterplot-0-1,0-25-79-0_1-88-90-0_
+p12,1379185420920,range select,scatterplot-0-1,0-24-79-0_1-88-91-0_
+p12,1379185420938,range select,scatterplot-0-1,0-24-79-0_1-88-92-0_
+p12,1379185420953,range select,scatterplot-0-1,0-23-79-0_1-88-92-0_
+p12,1379185420973,range select,scatterplot-0-1,0-23-79-0_1-88-93-0_
+p12,1379185421037,range select,scatterplot-0-1,0-23-79-0_1-88-94-0_
+p12,1379185421070,range select,scatterplot-0-1,0-23-79-0_1-88-95-0_
+p12,1379185427487,pan,scatterplot-0-1,0,0
+p12,1379185427487,adjustView,scatterplot-0-1,undefined
+p12,1379185429370,range select,scatterplot-0-1,0-172-173-0_1-89-89-0_
+p12,1379185429405,range select,scatterplot-0-1,0-171-173-0_1-89-89-0_
+p12,1379185429422,range select,scatterplot-0-1,0-170-173-0_1-89-89-0_
+p12,1379185429439,range select,scatterplot-0-1,0-168-173-0_1-89-89-0_
+p12,1379185429455,range select,scatterplot-0-1,0-165-173-0_1-89-89-0_
+p12,1379185429472,range select,scatterplot-0-1,0-161-173-0_1-89-89-0_
+p12,1379185429489,range select,scatterplot-0-1,0-155-173-0_1-89-89-0_
+p12,1379185429505,range select,scatterplot-0-1,0-145-173-0_1-88-89-0_
+p12,1379185429521,range select,scatterplot-0-1,0-134-173-0_1-88-89-0_
+p12,1379185429538,range select,scatterplot-0-1,0-125-173-0_1-88-89-0_
+p12,1379185429555,range select,scatterplot-0-1,0-119-173-0_1-88-89-0_
+p12,1379185429572,range select,scatterplot-0-1,0-117-173-0_1-88-89-0_
+p12,1379185429588,range select,scatterplot-0-1,0-116-173-0_1-88-89-0_
+p12,1379185429605,range select,scatterplot-0-1,0-115-173-0_1-88-89-0_
+p12,1379185429622,range select,scatterplot-0-1,0-114-173-0_1-88-89-0_
+p12,1379185429688,range select,scatterplot-0-1,0-113-173-0_1-88-89-0_
+p12,1379185429772,range select,scatterplot-0-1,0-113-173-0_1-89-89-0_
+p12,1379185429805,range select,scatterplot-0-1,0-112-173-0_1-89-90-0_
+p12,1379185429822,range select,scatterplot-0-1,0-111-173-0_1-89-91-0_
+p12,1379185429838,range select,scatterplot-0-1,0-110-173-0_1-89-91-0_
+p12,1379185429855,range select,scatterplot-0-1,0-110-173-0_1-89-92-0_
+p12,1379185429872,range select,scatterplot-0-1,0-108-173-0_1-89-92-0_
+p12,1379185429888,range select,scatterplot-0-1,0-107-173-0_1-89-93-0_
+p12,1379185429906,range select,scatterplot-0-1,0-105-173-0_1-89-93-0_
+p12,1379185429922,range select,scatterplot-0-1,0-104-173-0_1-89-93-0_
+p12,1379185429938,range select,scatterplot-0-1,0-103-173-0_1-89-93-0_
+p12,1379185429955,range select,scatterplot-0-1,0-102-173-0_1-89-93-0_
+p12,1379185437291,clear,undefined,undefined
+p12,1379185447555,range select,scatterplot-0-1,0-169-170-0_1-87-87-0_
+p12,1379185447591,range select,scatterplot-0-1,0-168-170-0_1-87-87-0_
+p12,1379185447607,range select,scatterplot-0-1,0-167-170-0_1-87-87-0_
+p12,1379185447624,range select,scatterplot-0-1,0-166-170-0_1-87-87-0_
+p12,1379185447641,range select,scatterplot-0-1,0-165-170-0_1-87-87-0_
+p12,1379185447657,range select,scatterplot-0-1,0-164-170-0_1-87-87-0_
+p12,1379185447675,range select,scatterplot-0-1,0-163-170-0_1-87-87-0_
+p12,1379185447691,range select,scatterplot-0-1,0-161-170-0_1-87-87-0_
+p12,1379185447708,range select,scatterplot-0-1,0-158-170-0_1-87-88-0_
+p12,1379185447724,range select,scatterplot-0-1,0-153-170-0_1-87-89-0_
+p12,1379185447741,range select,scatterplot-0-1,0-148-170-0_1-87-89-0_
+p12,1379185447757,range select,scatterplot-0-1,0-142-170-0_1-87-89-0_
+p12,1379185447776,range select,scatterplot-0-1,0-136-170-0_1-87-89-0_
+p12,1379185447791,range select,scatterplot-0-1,0-132-170-0_1-87-89-0_
+p12,1379185447808,range select,scatterplot-0-1,0-127-170-0_1-87-90-0_
+p12,1379185447824,range select,scatterplot-0-1,0-124-170-0_1-87-90-0_
+p12,1379185447842,range select,scatterplot-0-1,0-122-170-0_1-87-90-0_
+p12,1379185447858,range select,scatterplot-0-1,0-119-170-0_1-87-90-0_
+p12,1379185447874,range select,scatterplot-0-1,0-117-170-0_1-87-90-0_
+p12,1379185447892,range select,scatterplot-0-1,0-114-170-0_1-87-90-0_
+p12,1379185447907,range select,scatterplot-0-1,0-112-170-0_1-87-90-0_
+p12,1379185447925,range select,scatterplot-0-1,0-109-170-0_1-87-91-0_
+p12,1379185447941,range select,scatterplot-0-1,0-108-170-0_1-87-91-0_
+p12,1379185447958,range select,scatterplot-0-1,0-107-170-0_1-87-91-0_
+p12,1379185448191,range select,scatterplot-0-1,0-107-170-0_1-87-92-0_
+p12,1379185448275,range select,scatterplot-0-1,0-107-170-0_1-87-93-0_
+p12,1379185452963,repaintBg,log scale,false
+p12,1379185452963,repaintFg,log scale,false
+p12,1379185455691,repaintBg,log scale,true
+p12,1379185455691,repaintFg,log scale,true
+p12,1379185456787,repaintBg,log scale,false
+p12,1379185456787,repaintFg,log scale,false
+p12,1379185458311,pan,scatterplot-0-1,0,0
+p12,1379185458311,adjustView,scatterplot-0-1,undefined
+p12,1379185460883,clear,undefined,undefined

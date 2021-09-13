@@ -1,0 +1,38 @@
+1379893838282, brush, bar-4
+1379893838433, brush, bar-2
+1379893839872, range select, bar-2
+1379893866018, brush, bar-2
+1379893906855, brush, bar-4
+1379893909672, brush, bar-2
+1379893924708, brush, bar-4
+1379893927326, brush, bar-2
+1379893937677, brush, bar-4
+1379894333975, pan, scatterplot-0-1
+1379894346768, range select, scatterplot-0-1
+1379894354383, range select, bar-4
+1379894356610, pan, scatterplot-0-1
+1379894360999, range select, scatterplot-0-1
+1379894377058, pan, scatterplot-0-1
+1379894380858, range select, scatterplot-0-1
+1379894387657, pan, scatterplot-0-1
+1379894393905, range select, scatterplot-0-1
+1379894415921, pan, scatterplot-0-1
+1379894417489, range select, scatterplot-0-1
+1379894427505, pan, scatterplot-0-1
+1379894428041, range select, scatterplot-0-1
+1379894440916, pan, scatterplot-0-1
+1379894442859, range select, scatterplot-0-1
+1379894470210, brush, bar-4
+1379894470626, brush, bar-2
+1379894479311, brush, bar-4
+1379894496187, range select, hist-3
+1379894560456, brush, hist-3
+1379894560639, brush, bar-2
+1379894562388, range select, bar-2
+1379894667105, pan, scatterplot-0-1
+1379894670931, range select, scatterplot-0-1
+1379894672691, pan, scatterplot-0-1
+1379894674897, range select, scatterplot-0-1
+1379894706378, pan, scatterplot-0-1
+1379894710553, range select, scatterplot-0-1
+1379894767401, pan, scatterplot-0-1

@@ -1,0 +1,39 @@
+00:00, brush, bar-4
+12:55, brush, bar-2
+13:43, brush, bar-4
+16:06, pan, scatterplot-0-1
+16:16, range select, scatterplot-0-1
+16:35, zoom, scatterplot-0-1
+16:37, pan, scatterplot-0-1
+16:44, zoom, scatterplot-0-1
+16:46, pan, scatterplot-0-1
+16:49, zoom, scatterplot-0-1
+16:51, pan, scatterplot-0-1
+17:09, range select, scatterplot-0-1
+17:51, pan, scatterplot-0-1
+17:58, range select, scatterplot-0-1
+19:00, pan, scatterplot-0-1
+19:19, zoom, scatterplot-0-1
+19:21, pan, scatterplot-0-1
+19:24, zoom, scatterplot-0-1
+19:26, pan, scatterplot-0-1
+19:37, range select, scatterplot-0-1
+20:19, pan, scatterplot-0-1
+20:22, range select, scatterplot-0-1
+20:40, pan, scatterplot-0-1
+20:45, range select, scatterplot-0-1
+21:10, pan, scatterplot-0-1
+21:17, range select, scatterplot-0-1
+23:57, pan, scatterplot-0-1
+24:02, zoom, scatterplot-0-1
+24:04, pan, scatterplot-0-1
+24:19, range select, scatterplot-0-1
+25:32, range select, bar-4
+27:34, pan, scatterplot-0-1
+27:38, range select, bar-4
+28:39, zoom, scatterplot-0-1
+28:45, range select, bar-4
+29:27, pan, scatterplot-0-1
+29:30, range select, scatterplot-0-1
+29:32, pan, scatterplot-0-1
+29:34, range select, scatterplot-0-1

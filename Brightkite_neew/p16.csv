@@ -1,0 +1,283 @@
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 57, 0.02
+clear, 1, 0.00
+brush, 97, 0.03
+clear, 1, 0.00
+brush, 25, 0.01
+clear, 1, 0.00
+brush, 8, 0.00
+clear, 1, 0.00
+brush, 27, 0.01
+clear, 1, 0.00
+brush, 5, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+range select, 2, 0.00
+clear, 1, 0.00
+brush, 22, 0.01
+range select, 34, 0.01
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+brush, 9, 0.00
+clear, 1, 0.00
+brush, 14, 0.00
+range select, 56, 0.02
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+range select, 76, 0.03
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 68, 0.02
+clear, 1, 0.00
+brush, 12, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+range select, 39, 0.01
+clear, 1, 0.00
+range select, 38, 0.01
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+range select, 31, 0.01
+clear, 1, 0.00
+range select, 395, 0.14
+clear, 1, 0.00
+brush, 10, 0.00
+clear, 1, 0.00
+brush, 10, 0.00
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+brush, 2, 0.00
+range select, 15, 0.01
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+range select, 2, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 176, 0.06
+clear, 1, 0.00
+brush, 6, 0.00
+clear, 1, 0.00
+brush, 30, 0.01
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+brush, 5, 0.00
+clear, 1, 0.00
+range select, 105, 0.04
+clear, 1, 0.00
+range select, 55, 0.02
+pan, 128, 0.04
+range select, 1, 0.00
+pan, 41, 0.01
+range select, 2, 0.00
+clear, 1, 0.00
+brush, 5, 0.00
+clear, 1, 0.00
+brush, 2, 0.00
+range select, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+range select, 36, 0.01
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 4, 0.00
+range select, 44, 0.02
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 77, 0.03
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+range select, 31, 0.01
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 17, 0.01
+zoom, 1, 0.00
+pan, 35, 0.01
+zoom, 1, 0.00
+pan, 62, 0.02
+range select, 1, 0.00
+clear, 1, 0.00
+brush, 9, 0.00
+range select, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+clear, 1, 0.00
+brush, 9, 0.00
+clear, 1, 0.00
+pan, 17, 0.01
+clear, 1, 0.00
+brush, 5, 0.00
+clear, 1, 0.00
+brush, 5, 0.00
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+brush, 13, 0.00
+clear, 1, 0.00
+brush, 4, 0.00
+clear, 1, 0.00
+brush, 12, 0.00
+clear, 1, 0.00
+brush, 9, 0.00
+clear, 1, 0.00
+brush, 3, 0.00
+range select, 16, 0.01
+clear, 1, 0.00
+brush, 8, 0.00
+clear, 1, 0.00
+brush, 11, 0.00
+clear, 1, 0.00
+brush, 9, 0.00
+clear, 1, 0.00
+brush, 7, 0.00
+range select, 2, 0.00
+clear, 1, 0.00
+brush, 30, 0.01
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+brush, 6, 0.00
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+range select, 1, 0.00
+clear, 1, 0.00
+brush, 14, 0.00
+clear, 1, 0.00
+range select, 72, 0.02
+clear, 1, 0.00
+range select, 13, 0.00
+clear, 1, 0.00
+brush, 4, 0.00
+clear, 1, 0.00
+brush, 1, 0.00
+clear, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 17, 0.01
+zoom, 1, 0.00
+pan, 30, 0.01
+clear, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 34, 0.01
+range select, 47, 0.02
+clear, 1, 0.00
+brush, 3, 0.00
+range select, 1, 0.00
+pan, 150, 0.05
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+clear, 1, 0.00
+brush, 5, 0.00
+clear, 1, 0.00
+range select, 40, 0.01
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 18, 0.01
+zoom, 1, 0.00
+pan, 1, 0.00
+range select, 39, 0.01
+clear, 1, 0.00
+brush, 2, 0.00
+clear, 1, 0.00
+range select, 110, 0.04
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 1, 0.00
+zoom, 1, 0.00
+pan, 34, 0.01
+clear, 1, 0.00
+brush, 15, 0.01
+range select, 1, 0.00
+clear, 1, 0.00
+brush, 82, 0.03
+clear, 1, 0.00
+brush, 15, 0.01
+clear, 1, 0.00
+brush, 30, 0.01
+clear, 1, 0.00
+brush, 4, 0.00
+clear, 1, 0.00
+brush, 3, 0.00

@@ -1,0 +1,462 @@
+ 00:24:19, The quote-and-quote developed world checks in a lot more,, Question, 0.0,  pan,  0.02504
+ 00:24:23, and you can see hot spots in US, Japan,, Sensemaking, 0.25,  clear,  0.00013
+ 00:24:23, so let’s just look at the US,that’s where I know, , Exploration, 0.0,  pan,  0.00013
+ 00:24:23, I wish I would get an overlay of Google maps, to see the interstates,, Interface-feedback, 0.0,  zoom,  0.00013
+ 00:24:27, I’m guessing those are interstate patterns., Question, 0.0,  pan,  0.00133
+ 00:24:27, Then you see the obvious DC, LA, SF, Portland, Seattle, Chicago, and all these other states we don’t talk about that much., Question, 0.25,  zoom,  0.00013
+ 00:24:36, So first thing I probably wanna know in the US is New York vs. LA., Question, 0.0,  pan,  0.00093
+ 00:24:36, So looks like that’s pretty big fraction for New York, , Sensemaking, 0.0,  zoom,  0.00013
+ 00:25:07, what fraction is that?, Question , 0.0,  pan,  0.04704
+ 00:25:07, My first question would be: where is this startup based? , Question, 0.0,  zoom,  0.00013
+ 00:25:11, And based on this, I would want to know, what’s the most popular city. , Question, 0.0,  pan,  0.00013
+ 00:25:46,  So I rather want to see where the top 30 travelers check in, rather than the bounding box. , Exploration, 0.0,  range select,  0.00027
+ 00:25:49, I wanna roll up everything here, I don’t want the breakdowns,, Interface-feedback, 0.0,  clear,  0.00013
+ 00:25:59, And I can’t mouse over this (the histogram).., Interface-feedback, 0.0,  range select,  0.00106
+ 00:26:25, what is this like? 10K a day?, Sensemaking, 0.0,  pan,  0.00013
+ 00:26:25, That’s smaller? looks like that’s smaller. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:26:27, I want to do zoom into the web pages in Chrome, Interface-feedback, 0.0,  pan,  0.00119
+ 00:26:46, So it’s like 20% of this guy, and I guess I should take a screenshot., Sensemaking, 0.0,  range select,  0.02703
+ 00:26:48, It looks like it’s more than 50% of that guy,, Sensemaking, 0.0,  pan,  0.00080
+ 00:27:02, so it looks like I’m guessing that there’s like 80% more checkins in LA area, , Sensemaking, 1.0,  range select,  0.00186
+ 00:27:04, so that means I’ll guess the startup is based in LA. 
+, Sensemaking, 1.0,  pan,  0.00159
+ 00:27:12, so that means I’ll guess the startup is based in LA. 
+, Sensemaking, 1.0,  range select,  0.00186
+ 00:27:12, so that means I’ll guess the startup is based in LA. 
+, Sensemaking, 1.0,  pan,  0.00013
+ 00:27:12, so that means I’ll guess the startup is based in LA. 
+, Sensemaking, 1.0,  zoom,  0.00013
+ 00:27:15, Oh, I guess I didn’t do SF., Exploration, 0.0,  pan,  0.00013
+ 00:27:15, SF is where it can be useful, right?, Question, 0.0,  zoom,  0.00013
+ 00:27:25, Look at how many people?, Question, 0.0,  pan,  0.00013
+ 00:27:38,  So more checkins in LA,, Sensemaking, 1.0,  range select,  0.00252
+ 00:27:42,  So more checkins in LA,, Sensemaking, 1.0,  pan,  0.00769
+ 00:28:20, but I guess it’s disproportionate, ‘cause LA is a lot bigger, , Sensemaking, 0.5,  range select,  0.00318
+ 00:28:20, SF has a decent amount of checkins, , Sensemaking, 0.25,  clear,  0.00013
+ 00:28:25, so it also could be the area., Sensemaking, 0.0,  brush,  0.00027
+ 00:28:25, sorry about that, just more popular in LA. 
+, Sensemaking, 1.0,  clear,  0.00013
+ 00:28:25, I guess I could also use aggregate on the coast., Question, 0.0,  brush,  0.00080
+ 00:28:26, Just compare west coast…. that’s about 20K (in the month histogram),, Exploration, 0.0,  clear,  0.00013
+ 00:28:26, versus east coast, that should pretty match, which is interesting., Exploration, 0.0,  brush,  0.00106
+ 00:28:26,  didn’t do the midwest, it doesn’t look like, there’s not much activity., Sensemaking, 0.25,  clear,  0.00013
+ 00:28:26,  didn’t do the midwest, it doesn’t look like, there’s not much activity., Sensemaking, 0.25,  brush,  0.00040
+ 00:28:26,  didn’t do the midwest, it doesn’t look like, there’s not much activity., Sensemaking, 0.25,  clear,  0.00013
+ 00:28:26,  didn’t do the midwest, it doesn’t look like, there’s not much activity., Sensemaking, 0.25,  brush,  0.00040
+ 00:28:29,  didn’t do the midwest, it doesn’t look like, there’s not much activity., Sensemaking, 0.25,  clear,  0.00013
+ 00:29:00, I guess I can zoom in to LA, but can’t see what these cities are. , Question, 0.0,  range select,  0.01166
+ 00:29:00, I want to be able to see where the checkins are in LA. , Question, 0.0,  pan,  0.00013
+ 00:29:00, I want to be able to see where the checkins are in LA. , Question, 0.0,  zoom,  0.00013
+ 00:29:04, I want to be able to see where the checkins are in LA. , Question, 0.0,  pan,  0.00504
+ 00:29:15, 50 a day…, Sensemaking, 0.0,  range select,  0.00424
+ 00:29:16, 50 a day…, Sensemaking, 0.0,  clear,  0.00013
+ 00:29:17, 50 a day…, Sensemaking, 0.0,  brush,  0.00013
+ 00:29:36, Northwest…. looks like… this… I could do that too., Exploration, 0.0,  range select,  0.00901
+ 00:29:37, This is the max zoom, if I do a square in the max zoom, 200 checkins a day, , Sensemaking, 0.25,  clear,  0.00013
+ 00:29:43, let me go to SF… max zoom, square… 400 a day also. , Exploration, 0.0,  range select,  0.00225
+ 00:29:45, let me go to SF… max zoom, square… 400 a day also. , Exploration, 0.0,  clear,  0.00013
+ 00:29:48, let me go to SF… max zoom, square… 400 a day also. , Exploration, 0.0,  range select,  0.00292
+ 00:29:48, let me go to SF… max zoom, square… 400 a day also. , Exploration, 0.0,  clear,  0.00013
+ 00:29:49, let me go to SF… max zoom, square… 400 a day also. , Exploration, 0.0,  brush,  0.00027
+ 00:29:53, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  clear,  0.00013
+ 00:29:53, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  pan,  0.00013
+ 00:29:53, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  zoom,  0.00013
+ 00:29:55, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  pan,  0.00013
+ 00:29:55, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  zoom,  0.00013
+ 00:29:56, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  pan,  0.00013
+ 00:29:56, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  zoom,  0.00013
+ 00:29:59, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  pan,  0.00040
+ 00:29:59, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  zoom,  0.00013
+ 00:30:00, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  pan,  0.00013
+ 00:30:00, that’s Manhattan, max zoom, … oh I understand, it’s actually slightly less than 400. , Exploration, 0.0,  zoom,  0.00013
+ 00:30:08, I guess it confirms the finding which I hypothesized before, which is that, it’s more common in SF, LA than NY. , Sensemaking, 1.0,  pan,  0.00490
+ 00:30:43, It’s interesting that LA has such usage for the same population., Sensemaking, 0.25,  range select,  0.01935
+ 00:30:43, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  pan,  0.00013
+ 00:30:43, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  zoom,  0.00013
+ 00:30:44, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  pan,  0.00013
+ 00:30:44, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  zoom,  0.00013
+ 00:30:46, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  pan,  0.00278
+ 00:30:46, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  zoom,  0.00013
+ 00:30:48, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  pan,  0.00013
+ 00:30:48, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  zoom,  0.00013
+ 00:30:51, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  pan,  0.00013
+ 00:30:58, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  range select,  0.00265
+ 00:30:58, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  pan,  0.00013
+ 00:30:58, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  zoom,  0.00013
+ 00:30:58, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  pan,  0.00013
+ 00:30:58, for some reason the top right, left of LA has a lot of checkins,, Sensemaking, 0.25,  zoom,  0.00013
+ 00:30:59, so I happen to know that, this is west hollywood,, Sensemaking, 0.5,  pan,  0.00013
+ 00:30:59, so I happen to know that, this is west hollywood,, Sensemaking, 0.5,  zoom,  0.00013
+ 00:31:00, so I happen to know that, this is west hollywood,, Sensemaking, 0.5,  pan,  0.00013
+ 00:31:00, so I happen to know that, this is west hollywood,, Sensemaking, 0.5,  zoom,  0.00013
+ 00:31:03, so I happen to know that, this is west hollywood,, Sensemaking, 0.5,  pan,  0.00437
+ 00:31:03, so I happen to know that, this is west hollywood,, Sensemaking, 0.5,  zoom,  0.00013
+ 00:31:03, so I happen to know that, this is west hollywood,, Sensemaking, 0.5,  pan,  0.00013
+ 00:31:03, so I happen to know that, this is west hollywood,, Sensemaking, 0.5,  zoom,  0.00013
+ 00:31:05,  I don’t know if this is … like a hollywood kinda of checkin thing,, Sensemaking, 0.0,  pan,  0.00013
+ 00:31:05,  I don’t know if this is … like a hollywood kinda of checkin thing,, Sensemaking, 0.0,  zoom,  0.00013
+ 00:31:06,  I don’t know if this is … like a hollywood kinda of checkin thing,, Sensemaking, 0.0,  pan,  0.00013
+ 00:31:06,  I don’t know if this is … like a hollywood kinda of checkin thing,, Sensemaking, 0.0,  zoom,  0.00013
+ 00:31:11, I wish I can drag it (the selection) around…, Interface-feedback, 0.0,  pan,  0.00053
+ 00:31:34, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  range select,  0.00199
+ 00:31:34, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:34, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:35, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:35, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:36, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:36, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:36, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:36, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:37, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:37, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:38, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:38, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:38, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:38, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:40, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:40, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:40, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:40, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:41, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:41, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:42, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:42, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:44, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00186
+ 00:31:44, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:45, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:45, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:46, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  pan,  0.00013
+ 00:31:46, I guess we can compare, like, so the US is likely to dominate,, Question, 0.0,  zoom,  0.00013
+ 00:31:56, The majority is US,, Sensemaking, 0.25,  pan,  0.00437
+ 00:32:13, so small fraction in Japan, , Sensemaking, 0.25,  range select,  0.00504
+ 00:32:15, Europe is a little bit more, , Sensemaking, 1.0,  clear,  0.00013
+ 00:32:15, Europe is a little bit more, , Sensemaking, 1.0,  brush,  0.00013
+ 00:32:21, but it’s also bigger,, Sensemaking, 0.5,  clear,  0.00013
+ 00:32:21, but it’s also bigger,, Sensemaking, 0.5,  pan,  0.00013
+ 00:32:21, but it’s also bigger,, Sensemaking, 0.5,  zoom,  0.00013
+ 00:32:22, which means that Japan is slightly more., Sensemaking, 1.0,  pan,  0.00013
+ 00:32:22, which means that Japan is slightly more., Sensemaking, 1.0,  zoom,  0.00013
+ 00:32:25, But definitely US dominated. 
+, Sensemaking, 1.0,  pan,  0.00013
+ 00:32:45, I don’t know what this top 30 traveler display, I don’t care about that. I want to see super users, not bounding box, but… , Question, 0.0,  range select,  0.01603
+ 00:32:49, ‘cause this guy the top one, doesn’t, he’s really sparse, even his bounding box is big., Exploration, 0.0,  clear,  0.00013
+ 00:32:49, This guy he’s checking in a lot…, Sensemaking, 0.0,  pan,  0.00013
+ 00:32:49, This guy he’s checking in a lot…, Sensemaking, 0.0,  zoom,  0.00013
+ 00:32:49, This guy he’s checking in a lot…, Sensemaking, 0.0,  pan,  0.00013
+ 00:32:49, This guy he’s checking in a lot…, Sensemaking, 0.0,  zoom,  0.00013
+ 00:32:50, This guy he’s checking in a lot…, Sensemaking, 0.0,  pan,  0.00013
+ 00:32:50, This guy he’s checking in a lot…, Sensemaking, 0.0,  zoom,  0.00013
+ 00:32:51, This guy he’s checking in a lot…, Sensemaking, 0.0,  pan,  0.00013
+ 00:32:51, This guy he’s checking in a lot…, Sensemaking, 0.0,  zoom,  0.00013
+ 00:32:51, This guy he’s checking in a lot…, Sensemaking, 0.0,  pan,  0.00013
+ 00:32:51, This guy he’s checking in a lot…, Sensemaking, 0.0,  zoom,  0.00013
+ 00:32:52, I want to know where this guy checks in the most,, Question, 0.0,  pan,  0.00013
+ 00:32:52, I want to know where this guy checks in the most,, Question, 0.0,  zoom,  0.00013
+ 00:32:53, I want to know where this guy checks in the most,, Question, 0.0,  pan,  0.00013
+ 00:32:53, I want to know where this guy checks in the most,, Question, 0.0,  zoom,  0.00013
+ 00:32:55, I want to know where this guy checks in the most,, Question, 0.0,  pan,  0.00013
+ 00:33:22, actually this is not the most checkins, this is just the distribution., Sensemaking, 0.0,  range select,  0.01232
+ 00:33:35, month, it doesn’t have the year, so I don’t know how big this dataset is., Sensemaking, 0.0,  pan,  0.00424
+ 00:33:39, So it is not clear if it is just that more people check in the summer, or is it some artifact., Question, 0.0,  range select,  0.00027
+ 00:33:44, there’s these dots here in September, it’s weird, why are they checking in along this line?, Sensemaking, 0.0,  pan,  0.00583
+ 00:33:47, there’s these dots here in September, it’s weird, why are they checking in along this line?, Sensemaking, 0.0,  range select,  0.00013
+ 00:33:47, there’s these dots here in September, it’s weird, why are they checking in along this line?, Sensemaking, 0.0,  pan,  0.00013
+ 00:33:48, there’s these dots here in September, it’s weird, why are they checking in along this line?, Sensemaking, 0.0,  zoom,  0.00013
+ 00:33:49, there’s these dots here in September, it’s weird, why are they checking in along this line?, Sensemaking, 0.0,  pan,  0.00013
+ 00:33:49, there’s these dots here in September, it’s weird, why are they checking in along this line?, Sensemaking, 0.0,  zoom,  0.00013
+ 00:33:53, there’s these dots here in September, it’s weird, why are they checking in along this line?, Sensemaking, 0.0,  pan,  0.00265
+ 00:33:56, there’s these dots here in September, it’s weird, why are they checking in along this line?, Sensemaking, 0.0,  range select,  0.00199
+ 00:33:56, there’s these dots here in September, it’s weird, why are they checking in along this line?, Sensemaking, 0.0,  clear,  0.00013
+ 00:33:57, yeah I have no idea what this thing is, but it’s definitely September, 911? , Sensemaking, 0.0,  brush,  0.00040
+ 00:34:11, yeah I have no idea what this thing is, but it’s definitely September, 911? , Sensemaking, 0.0,  range select,  0.00106
+ 00:34:11, yeah I have no idea what this thing is, but it’s definitely September, 911? , Sensemaking, 0.0,  pan,  0.00013
+ 00:34:11, yeah I have no idea what this thing is, but it’s definitely September, 911? , Sensemaking, 0.0,  zoom,  0.00013
+ 00:34:11, yeah I have no idea what this thing is, but it’s definitely September, 911? , Sensemaking, 0.0,  pan,  0.00013
+ 00:34:11, yeah I have no idea what this thing is, but it’s definitely September, 911? , Sensemaking, 0.0,  zoom,  0.00013
+ 00:34:13, yeah I have no idea what this thing is, but it’s definitely September, 911? , Sensemaking, 0.0,  pan,  0.00013
+ 00:34:21, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  range select,  0.00040
+ 00:34:24, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  clear,  0.00013
+ 00:34:31, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  brush,  0.00901
+ 00:34:32, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  clear,  0.00013
+ 00:34:33, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  brush,  0.00159
+ 00:34:33, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  clear,  0.00013
+ 00:34:34, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  brush,  0.00066
+ 00:34:35, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  clear,  0.00013
+ 00:34:36, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  brush,  0.00013
+ 00:34:37, 9th…. that’s log scale… that’s definitely September, that’s before the 5th, , Sensemaking, 0.0,  clear,  0.00013
+ 00:34:45, yeah looks like there … so looks like someone made a trip and just checked in , Exploration, 0.0,  brush,  0.00292
+ 00:34:46, yeah looks like there … so looks like someone made a trip and just checked in , Exploration, 0.0,  range select,  0.00013
+ 00:34:47, yeah looks like there … so looks like someone made a trip and just checked in , Exploration, 0.0,  pan,  0.00013
+ 00:34:47, yeah looks like there … so looks like someone made a trip and just checked in , Exploration, 0.0,  zoom,  0.00013
+ 00:34:48, yeah looks like there … so looks like someone made a trip and just checked in , Exploration, 0.0,  pan,  0.00013
+ 00:34:48, yeah looks like there … so looks like someone made a trip and just checked in , Exploration, 0.0,  zoom,  0.00013
+ 00:34:50, yeah looks like there … so looks like someone made a trip and just checked in , Exploration, 0.0,  pan,  0.00013
+ 00:34:50, yeah looks like there … so looks like someone made a trip and just checked in , Exploration, 0.0,  zoom,  0.00013
+ 00:35:00, but it looks like it’s not foursquare,, Sensemaking, 0.0,  pan,  0.00199
+ 00:35:00, but it looks like it’s not foursquare,, Sensemaking, 0.0,  zoom,  0.00013
+ 00:35:02, but it looks like it’s not foursquare,, Sensemaking, 0.0,  pan,  0.00013
+ 00:35:02, but it looks like it’s not foursquare,, Sensemaking, 0.0,  zoom,  0.00013
+ 00:35:03, but it looks like it’s not foursquare,, Sensemaking, 0.0,  pan,  0.00013
+ 00:35:03, but it looks like it’s not foursquare,, Sensemaking, 0.0,  zoom,  0.00013
+ 00:35:05, but it looks like it’s not foursquare,, Sensemaking, 0.0,  pan,  0.00013
+ 00:35:05, but it looks like it’s not foursquare,, Sensemaking, 0.0,  zoom,  0.00013
+ 00:35:06, but it looks like it’s not foursquare,, Sensemaking, 0.0,  pan,  0.00013
+ 00:35:06, but it looks like it’s not foursquare,, Sensemaking, 0.0,  zoom,  0.00013
+ 00:35:10, because foursquare doesn’t support GPS., Sensemaking, 0.5,  pan,  0.00013
+ 00:35:33, It looks like this is just one person traveling,, Sensemaking, 0.0,  range select,  0.01603
+ 00:35:34, actually this may not be one person traveling, small number of people., Sensemaking, 0.0,  pan,  0.00013
+ 00:36:11, It is interesting that this trip is found in September,, Sensemaking, 0.0,  range select,  0.01577
+ 00:36:11, oh yeah, found this guy taking a trip in September, starting on the 5th, so it’s like a 7-day something, , Sensemaking, 0.25,  pan,  0.00013
+ 00:36:11,  so here there may be something going on here, somebody taking a tour for a couple of months, , Sensemaking, 0.0,  zoom,  0.00013
+ 00:36:15,  so here there may be something going on here, somebody taking a tour for a couple of months, , Sensemaking, 0.0,  pan,  0.00186
+ 00:36:22,  so here there may be something going on here, somebody taking a tour for a couple of months, , Sensemaking, 0.0,  range select,  0.00053
+ 00:36:22,  so here there may be something going on here, somebody taking a tour for a couple of months, , Sensemaking, 0.0,  pan,  0.00013
+ 00:36:22,  so here there may be something going on here, somebody taking a tour for a couple of months, , Sensemaking, 0.0,  zoom,  0.00013
+ 00:36:26,  so here there may be something going on here, somebody taking a tour for a couple of months, , Sensemaking, 0.0,  pan,  0.00146
+ 00:36:42,  so here there may be something going on here, somebody taking a tour for a couple of months, , Sensemaking, 0.0,  range select,  0.04426
+ 00:36:43, in West Africa,, Sensemaking, 0.0,  clear,  0.00013
+ 00:36:48, in West Africa,, Sensemaking, 0.0,  brush,  0.00477
+ 00:36:49, in West Africa,, Sensemaking, 0.0,  clear,  0.00013
+ 00:37:01, it’s interesting that this guy is popping up here (u7125?), Exploration, 0.0,  brush,  0.00358
+ 00:37:01, it’s interesting that this guy is popping up here (u7125?), Exploration, 0.0,  clear,  0.00013
+ 00:37:02, it’s interesting that this guy is popping up here (u7125?), Exploration, 0.0,  brush,  0.00013
+ 00:37:03, Deselect that … oh it doesn’t pop up. , None, 0.0,  clear,  0.00013
+ 00:37:03, Deselect that … oh it doesn’t pop up. , None, 0.0,  pan,  0.00013
+ 00:37:03, Deselect that … oh it doesn’t pop up. , None, 0.0,  zoom,  0.00013
+ 00:37:04, Deselect that … oh it doesn’t pop up. , None, 0.0,  pan,  0.00013
+ 00:37:04, Deselect that … oh it doesn’t pop up. , None, 0.0,  zoom,  0.00013
+ 00:37:05, Deselect that … oh it doesn’t pop up. , None, 0.0,  pan,  0.00013
+ 00:37:05, Deselect that … oh it doesn’t pop up. , None, 0.0,  clear,  0.00013
+ 00:37:05, Deselect that … oh it doesn’t pop up. , None, 0.0,  brush,  0.00146
+ 00:37:06, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  clear,  0.00013
+ 00:37:09, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  brush,  0.00451
+ 00:37:09, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  clear,  0.00013
+ 00:37:09, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  brush,  0.00066
+ 00:37:09, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  clear,  0.00013
+ 00:37:09, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  brush,  0.00040
+ 00:37:09, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  clear,  0.00013
+ 00:37:19, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  brush,  0.00371
+ 00:37:20, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  range select,  0.00013
+ 00:37:20, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  pan,  0.00013
+ 00:37:20, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  zoom,  0.00013
+ 00:37:21, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  pan,  0.00013
+ 00:37:21, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  zoom,  0.00013
+ 00:37:26, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  pan,  0.00013
+ 00:37:27, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  clear,  0.00013
+ 00:37:33, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  brush,  0.00888
+ 00:37:33, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  clear,  0.00013
+ 00:37:34, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  brush,  0.00146
+ 00:37:35, a data thing... some months end in 30th and some end in 31st. so I discovered that :), Sensemaking, 0.25,  clear,  0.00013
+ 00:37:53, let’s look at days, Question, 0.0,  brush,  0.00371
+ 00:38:04, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  range select,  0.00013
+ 00:38:05, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  clear,  0.00013
+ 00:38:05, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  brush,  0.00013
+ 00:38:08, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  range select,  0.00013
+ 00:38:08, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  pan,  0.00013
+ 00:38:08, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  zoom,  0.00013
+ 00:38:09, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  pan,  0.00013
+ 00:38:09, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  zoom,  0.00013
+ 00:38:12, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  pan,  0.00013
+ 00:38:12, I think it’s obvious that once I have an animated gif I can stare at it,, None, 0.0,  zoom,  0.00013
+ 00:38:13, I constantly replay this and look at different parts, see like…. this guy, he’s in there
+, None, 0.0,  pan,  0.00013
+ 00:38:13, I constantly replay this and look at different parts, see like…. this guy, he’s in there
+, None, 0.0,  zoom,  0.00013
+ 00:38:19, I constantly replay this and look at different parts, see like…. this guy, he’s in there
+, None, 0.0,  pan,  0.00013
+ 00:38:20, I constantly replay this and look at different parts, see like…. this guy, he’s in there
+, None, 0.0,  clear,  0.00013
+ 00:38:28, hour is … guess people woke up.  , Question, 0.0,  brush,  0.00398
+ 00:38:28, hour is … guess people woke up.  , Question, 0.0,  clear,  0.00013
+ 00:38:47, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.00729
+ 00:38:47, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:38:49, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.00451
+ 00:38:49, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:38:50, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.00146
+ 00:38:50, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:38:51, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.00159
+ 00:38:51, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:38:52, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.00239
+ 00:38:52, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:38:52, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.00013
+ 00:38:53, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:38:53, yeah we know it’s an English-based … , Question, 0.0,  pan,  0.00013
+ 00:38:53, yeah we know it’s an English-based … , Question, 0.0,  zoom,  0.00013
+ 00:38:53, yeah we know it’s an English-based … , Question, 0.0,  pan,  0.00013
+ 00:38:53, yeah we know it’s an English-based … , Question, 0.0,  zoom,  0.00013
+ 00:38:54, yeah we know it’s an English-based … , Question, 0.0,  pan,  0.00013
+ 00:38:54, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:38:54, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.00080
+ 00:38:55, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:39:08, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.02730
+ 00:39:08, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:39:11, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.01219
+ 00:39:11, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:39:13, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.00398
+ 00:39:13, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:39:14, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.00424
+ 00:39:14, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:39:17, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.01232
+ 00:39:17, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:39:19, yeah we know it’s an English-based … , Question, 0.0,  brush,  0.01391
+ 00:39:20, yeah we know it’s an English-based … , Question, 0.0,  clear,  0.00013
+ 00:39:33, I see if there’s variations between …. summer which is, Question, 0.0,  brush,  0.03684
+ 00:39:33, I see if there’s variations between …. summer which is, Question, 0.0,  clear,  0.00013
+ 00:39:34, I see if there’s variations between …. summer which is, Question, 0.0,  brush,  0.00398
+ 00:39:34, I see if there’s variations between …. summer which is, Question, 0.0,  clear,  0.00013
+ 00:39:40, I see if there’s variations between …. summer which is, Question, 0.0,  brush,  0.00848
+ 00:39:40, I see if there’s variations between …. summer which is, Question, 0.0,  clear,  0.00013
+ 00:39:40, I see if there’s variations between …. summer which is, Question, 0.0,  brush,  0.00199
+ 00:39:40, I see if there’s variations between …. summer which is, Question, 0.0,  clear,  0.00013
+ 00:39:41, I see if there’s variations between …. summer which is, Question, 0.0,  brush,  0.00371
+ 00:39:42, I see if there’s variations between …. summer which is, Question, 0.0,  clear,  0.00013
+ 00:39:45, I see if there’s variations between …. summer which is, Question, 0.0,  brush,  0.00305
+ 00:39:45, I see if there’s variations between …. summer which is, Question, 0.0,  clear,  0.00013
+ 00:39:47, I see if there’s variations between …. summer which is, Question, 0.0,  brush,  0.00305
+ 00:39:47, I see if there’s variations between …. summer which is, Question, 0.0,  clear,  0.00013
+ 00:39:52, I see if there’s variations between …. summer which is, Question, 0.0,  brush,  0.00967
+ 00:39:52, I see if there’s variations between …. summer which is, Question, 0.0,  clear,  0.00013
+ 00:39:56, I see if there’s variations between …. summer which is, Question, 0.0,  brush,  0.00795
+ 00:40:09, I see if there’s variations between …. summer which is, Question, 0.0,  clear,  0.00013
+ 00:40:09, I see if there’s variations between …. summer which is, Question, 0.0,  pan,  0.00013
+ 00:40:09, I see if there’s variations between …. summer which is, Question, 0.0,  zoom,  0.00013
+ 00:40:10, I see if there’s variations between …. summer which is, Question, 0.0,  pan,  0.00013
+ 00:40:10, I see if there’s variations between …. summer which is, Question, 0.0,  zoom,  0.00013
+ 00:40:12, I see if there’s variations between …. summer which is, Question, 0.0,  pan,  0.00013
+ 00:40:12, I see if there’s variations between …. summer which is, Question, 0.0,  zoom,  0.00013
+ 00:40:20, I see if there’s variations between …. summer which is, Question, 0.0,  pan,  0.01285
+ 00:40:24, I see if there’s variations between …. summer which is, Question, 0.0,  range select,  0.00172
+ 00:40:24, I see if there’s variations between …. summer which is, Question, 0.0,  pan,  0.00013
+ 00:40:24, I see if there’s variations between …. summer which is, Question, 0.0,  zoom,  0.00013
+ 00:40:25, I see if there’s variations between …. summer which is, Question, 0.0,  pan,  0.00013
+ 00:40:25, I see if there’s variations between …. summer which is, Question, 0.0,  zoom,  0.00013
+ 00:40:26, I hypothesize that people travel differently … like August and September,, Question, 0.0,  pan,  0.00013
+ 00:40:26, I hypothesize that people travel differently … like August and September,, Question, 0.0,  zoom,  0.00013
+ 00:40:33, I hypothesize that people travel differently … like August and September,, Question, 0.0,  pan,  0.00941
+ 00:40:35, I hypothesize that people travel differently … like August and September,, Question, 0.0,  range select,  0.00013
+ 00:40:35, I hypothesize that people travel differently … like August and September,, Question, 0.0,  clear,  0.00013
+ 00:40:37, I hypothesize that people travel differently … like August and September,, Question, 0.0,  brush,  0.00159
+ 00:40:37, I hypothesize that people travel differently … like August and September,, Question, 0.0,  clear,  0.00013
+ 00:40:37, I hypothesize that people travel differently … like August and September,, Question, 0.0,  brush,  0.00027
+ 00:40:38, I hypothesize that people travel differently … like August and September,, Question, 0.0,  clear,  0.00013
+ 00:40:40, I hypothesize that people travel differently … like August and September,, Question, 0.0,  brush,  0.00159
+ 00:40:41, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  clear,  0.00013
+ 00:40:42, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  brush,  0.00133
+ 00:40:42, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  clear,  0.00013
+ 00:40:42, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  brush,  0.00053
+ 00:40:43, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  clear,  0.00013
+ 00:40:44, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  pan,  0.00225
+ 00:40:44, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  clear,  0.00013
+ 00:40:44, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  brush,  0.00013
+ 00:40:44, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  clear,  0.00013
+ 00:40:47, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  brush,  0.00318
+ 00:40:48, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  clear,  0.00013
+ 00:40:49, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  brush,  0.00239
+ 00:40:49, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  clear,  0.00013
+ 00:40:52, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  brush,  0.00557
+ 00:40:53, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  clear,  0.00013
+ 00:40:54, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  brush,  0.00411
+ 00:40:54, there’s lot of interstate exhibiting… that kind of stands out here., Sensemaking, 0.0,  clear,  0.00013
+ 00:40:55, I just noticed that people travel more in August, , Sensemaking, 1.0,  brush,  0.00212
+ 00:40:56, I just noticed that people travel more in August, , Sensemaking, 1.0,  clear,  0.00013
+ 00:40:56, I just noticed that people travel more in August, , Sensemaking, 1.0,  brush,  0.00318
+ 00:40:57, I just noticed that people travel more in August, , Sensemaking, 1.0,  clear,  0.00013
+ 00:40:57, I just noticed that people travel more in August, , Sensemaking, 1.0,  brush,  0.00146
+ 00:40:57, I just noticed that people travel more in August, , Sensemaking, 1.0,  clear,  0.00013
+ 00:40:58, I just noticed that people travel more in August, , Sensemaking, 1.0,  brush,  0.00239
+ 00:40:58, I just noticed that people travel more in August, , Sensemaking, 1.0,  clear,  0.00013
+ 00:41:05, I just noticed that people travel more in August, , Sensemaking, 1.0,  brush,  0.02544
+ 00:41:05, I just noticed that people travel more in August, , Sensemaking, 1.0,  clear,  0.00013
+ 00:41:06, I just noticed that people travel more in August, , Sensemaking, 1.0,  brush,  0.00371
+ 00:41:06, I just noticed that people travel more in August, , Sensemaking, 1.0,  clear,  0.00013
+ 00:41:06, I just noticed that people travel more in August, , Sensemaking, 1.0,  brush,  0.00027
+ 00:41:06, I just noticed that people travel more in August, , Sensemaking, 1.0,  clear,  0.00013
+ 00:41:06, I just noticed that people travel more in August, , Sensemaking, 1.0,  brush,  0.00027
+ 00:41:06, I just noticed that people travel more in August, , Sensemaking, 1.0,  clear,  0.00013
+ 00:41:06, I just noticed that people travel more in August, , Sensemaking, 1.0,  brush,  0.00040
+ 00:41:06, I just noticed that people travel more in August, , Sensemaking, 1.0,  clear,  0.00013
+ 00:41:08, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00676
+ 00:41:08, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:10, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.01219
+ 00:41:10, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:11, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00053
+ 00:41:11, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:11, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00053
+ 00:41:11, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:11, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00239
+ 00:41:11, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:13, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00583
+ 00:41:13, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:14, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00464
+ 00:41:14, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:14, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00106
+ 00:41:14, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:23, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.04452
+ 00:41:23, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:29, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.01670
+ 00:41:29, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:41:33, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00464
+ 00:41:35, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00225
+ 00:41:35, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:41:36, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00106
+ 00:41:37, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:41:38, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00265
+ 00:41:38, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:42:22, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.02120
+ 00:42:22, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:42:43, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.03631
+ 00:42:43, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:42:43, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:42:43, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:42:44, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:42:44, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00013
+ 00:42:44, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:42:45, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00411
+ 00:42:45, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:42:46, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00424
+ 00:42:46, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:42:47, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00345
+ 00:42:47, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:42:52, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.02372
+ 00:42:53, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:42:56, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00623
+ 00:43:00, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:43:00, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00212
+ 00:43:00, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:43:01, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00159
+ 00:43:17, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:43:18, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:43:18, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:43:33, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00914
+ 00:43:33, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:44:27, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.06559
+ 00:44:27, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:44:32, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.02796
+ 00:44:32, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:44:49, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00596
+ 00:44:50, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:44:50, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:44:50, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:44:51, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:44:51, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:45:02, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:45:02, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:45:03, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:45:03, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:45:04, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:45:04, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:45:04, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:45:04, some people go to school and they check in on the way. , Sensemaking, 0.0,  zoom,  0.00013
+ 00:45:09, some people go to school and they check in on the way. , Sensemaking, 0.0,  pan,  0.00013
+ 00:45:09, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:45:10, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00477
+ 00:45:10, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:45:10, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00013
+ 00:45:26, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:45:30, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.01497
+ 00:45:30, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:45:33, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00437
+ 00:45:33, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:45:34, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00398
+ 00:45:34, some people go to school and they check in on the way. , Sensemaking, 0.0,  clear,  0.00013
+ 00:45:40, some people go to school and they check in on the way. , Sensemaking, 0.0,  brush,  0.00146

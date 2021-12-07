@@ -1,0 +1,328 @@
+ 00:32:27, but that's because there are fewer of those., Exploration, 0.5,  brush,  0.00088
+ 00:32:27, otherwise it's pretty uniform, as we would expect., Exploration, 0.25,  clear,  0.00044
+ 00:32:27, You know what would be interesting, actually, would be to have this not by day of the month but by day of the week,, Exploration, 0.0,  brush,  0.00132
+ 00:32:27, I bet you'll see some real patterns there,, Question, 0.0,  clear,  0.00044
+ 00:32:28, actually you'll see some huge patterns probably because people work, you know, Monday through Friday,, Question, 0.0,  brush,  0.00044
+ 00:32:36, and the trains run different schedules on the weekends and everything., Question, 0.0,  clear,  0.00044
+ 00:32:36, So, which brings to mind an astronomy story I'll tell you later., Question, 0.0,  brush,  0.00307
+ 00:32:44, See if in warmer months people go to more northern latitudes for example,, Question, 0.0,  clear,  0.00044
+ 00:32:44, See if in warmer months people go to more northern latitudes for example,, Question, 0.0,  brush,  0.00044
+ 00:33:09, i don't think they do, they keep traveling up in Canada and Siberia., Sensemaking, 0.25,  clear,  0.00044
+ 00:33:55, Yeah definitely more people in the far north in the summer months, Sensemaking, 1.0,  brush,  0.01405
+ 00:33:57, September, has just got.. this must be some artifact, what is going on there?, Sensemaking, 0.0,  clear,  0.00044
+ 00:34:22, is this like all cruise ship or something?, Sensemaking, 0.0,  brush,  0.00922
+ 00:34:22, it's going across the gulf of Mexico,, Sensemaking, 0.25,  clear,  0.00044
+ 00:34:23, I mean sure there's a few people out there, you know, communicating from their boats and oil platforms and so on, but not that many., Question, 0.0,  brush,  0.00220
+ 00:34:24, the day is not very interesting,, Question, 0.0,  clear,  0.00044
+ 00:34:28, the day is not very interesting,, Question, 0.0,  pan,  0.01625
+ 00:34:28, the day is not very interesting,, Question, 0.0,  zoom,  0.00044
+ 00:34:29, the day is not very interesting,, Question, 0.0,  pan,  0.00044
+ 00:34:29, the day is not very interesting,, Question, 0.0,  zoom,  0.00044
+ 00:34:29, the day is not very interesting,, Question, 0.0,  pan,  0.00044
+ 00:34:30, the day is not very interesting,, Question, 0.0,  clear,  0.00044
+ 00:34:30, the day is not very interesting,, Question, 0.0,  brush,  0.00132
+ 00:34:34, the day is not very interesting,, Question, 0.0,  clear,  0.00044
+ 00:34:34, the day is not very interesting,, Question, 0.0,  brush,  0.00044
+ 00:34:36, the day is not very interesting,, Question, 0.0,  clear,  0.00044
+ 00:35:06, the hour should be interesting, Question, 0.0,  brush,  0.01010
+ 00:35:15, I mean just looking at the hour graph, in the absence of looking at geographic data, you know, you do see that in most of the world people do sleep at night,, Sensemaking, 1.0,  clear,  0.00044
+ 00:35:15, they probably actually eat dinner or get drinks or something between something like, you know, four and five,, Sensemaking, 0.0,  pan,  0.00044
+ 00:35:15, there's a definite dip there., Sensemaking, 0.25,  zoom,  0.00044
+ 00:35:16, Peak is around seven, seven and eight in the evening,, Sensemaking, 0.0,  pan,  0.00044
+ 00:35:16, Peak is around seven, seven and eight in the evening,, Sensemaking, 0.0,  zoom,  0.00044
+ 00:35:20, Peak is around seven, seven and eight in the evening,, Sensemaking, 0.0,  pan,  0.00044
+ 00:35:20, Peak is around seven, seven and eight in the evening,, Sensemaking, 0.0,  brush,  0.00132
+ 00:35:25, Peak is around seven, seven and eight in the evening,, Sensemaking, 0.0,  clear,  0.00044
+ 00:35:36, which anyone who's got a bad internet connection knows,, Sensemaking, 0.0,  brush,  0.00132
+ 00:36:03, now I wonder if we can detect patterns of activity geographically., Question, 0.0,  clear,  0.00044
+ 00:36:23, I wanna see, well, we know that, you know, in Spain people eat late, right? , Question, 0.0,  brush,  0.01098
+ 00:36:23, So if my theory about not texting or eating is right, then if I select Spain, I should see a different shape., Question, 0.0,  clear,  0.00044
+ 00:36:36, So, yeah, Spain is pretty flat except for sleepy time., Sensemaking, 1.0,  brush,  0.00747
+ 00:36:45, So, yeah, Spain is pretty flat except for sleepy time., Sensemaking, 1.0,  clear,  0.00044
+ 00:36:45, So, yeah, Spain is pretty flat except for sleepy time., Sensemaking, 1.0,  brush,  0.00044
+ 00:36:45, So, yeah, Spain is pretty flat except for sleepy time., Sensemaking, 1.0,  clear,  0.00044
+ 00:36:45, So, yeah, Spain is pretty flat except for sleepy time., Sensemaking, 1.0,  brush,  0.00044
+ 00:37:08, OK, let's go some place like Germany where they eat early,, Exploration, 0.0,  clear,  0.00044
+ 00:37:09, but.. you know it's still gonna be flat., Exploration, 0.25,  pan,  0.00044
+ 00:37:09, but.. you know it's still gonna be flat., Exploration, 0.25,  zoom,  0.00044
+ 00:37:13, but.. you know it's still gonna be flat., Exploration, 0.25,  pan,  0.01054
+ 00:37:13, but.. you know it's still gonna be flat., Exploration, 0.25,  zoom,  0.00044
+ 00:37:20, but.. you know it's still gonna be flat., Exploration, 0.25,  pan,  0.01054
+ 00:37:45, OK let's go to the US., Question, 0.0,  range select,  0.02152
+ 00:37:46, a little bit of dip there., Sensemaking, 0.25,  clear,  0.00044
+ 00:37:46, looking for a week, week patterns here., Sensemaking, 0.0,  brush,  0.00044
+ 00:37:48, looking for a week, week patterns here., Sensemaking, 0.0,  clear,  0.00044
+ 00:37:57, many many more contacts come from the US than the rest of the world., Sensemaking, 0.0,  pan,  0.03513
+ 00:38:03, many many more contacts come from the US than the rest of the world., Sensemaking, 0.0,  range select,  0.02591
+ 00:38:08, many many more contacts come from the US than the rest of the world., Sensemaking, 0.0,  pan,  0.02284
+ 00:38:20, They account for, you know, 90% of that or something, Sensemaking, 0.0,  range select,  0.01888
+ 00:38:21, This is log scale, you're right, percentage wise I was wrong, it only accounts for more like, you know, 60% or something, still a lot though., Sensemaking, 0.25,  clear,  0.00044
+ 00:38:26, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  pan,  0.03294
+ 00:38:34, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  range select,  0.01713
+ 00:38:35, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  clear,  0.00044
+ 00:38:35, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  brush,  0.00044
+ 00:38:35, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  clear,  0.00044
+ 00:38:37, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  brush,  0.00044
+ 00:38:37, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  clear,  0.00044
+ 00:38:37, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  brush,  0.00044
+ 00:38:38, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  clear,  0.00044
+ 00:38:39, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  pan,  0.00044
+ 00:38:39, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  zoom,  0.00044
+ 00:38:39, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  pan,  0.00044
+ 00:38:39, I have my intuition I should be able to do this with the sliders, I want to cut off the low frequency places, Exploration, 0.0,  zoom,  0.00044
+ 00:38:43, Yeah well it shows it, it's a little subtle but ... yeah that's ... the red areas are the busy areas, Exploration, 0.0,  pan,  0.01098
+ 00:39:10, as you'd expect, you know, it's US, western Europe, Japan, and a little bit in eastern Australia, those are the red spots., Exploration, 0.25,  range select,  0.02152
+ 00:39:11, as you'd expect, you know, it's US, western Europe, Japan, and a little bit in eastern Australia, those are the red spots., Exploration, 0.25,  clear,  0.00044
+ 00:39:11, as you'd expect, you know, it's US, western Europe, Japan, and a little bit in eastern Australia, those are the red spots., Exploration, 0.25,  brush,  0.00132
+ 00:39:12, as you'd expect, you know, it's US, western Europe, Japan, and a little bit in eastern Australia, those are the red spots., Exploration, 0.25,  clear,  0.00044
+ 00:40:12, Well now how about these roving people here? (he means top 30 travelers), Exploration, 0.0,  pan,  0.08915
+ 00:40:12, Number one here there's dots all over the world., Exploration, 0.25,  clear,  0.00044
+ 00:40:12, Number one here there's dots all over the world., Exploration, 0.25,  brush,  0.00220
+ 00:40:12, Number one here there's dots all over the world., Exploration, 0.25,  clear,  0.00044
+ 00:40:12, Number one here there's dots all over the world., Exploration, 0.25,  brush,  0.00351
+ 00:40:15, Number one here there's dots all over the world., Exploration, 0.25,  clear,  0.00044
+ 00:40:15, Number one here there's dots all over the world., Exploration, 0.25,  brush,  0.00044
+ 00:40:16, Number one here there's dots all over the world., Exploration, 0.25,  clear,  0.00044
+ 00:40:16, Number one here there's dots all over the world., Exploration, 0.25,  brush,  0.00044
+ 00:40:19, Number one here there's dots all over the world., Exploration, 0.25,  clear,  0.00044
+ 00:42:48, Number 2, they are clustered pretty much in the US and the Europe,, Exploration, 0.25,  brush,  0.01932
+ 00:42:58, number 3 is like US, Europe and China, Japan., Exploration, 0.25,  clear,  0.00044
+ 00:42:59, This one (u9112) is a Kiwi who travels a lot, New Zealand., Exploration, 0.0,  brush,  0.00088
+ 00:43:07, interesting would be, say let's see, the times of the year when the traveler traveled, Question, 0.0,  clear,  0.00044
+ 00:43:08, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  brush,  0.00044
+ 00:43:09, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  clear,  0.00044
+ 00:43:14, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  brush,  0.00044
+ 00:43:16, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  clear,  0.00044
+ 00:43:17, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  brush,  0.00044
+ 00:43:46, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  range select,  0.00834
+ 00:43:47, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  clear,  0.00044
+ 00:43:47, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  brush,  0.00220
+ 00:43:48, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  clear,  0.00044
+ 00:43:48, I think doing this across travelers doesn't make sense because travelers from different parts of the world will have different habits, but if we take a traveler, if I took, you know.., Question, 0.0,  brush,  0.00044
+ 00:48:11, I wanna say, ask, you know, when did they travel? say what months? , Question, 0.0,  range select,  0.00264
+ 00:48:17, or what was the distribution of their home communications and travel communications, Question, 0.0,  clear,  0.00044
+ 00:48:18, But that only tells me the total number of checkins that individual made by month, it doesn't say, this has nothing to do with where they were when they made those checkins., Question, 0.0,  brush,  0.00220
+ 00:48:22, I'm interested in where this person is based, right? where do they spend most of their time?, Question, 0.0,  clear,  0.00044
+ 00:48:39, So this would be u69, seems to talk more from San Francisco than anywhere else., Sensemaking, 1.0,  brush,  0.01274
+ 00:48:40, Interestingly if I go from one to one they are still not the same color, the best part is some ??? phenomena, Sensemaking, 0.0,  clear,  0.00044
+ 00:48:41, OK, let's see this guy is out of Seattle, u102,, Sensemaking, 0.0,  brush,  0.00088
+ 00:48:41, this is LA, OK, Sensemaking, 0.0,  clear,  0.00044
+ 00:48:52, this is another Seattle (u7125), Sensemaking, 0.0,  brush,  0.00527
+ 00:48:53, This one's Chicago (u560), Sensemaking, 0.0,  clear,  0.00044
+ 00:49:01, So for what it's worth, we can figure out where people do most of their communicating,, Sensemaking, 1.0,  brush,  0.01010
+ 00:49:03, In a way actually it would be kind of neat to have this be GMT instead of local, Interface-feedback, 0.0,  clear,  0.00044
+ 00:49:09, I mean they are both useful, but then you'll be able to see the, you know, activity sweeps across, Interface-feedback, 0.0,  brush,  0.01054
+ 00:49:19, Not surprisingly the busiest time in Antarctica is their summer, January., Exploration, 0.25,  clear,  0.00044
+ 00:49:19, Not surprisingly the busiest time in Antarctica is their summer, January., Exploration, 0.25,  brush,  0.00044
+ 00:49:43, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:49:43, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00220
+ 00:49:43, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:49:43, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00220
+ 00:49:44, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:49:49, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.02942
+ 00:49:51, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:09, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.01142
+ 00:50:09, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:10, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00132
+ 00:50:11, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:16, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00527
+ 00:50:17, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:20, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00264
+ 00:50:20, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:20, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00483
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:21, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00132
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00395
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:22, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00088
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00615
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.00044
+ 00:50:23, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:25, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:30, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.04875
+ 00:50:30, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00088
+ 00:50:32, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:38, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00483
+ 00:50:39, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:46, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00527
+ 00:50:47, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:47, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:50:47, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:50, here's someone, looks like they are traveling by road,, Exploration, 0.0,  pan,  0.01230
+ 00:50:50, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:51, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00966
+ 00:50:51, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:50:51, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:51:00, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:51:00, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:51:31, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:51:42, here's someone, looks like they are traveling by road,, Exploration, 0.0,  brush,  0.00044
+ 00:51:54, here's someone, looks like they are traveling by road,, Exploration, 0.0,  range select,  0.00922
+ 00:52:06, here's someone, looks like they are traveling by road,, Exploration, 0.0,  clear,  0.00044
+ 00:53:19, cause the hits are all linear, there was a beauty back here, you can see them driving along ..., Exploration, 0.25,  brush,  0.01888
+ 00:53:25, that one, bing bing bing bing,, Exploration, 0.0,  clear,  0.00044
+ 00:53:31, Just going along interstate, you know, whereas the other you can see that they're scattered all over the place., Question, 0.0,  range select,  0.01318
+ 00:53:34, let's try looking at the shape here of activity by month, and why don't I see if I can split this by hemisphere?, Question, 0.0,  pan,  0.00044
+ 00:53:34, let's try looking at the shape here of activity by month, and why don't I see if I can split this by hemisphere?, Question, 0.0,  zoom,  0.00044
+ 00:53:36, let's try looking at the shape here of activity by month, and why don't I see if I can split this by hemisphere?, Question, 0.0,  pan,  0.00044
+ 00:53:36, let's try looking at the shape here of activity by month, and why don't I see if I can split this by hemisphere?, Question, 0.0,  zoom,  0.00044
+ 00:53:38, let's try looking at the shape here of activity by month, and why don't I see if I can split this by hemisphere?, Question, 0.0,  pan,  0.00044
+ 00:53:38, let's try looking at the shape here of activity by month, and why don't I see if I can split this by hemisphere?, Question, 0.0,  zoom,  0.00044
+ 00:53:43, let's try looking at the shape here of activity by month, and why don't I see if I can split this by hemisphere?, Question, 0.0,  pan,  0.00044
+ 00:53:43, let's try looking at the shape here of activity by month, and why don't I see if I can split this by hemisphere?, Question, 0.0,  zoom,  0.00044
+ 00:53:48, let's try looking at the shape here of activity by month, and why don't I see if I can split this by hemisphere?, Question, 0.0,  pan,  0.00044
+ 00:54:35, So they don't actually show me the equator on the map but I know about where it is., Interface-feedback, 0.0,  range select,  0.00834
+ 00:54:35, So they don't actually show me the equator on the map but I know about where it is., Interface-feedback, 0.0,  pan,  0.00044
+ 00:54:35, So they don't actually show me the equator on the map but I know about where it is., Interface-feedback, 0.0,  zoom,  0.00044
+ 00:54:36, So they don't actually show me the equator on the map but I know about where it is., Interface-feedback, 0.0,  pan,  0.00044
+ 00:54:36, So they don't actually show me the equator on the map but I know about where it is., Interface-feedback, 0.0,  zoom,  0.00044
+ 00:54:36, So they don't actually show me the equator on the map but I know about where it is., Interface-feedback, 0.0,  pan,  0.00044
+ 00:54:37, So they don't actually show me the equator on the map but I know about where it is., Interface-feedback, 0.0,  zoom,  0.00044
+ 00:54:37, So they don't actually show me the equator on the map but I know about where it is., Interface-feedback, 0.0,  pan,  0.00044
+ 00:54:37, So they don't actually show me the equator on the map but I know about where it is., Interface-feedback, 0.0,  zoom,  0.00044
+ 00:54:42, Let's see it is over here, goes through Ecuador,, Sensemaking, 0.0,  pan,  0.00044
+ 00:54:52, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  clear,  0.00044
+ 00:54:52, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  brush,  0.00044
+ 00:54:52, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  clear,  0.00044
+ 00:54:52, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  brush,  0.00220
+ 00:54:52, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  clear,  0.00044
+ 00:54:52, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  brush,  0.00088
+ 00:55:04, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  clear,  0.00044
+ 00:55:05, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  brush,  0.00395
+ 00:55:05, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  clear,  0.00044
+ 00:55:05, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  brush,  0.00483
+ 00:55:06, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  clear,  0.00044
+ 00:55:07, so that's northern hemisphere, and what's this... matches pretty close to the total, because most of the activity is in the northern hemisphere. , Sensemaking, 0.0,  brush,  0.00527
+ 00:55:12, yeah hard to tell because the numbers in the northern hemisphere dominate so much that that's gonna determine the shape of the curve., Sensemaking, 0.25,  clear,  0.00044
+ 00:55:12, yeah hard to tell because the numbers in the northern hemisphere dominate so much that that's gonna determine the shape of the curve., Sensemaking, 0.25,  brush,  0.00132
+ 00:55:15, yeah hard to tell because the numbers in the northern hemisphere dominate so much that that's gonna determine the shape of the curve., Sensemaking, 0.25,  clear,  0.00044
+ 00:55:31, yeah hard to tell because the numbers in the northern hemisphere dominate so much that that's gonna determine the shape of the curve., Sensemaking, 0.25,  pan,  0.05753
+ 00:55:32, yeah hard to tell because the numbers in the northern hemisphere dominate so much that that's gonna determine the shape of the curve., Sensemaking, 0.25,  clear,  0.00044
+ 00:55:32, yeah hard to tell because the numbers in the northern hemisphere dominate so much that that's gonna determine the shape of the curve., Sensemaking, 0.25,  pan,  0.00044
+ 00:55:32, yeah hard to tell because the numbers in the northern hemisphere dominate so much that that's gonna determine the shape of the curve., Sensemaking, 0.25,  zoom,  0.00044
+ 00:55:33, yeah hard to tell because the numbers in the northern hemisphere dominate so much that that's gonna determine the shape of the curve., Sensemaking, 0.25,  pan,  0.00044
+ 00:55:33, yeah hard to tell because the numbers in the northern hemisphere dominate so much that that's gonna determine the shape of the curve., Sensemaking, 0.25,  zoom,  0.00044
+ 00:55:40, Southern hemisphere looks pretty flat., Sensemaking, 0.25,  pan,  0.00044
+ 00:55:58, do people use it more when the days are longer?, Question, 0.0,  range select,  0.02723
+ 00:55:58, do people use it more when the days are longer?, Question, 0.0,  clear,  0.00044
+ 00:55:58, do people use it more when the days are longer?, Question, 0.0,  brush,  0.00044
+ 00:56:03, I mean it kinda seems that way, right? It's dominated by the  northern hemisphere,, Question, 0.0,  clear,  0.00044
+ 00:56:18,  and we are seeing that, you know, the summer months have more activity., Sensemaking, 1.0,  range select,  0.04260
+ 00:56:37, I guess what I should do, is go through the months, well... can I see a pattern... again if I can see a geographic pattern by month,, Question, 0.0,  clear,  0.00044
+ 00:56:37, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  brush,  0.00044
+ 00:56:37, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  clear,  0.00044
+ 00:56:38, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  brush,  0.00307
+ 00:56:42, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  clear,  0.00044
+ 00:56:42, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  brush,  0.00351
+ 00:56:42, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  clear,  0.00044
+ 00:56:44, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  brush,  0.00483
+ 00:56:51, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  clear,  0.00044
+ 00:56:52, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  brush,  0.00044
+ 00:56:52, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  clear,  0.00044
+ 00:56:52, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  brush,  0.00132
+ 00:56:52, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  clear,  0.00044
+ 00:56:52, Yeah we've already looked at the extreme latitudes there's more in the summer there, not surprising,, Sensemaking, 0.0,  brush,  0.00176
+ 00:57:06, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  clear,  0.00044
+ 00:57:06, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  brush,  0.00220
+ 00:57:07, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  clear,  0.00044
+ 00:57:19, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  brush,  0.00659
+ 00:57:19, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  clear,  0.00044
+ 00:57:19, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  brush,  0.00044
+ 00:57:22, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  clear,  0.00044
+ 00:57:22, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  pan,  0.00044
+ 00:57:22, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  zoom,  0.00044
+ 00:57:24, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  pan,  0.00044
+ 00:57:24, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  zoom,  0.00044
+ 00:57:26, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  pan,  0.00044
+ 00:57:26, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  clear,  0.00044
+ 00:57:26, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  brush,  0.00132
+ 00:57:26, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  clear,  0.00044
+ 00:57:37, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  brush,  0.00351
+ 00:57:37, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  clear,  0.00044
+ 00:57:38, now I'm looking at the top 30 travelers by month just to see if I see anything there., Exploration, 0.0,  brush,  0.00132
+ 00:58:13, we have an individual (u2278) who had a lot of activity in May,, Exploration, 0.25,  clear,  0.00044
+ 00:58:13, we have an individual (u2278) who had a lot of activity in May,, Exploration, 0.25,  brush,  0.00044
+ 00:58:18, we have an individual (u2278) who had a lot of activity in May,, Exploration, 0.25,  clear,  0.00044
+ 00:58:18, we have an individual (u2278) who had a lot of activity in May,, Exploration, 0.25,  brush,  0.00132
+ 00:58:24, we have an individual (u2278) who had a lot of activity in May,, Exploration, 0.25,  clear,  0.00044
+ 00:58:34, but again it doesn't tell us anything about where they had that activity., Question, 0.0,  brush,  0.00615
+ 00:58:35, but again it doesn't tell us anything about where they had that activity., Question, 0.0,  clear,  0.00044
+ 00:58:35, but again it doesn't tell us anything about where they had that activity., Question, 0.0,  brush,  0.00132
+ 00:58:35, but again it doesn't tell us anything about where they had that activity., Question, 0.0,  clear,  0.00044
+ 00:58:35, but again it doesn't tell us anything about where they had that activity., Question, 0.0,  brush,  0.00307
+ 00:58:36, but again it doesn't tell us anything about where they had that activity., Question, 0.0,  clear,  0.00044
+ 00:59:40, We had a few .. we had all the activity in the month of October, which is a little suspicious,, Question, 0.0,  brush,  0.00834
+ 00:59:41, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:01:06, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.01098
+ 01:01:17, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:01:21, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00176
+ 01:01:21, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:01:38, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00395
+ 01:01:42, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:01:43, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00132
+ 01:01:46, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:01:47, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00088
+ 01:01:53, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:01:56, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00922
+ 01:01:56, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:02:11, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00527
+ 01:02:12, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  pan,  0.00878
+ 01:02:12, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:02:13, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00351
+ 01:02:13, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:02:36, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00703
+ 01:02:37, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:02:37, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00044
+ 01:02:37, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:02:37, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00044
+ 01:02:43, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:02:46, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00088
+ 01:03:22, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  range select,  0.00044
+ 01:03:22, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:03:23, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00439
+ 01:03:23, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:03:38, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.01361
+ 01:03:38, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:04:32, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.02284
+ 01:04:32, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  clear,  0.00044
+ 01:04:33, wait a minute, I took that back. Yeah September is the month that has the weird artifact there., Sensemaking, 0.5,  brush,  0.00088

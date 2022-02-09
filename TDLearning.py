@@ -7,7 +7,7 @@ import itertools
 import matplotlib
 import sys
 import plotting
-import environment
+import environment2
 from tqdm import tqdm
 
 class TDlearning:
@@ -37,7 +37,7 @@ class TDlearning:
         return policy_fnc
 
 
-    def q_learning(self, env, num_episodes, discount_factor=1.0, alpha=0.5, epsilon=0.5):
+    def q_learning(self, user, env, num_episodes, discount_factor=1.0, alpha=0.5, epsilon=0.5):
         """
         Q-Learning algorithm: Off-policy TD control. Finds the optimal greedy policy
         while following an epsilon-greedy policy
@@ -67,13 +67,18 @@ class TDlearning:
         # The policy we're following
         policy = self.epsilon_greedy_policy(Q, epsilon, len(env.valid_actions))
 
+        #saving the policy
+        temp = user.split("\\")
+        fname = "D:\\imMens Learning\\stationarity_test\\" + temp[len(temp) - 1]
+        f = open(fname, "w")
+
         for i_episode in tqdm(range(num_episodes)):
             # Print out which episode we're on, useful for debugging.
             if (i_episode + 1) % 100 == 0:
                 print("\rEpisode {}/{}.".format(i_episode + 1, num_episodes), end="")
                 sys.stdout.flush()
 
-            # Reset the environment and pick the first action
+            # Reset the environment and pick the first state
             state = env.reset()
 
             # One step in the environment
@@ -82,7 +87,7 @@ class TDlearning:
                 # Take a step
                 action_probs = policy(state)
                 action = np.random.choice(np.arange(len(action_probs)), p=action_probs)
-                next_state, reward, done = env.step(state, action, True)
+                next_state, reward, done = env.step(state, action)
                 # pdb.set_trace()
                 # Update statistics
                 stats.episode_rewards[i_episode] += reward
@@ -95,11 +100,25 @@ class TDlearning:
                 Q[state][action] += alpha * td_delta
                 # pdb.set_trace()
 
+                #printing the policy into the file
+                if i_episode == 999:
+                    flag = False
+                    for _states in Q.keys():
+                        if (flag):
+                            f.write(",")
+                        flag = True
+                        f.write("{}:{}".format(_states, policy(_states)))
+                        # for items in Q[_states]:
+                        #     # print(_actions)
+                        #     f.write(" {}".format(items))
+                        # f.write(", ")
+                    f.write("\n")
                 if done:
                     break
 
                 state = next_state
         # print(policy)
+        f.close()
         return Q, stats
 
     def test(self, env, Q, epsilon=0.1):
@@ -115,7 +134,7 @@ class TDlearning:
             # Take a step
             action_probs = policy(state)
             action = np.random.choice(np.arange(len(action_probs)), p=action_probs)
-            next_state, reward, done = env.step(state, action, False)
+            next_state, reward, done = env.step(state, action)
 
             if reward > 0:
                 stats.append(1)
@@ -134,15 +153,17 @@ class TDlearning:
         print("Accuracy of State Prediction: {}".format(cnt))
 
 if __name__ == "__main__":
-    env = environment.environment()
+    env = environment2.environment2()
     users = env.user_list
-    env.get_user(users[0])
-    obj = TDlearning()
-    Q, stats = obj.q_learning(env, 500)
-    # plotting.plot_episode_stats(stats)
-    # env.take_step_subtask()
-    print(Q)
-    obj.test(env, Q)
+    for u in users:
+        print(u)
+        env.get_subtasks(u)
+        obj = TDlearning()
+        Q, stats = obj.q_learning(u, env, 1000)
+        # plotting.plot_episode_stats(stats)
+        # env.take_step_subtask()
+        # print(Q)
+        obj.test(env, Q)
 
 
 #learn a policy a user will follow, convergance policy -> is too strict? Too much fluctuation

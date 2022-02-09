@@ -70,7 +70,7 @@ class process_raw_interaction:
 
         cnt = 0
         for time, a, c in cummulative:
-            new_file.write("{}, {}, {}, {}, {}, {:.5f}\n".format(cnt, time, user, a, c, c /sum))
+            new_file.write("{},{},{},{},{},{:.5f}\n".format(cnt, time, user, a, c, c /sum))
             cnt += 1
         # print(map)
         # new_file.write("{} {}\n".format(action, viewport))

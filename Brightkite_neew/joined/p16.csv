@@ -1,283 +1,283 @@
- 00:31:49, so maybe these guys are taking a lot of cruises or something., Question, 0.0,  brush,  0.00034
- 00:31:52, Lots of trip., Sensemaking, 0.25,  clear,  0.00034
- 00:31:58, Lots of trip., Sensemaking, 0.25,  brush,  0.01949
- 00:31:58, Lots of trip., Sensemaking, 0.25,  clear,  0.00034
- 00:32:07, So we're only showing data for the top 30 travelers, or we are showing all data? , Question, 0.0,  brush,  0.03317
- 00:32:08,  user 8483 the top traveler, does almost all his or her traveling in the winter. , Exploration, 0.25,  clear,  0.00034
- 00:32:36, And the next one is more evenly distributed., Sensemaking, 0.0,  brush,  0.00855
- 00:32:37, And the next one is more evenly distributed., Sensemaking, 0.0,  clear,  0.00034
- 00:32:52, And the top traveler seems to be quite ... quite well traveled in Asia and North America., Sensemaking, 0.25,  brush,  0.00274
- 00:32:52, The next one (u69) in Europe and North America., Exploration, 0.25,  clear,  0.00034
- 00:32:54, The next one (u69) in Europe and North America., Exploration, 0.25,  brush,  0.00923
- 00:32:54, The next one (u69) in Europe and North America., Exploration, 0.25,  clear,  0.00034
- 00:32:54, The next one (u69) in Europe and North America., Exploration, 0.25,  brush,  0.00171
- 00:32:57, The next one (u69) in Europe and North America., Exploration, 0.25,  clear,  0.00034
- 00:32:57, The next one (u69) in Europe and North America., Exploration, 0.25,  brush,  0.00034
- 00:32:57, The next one (u69) in Europe and North America., Exploration, 0.25,  clear,  0.00034
- 00:32:57, The next one (u69) in Europe and North America., Exploration, 0.25,  brush,  0.00034
- 00:33:46, So these top travelers, there's another one with Asia, North America, a little bit of Europe. , Sensemaking, 0.25,  range select,  0.00068
- 00:33:47, So I try to look at September, am I allowed to do multiple selection thing like this? , Interface-feedback, 0.0,  clear,  0.00034
- 00:34:11, So I try to look at September, am I allowed to do multiple selection thing like this? , Interface-feedback, 0.0,  brush,  0.00752
- 00:35:45, so September ... so these guys, these top travelers, they don't take cruises, or whatever is happening here.  , Sensemaking, 0.0,  range select,  0.01163
- 00:35:46, Now I'm interested in where do people tend to travel or check in the most., Question, 0.0,  clear,  0.00034
- 00:35:46, Now I'm interested in where do people tend to travel or check in the most., Question, 0.0,  brush,  0.00068
- 00:35:46, Now I'm interested in where do people tend to travel or check in the most., Question, 0.0,  clear,  0.00034
- 00:35:46, Now I'm interested in where do people tend to travel or check in the most., Question, 0.0,  brush,  0.00308
- 00:35:46, Now I'm interested in where do people tend to travel or check in the most., Question, 0.0,  clear,  0.00034
- 00:35:47, Now I'm interested in where do people tend to travel or check in the most., Question, 0.0,  brush,  0.00479
- 00:36:47, Not surprisingly, places where you can check in will be Europe and United States and more developed parts of Asia, Australia,, Exploration, 1.0,  range select,  0.01915
- 00:36:48, Not surprisingly, places where you can check in will be Europe and United States and more developed parts of Asia, Australia,, Exploration, 1.0,  clear,  0.00034
- 00:36:49, Not surprisingly, places where you can check in will be Europe and United States and more developed parts of Asia, Australia,, Exploration, 1.0,  brush,  0.00034
- 00:36:53, that obviously make sense because that's where the technologies will enable you to check in, currently., Sensemaking, 0.0,  clear,  0.00034
- 00:37:05, So let's look at Iceland., Exploration, 0.0,  range select,  0.02599
- 00:37:05, So let's look at Iceland., Exploration, 0.0,  pan,  0.00034
- 00:37:05, So let's look at Iceland., Exploration, 0.0,  zoom,  0.00034
- 00:37:11, Iceland is awesome, I've been there and I just enjoyed it immensely and I'll go back in a heart beat. , Sensemaking, 0.0,  pan,  0.00034
- 00:37:11, Iceland is awesome, I've been there and I just enjoyed it immensely and I'll go back in a heart beat. , Sensemaking, 0.0,  zoom,  0.00034
- 00:37:22, OK, this guy (u677), went to Iceland. , Sensemaking, 0.25,  pan,  0.02326
- 00:37:34, Let's see, this is number of checkins, OK, could be just one trip and he just checked in to where he went.So 2.7 thousand, (investigator: no that's just 2.7) 2.7, got it., Sensemaking, 0.0,  clear,  0.00034
- 00:37:35, so just a couple of dabblers in Iceland., Sensemaking, 0.0,  brush,  0.00410
- 00:37:44, so just a couple of dabblers in Iceland., Sensemaking, 0.0,  clear,  0.00034
- 00:37:44, so just a couple of dabblers in Iceland., Sensemaking, 0.0,  brush,  0.00034
- 00:37:44, so just a couple of dabblers in Iceland., Sensemaking, 0.0,  clear,  0.00034
- 00:37:44, so just a couple of dabblers in Iceland., Sensemaking, 0.0,  brush,  0.00068
- 00:38:02, And it's kind of interesting, that we have people checking in in Iceland, all throughout the year. , Sensemaking, 0.25,  clear,  0.00034
- 00:38:52, You might think that it would just be like a peak season thing 'cause it is really really cold there., Sensemaking, 0.5,  range select,  0.01334
- 00:38:57, Let's see, how about Hawaii?, Exploration, 0.0,  clear,  0.00034
- 00:39:18, kind of a jump in September, the visits to Hawaii., Sensemaking, 0.25,  range select,  0.01300
- 00:39:19, Alright now let's take a look at some of these, let's look at winter, Question, 0.0,  clear,  0.00034
- 00:39:19, Alright now let's take a look at some of these, let's look at winter, Question, 0.0,  brush,  0.00034
- 00:39:23, Alright now let's take a look at some of these, let's look at winter, Question, 0.0,  clear,  0.00034
- 00:39:53, So I would kind of like to be able to select January, , and you know... but whatever. , Interface-feedback, 0.0,  range select,  0.01060
- 00:39:57, So I would kind of like to be able to select January, , and you know... but whatever. , Interface-feedback, 0.0,  clear,  0.00034
- 00:40:29, So now looking at winter, as opposed to May and June. , Question, 0.0,  range select,  0.13509
- 00:40:29, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  clear,  0.00034
- 00:40:30, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  brush,  0.00342
- 00:40:30, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  clear,  0.00034
- 00:40:31, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  brush,  0.00342
- 00:40:31, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  clear,  0.00034
- 00:40:32, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  brush,  0.00068
- 00:40:32, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  clear,  0.00034
- 00:40:36, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  brush,  0.00068
- 00:41:21, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  range select,  0.00513
- 00:41:22, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  pan,  0.00034
- 00:41:22, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  zoom,  0.00034
- 00:41:27, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  pan,  0.00034
- 00:41:27, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  zoom,  0.00034
- 00:41:32, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  pan,  0.00034
- 00:41:39, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  range select,  0.00068
- 00:41:39, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  pan,  0.00034
- 00:41:39, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  zoom,  0.00034
- 00:41:43, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  pan,  0.00034
- 00:41:43, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  zoom,  0.00034
- 00:41:43, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  pan,  0.00034
- 00:41:43, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  zoom,  0.00034
- 00:41:44, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  pan,  0.00034
- 00:41:44, Alright, let's look at sub Sahara and Africa, not a lot of checkins,, Exploration, 0.0,  zoom,  0.00034
- 00:42:04, and kind of steady over the seasons., Sensemaking, 0.25,  pan,  0.06019
- 00:42:07, and kind of steady over the seasons., Sensemaking, 0.25,  clear,  0.00034
- 00:42:08, and kind of steady over the seasons., Sensemaking, 0.25,  brush,  0.00205
- 00:42:08, and kind of steady over the seasons., Sensemaking, 0.25,  clear,  0.00034
- 00:42:19, and kind of steady over the seasons., Sensemaking, 0.25,  brush,  0.01026
- 00:42:20, and kind of steady over the seasons., Sensemaking, 0.25,  clear,  0.00034
- 00:42:22, and kind of steady over the seasons., Sensemaking, 0.25,  brush,  0.00068
- 00:42:23, This guy is all over Seattle (u7125)., Exploration, 0.25,  clear,  0.00034
- 00:42:24, This guy is all over Seattle (u7125)., Exploration, 0.25,  brush,  0.00171
- 00:42:27, This guy is all over Seattle (u7125)., Exploration, 0.25,  clear,  0.00034
- 00:43:07, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  range select,  0.03591
- 00:43:12, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  clear,  0.00034
- 00:43:39, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  range select,  0.01881
- 00:43:46, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  pan,  0.04378
- 00:43:52, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  range select,  0.00034
- 00:43:58, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  pan,  0.01402
- 00:44:09, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  range select,  0.00068
- 00:44:09, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  clear,  0.00034
- 00:44:09, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  brush,  0.00171
- 00:44:10, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  clear,  0.00034
- 00:44:16, yeah he's almost exclusively Seattle,, Sensemaking, 0.0,  brush,  0.00068
- 00:44:21, And so this guy too (u102), about half, , Exploration, 0.25,  range select,  0.00034
- 00:44:21, And so this guy too (u102), about half, , Exploration, 0.25,  pan,  0.00034
- 00:44:22, And so this guy too (u102), about half, , Exploration, 0.25,  zoom,  0.00034
- 00:44:24, And so this guy too (u102), about half, , Exploration, 0.25,  pan,  0.00034
- 00:44:24, And so this guy too (u102), about half, , Exploration, 0.25,  zoom,  0.00034
- 00:44:26, And so this guy too (u102), about half, , Exploration, 0.25,  pan,  0.00034
- 00:44:26, And so this guy too (u102), about half, , Exploration, 0.25,  zoom,  0.00034
- 00:44:28, And so this guy too (u102), about half, , Exploration, 0.25,  pan,  0.00034
- 00:44:28, And so this guy too (u102), about half, , Exploration, 0.25,  zoom,  0.00034
- 00:44:30, And so this guy too (u102), about half, , Exploration, 0.25,  pan,  0.00034
- 00:44:30, And so this guy too (u102), about half, , Exploration, 0.25,  zoom,  0.00034
- 00:44:34, And so this guy too (u102), about half, , Exploration, 0.25,  pan,  0.00034
- 00:44:34, And so this guy too (u102), about half, , Exploration, 0.25,  zoom,  0.00034
- 00:44:40, And so this guy too (u102), about half, , Exploration, 0.25,  pan,  0.00034
- 00:44:40, And so this guy too (u102), about half, , Exploration, 0.25,  zoom,  0.00034
- 00:44:43, and this person (u4388) also about half of their things in Seattle, , Exploration, 0.25,  pan,  0.00034
- 00:44:43, and this person (u4388) also about half of their things in Seattle, , Exploration, 0.25,  zoom,  0.00034
- 00:44:49, so one might surmise that they live there., Sensemaking, 0.0,  pan,  0.00034
- 00:44:49, This dude (u10247) is mostly midwest., Exploration, 0.25,  zoom,  0.00034
- 00:44:53, so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, , Sensemaking, 0.25,  pan,  0.00034
- 00:45:02, so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, , Sensemaking, 0.25,  range select,  0.01231
- 00:45:03, so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, , Sensemaking, 0.25,  clear,  0.00034
- 00:45:03, so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, , Sensemaking, 0.25,  brush,  0.00034
- 00:45:03, so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, , Sensemaking, 0.25,  clear,  0.00034
- 00:45:04, so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, , Sensemaking, 0.25,  brush,  0.00137
- 00:45:36, So probably lives and works in one of these areas, , Sensemaking, 0.0,  range select,  0.01505
- 00:45:37, So probably lives and works in one of these areas, , Sensemaking, 0.0,  pan,  0.00034
- 00:45:37, So probably lives and works in one of these areas, , Sensemaking, 0.0,  zoom,  0.00034
- 00:45:38, So probably lives and works in one of these areas, , Sensemaking, 0.0,  pan,  0.00034
- 00:45:38, So probably lives and works in one of these areas, , Sensemaking, 0.0,  zoom,  0.00034
- 00:45:39, So probably lives and works in one of these areas, , Sensemaking, 0.0,  pan,  0.00034
- 00:45:39, So probably lives and works in one of these areas, , Sensemaking, 0.0,  zoom,  0.00034
- 00:45:39, So probably lives and works in one of these areas, , Sensemaking, 0.0,  pan,  0.00034
- 00:45:39, So probably lives and works in one of these areas, , Sensemaking, 0.0,  zoom,  0.00034
- 00:45:40, So probably lives and works in one of these areas, , Sensemaking, 0.0,  pan,  0.00034
- 00:45:40, So probably lives and works in one of these areas, , Sensemaking, 0.0,  zoom,  0.00034
- 00:45:50, So probably lives and works in one of these areas, , Sensemaking, 0.0,  pan,  0.02633
- 00:45:51, So probably lives and works in one of these areas, , Sensemaking, 0.0,  clear,  0.00034
- 00:46:00, So probably lives and works in one of these areas, , Sensemaking, 0.0,  brush,  0.00034
- 00:46:02, So probably lives and works in one of these areas, , Sensemaking, 0.0,  clear,  0.00034
- 00:46:03, So probably lives and works in one of these areas, , Sensemaking, 0.0,  brush,  0.00034
- 00:46:13, So probably lives and works in one of these areas, , Sensemaking, 0.0,  range select,  0.01060
- 00:46:13, So probably lives and works in one of these areas, , Sensemaking, 0.0,  pan,  0.00034
- 00:46:13, So probably lives and works in one of these areas, , Sensemaking, 0.0,  zoom,  0.00034
- 00:46:15, So probably lives and works in one of these areas, , Sensemaking, 0.0,  pan,  0.00034
- 00:46:15, So probably lives and works in one of these areas, , Sensemaking, 0.0,  zoom,  0.00034
- 00:46:22, So probably lives and works in one of these areas, , Sensemaking, 0.0,  pan,  0.00581
- 00:46:22, So probably lives and works in one of these areas, , Sensemaking, 0.0,  zoom,  0.00034
- 00:46:27, maybe they do sales or something, and this is their region or whatever., Sensemaking, 0.0,  pan,  0.01197
- 00:46:27, maybe they do sales or something, and this is their region or whatever., Sensemaking, 0.0,  zoom,  0.00034
- 00:46:53, so I guess one thing I'm interested in is, of these major 30, when do they tend to travel?, Question, 0.0,  pan,  0.02120
- 00:46:55, When do they tend to check in?, Question, 0.0,  range select,  0.00034
- 00:46:56, When do they tend to check in?, Question, 0.0,  clear,  0.00034
- 00:47:12, It's kind of interesting that most of the checkin data is from mid summer., Sensemaking, 0.0,  brush,  0.00308
- 00:47:20, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  range select,  0.00034
- 00:47:20, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  pan,  0.00034
- 00:47:20, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  zoom,  0.00034
- 00:47:21, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  pan,  0.00034
- 00:47:21, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  zoom,  0.00034
- 00:47:23, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  pan,  0.00034
- 00:47:23, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  zoom,  0.00034
- 00:47:25, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  pan,  0.00034
- 00:47:25, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  zoom,  0.00034
- 00:47:28, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  pan,  0.00034
- 00:47:28, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  clear,  0.00034
- 00:47:34, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  brush,  0.00308
- 00:47:35, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  clear,  0.00034
- 00:47:36, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  pan,  0.00581
- 00:47:36, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  clear,  0.00034
- 00:47:37, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  brush,  0.00171
- 00:47:38, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  clear,  0.00034
- 00:47:38, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  brush,  0.00171
- 00:47:43, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  clear,  0.00034
- 00:47:43, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  brush,  0.00068
- 00:47:44, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  clear,  0.00034
- 00:47:44, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  brush,  0.00068
- 00:47:44, I guess I kind of thought it would be a W with one hump in the summer and one in the winter,, Sensemaking, 0.0,  clear,  0.00034
- 00:47:45, so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. , Question, 0.0,  brush,  0.00445
- 00:47:45, so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. , Question, 0.0,  clear,  0.00034
- 00:47:45, so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. , Question, 0.0,  brush,  0.00137
- 00:47:45, so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. , Question, 0.0,  clear,  0.00034
- 00:47:45, so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. , Question, 0.0,  brush,  0.00410
- 00:47:45, so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. , Question, 0.0,  clear,  0.00034
- 00:47:47, so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. , Question, 0.0,  brush,  0.00308
- 00:47:48, so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. , Question, 0.0,  clear,  0.00034
- 00:47:48, so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. , Question, 0.0,  brush,  0.00103
- 00:48:18, Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. , Sensemaking, 0.25,  range select,  0.00547
- 00:48:18, Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. , Sensemaking, 0.25,  clear,  0.00034
- 00:48:19, Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. , Sensemaking, 0.25,  brush,  0.00274
- 00:48:19, Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. , Sensemaking, 0.25,  clear,  0.00034
- 00:48:19, Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. , Sensemaking, 0.25,  brush,  0.00376
- 00:48:19, Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. , Sensemaking, 0.25,  clear,  0.00034
- 00:48:19, Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. , Sensemaking, 0.25,  brush,  0.00308
- 00:48:20, Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. , Sensemaking, 0.25,  clear,  0.00034
- 00:48:44, let's take a look at some other regions,, Question, 0.0,  brush,  0.00239
- 00:48:51, Let's take a look at the Southeast Pacific., Exploration, 0.0,  range select,  0.00068
- 00:48:52, So I'm interested in people with checkins in like Tahiti., Exploration, 0.0,  clear,  0.00034
- 00:49:05, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  brush,  0.01026
- 00:49:05, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  clear,  0.00034
- 00:49:08, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  brush,  0.00034
- 00:49:08, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  clear,  0.00034
- 00:49:08, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  brush,  0.00068
- 00:49:09, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  clear,  0.00034
- 00:49:09, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  brush,  0.00205
- 00:49:09, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  clear,  0.00034
- 00:49:09, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  brush,  0.00068
- 00:49:09, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  clear,  0.00034
- 00:49:09, Yup, this is not a lot, not a lot there., Sensemaking, 0.0,  brush,  0.00034
- 00:49:10, And that is like the Azure or something, the military., Sensemaking, 1.0,  clear,  0.00034
- 00:49:10, And that is like the Azure or something, the military., Sensemaking, 1.0,  brush,  0.00034
- 00:49:10, And that is like the Azure or something, the military., Sensemaking, 1.0,  clear,  0.00034
- 00:49:10, And that is like the Azure or something, the military., Sensemaking, 1.0,  brush,  0.00034
- 00:49:10, And that is like the Azure or something, the military., Sensemaking, 1.0,  clear,  0.00034
- 00:49:10, And that is like the Azure or something, the military., Sensemaking, 1.0,  brush,  0.00068
- 00:49:10, And that is like the Azure or something, the military., Sensemaking, 1.0,  clear,  0.00034
- 00:49:11, And that is like the Azure or something, the military., Sensemaking, 1.0,  brush,  0.00034
- 00:49:11, And that is like the Azure or something, the military., Sensemaking, 1.0,  clear,  0.00034
- 00:49:11, And that is like the Azure or something, the military., Sensemaking, 1.0,  brush,  0.00034
- 00:49:20, What about middle east?, Question, 0.0,  range select,  0.00034
- 00:49:21, What about middle east?, Question, 0.0,  clear,  0.00034
- 00:49:21, What about middle east?, Question, 0.0,  brush,  0.00479
- 00:49:38, I guess that most of the checkins are gonna be in Israel., Question, 0.0,  clear,  0.00034
- 00:49:53, OK, our top 30, not a lot of Israelis here. , Sensemaking, 0.0,  range select,  0.02462
- 00:50:00, OK, our top 30, not a lot of Israelis here. , Sensemaking, 0.0,  clear,  0.00034
- 00:50:06, This one guy has a checkin or two in this region., Sensemaking, 0.25,  range select,  0.00445
- 00:50:08, This one guy has a checkin or two in this region., Sensemaking, 0.25,  clear,  0.00034
- 00:50:09, This one guy has a checkin or two in this region., Sensemaking, 0.25,  brush,  0.00137
- 00:50:15, So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip., Exploration, 0.25,  clear,  0.00034
- 00:50:15, So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip., Exploration, 0.25,  brush,  0.00034
- 00:50:21, So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip., Exploration, 0.25,  clear,  0.00034
- 00:50:21, So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip., Exploration, 0.25,  pan,  0.00034
- 00:50:22, So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip., Exploration, 0.25,  zoom,  0.00034
- 00:50:25, So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip., Exploration, 0.25,  pan,  0.00581
- 00:50:25, So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip., Exploration, 0.25,  zoom,  0.00034
- 00:50:27, Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare., Sensemaking, 0.0,  pan,  0.01026
- 00:50:29, Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare., Sensemaking, 0.0,  clear,  0.00034
- 00:50:29, Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare., Sensemaking, 0.0,  pan,  0.00034
- 00:50:29, Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare., Sensemaking, 0.0,  zoom,  0.00034
- 00:50:36, Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare., Sensemaking, 0.0,  pan,  0.01163
- 00:50:59, So this guy, selected, OK, and he or she all of his travel was in the summer, late summer, early fall, , Sensemaking, 0.25,  range select,  0.01607
- 00:50:59, So this guy, selected, OK, and he or she all of his travel was in the summer, late summer, early fall, , Sensemaking, 0.25,  clear,  0.00034
- 00:51:04, So this guy, selected, OK, and he or she all of his travel was in the summer, late summer, early fall, , Sensemaking, 0.25,  brush,  0.00103
- 00:51:29, so looks like it was a major vacation of some kind,, Question, 0.0,  range select,  0.00034
- 00:52:23, so let's see where else can we look at here?, Question, 0.0,  pan,  0.05130
- 00:52:23, Let's take a look at Japan., Exploration, 0.0,  zoom,  0.00034
- 00:52:24, so Japan, First of all, it's a small place,, Sensemaking, 0.5,  pan,  0.00034
- 00:52:24, but it's got a huge percent, proportion of the overall checkins, just massive., Sensemaking, 0.25,  zoom,  0.00034
- 00:52:25, That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there., Sensemaking, 0.0,  pan,  0.00034
- 00:52:25, That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there., Sensemaking, 0.0,  zoom,  0.00034
- 00:52:28, That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there., Sensemaking, 0.0,  pan,  0.00034
- 00:52:28, That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there., Sensemaking, 0.0,  clear,  0.00034
- 00:52:28, That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there., Sensemaking, 0.0,  brush,  0.00171
- 00:52:32, That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there., Sensemaking, 0.0,  clear,  0.00034
- 00:52:41, But let's take a look at Korea,, Exploration, 0.0,  range select,  0.01368
- 00:52:41, South Korea, 'cause it's pretty technically advanced too., Sensemaking, 0.0,  pan,  0.00034
- 00:52:41, South Korea, 'cause it's pretty technically advanced too., Sensemaking, 0.0,  zoom,  0.00034
- 00:52:43, South Korea, 'cause it's pretty technically advanced too., Sensemaking, 0.0,  pan,  0.00616
- 00:52:43, South Korea, 'cause it's pretty technically advanced too., Sensemaking, 0.0,  zoom,  0.00034
- 00:52:50, Not as much,, Sensemaking, 0.0,  pan,  0.00034
- 00:53:23, but I figure it's no where near as populous,, Sensemaking, 0.5,  range select,  0.01334
- 00:53:24, yeah Japan has just this huge presence, Sensemaking, 0.25,  clear,  0.00034
- 00:53:24, My guess is that this is Tokyo, , Sensemaking, 0.5,  brush,  0.00068
- 00:53:29, And we can see that several, quite a few of these top 30 have done a lot of checkins there., Sensemaking, 0.25,  clear,  0.00034
- 00:54:37, this guy has the most of the Tokyo checkins, u8155,, Exploration, 0.25,  range select,  0.03762
- 00:54:37, and this person's been all over Asia., Sensemaking, 0.25,  pan,  0.00034
- 00:54:37, oh man, this person's been everywhere., Sensemaking, 0.0,  zoom,  0.00034
- 00:54:38, So this guy has been to every continent., Sensemaking, 0.25,  pan,  0.00034
- 00:54:38, All October., Sensemaking, 0.0,  zoom,  0.00034
- 00:54:39, All October., Sensemaking, 0.0,  pan,  0.00034
- 00:54:39, All October., Sensemaking, 0.0,  zoom,  0.00034
- 00:54:40, All October., Sensemaking, 0.0,  pan,  0.00034
- 00:54:40, All October., Sensemaking, 0.0,  zoom,  0.00034
- 00:55:53, This is just one year of data right?, Question, 0.0,  pan,  0.01163
- 00:55:53, but we have no way of splitting what year it is, do we?, Question, 0.0,  clear,  0.00034
- 00:56:19, Wait a minute, this person didn't travel to all these places in one day., Question, 0.0,  brush,  0.00513
- 00:56:45, OK, so this person just went on like a field day of like, here's all the places that I've been, I'm gonna check in there now, or like them all now, or whatever., Question, 0.0,  range select,  0.00034
- 00:56:46, So it could be just people catching up, like oh these are all the places that I've visited., Question, 0.0,  clear,  0.00034
- 00:57:25, what about these other people?, Question, 0.0,  brush,  0.02804
- 00:57:28, OK, so these other people, it's more varied, it's more spread out, , Exploration, 1.0,  clear,  0.00034
- 00:57:29, this person (u4789) did the same thing, Exploration, 1.0,  brush,  0.00513
- 00:57:29, if you did want to break down people like who actually did travel, you can pick.. you can exclude these guys,, Sensemaking, 1.0,  clear,  0.00034
- 00:59:21, some of them, some of the top people are just doing all their checking in remotely, from home or whatever, after the fact, or whatever. , Sensemaking, 1.0,  brush,  0.01026
- 00:59:23, So this app isn't doing any sort of GPS, it isn't applying data that would also say "and you're actually in the vicinity". , Sensemaking, 0.0,  clear,  0.00034
- 00:59:28, So if you really want to be able to say, we are really interested in just people who are actually travelers, then you might want to add some kind of component there too, where you actually allow them to, enable them to use their GPS., None, 0.0,  brush,  0.00137
- 00:59:38, So if you really want to be able to say, we are really interested in just people who are actually travelers, then you might want to add some kind of component there too, where you actually allow them to, enable them to use their GPS., None, 0.0,  clear,  0.00034
- 00:59:39, So if you really want to be able to say, we are really interested in just people who are actually travelers, then you might want to add some kind of component there too, where you actually allow them to, enable them to use their GPS., None, 0.0,  brush,  0.00103
+00:31:49,"so maybe these guys are taking a lot of cruises or something.",Question,0.0,brush,0.00034
+00:31:52,"Lots of trip.",Sensemaking,0.25,clear,0.00034
+00:31:58,"Lots of trip.",Sensemaking,0.25,brush,0.01949
+00:31:58,"Lots of trip.",Sensemaking,0.25,clear,0.00034
+00:32:07,"So we're only showing data for the top 30 travelers, or we are showing all data? ",Question,0.0,brush,0.03317
+00:32:08," user 8483 the top traveler, does almost all his or her traveling in the winter. ",Sensemaking,0.25,clear,0.00034
+00:32:36,"And the next one is more evenly distributed.",Sensemaking,0.0,brush,0.00855
+00:32:37,"And the next one is more evenly distributed.",Sensemaking,0.0,clear,0.00034
+00:32:52,"And the top traveler seems to be quite ... quite well traveled in Asia and North America.",Sensemaking,0.25,brush,0.00274
+00:32:52,"The next one (u69) in Europe and North America.",Sensemaking,0.25,clear,0.00034
+00:32:54,"The next one (u69) in Europe and North America.",Sensemaking,0.25,brush,0.00923
+00:32:54,"The next one (u69) in Europe and North America.",Sensemaking,0.25,clear,0.00034
+00:32:54,"The next one (u69) in Europe and North America.",Sensemaking,0.25,brush,0.00171
+00:32:57,"The next one (u69) in Europe and North America.",Sensemaking,0.25,clear,0.00034
+00:32:57,"The next one (u69) in Europe and North America.",Sensemaking,0.25,brush,0.00034
+00:32:57,"The next one (u69) in Europe and North America.",Sensemaking,0.25,clear,0.00034
+00:32:57,"The next one (u69) in Europe and North America.",Sensemaking,0.25,brush,0.00034
+00:33:46,"So these top travelers, there's another one with Asia, North America, a little bit of Europe. ",Sensemaking,0.25,range select,0.00068
+00:33:47,"So I try to look at September, am I allowed to do multiple selection thing like this? ",Interface-feedback,0.0,clear,0.00034
+00:34:11,"So I try to look at September, am I allowed to do multiple selection thing like this? ",Interface-feedback,0.0,brush,0.00752
+00:35:45,"so September ... so these guys, these top travelers, they don't take cruises, or whatever is happening here.  ",Sensemaking,0.0,range select,0.01163
+00:35:46,"Now I'm interested in where do people tend to travel or check in the most.",Question,0.0,clear,0.00034
+00:35:46,"Now I'm interested in where do people tend to travel or check in the most.",Question,0.0,brush,0.00068
+00:35:46,"Now I'm interested in where do people tend to travel or check in the most.",Question,0.0,clear,0.00034
+00:35:46,"Now I'm interested in where do people tend to travel or check in the most.",Question,0.0,brush,0.00308
+00:35:46,"Now I'm interested in where do people tend to travel or check in the most.",Question,0.0,clear,0.00034
+00:35:47,"Now I'm interested in where do people tend to travel or check in the most.",Question,0.0,brush,0.00479
+00:36:47,"Not surprisingly, places where you can check in will be Europe and United States and more developed parts of Asia, Australia,",Sensemaking,1.0,range select,0.01915
+00:36:48,"Not surprisingly, places where you can check in will be Europe and United States and more developed parts of Asia, Australia,",Sensemaking,1.0,clear,0.00034
+00:36:49,"Not surprisingly, places where you can check in will be Europe and United States and more developed parts of Asia, Australia,",Sensemaking,1.0,brush,0.00034
+00:36:53,"that obviously make sense because that's where the technologies will enable you to check in, currently.",Sensemaking,0.0,clear,0.00034
+00:37:05,"So let's look at Iceland.",Question,0.0,range select,0.02599
+00:37:05,"So let's look at Iceland.",Question,0.0,pan,0.00034
+00:37:05,"So let's look at Iceland.",Question,0.0,zoom,0.00034
+00:37:11,"Iceland is awesome, I've been there and I just enjoyed it immensely and I'll go back in a heart beat. ",Sensemaking,0.0,pan,0.00034
+00:37:11,"Iceland is awesome, I've been there and I just enjoyed it immensely and I'll go back in a heart beat. ",Sensemaking,0.0,zoom,0.00034
+00:37:22,"OK, this guy (u677), went to Iceland. ",Sensemaking,0.25,pan,0.02326
+00:37:34,"Let's see, this is number of checkins, OK, could be just one trip and he just checked in to where he went.So 2.7 thousand, (investigator: no that's just 2.7) 2.7, got it.",Sensemaking,0.0,clear,0.00034
+00:37:35,"so just a couple of dabblers in Iceland.",Sensemaking,0.0,brush,0.00410
+00:37:44,"so just a couple of dabblers in Iceland.",Sensemaking,0.0,clear,0.00034
+00:37:44,"so just a couple of dabblers in Iceland.",Sensemaking,0.0,brush,0.00034
+00:37:44,"so just a couple of dabblers in Iceland.",Sensemaking,0.0,clear,0.00034
+00:37:44,"so just a couple of dabblers in Iceland.",Sensemaking,0.0,brush,0.00068
+00:38:02,"And it's kind of interesting, that we have people checking in in Iceland, all throughout the year. ",Sensemaking,0.25,clear,0.00034
+00:38:52,"You might think that it would just be like a peak season thing 'cause it is really really cold there.",Sensemaking,0.5,range select,0.01334
+00:38:57,"Let's see, how about Hawaii?",Question,0.0,clear,0.00034
+00:39:18,"kind of a jump in September, the visits to Hawaii.",Sensemaking,0.25,range select,0.01300
+00:39:19,"Alright now let's take a look at some of these, let's look at winter",Question,0.0,clear,0.00034
+00:39:19,"Alright now let's take a look at some of these, let's look at winter",Question,0.0,brush,0.00034
+00:39:23,"Alright now let's take a look at some of these, let's look at winter",Question,0.0,clear,0.00034
+00:39:53,"So I would kind of like to be able to select January, , and you know... but whatever. ",Interface-feedback,0.0,range select,0.01060
+00:39:57,"So I would kind of like to be able to select January, , and you know... but whatever. ",Interface-feedback,0.0,clear,0.00034
+00:40:29,"So now looking at winter, as opposed to May and June. ",Question,0.0,range select,0.13509
+00:40:29,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,clear,0.00034
+00:40:30,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,brush,0.00342
+00:40:30,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,clear,0.00034
+00:40:31,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,brush,0.00342
+00:40:31,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,clear,0.00034
+00:40:32,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,brush,0.00068
+00:40:32,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,clear,0.00034
+00:40:36,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,brush,0.00068
+00:41:21,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,range select,0.00513
+00:41:22,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,pan,0.00034
+00:41:22,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,zoom,0.00034
+00:41:27,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,pan,0.00034
+00:41:27,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,zoom,0.00034
+00:41:32,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,pan,0.00034
+00:41:39,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,range select,0.00068
+00:41:39,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,pan,0.00034
+00:41:39,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,zoom,0.00034
+00:41:43,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,pan,0.00034
+00:41:43,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,zoom,0.00034
+00:41:43,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,pan,0.00034
+00:41:43,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,zoom,0.00034
+00:41:44,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,pan,0.00034
+00:41:44,"Alright, let's look at sub Sahara and Africa, not a lot of checkins,",Question,0.0,zoom,0.00034
+00:42:04,"and kind of steady over the seasons.",Sensemaking,0.25,pan,0.06019
+00:42:07,"and kind of steady over the seasons.",Sensemaking,0.25,clear,0.00034
+00:42:08,"and kind of steady over the seasons.",Sensemaking,0.25,brush,0.00205
+00:42:08,"and kind of steady over the seasons.",Sensemaking,0.25,clear,0.00034
+00:42:19,"and kind of steady over the seasons.",Sensemaking,0.25,brush,0.01026
+00:42:20,"and kind of steady over the seasons.",Sensemaking,0.25,clear,0.00034
+00:42:22,"and kind of steady over the seasons.",Sensemaking,0.25,brush,0.00068
+00:42:23,"This guy is all over Seattle (u7125).",Sensemaking,0.25,clear,0.00034
+00:42:24,"This guy is all over Seattle (u7125).",Sensemaking,0.25,brush,0.00171
+00:42:27,"This guy is all over Seattle (u7125).",Sensemaking,0.25,clear,0.00034
+00:43:07,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,range select,0.03591
+00:43:12,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,clear,0.00034
+00:43:39,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,range select,0.01881
+00:43:46,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,pan,0.04378
+00:43:52,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,range select,0.00034
+00:43:58,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,pan,0.01402
+00:44:09,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,range select,0.00068
+00:44:09,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,clear,0.00034
+00:44:09,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,brush,0.00171
+00:44:10,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,clear,0.00034
+00:44:16,"yeah he's almost exclusively Seattle,",Sensemaking,0.0,brush,0.00068
+00:44:21,"And so this guy too (u102), about half, ",Sensemaking,0.25,range select,0.00034
+00:44:21,"And so this guy too (u102), about half, ",Sensemaking,0.25,pan,0.00034
+00:44:22,"And so this guy too (u102), about half, ",Sensemaking,0.25,zoom,0.00034
+00:44:24,"And so this guy too (u102), about half, ",Sensemaking,0.25,pan,0.00034
+00:44:24,"And so this guy too (u102), about half, ",Sensemaking,0.25,zoom,0.00034
+00:44:26,"And so this guy too (u102), about half, ",Sensemaking,0.25,pan,0.00034
+00:44:26,"And so this guy too (u102), about half, ",Sensemaking,0.25,zoom,0.00034
+00:44:28,"And so this guy too (u102), about half, ",Sensemaking,0.25,pan,0.00034
+00:44:28,"And so this guy too (u102), about half, ",Sensemaking,0.25,zoom,0.00034
+00:44:30,"And so this guy too (u102), about half, ",Sensemaking,0.25,pan,0.00034
+00:44:30,"And so this guy too (u102), about half, ",Sensemaking,0.25,zoom,0.00034
+00:44:34,"And so this guy too (u102), about half, ",Sensemaking,0.25,pan,0.00034
+00:44:34,"And so this guy too (u102), about half, ",Sensemaking,0.25,zoom,0.00034
+00:44:40,"And so this guy too (u102), about half, ",Sensemaking,0.25,pan,0.00034
+00:44:40,"And so this guy too (u102), about half, ",Sensemaking,0.25,zoom,0.00034
+00:44:43,"and this person (u4388) also about half of their things in Seattle, ",Sensemaking,0.25,pan,0.00034
+00:44:43,"and this person (u4388) also about half of their things in Seattle, ",Sensemaking,0.25,zoom,0.00034
+00:44:49,"so one might surmise that they live there.",Sensemaking,0.0,pan,0.00034
+00:44:49,"This dude (u10247) is mostly midwest.",Sensemaking,0.25,zoom,0.00034
+00:44:53,"so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, ",Sensemaking,0.25,pan,0.00034
+00:45:02,"so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, ",Sensemaking,0.25,range select,0.01231
+00:45:03,"so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, ",Sensemaking,0.25,clear,0.00034
+00:45:03,"so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, ",Sensemaking,0.25,brush,0.00034
+00:45:03,"so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, ",Sensemaking,0.25,clear,0.00034
+00:45:04,"so this guy (u10247) is all about St. Louis and Washington, and Champaign or Indianapolis, ",Sensemaking,0.25,brush,0.00137
+00:45:36,"So probably lives and works in one of these areas, ",Sensemaking,0.0,range select,0.01505
+00:45:37,"So probably lives and works in one of these areas, ",Sensemaking,0.0,pan,0.00034
+00:45:37,"So probably lives and works in one of these areas, ",Sensemaking,0.0,zoom,0.00034
+00:45:38,"So probably lives and works in one of these areas, ",Sensemaking,0.0,pan,0.00034
+00:45:38,"So probably lives and works in one of these areas, ",Sensemaking,0.0,zoom,0.00034
+00:45:39,"So probably lives and works in one of these areas, ",Sensemaking,0.0,pan,0.00034
+00:45:39,"So probably lives and works in one of these areas, ",Sensemaking,0.0,zoom,0.00034
+00:45:39,"So probably lives and works in one of these areas, ",Sensemaking,0.0,pan,0.00034
+00:45:39,"So probably lives and works in one of these areas, ",Sensemaking,0.0,zoom,0.00034
+00:45:40,"So probably lives and works in one of these areas, ",Sensemaking,0.0,pan,0.00034
+00:45:40,"So probably lives and works in one of these areas, ",Sensemaking,0.0,zoom,0.00034
+00:45:50,"So probably lives and works in one of these areas, ",Sensemaking,0.0,pan,0.02633
+00:45:51,"So probably lives and works in one of these areas, ",Sensemaking,0.0,clear,0.00034
+00:46:00,"So probably lives and works in one of these areas, ",Sensemaking,0.0,brush,0.00034
+00:46:02,"So probably lives and works in one of these areas, ",Sensemaking,0.0,clear,0.00034
+00:46:03,"So probably lives and works in one of these areas, ",Sensemaking,0.0,brush,0.00034
+00:46:13,"So probably lives and works in one of these areas, ",Sensemaking,0.0,range select,0.01060
+00:46:13,"So probably lives and works in one of these areas, ",Sensemaking,0.0,pan,0.00034
+00:46:13,"So probably lives and works in one of these areas, ",Sensemaking,0.0,zoom,0.00034
+00:46:15,"So probably lives and works in one of these areas, ",Sensemaking,0.0,pan,0.00034
+00:46:15,"So probably lives and works in one of these areas, ",Sensemaking,0.0,zoom,0.00034
+00:46:22,"So probably lives and works in one of these areas, ",Sensemaking,0.0,pan,0.00581
+00:46:22,"So probably lives and works in one of these areas, ",Sensemaking,0.0,zoom,0.00034
+00:46:27,"maybe they do sales or something, and this is their region or whatever.",Sensemaking,0.0,pan,0.01197
+00:46:27,"maybe they do sales or something, and this is their region or whatever.",Sensemaking,0.0,zoom,0.00034
+00:46:53,"so I guess one thing I'm interested in is, of these major 30, when do they tend to travel?",Question,0.0,pan,0.02120
+00:46:55,"When do they tend to check in?",Question,0.0,range select,0.00034
+00:46:56,"When do they tend to check in?",Question,0.0,clear,0.00034
+00:47:12,"It's kind of interesting that most of the checkin data is from mid summer.",Sensemaking,0.0,brush,0.00308
+00:47:20,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,range select,0.00034
+00:47:20,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,pan,0.00034
+00:47:20,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,zoom,0.00034
+00:47:21,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,pan,0.00034
+00:47:21,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,zoom,0.00034
+00:47:23,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,pan,0.00034
+00:47:23,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,zoom,0.00034
+00:47:25,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,pan,0.00034
+00:47:25,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,zoom,0.00034
+00:47:28,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,pan,0.00034
+00:47:28,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,clear,0.00034
+00:47:34,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,brush,0.00308
+00:47:35,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,clear,0.00034
+00:47:36,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,pan,0.00581
+00:47:36,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,clear,0.00034
+00:47:37,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,brush,0.00171
+00:47:38,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,clear,0.00034
+00:47:38,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,brush,0.00171
+00:47:43,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,clear,0.00034
+00:47:43,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,brush,0.00068
+00:47:44,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,clear,0.00034
+00:47:44,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,brush,0.00068
+00:47:44,"I guess I kind of thought it would be a W with one hump in the summer and one in the winter,",Sensemaking,0.0,clear,0.00034
+00:47:45,"so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. ",Question,0.0,brush,0.00445
+00:47:45,"so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. ",Question,0.0,clear,0.00034
+00:47:45,"so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. ",Question,0.0,brush,0.00137
+00:47:45,"so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. ",Question,0.0,clear,0.00034
+00:47:45,"so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. ",Question,0.0,brush,0.00410
+00:47:45,"so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. ",Question,0.0,clear,0.00034
+00:47:47,"so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. ",Question,0.0,brush,0.00308
+00:47:48,"so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. ",Question,0.0,clear,0.00034
+00:47:48,"so people seem to check in more, maybe when they are on vacation than they do when they are visiting family or something like that. ",Question,0.0,brush,0.00103
+00:48:18,"Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. ",Sensemaking,0.25,range select,0.00547
+00:48:18,"Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. ",Sensemaking,0.25,clear,0.00034
+00:48:19,"Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. ",Sensemaking,0.25,brush,0.00274
+00:48:19,"Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. ",Sensemaking,0.25,clear,0.00034
+00:48:19,"Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. ",Sensemaking,0.25,brush,0.00376
+00:48:19,"Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. ",Sensemaking,0.25,clear,0.00034
+00:48:19,"Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. ",Sensemaking,0.25,brush,0.00308
+00:48:20,"Yeah this guy, did we already say that? Yeah we already said that, his travels all during winter. ",Sensemaking,0.25,clear,0.00034
+00:48:44,"let's take a look at some other regions,",Question,0.0,brush,0.00239
+00:48:51,"Let's take a look at the Southeast Pacific.",Question,0.0,range select,0.00068
+00:48:52,"So I'm interested in people with checkins in like Tahiti.",Question,0.0,clear,0.00034
+00:49:05,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,brush,0.01026
+00:49:05,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,clear,0.00034
+00:49:08,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,brush,0.00034
+00:49:08,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,clear,0.00034
+00:49:08,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,brush,0.00068
+00:49:09,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,clear,0.00034
+00:49:09,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,brush,0.00205
+00:49:09,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,clear,0.00034
+00:49:09,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,brush,0.00068
+00:49:09,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,clear,0.00034
+00:49:09,"Yup, this is not a lot, not a lot there.",Sensemaking,0.0,brush,0.00034
+00:49:10,"And that is like the Azure or something, the military.",Sensemaking,1.0,clear,0.00034
+00:49:10,"And that is like the Azure or something, the military.",Sensemaking,1.0,brush,0.00034
+00:49:10,"And that is like the Azure or something, the military.",Sensemaking,1.0,clear,0.00034
+00:49:10,"And that is like the Azure or something, the military.",Sensemaking,1.0,brush,0.00034
+00:49:10,"And that is like the Azure or something, the military.",Sensemaking,1.0,clear,0.00034
+00:49:10,"And that is like the Azure or something, the military.",Sensemaking,1.0,brush,0.00068
+00:49:10,"And that is like the Azure or something, the military.",Sensemaking,1.0,clear,0.00034
+00:49:11,"And that is like the Azure or something, the military.",Sensemaking,1.0,brush,0.00034
+00:49:11,"And that is like the Azure or something, the military.",Sensemaking,1.0,clear,0.00034
+00:49:11,"And that is like the Azure or something, the military.",Sensemaking,1.0,brush,0.00034
+00:49:20,"What about middle east?",Question,0.0,range select,0.00034
+00:49:21,"What about middle east?",Question,0.0,clear,0.00034
+00:49:21,"What about middle east?",Question,0.0,brush,0.00479
+00:49:38,"I guess that most of the checkins are gonna be in Israel.",Question,0.0,clear,0.00034
+00:49:53,"OK, our top 30, not a lot of Israelis here. ",Sensemaking,0.0,range select,0.02462
+00:50:00,"OK, our top 30, not a lot of Israelis here. ",Sensemaking,0.0,clear,0.00034
+00:50:06,"This one guy has a checkin or two in this region.",Sensemaking,0.25,range select,0.00445
+00:50:08,"This one guy has a checkin or two in this region.",Sensemaking,0.25,clear,0.00034
+00:50:09,"This one guy has a checkin or two in this region.",Sensemaking,0.25,brush,0.00137
+00:50:15,"So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip.",Sensemaking,0.25,clear,0.00034
+00:50:15,"So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip.",Sensemaking,0.25,brush,0.00034
+00:50:21,"So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip.",Sensemaking,0.25,clear,0.00034
+00:50:21,"So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip.",Sensemaking,0.25,pan,0.00034
+00:50:22,"So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip.",Sensemaking,0.25,zoom,0.00034
+00:50:25,"So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip.",Sensemaking,0.25,pan,0.00581
+00:50:25,"So this guy (u26007) has been to Israel, Egypt, Libya, Iraq, that's kind of a trip.",Sensemaking,0.25,zoom,0.00034
+00:50:27,"Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare.",Sensemaking,0.0,pan,0.01026
+00:50:29,"Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare.",Sensemaking,0.0,clear,0.00034
+00:50:29,"Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare.",Sensemaking,0.0,pan,0.00034
+00:50:29,"Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare.",Sensemaking,0.0,zoom,0.00034
+00:50:36,"Err, Morocco, wow, Greece, Turkey, amazing, it's pretty rare.",Sensemaking,0.0,pan,0.01163
+00:50:59,"So this guy, selected, OK, and he or she all of his travel was in the summer, late summer, early fall, ",Sensemaking,0.25,range select,0.01607
+00:50:59,"So this guy, selected, OK, and he or she all of his travel was in the summer, late summer, early fall, ",Sensemaking,0.25,clear,0.00034
+00:51:04,"So this guy, selected, OK, and he or she all of his travel was in the summer, late summer, early fall, ",Sensemaking,0.25,brush,0.00103
+00:51:29,"so looks like it was a major vacation of some kind,",Question,0.0,range select,0.00034
+00:52:23,"so let's see where else can we look at here?",Question,0.0,pan,0.05130
+00:52:23,"Let's take a look at Japan.",Question,0.0,zoom,0.00034
+00:52:24,"so Japan, First of all, it's a small place,",Sensemaking,0.5,pan,0.00034
+00:52:24,"but it's got a huge percent, proportion of the overall checkins, just massive.",Sensemaking,0.25,zoom,0.00034
+00:52:25,"That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there.",Sensemaking,0.0,pan,0.00034
+00:52:25,"That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there.",Sensemaking,0.0,zoom,0.00034
+00:52:28,"That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there.",Sensemaking,0.0,pan,0.00034
+00:52:28,"That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there.",Sensemaking,0.0,clear,0.00034
+00:52:28,"That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there.",Sensemaking,0.0,brush,0.00171
+00:52:32,"That's not really that surprising, 'cause they are so technologically savvy and have the infrastructure there.",Sensemaking,0.0,clear,0.00034
+00:52:41,"But let's take a look at Korea,",Question,0.0,range select,0.01368
+00:52:41,"South Korea, 'cause it's pretty technically advanced too.",Sensemaking,0.0,pan,0.00034
+00:52:41,"South Korea, 'cause it's pretty technically advanced too.",Sensemaking,0.0,zoom,0.00034
+00:52:43,"South Korea, 'cause it's pretty technically advanced too.",Sensemaking,0.0,pan,0.00616
+00:52:43,"South Korea, 'cause it's pretty technically advanced too.",Sensemaking,0.0,zoom,0.00034
+00:52:50,"Not as much,",Sensemaking,0.0,pan,0.00034
+00:53:23,"but I figure it's no where near as populous,",Sensemaking,0.5,range select,0.01334
+00:53:24,"yeah Japan has just this huge presence",Sensemaking,0.25,clear,0.00034
+00:53:24,"My guess is that this is Tokyo, ",Sensemaking,0.5,brush,0.00068
+00:53:29,"And we can see that several, quite a few of these top 30 have done a lot of checkins there.",Sensemaking,0.25,clear,0.00034
+00:54:37,"this guy has the most of the Tokyo checkins, u8155,",Sensemaking,0.25,range select,0.03762
+00:54:37,"and this person's been all over Asia.",Sensemaking,0.25,pan,0.00034
+00:54:37,"oh man, this person's been everywhere.",Sensemaking,0.0,zoom,0.00034
+00:54:38,"So this guy has been to every continent.",Sensemaking,0.25,pan,0.00034
+00:54:38,"All October.",Sensemaking,0.0,zoom,0.00034
+00:54:39,"All October.",Sensemaking,0.0,pan,0.00034
+00:54:39,"All October.",Sensemaking,0.0,zoom,0.00034
+00:54:40,"All October.",Sensemaking,0.0,pan,0.00034
+00:54:40,"All October.",Sensemaking,0.0,zoom,0.00034
+00:55:53,"This is just one year of data right?",Question,0.0,pan,0.01163
+00:55:53,"but we have no way of splitting what year it is, do we?",Question,0.0,clear,0.00034
+00:56:19,"Wait a minute, this person didn't travel to all these places in one day.",Question,0.0,brush,0.00513
+00:56:45,"OK, so this person just went on like a field day of like, here's all the places that I've been, I'm gonna check in there now, or like them all now, or whatever.",Question,0.0,range select,0.00034
+00:56:46,"So it could be just people catching up, like oh these are all the places that I've visited.",Question,0.0,clear,0.00034
+00:57:25,"what about these other people?",Question,0.0,brush,0.02804
+00:57:28,"OK, so these other people, it's more varied, it's more spread out, ",Sensemaking,1.0,clear,0.00034
+00:57:29,"this person (u4789) did the same thing",Sensemaking,1.0,brush,0.00513
+00:57:29,"if you did want to break down people like who actually did travel, you can pick.. you can exclude these guys,",Sensemaking,1.0,clear,0.00034
+00:59:21,"some of them, some of the top people are just doing all their checking in remotely, from home or whatever, after the fact, or whatever. ",Sensemaking,1.0,brush,0.01026
+00:59:23,"So this app isn't doing any sort of GPS, it isn't applying data that would also say "and you're actually in the vicinity". ",Sensemaking,0.0,clear,0.00034
+00:59:28,"So if you really want to be able to say, we are really interested in just people who are actually travelers, then you might want to add some kind of component there too, where you actually allow them to, enable them to use their GPS.",None,0.0,brush,0.00137
+00:59:38,"So if you really want to be able to say, we are really interested in just people who are actually travelers, then you might want to add some kind of component there too, where you actually allow them to, enable them to use their GPS.",None,0.0,clear,0.00034
+00:59:39,"So if you really want to be able to say, we are really interested in just people who are actually travelers, then you might want to add some kind of component there too, where you actually allow them to, enable them to use their GPS.",None,0.0,brush,0.00103

@@ -1,301 +1,301 @@
- 00:01:05, first guy, which is u8483, looks like he did some checkins, oh that's interesting, so looks like he's got a checkin in California, a checkin in Mexico, a checkin in Australia, one in China, one in looks like Alaska,, Exploration, 0.25,  clear,  0.00021
- 00:01:05, I zoom in on this guy, he's definitely from the bay, some place,, Sensemaking, 0.0,  brush,  0.00021
- 00:01:10, it looks like he kind of has turned this thing on for a couple of checkins, and then never really used it all the much, Sensemaking, 0.0,  clear,  0.00021
- 00:01:10, it looks like he kind of has turned this thing on for a couple of checkins, and then never really used it all the much, Sensemaking, 0.0,  brush,  0.00021
- 00:01:12, it looks like he kind of has turned this thing on for a couple of checkins, and then never really used it all the much, Sensemaking, 0.0,  clear,  0.00021
- 00:01:14, it looks like he kind of has turned this thing on for a couple of checkins, and then never really used it all the much, Sensemaking, 0.0,  brush,  0.00021
- 00:01:18, because none of the dots he's got here are all that frequent., Sensemaking, 0.0,  range select,  0.00021
- 00:01:45, I would expect for example he was using it for a long period of time,, Question, 0.0,  pan,  0.01761
- 00:01:45, where there'll be a nice cluster around where he lives, where he works,, Question, 0.0,  zoom,  0.00021
- 00:01:46, but it doesn't seem like there is anything of that nature there,, Sensemaking, 0.25,  pan,  0.00021
- 00:01:46, just kind of those sporadic checkins from all over the place., Sensemaking, 0.0,  zoom,  0.00021
- 00:01:49, He might be using it just to check in when he goes on like vacations or something., Sensemaking, 0.0,  pan,  0.00021
- 00:01:49, The second guy's got a bunch of clusters all over the United States, and a bunch over Continental Europe, and a couple in Australia,, Exploration, 0.25,  zoom,  0.00021
- 00:01:50, The second guy's got a bunch of clusters all over the United States, and a bunch over Continental Europe, and a couple in Australia,, Exploration, 0.25,  pan,  0.00021
- 00:01:50, The second guy's got a bunch of clusters all over the United States, and a bunch over Continental Europe, and a couple in Australia,, Exploration, 0.25,  zoom,  0.00021
- 00:01:52, there are not many in South America., Sensemaking, 0.0,  pan,  0.00021
- 00:01:52, there are not many in South America., Sensemaking, 0.0,  zoom,  0.00021
- 00:01:55, there are not many in South America., Sensemaking, 0.0,  pan,  0.00021
- 00:01:55, there are not many in South America., Sensemaking, 0.0,  zoom,  0.00021
- 00:01:57, there are not many in South America., Sensemaking, 0.0,  pan,  0.00021
- 00:01:57, there are not many in South America., Sensemaking, 0.0,  zoom,  0.00021
- 00:02:26, Most of the stuff that he's got is concentrated down in California, clustered around the bay,, Sensemaking, 0.25,  pan,  0.00279
- 00:02:26, so it looks like this guy u69 spends a lot of time in the city,, Question, 0.25,  zoom,  0.00021
- 00:02:26, cause he's got a lot of checkins in the city, Sensemaking, 0.25,  pan,  0.00021
- 00:02:26, And he spent some time down in the San Jose metro area,, Sensemaking, 0.25,  zoom,  0.00021
- 00:02:27, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  pan,  0.00021
- 00:02:27, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  zoom,  0.00021
- 00:02:28, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  pan,  0.00021
- 00:02:28, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  zoom,  0.00021
- 00:02:28, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  pan,  0.00021
- 00:02:28, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  zoom,  0.00021
- 00:02:29, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  pan,  0.00021
- 00:02:29, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  zoom,  0.00021
- 00:02:30, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  pan,  0.00021
- 00:02:30, or at least on the commute to the San Jose metro area, Sensemaking, 0.0,  zoom,  0.00021
- 00:02:36, It looks like he spent most of his time up here., Sensemaking, 0.5,  pan,  0.00021
- 00:02:50, next guy, same difference, except he's clustered around Seattle as opposed to being clustered around San Francisco., Exploration, 1.0,  range select,  0.00021
- 00:02:54, This guy is a Southern California guy,, Sensemaking, 0.0,  pan,  0.00601
- 00:02:54, he does a lot more domestic travel than he does international,, Sensemaking, 0.25,  zoom,  0.00021
- 00:02:57, he seems to be spending a lot of his time in Southern California, either in LA or San Diego,, Sensemaking, 0.25,  pan,  0.00301
- 00:02:57, he seems to be spending a lot of his time in Southern California, either in LA or San Diego,, Sensemaking, 0.25,  zoom,  0.00021
- 00:03:00, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  pan,  0.00021
- 00:03:00, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  zoom,  0.00021
- 00:03:03, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  pan,  0.00150
- 00:03:03, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  zoom,  0.00021
- 00:03:04, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  pan,  0.00021
- 00:03:04, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  zoom,  0.00021
- 00:03:06, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  pan,  0.00021
- 00:03:06, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  zoom,  0.00021
- 00:03:07, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  pan,  0.00021
- 00:03:07, This is another guy who's clustered up in Seattle,, Exploration, 1.0,  zoom,  0.00021
- 00:03:25, but doesn't look like he does a ton of traveling,, Sensemaking, 0.0,  pan,  0.00258
- 00:03:25, it's just this one point down here in ..is that Spain?, Sensemaking, 0.0,  zoom,  0.00021
- 00:03:26, Yeah it looks like he's got a couple of points, one in Spain and one in the UK that makes his distance pretty long, but he's clustered up in Seattle., Sensemaking, 0.25,  pan,  0.00021
- 00:03:26, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  zoom,  0.00021
- 00:03:26, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  pan,  0.00021
- 00:03:26, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  zoom,  0.00021
- 00:03:27, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  pan,  0.00021
- 00:03:27, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  zoom,  0.00021
- 00:03:28, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  pan,  0.00021
- 00:03:28, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  zoom,  0.00021
- 00:03:29, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  pan,  0.00021
- 00:03:29, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  zoom,  0.00021
- 00:03:30, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  pan,  0.00021
- 00:03:30, This guy looks like he's clustered around Chicago,, Sensemaking, 0.25,  zoom,  0.00021
- 00:03:32, if I miss my guess, he's got a big cluster of points and I'm gonna suppose that's New York. , Sensemaking, 0.0,  pan,  0.00021
- 00:04:29, we got this guy spends a lot of time in ... geez.. New Zealand, that's what I figured, spends a lot time in New Zealand,, Sensemaking, 0.25,  range select,  0.00086
- 00:04:58, but it looks like he's spending some time in kind of the .. China ... I assume that's Russia..a couple of checkins in the US, Sensemaking, 0.25,  pan,  0.02040
- 00:04:59, but most of that I think is just the fact that he's spanning such a wide geographic region, Sensemaking, 0.25,  range select,  0.00021
- 00:05:08,  this guy, here again, you know, checking in China and checking in California will pretty much get you all the way around the world mostly., Sensemaking, 0.25,  pan,  0.00515
- 00:06:13, Here again this guy got a lot of time in Europe, various, some standard places, some checkins in California., Sensemaking, 0.0,  range select,  0.00795
- 00:06:16, And looks like just now we are starting to tail the distribution off,, Exploration, 0.0,  clear,  0.00021
- 00:06:17, we have a bunch tail-end here, so we got a big cluster of people on the west coast,, Sensemaking, 0.25,  brush,  0.00558
- 00:06:21, and a big cluster of people on the east coast,, Sensemaking, 0.25,  clear,  0.00021
- 00:06:35, and a big cluster in Europe,, Sensemaking, 0.25,  brush,  0.00558
- 00:06:35, and a big cluster in Japan., Sensemaking, 0.25,  clear,  0.00021
- 00:06:37, Kind of scattering everywhere,, Sensemaking, 0.25,  brush,  0.00086
- 00:06:37, and on the eastern coast of Australia,, Sensemaking, 0.0,  clear,  0.00021
- 00:06:50, which makes sense because that's where a lot of the big metropolitan centers are,, Sensemaking, 0.5,  brush,  0.00687
- 00:06:50, especially a lot of the tech focused ones,, Sensemaking, 0.5,  clear,  0.00021
- 00:06:51, which is you know some of who's using this service like this will be probably a little bit more tech savvy than the most., Question, 0.0,  brush,  0.00451
- 00:06:51, So looks like you got a lot of people going back and forth between Europe and United States., Sensemaking, 1.0,  clear,  0.00021
- 00:06:53, Probably has some people that are doing so. Trips to Japan are vice versa., Sensemaking, 1.0,  brush,  0.00150
- 00:07:01, is there anything about the hour of the day that affects this?, Question, 0.0,  clear,  0.00021
- 00:07:01, So alright, as you would expect, the number of checkins tail off at night,, Sensemaking, 0.5,  brush,  0.00021
- 00:07:02, and then they come, they burst in at about noon,, Sensemaking, 0.25,  clear,  0.00021
- 00:07:02, there's another burst at about 8 o'clock,, Sensemaking, 0.25,  brush,  0.00086
- 00:07:08, a diurnal traffic pattern is pretty expected., Sensemaking, 0.0,  clear,  0.00021
- 00:07:12, Would have liked to have seen day of week as opposed to day of month here,, Question, 0.0,  brush,  0.00666
- 00:07:12, which is to see if more people do more checkins on Friday for example than on a Tuesday., Question, 0.0,  clear,  0.00021
- 00:07:20, looks like as far as the day of the month is concerned, it's pretty much stable., Sensemaking, 0.0,  brush,  0.01396
- 00:07:20, End of the month there seems to be this drop off, which is a bit strange,, Sensemaking, 0.25,  clear,  0.00021
- 00:07:25, but that might just be the anomaly within the dataset., Sensemaking, 0.0,  brush,  0.00666
- 00:07:27, there's this little trail,, Sensemaking, 0.0,  clear,  0.00021
- 00:07:41, coming off at September., Sensemaking, 0.25,  brush,  0.00795
- 00:07:43, it seems there are more checkins in the summer than there are in the winter., Sensemaking, 0.25,  clear,  0.00021
- 00:07:49, let's see what this trail is for, Question, 0.0,  brush,  0.00215
- 00:08:16, OK, so this looks like one day in the ... around the 11th of September, there was this trail of dots that occurred,, Sensemaking, 0.25,  range select,  0.01632
- 00:08:16, looks like somebody left, I'm gonna guess that's New Orleans, and ... I'm sorry that's not New Orleans, that's Texas, left Texas and then is doing checkins, Sensemaking, 0.25,  pan,  0.00021
- 00:08:16, oh this has to be plane travel, Sensemaking, 0.0,  zoom,  0.00021
- 00:08:20, because they are going right over the continent of Cuba,, Sensemaking, 0.0,  pan,  0.00387
- 00:08:20, they've got these checkins that kind of tail off, it looks like once you hit the Atlantic Ocean,, Sensemaking, 0.0,  zoom,  0.00021
- 00:08:21, they must have just gone out of the region any kind of a phone or a phone tower, , Question, 0.0,  pan,  0.00021
- 00:08:21, they had to turn the phone off or something., Question, 0.0,  zoom,  0.00021
- 00:08:46, so we have hour of day, day of week, day of month rather than month of year, clear these guys are not for a second,, Sensemaking, 0.0,  pan,  0.01396
- 00:08:46, let's see if there's any difference between when people in the United States do check in and when people in Europe do checkins., Question, 0.0,  zoom,  0.00021
- 00:08:55, if we go over the continent of US, oh wow so the fast majority, the overwhelming majority of checkins are coming from the United States,, Exploration, 0.25,  pan,  0.00580
- 00:08:55, OK, never mind, so it's more like three quarters for any give day are coming from the US., Sensemaking, 0.25,  zoom,  0.00021
- 00:08:56, if I were to further include Europe, that brings it up by not so much as I would expect, it increases by a bit,, Sensemaking, 0.0,  pan,  0.00021
- 00:08:56, if I were to further include Europe, that brings it up by not so much as I would expect, it increases by a bit,, Sensemaking, 0.0,  zoom,  0.00021
- 00:09:10, the majority of the checkins are coming from the United States and Europe,, Sensemaking, 0.25,  pan,  0.00021
- 00:09:12, the majority of the checkins are coming from the United States and Europe,, Sensemaking, 0.25,  clear,  0.00021
- 00:09:12, the majority of the checkins are coming from the United States and Europe,, Sensemaking, 0.25,  brush,  0.00107
- 00:09:24, then there's quite a bit of like, wow, apparently this thing was big in Japan., Sensemaking, 0.25,  clear,  0.00021
- 00:10:19, we have one guy in our top traveler list (u12201) who... I would guess is Japanese., Exploration, 0.0,  range select,  0.05905
- 00:10:20, of the top five, four of them are clearly from the US., Question, 1.0,  clear,  0.00021
- 00:10:25, And you know a bunch of them are either spending all of their time, the majority of their time in the United States;, Exploration, 1.0,  pan,  0.00666
- 00:10:44, in Europe, we've got ... got one or two,, Exploration, 0.25,  range select,  0.00837
- 00:10:45, we got one guy that kind of split his time between Europe and some place else,, Exploration, 0.25,  pan,  0.00215
- 00:11:58, yeah basically he's spending.. he's splitting his time between Europe and the US,, Sensemaking, 0.25,  range select,  0.06828
- 00:11:59, if I just take Europe, and I look at u9568, half of his time is spent in Europe,, Exploration, 0.25,  pan,  0.00021
- 00:11:59, but then if I go down into the Middle East a little, a lot of his time is being spent down in here... that's like Israel, isn't it?, Sensemaking, 0.25,  zoom,  0.00021
- 00:12:01, now I know where he lives, because if I go and goes just right there, the majority of his checkins are right there, ..., so this guy is clearly from Moscow,, Sensemaking, 0.0,  pan,  0.00279
- 00:12:01, I guess he's traveling around Europe for work or something., Sensemaking, 0.0,  zoom,  0.00021
- 00:12:03, I'm actually getting a big chunk of Mexico in here too,, Sensemaking, 0.25,  pan,  0.00172
- 00:12:03, I'm actually getting a big chunk of Mexico in here too,, Sensemaking, 0.25,  zoom,  0.00021
- 00:12:06, I'm actually getting a big chunk of Mexico in here too,, Sensemaking, 0.25,  pan,  0.00172
- 00:12:08, I'm actually getting a big chunk of Mexico in here too,, Sensemaking, 0.25,  range select,  0.00494
- 00:12:13, I'm actually getting a big chunk of Mexico in here too,, Sensemaking, 0.25,  pan,  0.00021
- 00:12:13, I'm actually getting a big chunk of Mexico in here too,, Sensemaking, 0.25,  zoom,  0.00021
- 00:12:14, I'm actually getting a big chunk of Mexico in here too,, Sensemaking, 0.25,  pan,  0.00021
- 00:12:14, I'm actually getting a big chunk of Mexico in here too,, Sensemaking, 0.25,  zoom,  0.00021
- 00:12:17, so it looks like the usage patterns by hour and by day are consistent between the United States' users and the overall trend,, Sensemaking, 0.25,  pan,  0.00601
- 00:12:32, which makes sense, because that's a lot of the users from the US,, Sensemaking, 1.0,  range select,  0.03028
- 00:12:34, but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing., Sensemaking, 0.0,  pan,  0.00129
- 00:12:35, but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing., Sensemaking, 0.0,  zoom,  0.00021
- 00:12:36, but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing., Sensemaking, 0.0,  pan,  0.00021
- 00:12:36, but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing., Sensemaking, 0.0,  zoom,  0.00021
- 00:12:38, but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing., Sensemaking, 0.0,  pan,  0.00279
- 00:12:46, whereas there's a peak around like the lunch hour,, Sensemaking, 0.0,  range select,  0.00709
- 00:12:50, whereas there's a peak around like the lunch hour,, Sensemaking, 0.0,  clear,  0.00021
- 00:12:50, whereas there's a peak around like the lunch hour,, Sensemaking, 0.0,  pan,  0.00021
- 00:12:50, whereas there's a peak around like the lunch hour,, Sensemaking, 0.0,  zoom,  0.00021
- 00:12:51, whereas there's a peak around like the lunch hour,, Sensemaking, 0.0,  pan,  0.00021
- 00:12:51, whereas there's a peak around like the lunch hour,, Sensemaking, 0.0,  zoom,  0.00021
- 00:12:51, whereas there's a peak around like the lunch hour,, Sensemaking, 0.0,  pan,  0.00021
- 00:12:51, whereas there's a peak around like the lunch hour,, Sensemaking, 0.0,  zoom,  0.00021
- 00:12:58, and again around 8 o'clock globally,, Sensemaking, 0.0,  pan,  0.00537
- 00:12:58, and again around 8 o'clock globally,, Sensemaking, 0.0,  clear,  0.00021
- 00:13:00, if you restrict it to just Europe, there doesn't seem to be nearly as pronounced of a spike there,, Exploration, 0.0,  pan,  0.00258
- 00:13:31, I mean it dips, but it doesn't dip by nearly as much., Sensemaking, 0.0,  range select,  0.02298
- 00:13:32, Now there's actually a lot of users (he means top travelers) in India,, Exploration, 0.25,  clear,  0.00021
- 00:13:32, what India is using this for?, Exploration, 0.0,  brush,  0.00021
- 00:13:34, actually not a lot of users, just spread out,, Sensemaking, 0.0,  clear,  0.00021
- 00:14:03, it looks like there's a bit of a dip in the summer in India, with respect to the rest of the world,, Sensemaking, 0.25,  range select,  0.00730
- 00:14:06, but that's a dip in log scale, so it isn't clear how impactful that really is. So not as exciting as I would want it to , Sensemaking, 0.0,  pan,  0.00408
- 00:14:48, looks like a couple of our top travelers are spending some time in India., Sensemaking, 0.25,  range select,  0.00730
- 00:14:52, let's zoom in on Japan. OK, so actually its funny.. looks like there are a lot of people that are checking in ... I would be guessing in the ocean?, Exploration, 0.25,  pan,  0.00387
- 00:14:52, we don't see nearly as pronounced of a jump around lunch time, which seems to be pretty constant., Sensemaking, 0.0,  zoom,  0.00021
- 00:14:55, oh actually now we can see that even within Japan itself there's a big cluster of checkins ... I'm gonna guess that's Tokyo., Sensemaking, 0.25,  pan,  0.00258
- 00:14:55, I'm willing to bet that that's the sort of city center,, Sensemaking, 0.0,  zoom,  0.00021
- 00:14:59, I'm willing to bet that that's the sort of city center,, Sensemaking, 0.0,  pan,  0.00322
- 00:14:59, I'm willing to bet that that's the sort of city center,, Sensemaking, 0.0,  zoom,  0.00021
- 00:15:01, I'm willing to bet that that's the sort of city center,, Sensemaking, 0.0,  pan,  0.00021
- 00:15:01, I'm willing to bet that that's the sort of city center,, Sensemaking, 0.0,  zoom,  0.00021
- 00:15:13, I'm willing to bet that that's the sort of city center,, Sensemaking, 0.0,  pan,  0.00472
- 00:15:37, and there a bunch of arterial highways leading all., Sensemaking, 0.0,  range select,  0.00773
- 00:15:38, and that's what those roads are.. or what those clusters of red dots are., Question, 0.0,  pan,  0.00021
- 00:15:38, Probably, you know, people who are checking in on the road,, Question, 0.0,  zoom,  0.00021
- 00:15:41, it's interesting since we were able to find a big red clump in Tokyo,, Sensemaking, 0.25,  pan,  0.00365
- 00:15:41, it's interesting since we were able to find a big red clump in Tokyo,, Sensemaking, 0.25,  zoom,  0.00021
- 00:15:59, let's see if we can find some of the other major US cities with that same thing., Exploration, 0.0,  pan,  0.00773
- 00:15:59, there is unsurprisingly a big clump in San Diego,, Sensemaking, 0.25,  zoom,  0.00021
- 00:16:02, there's a big clump in Los Angeles,, Sensemaking, 0.25,  pan,  0.00279
- 00:16:02, there's a big clump in Los Angeles,, Sensemaking, 0.25,  zoom,  0.00021
- 00:16:30, That must be Seattle, Portland? Probably Portland., Sensemaking, 0.25,  pan,  0.00644
- 00:16:30, That must be Seattle, Portland? Probably Portland., Sensemaking, 0.25,  zoom,  0.00021
- 00:16:33, Ah you can also see the interstate highways., Sensemaking, 0.0,  pan,  0.00021
- 00:16:33, Ah you can also see the interstate highways., Sensemaking, 0.0,  zoom,  0.00021
- 00:16:34, Ah you can also see the interstate highways., Sensemaking, 0.0,  pan,  0.00021
- 00:16:34, Ah you can also see the interstate highways., Sensemaking, 0.0,  zoom,  0.00021
- 00:16:35, Ah you can also see the interstate highways., Sensemaking, 0.0,  pan,  0.00021
- 00:16:35, Ah you can also see the interstate highways., Sensemaking, 0.0,  zoom,  0.00021
- 00:16:36, Ah you can also see the interstate highways., Sensemaking, 0.0,  pan,  0.00021
- 00:16:36, Ah you can also see the interstate highways., Sensemaking, 0.0,  zoom,  0.00021
- 00:16:37, So there's a .. I'm gonna say that's 5? And then I know for a fact that's 5, and that's 15., Sensemaking, 0.0,  pan,  0.00021
- 00:16:37, So there's a .. I'm gonna say that's 5? And then I know for a fact that's 5, and that's 15., Sensemaking, 0.0,  zoom,  0.00021
- 00:16:41, yeah you can pick out major cities pretty easily here., Sensemaking, 1.0,  pan,  0.00301
- 00:16:41, yeah you can pick out major cities pretty easily here., Sensemaking, 1.0,  zoom,  0.00021
- 00:16:42, yeah you can pick out major cities pretty easily here., Sensemaking, 1.0,  pan,  0.00021
- 00:16:42, yeah you can pick out major cities pretty easily here., Sensemaking, 1.0,  zoom,  0.00021
- 00:16:46, yeah you can pick out major cities pretty easily here., Sensemaking, 1.0,  pan,  0.00279
- 00:16:46, yeah you can pick out major cities pretty easily here., Sensemaking, 1.0,  zoom,  0.00021
- 00:16:57, yeah you can pick out major cities pretty easily here., Sensemaking, 1.0,  pan,  0.01675
- 00:16:57, yeah you can pick out major cities pretty easily here., Sensemaking, 1.0,  zoom,  0.00021
- 00:17:03, yeah it looks like here again there seems to be a lot of checkins along the roads,, Sensemaking, 0.25,  pan,  0.01546
- 00:17:03, yeah it looks like here again there seems to be a lot of checkins along the roads,, Sensemaking, 0.25,  zoom,  0.00021
- 00:17:07, but there are really dense clusters in the urban centers, as you might expect here again., Sensemaking, 0.25,  pan,  0.00021
- 00:17:07, but there are really dense clusters in the urban centers, as you might expect here again., Sensemaking, 0.25,  zoom,  0.00021
- 00:17:09, but there are really dense clusters in the urban centers, as you might expect here again., Sensemaking, 0.25,  pan,  0.00021
- 00:17:09, but there are really dense clusters in the urban centers, as you might expect here again., Sensemaking, 0.25,  zoom,  0.00021
- 00:17:17, the great lake is practically rimmed with people, lots of people there., Sensemaking, 0.25,  pan,  0.00709
- 00:17:17, the great lake is practically rimmed with people, lots of people there., Sensemaking, 0.25,  zoom,  0.00021
- 00:18:25, notice the mega cities in the east coast,, Exploration, 0.0,  pan,  0.10822
- 00:18:25, So New York actually doesn't account for a lot of our checkins, , Sensemaking, 0.25,  zoom,  0.00021
- 00:18:27, I would expect it to account for a lot more,, Question, 0.0,  pan,  0.00021
- 00:18:27, I would expect it to account for a lot more,, Question, 0.0,  zoom,  0.00021
- 00:18:31, how much of this was just kind Silicon Valley people using this because other Silicon Valley people using it?, Question, 0.0,  pan,  0.00021
- 00:18:31,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  zoom,  0.00021
- 00:18:35,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  pan,  0.00021
- 00:18:43,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  range select,  0.00322
- 00:18:44,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  clear,  0.00021
- 00:18:44,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  pan,  0.00021
- 00:18:44,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  zoom,  0.00021
- 00:18:45,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  pan,  0.00021
- 00:18:45,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  zoom,  0.00021
- 00:18:50,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  pan,  0.00880
- 00:18:54,  so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, , Sensemaking, 0.0,  clear,  0.00021
- 00:19:04, although I mean one of our top guys is clearly a bay area guy., Question, 0.0,  pan,  0.00859
- 00:19:20, if most of the traffic is in the United States, which it is, where in the United States is it?, Question, 0.0,  range select,  0.00644
- 00:19:20, let's just kind of do a binary search here, Western United States, vs eastern United States, Question, 0.0,  pan,  0.00021
- 00:19:20, let's just kind of do a binary search here, Western United States, vs eastern United States, Question, 0.0,  zoom,  0.00021
- 00:19:21, let's just kind of do a binary search here, Western United States, vs eastern United States, Question, 0.0,  pan,  0.00021
- 00:19:21, let's just kind of do a binary search here, Western United States, vs eastern United States, Question, 0.0,  zoom,  0.00021
- 00:19:22, let's just kind of do a binary search here, Western United States, vs eastern United States, Question, 0.0,  pan,  0.00021
- 00:19:22, let's just kind of do a binary search here, Western United States, vs eastern United States, Question, 0.0,  zoom,  0.00021
- 00:19:22, let's just kind of do a binary search here, Western United States, vs eastern United States, Question, 0.0,  pan,  0.00021
- 00:19:22, let's just kind of do a binary search here, Western United States, vs eastern United States, Question, 0.0,  zoom,  0.00021
- 00:19:26, we got about what.. fifty... fifty-five thousand checkins a day from the eastern US, Sensemaking, 0.25,  pan,  0.00472
- 00:19:26, we got about what.. fifty... fifty-five thousand checkins a day from the eastern US, Sensemaking, 0.25,  zoom,  0.00021
- 00:19:27, we got about what.. fifty... fifty-five thousand checkins a day from the eastern US, Sensemaking, 0.25,  pan,  0.00021
- 00:19:27, we got about what.. fifty... fifty-five thousand checkins a day from the eastern US, Sensemaking, 0.25,  zoom,  0.00021
- 00:19:33, we got about what.. fifty... fifty-five thousand checkins a day from the eastern US, Sensemaking, 0.25,  pan,  0.00387
- 00:19:33, we got about what.. fifty... fifty-five thousand checkins a day from the eastern US, Sensemaking, 0.25,  zoom,  0.00021
- 00:19:43, versus, about forty-some-odd thousand checkins a day from the western., Sensemaking, 0.25,  pan,  0.02341
- 00:19:43, versus, about forty-some-odd thousand checkins a day from the western., Sensemaking, 0.25,  zoom,  0.00021
- 00:19:47, let's say clearly there are more people in the eastern US than the western US who are using this., Sensemaking, 1.0,  pan,  0.00021
- 00:19:58, let's say clearly there are more people in the eastern US than the western US who are using this., Sensemaking, 1.0,  range select,  0.00966
- 00:20:01, Northeastern is about forty-some-odd thousand, Sensemaking, 0.25,  pan,  0.00150
- 00:20:01, Northeastern is about forty-some-odd thousand, Sensemaking, 0.25,  zoom,  0.00021
- 00:20:01, Northeastern is about forty-some-odd thousand, Sensemaking, 0.25,  pan,  0.00021
- 00:20:01, Northeastern is about forty-some-odd thousand, Sensemaking, 0.25,  zoom,  0.00021
- 00:20:02, Northeastern is about forty-some-odd thousand, Sensemaking, 0.25,  pan,  0.00021
- 00:20:02, Northeastern is about forty-some-odd thousand, Sensemaking, 0.25,  zoom,  0.00021
- 00:20:03, Northeastern is about forty-some-odd thousand, Sensemaking, 0.25,  pan,  0.00021
- 00:20:03, Northeastern is about forty-some-odd thousand, Sensemaking, 0.25,  zoom,  0.00021
- 00:20:05, Northeastern is about forty-some-odd thousand, Sensemaking, 0.25,  pan,  0.00021
- 00:21:15, Southeastern is another ten..., Sensemaking, 0.25,  range select,  0.07279
- 00:21:16, so then we are definitely talking about the Northeastern US., Sensemaking, 1.0,  pan,  0.00064
- 00:21:16, East of the great lakes, lots, , Sensemaking, 0.0,  zoom,  0.00021
- 00:21:17, west of the great lakes, not so much., Sensemaking, 0.0,  pan,  0.00344
- 00:21:17, the further south I go it doesn't make a terrible ton of difference., Sensemaking, 0.0,  zoom,  0.00021
- 00:21:20, if I cut off the sort of DC, New York metro area, that takes a lot of it off,, Sensemaking, 0.0,  pan,  0.00258
- 00:22:05, so there's clearly a lot of interest in the Northeast for this thing., Sensemaking, 1.0,  range select,  0.09513
- 00:22:05, if we have 25 thousand checkins a day, let's say happening, from just that sort of very Northeastern portion of the United States, that kind of area around Washington and New York, , Sensemaking, 0.0,  pan,  0.00021
- 00:22:05, an entire country is only about 90 thousand and so on.. a pretty big cluster., Sensemaking, 0.5,  zoom,  0.00021
- 00:22:06, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00021
- 00:22:06, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  zoom,  0.00021
- 00:22:08, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00172
- 00:22:21, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  range select,  0.01138
- 00:22:21, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  clear,  0.00021
- 00:22:21, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  brush,  0.00043
- 00:23:28, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  clear,  0.00021
- 00:23:28, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00021
- 00:23:28, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  zoom,  0.00021
- 00:23:31, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00172
- 00:23:31, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  zoom,  0.00021
- 00:23:32, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00129
- 00:23:32, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  zoom,  0.00021
- 00:23:34, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00172
- 00:23:34, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  zoom,  0.00021
- 00:23:41, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00451
- 00:23:41, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  zoom,  0.00021
- 00:23:46, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00322
- 00:23:47, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  clear,  0.00021
- 00:23:47, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00021
- 00:23:47, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  zoom,  0.00021
- 00:23:49, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.00150
- 00:23:49, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  zoom,  0.00021
- 00:24:16, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  pan,  0.02706
- 00:24:16, I know that Japan's very densely urban in the place that you can build stuff, , Exploration, 0.5,  zoom,  0.00021
- 00:24:18, where else is very mountainous, hard to build things., Sensemaking, 0.0,  pan,  0.00021
- 00:24:18, where else is very mountainous, hard to build things., Sensemaking, 0.0,  zoom,  0.00021
- 00:24:25, here you get much more of a clustering around ..., Sensemaking, 0.0,  pan,  0.01546
- 00:24:25, here you get much more of a clustering around ..., Sensemaking, 0.0,  zoom,  0.00021
- 00:24:27, here you get much more of a clustering around ..., Sensemaking, 0.0,  pan,  0.00236
- 00:24:27, here you get much more of a clustering around ..., Sensemaking, 0.0,  zoom,  0.00021
- 00:24:28, here you get much more of a clustering around ..., Sensemaking, 0.0,  pan,  0.00021
- 00:24:28, here you get much more of a clustering around ..., Sensemaking, 0.0,  zoom,  0.00021
- 00:24:57, I would assume these are rivers, let's suppose that highways parallel them here,, Sensemaking, 0.0,  pan,  0.00279
- 00:24:57, huge cluster around Tokyo,, Sensemaking, 0.25,  zoom,  0.00021
- 00:24:59, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  pan,  0.00193
- 00:24:59, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  zoom,  0.00021
- 00:25:01, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  pan,  0.00064
- 00:25:01, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  zoom,  0.00021
- 00:25:03, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  pan,  0.00021
- 00:25:03, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  zoom,  0.00021
- 00:25:16, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  pan,  0.02018
- 00:25:16, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  zoom,  0.00021
- 00:25:36, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  pan,  0.01954
- 00:25:57, there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy, Sensemaking, 1.0,  range select,  0.00515
+00:01:05,"first guy, which is u8483, looks like he did some checkins, oh that's interesting, so looks like he's got a checkin in California, a checkin in Mexico, a checkin in Australia, one in China, one in looks like Alaska,",Sensemaking,0.25,clear,0.00021
+00:01:05,"I zoom in on this guy, he's definitely from the bay, some place,",Sensemaking,0.0,brush,0.00021
+00:01:10,"it looks like he kind of has turned this thing on for a couple of checkins, and then never really used it all the much",Sensemaking,0.0,clear,0.00021
+00:01:10,"it looks like he kind of has turned this thing on for a couple of checkins, and then never really used it all the much",Sensemaking,0.0,brush,0.00021
+00:01:12,"it looks like he kind of has turned this thing on for a couple of checkins, and then never really used it all the much",Sensemaking,0.0,clear,0.00021
+00:01:14,"it looks like he kind of has turned this thing on for a couple of checkins, and then never really used it all the much",Sensemaking,0.0,brush,0.00021
+00:01:18,"because none of the dots he's got here are all that frequent.",Sensemaking,0.0,range select,0.00021
+00:01:45,"I would expect for example he was using it for a long period of time,",Question,0.0,pan,0.01761
+00:01:45,"where there'll be a nice cluster around where he lives, where he works,",Question,0.0,zoom,0.00021
+00:01:46,"but it doesn't seem like there is anything of that nature there,",Sensemaking,0.25,pan,0.00021
+00:01:46,"just kind of those sporadic checkins from all over the place.",Sensemaking,0.0,zoom,0.00021
+00:01:49,"He might be using it just to check in when he goes on like vacations or something.",Sensemaking,0.0,pan,0.00021
+00:01:49,"The second guy's got a bunch of clusters all over the United States, and a bunch over Continental Europe, and a couple in Australia,",Sensemaking,0.25,zoom,0.00021
+00:01:50,"The second guy's got a bunch of clusters all over the United States, and a bunch over Continental Europe, and a couple in Australia,",Sensemaking,0.25,pan,0.00021
+00:01:50,"The second guy's got a bunch of clusters all over the United States, and a bunch over Continental Europe, and a couple in Australia,",Sensemaking,0.25,zoom,0.00021
+00:01:52,"there are not many in South America.",Sensemaking,0.0,pan,0.00021
+00:01:52,"there are not many in South America.",Sensemaking,0.0,zoom,0.00021
+00:01:55,"there are not many in South America.",Sensemaking,0.0,pan,0.00021
+00:01:55,"there are not many in South America.",Sensemaking,0.0,zoom,0.00021
+00:01:57,"there are not many in South America.",Sensemaking,0.0,pan,0.00021
+00:01:57,"there are not many in South America.",Sensemaking,0.0,zoom,0.00021
+00:02:26,"Most of the stuff that he's got is concentrated down in California, clustered around the bay,",Sensemaking,0.25,pan,0.00279
+00:02:26,"so it looks like this guy u69 spends a lot of time in the city,",Question,0.25,zoom,0.00021
+00:02:26,"cause he's got a lot of checkins in the city",Sensemaking,0.25,pan,0.00021
+00:02:26,"And he spent some time down in the San Jose metro area,",Sensemaking,0.25,zoom,0.00021
+00:02:27,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,pan,0.00021
+00:02:27,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,zoom,0.00021
+00:02:28,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,pan,0.00021
+00:02:28,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,zoom,0.00021
+00:02:28,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,pan,0.00021
+00:02:28,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,zoom,0.00021
+00:02:29,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,pan,0.00021
+00:02:29,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,zoom,0.00021
+00:02:30,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,pan,0.00021
+00:02:30,"or at least on the commute to the San Jose metro area",Sensemaking,0.0,zoom,0.00021
+00:02:36,"It looks like he spent most of his time up here.",Sensemaking,0.5,pan,0.00021
+00:02:50,"next guy, same difference, except he's clustered around Seattle as opposed to being clustered around San Francisco.",Sensemaking,1.0,range select,0.00021
+00:02:54,"This guy is a Southern California guy,",Sensemaking,0.0,pan,0.00601
+00:02:54,"he does a lot more domestic travel than he does international,",Sensemaking,0.25,zoom,0.00021
+00:02:57,"he seems to be spending a lot of his time in Southern California, either in LA or San Diego,",Sensemaking,0.25,pan,0.00301
+00:02:57,"he seems to be spending a lot of his time in Southern California, either in LA or San Diego,",Sensemaking,0.25,zoom,0.00021
+00:03:00,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,pan,0.00021
+00:03:00,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,zoom,0.00021
+00:03:03,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,pan,0.00150
+00:03:03,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,zoom,0.00021
+00:03:04,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,pan,0.00021
+00:03:04,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,zoom,0.00021
+00:03:06,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,pan,0.00021
+00:03:06,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,zoom,0.00021
+00:03:07,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,pan,0.00021
+00:03:07,"This is another guy who's clustered up in Seattle,",Sensemaking,1.0,zoom,0.00021
+00:03:25,"but doesn't look like he does a ton of traveling,",Sensemaking,0.0,pan,0.00258
+00:03:25,"it's just this one point down here in ..is that Spain?",Sensemaking,0.0,zoom,0.00021
+00:03:26,"Yeah it looks like he's got a couple of points, one in Spain and one in the UK that makes his distance pretty long, but he's clustered up in Seattle.",Sensemaking,0.25,pan,0.00021
+00:03:26,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,zoom,0.00021
+00:03:26,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,pan,0.00021
+00:03:26,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,zoom,0.00021
+00:03:27,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,pan,0.00021
+00:03:27,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,zoom,0.00021
+00:03:28,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,pan,0.00021
+00:03:28,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,zoom,0.00021
+00:03:29,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,pan,0.00021
+00:03:29,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,zoom,0.00021
+00:03:30,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,pan,0.00021
+00:03:30,"This guy looks like he's clustered around Chicago,",Sensemaking,0.25,zoom,0.00021
+00:03:32,"if I miss my guess, he's got a big cluster of points and I'm gonna suppose that's New York. ",Sensemaking,0.0,pan,0.00021
+00:04:29,"we got this guy spends a lot of time in ... geez.. New Zealand, that's what I figured, spends a lot time in New Zealand,",Sensemaking,0.25,range select,0.00086
+00:04:58,"but it looks like he's spending some time in kind of the .. China ... I assume that's Russia..a couple of checkins in the US",Sensemaking,0.25,pan,0.02040
+00:04:59,"but most of that I think is just the fact that he's spanning such a wide geographic region",Sensemaking,0.25,range select,0.00021
+00:05:08," this guy, here again, you know, checking in China and checking in California will pretty much get you all the way around the world mostly.",Sensemaking,0.25,pan,0.00515
+00:06:13,"Here again this guy got a lot of time in Europe, various, some standard places, some checkins in California.",Sensemaking,0.0,range select,0.00795
+00:06:16,"And looks like just now we are starting to tail the distribution off,",Exploration,0.0,clear,0.00021
+00:06:17,"we have a bunch tail-end here, so we got a big cluster of people on the west coast,",Sensemaking,0.25,brush,0.00558
+00:06:21,"and a big cluster of people on the east coast,",Sensemaking,0.25,clear,0.00021
+00:06:35,"and a big cluster in Europe,",Sensemaking,0.25,brush,0.00558
+00:06:35,"and a big cluster in Japan.",Sensemaking,0.25,clear,0.00021
+00:06:37,"Kind of scattering everywhere,",Sensemaking,0.25,brush,0.00086
+00:06:37,"and on the eastern coast of Australia,",Sensemaking,0.0,clear,0.00021
+00:06:50,"which makes sense because that's where a lot of the big metropolitan centers are,",Sensemaking,0.5,brush,0.00687
+00:06:50,"especially a lot of the tech focused ones,",Sensemaking,0.5,clear,0.00021
+00:06:51,"which is you know some of who's using this service like this will be probably a little bit more tech savvy than the most.",Question,0.0,brush,0.00451
+00:06:51,"So looks like you got a lot of people going back and forth between Europe and United States.",Sensemaking,1.0,clear,0.00021
+00:06:53,"Probably has some people that are doing so. Trips to Japan are vice versa.",Sensemaking,1.0,brush,0.00150
+00:07:01,"is there anything about the hour of the day that affects this?",Question,0.0,clear,0.00021
+00:07:01,"So alright, as you would expect, the number of checkins tail off at night,",Sensemaking,0.5,brush,0.00021
+00:07:02,"and then they come, they burst in at about noon,",Sensemaking,0.25,clear,0.00021
+00:07:02,"there's another burst at about 8 o'clock,",Sensemaking,0.25,brush,0.00086
+00:07:08,"a diurnal traffic pattern is pretty expected.",Sensemaking,0.0,clear,0.00021
+00:07:12,"Would have liked to have seen day of week as opposed to day of month here,",Question,0.0,brush,0.00666
+00:07:12,"which is to see if more people do more checkins on Friday for example than on a Tuesday.",Question,0.0,clear,0.00021
+00:07:20,"looks like as far as the day of the month is concerned, it's pretty much stable.",Sensemaking,0.0,brush,0.01396
+00:07:20,"End of the month there seems to be this drop off, which is a bit strange,",Sensemaking,0.25,clear,0.00021
+00:07:25,"but that might just be the anomaly within the dataset.",Sensemaking,0.0,brush,0.00666
+00:07:27,"there's this little trail,",Sensemaking,0.0,clear,0.00021
+00:07:41,"coming off at September.",Sensemaking,0.25,brush,0.00795
+00:07:43,"it seems there are more checkins in the summer than there are in the winter.",Sensemaking,0.25,clear,0.00021
+00:07:49,"let's see what this trail is for",Question,0.0,brush,0.00215
+00:08:16,"OK, so this looks like one day in the ... around the 11th of September, there was this trail of dots that occurred,",Sensemaking,0.25,range select,0.01632
+00:08:16,"looks like somebody left, I'm gonna guess that's New Orleans, and ... I'm sorry that's not New Orleans, that's Texas, left Texas and then is doing checkins",Sensemaking,0.25,pan,0.00021
+00:08:16,"oh this has to be plane travel",Sensemaking,0.0,zoom,0.00021
+00:08:20,"because they are going right over the continent of Cuba,",Sensemaking,0.0,pan,0.00387
+00:08:20,"they've got these checkins that kind of tail off, it looks like once you hit the Atlantic Ocean,",Sensemaking,0.0,zoom,0.00021
+00:08:21,"they must have just gone out of the region any kind of a phone or a phone tower, ",Question,0.0,pan,0.00021
+00:08:21,"they had to turn the phone off or something.",Question,0.0,zoom,0.00021
+00:08:46,"so we have hour of day, day of week, day of month rather than month of year, clear these guys are not for a second,",Sensemaking,0.0,pan,0.01396
+00:08:46,"let's see if there's any difference between when people in the United States do check in and when people in Europe do checkins.",Question,0.0,zoom,0.00021
+00:08:55,"if we go over the continent of US, oh wow so the fast majority, the overwhelming majority of checkins are coming from the United States,",Sensemaking,0.25,pan,0.00580
+00:08:55,"OK, never mind, so it's more like three quarters for any give day are coming from the US.",Sensemaking,0.25,zoom,0.00021
+00:08:56,"if I were to further include Europe, that brings it up by not so much as I would expect, it increases by a bit,",Sensemaking,0.0,pan,0.00021
+00:08:56,"if I were to further include Europe, that brings it up by not so much as I would expect, it increases by a bit,",Sensemaking,0.0,zoom,0.00021
+00:09:10,"the majority of the checkins are coming from the United States and Europe,",Sensemaking,0.25,pan,0.00021
+00:09:12,"the majority of the checkins are coming from the United States and Europe,",Sensemaking,0.25,clear,0.00021
+00:09:12,"the majority of the checkins are coming from the United States and Europe,",Sensemaking,0.25,brush,0.00107
+00:09:24,"then there's quite a bit of like, wow, apparently this thing was big in Japan.",Sensemaking,0.25,clear,0.00021
+00:10:19,"we have one guy in our top traveler list (u12201) who... I would guess is Japanese.",Sensemaking,0.0,range select,0.05905
+00:10:20,"of the top five, four of them are clearly from the US.",Question,1.0,clear,0.00021
+00:10:25,"And you know a bunch of them are either spending all of their time, the majority of their time in the United States;",Sensemaking,1.0,pan,0.00666
+00:10:44,"in Europe, we've got ... got one or two,",Sensemaking,0.25,range select,0.00837
+00:10:45,"we got one guy that kind of split his time between Europe and some place else,",Sensemaking,0.25,pan,0.00215
+00:11:58,"yeah basically he's spending.. he's splitting his time between Europe and the US,",Sensemaking,0.25,range select,0.06828
+00:11:59,"if I just take Europe, and I look at u9568, half of his time is spent in Europe,",Sensemaking,0.25,pan,0.00021
+00:11:59,"but then if I go down into the Middle East a little, a lot of his time is being spent down in here... that's like Israel, isn't it?",Sensemaking,0.25,zoom,0.00021
+00:12:01,"now I know where he lives, because if I go and goes just right there, the majority of his checkins are right there, ..., so this guy is clearly from Moscow,",Sensemaking,0.0,pan,0.00279
+00:12:01,"I guess he's traveling around Europe for work or something.",Sensemaking,0.0,zoom,0.00021
+00:12:03,"I'm actually getting a big chunk of Mexico in here too,",Sensemaking,0.25,pan,0.00172
+00:12:03,"I'm actually getting a big chunk of Mexico in here too,",Sensemaking,0.25,zoom,0.00021
+00:12:06,"I'm actually getting a big chunk of Mexico in here too,",Sensemaking,0.25,pan,0.00172
+00:12:08,"I'm actually getting a big chunk of Mexico in here too,",Sensemaking,0.25,range select,0.00494
+00:12:13,"I'm actually getting a big chunk of Mexico in here too,",Sensemaking,0.25,pan,0.00021
+00:12:13,"I'm actually getting a big chunk of Mexico in here too,",Sensemaking,0.25,zoom,0.00021
+00:12:14,"I'm actually getting a big chunk of Mexico in here too,",Sensemaking,0.25,pan,0.00021
+00:12:14,"I'm actually getting a big chunk of Mexico in here too,",Sensemaking,0.25,zoom,0.00021
+00:12:17,"so it looks like the usage patterns by hour and by day are consistent between the United States' users and the overall trend,",Sensemaking,0.25,pan,0.00601
+00:12:32,"which makes sense, because that's a lot of the users from the US,",Sensemaking,1.0,range select,0.03028
+00:12:34,"but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing.",Sensemaking,0.0,pan,0.00129
+00:12:35,"but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing.",Sensemaking,0.0,zoom,0.00021
+00:12:36,"but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing.",Sensemaking,0.0,pan,0.00021
+00:12:36,"but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing.",Sensemaking,0.0,zoom,0.00021
+00:12:38,"but it also means that there isn't anything that the United States is doing is dramatically different from what the rest of the world is doing.",Sensemaking,0.0,pan,0.00279
+00:12:46,"whereas there's a peak around like the lunch hour,",Sensemaking,0.0,range select,0.00709
+00:12:50,"whereas there's a peak around like the lunch hour,",Sensemaking,0.0,clear,0.00021
+00:12:50,"whereas there's a peak around like the lunch hour,",Sensemaking,0.0,pan,0.00021
+00:12:50,"whereas there's a peak around like the lunch hour,",Sensemaking,0.0,zoom,0.00021
+00:12:51,"whereas there's a peak around like the lunch hour,",Sensemaking,0.0,pan,0.00021
+00:12:51,"whereas there's a peak around like the lunch hour,",Sensemaking,0.0,zoom,0.00021
+00:12:51,"whereas there's a peak around like the lunch hour,",Sensemaking,0.0,pan,0.00021
+00:12:51,"whereas there's a peak around like the lunch hour,",Sensemaking,0.0,zoom,0.00021
+00:12:58,"and again around 8 o'clock globally,",Sensemaking,0.0,pan,0.00537
+00:12:58,"and again around 8 o'clock globally,",Sensemaking,0.0,clear,0.00021
+00:13:00,"if you restrict it to just Europe, there doesn't seem to be nearly as pronounced of a spike there,",Sensemaking,0.0,pan,0.00258
+00:13:31,"I mean it dips, but it doesn't dip by nearly as much.",Sensemaking,0.0,range select,0.02298
+00:13:32,"Now there's actually a lot of users (he means top travelers) in India,",Sensemaking,0.25,clear,0.00021
+00:13:32,"what India is using this for?",Question,0.0,brush,0.00021
+00:13:34,"actually not a lot of users, just spread out,",Sensemaking,0.0,clear,0.00021
+00:14:03,"it looks like there's a bit of a dip in the summer in India, with respect to the rest of the world,",Sensemaking,0.25,range select,0.00730
+00:14:06,"but that's a dip in log scale, so it isn't clear how impactful that really is. So not as exciting as I would want it to ",Sensemaking,0.0,pan,0.00408
+00:14:48,"looks like a couple of our top travelers are spending some time in India.",Sensemaking,0.25,range select,0.00730
+00:14:52,"let's zoom in on Japan. OK, so actually its funny.. looks like there are a lot of people that are checking in ... I would be guessing in the ocean?",Question,0.25,pan,0.00387
+00:14:52,"we don't see nearly as pronounced of a jump around lunch time, which seems to be pretty constant.",Sensemaking,0.0,zoom,0.00021
+00:14:55,"oh actually now we can see that even within Japan itself there's a big cluster of checkins ... I'm gonna guess that's Tokyo.",Sensemaking,0.25,pan,0.00258
+00:14:55,"I'm willing to bet that that's the sort of city center,",Sensemaking,0.0,zoom,0.00021
+00:14:59,"I'm willing to bet that that's the sort of city center,",Sensemaking,0.0,pan,0.00322
+00:14:59,"I'm willing to bet that that's the sort of city center,",Sensemaking,0.0,zoom,0.00021
+00:15:01,"I'm willing to bet that that's the sort of city center,",Sensemaking,0.0,pan,0.00021
+00:15:01,"I'm willing to bet that that's the sort of city center,",Sensemaking,0.0,zoom,0.00021
+00:15:13,"I'm willing to bet that that's the sort of city center,",Sensemaking,0.0,pan,0.00472
+00:15:37,"and there a bunch of arterial highways leading all.",Sensemaking,0.0,range select,0.00773
+00:15:38,"and that's what those roads are.. or what those clusters of red dots are.",Question,0.0,pan,0.00021
+00:15:38,"Probably, you know, people who are checking in on the road,",Question,0.0,zoom,0.00021
+00:15:41,"it's interesting since we were able to find a big red clump in Tokyo,",Sensemaking,0.25,pan,0.00365
+00:15:41,"it's interesting since we were able to find a big red clump in Tokyo,",Sensemaking,0.25,zoom,0.00021
+00:15:59,"let's see if we can find some of the other major US cities with that same thing.",Question,0.0,pan,0.00773
+00:15:59,"there is unsurprisingly a big clump in San Diego,",Sensemaking,0.25,zoom,0.00021
+00:16:02,"there's a big clump in Los Angeles,",Sensemaking,0.25,pan,0.00279
+00:16:02,"there's a big clump in Los Angeles,",Sensemaking,0.25,zoom,0.00021
+00:16:30,"That must be Seattle, Portland? Probably Portland.",Sensemaking,0.25,pan,0.00644
+00:16:30,"That must be Seattle, Portland? Probably Portland.",Sensemaking,0.25,zoom,0.00021
+00:16:33,"Ah you can also see the interstate highways.",Sensemaking,0.0,pan,0.00021
+00:16:33,"Ah you can also see the interstate highways.",Sensemaking,0.0,zoom,0.00021
+00:16:34,"Ah you can also see the interstate highways.",Sensemaking,0.0,pan,0.00021
+00:16:34,"Ah you can also see the interstate highways.",Sensemaking,0.0,zoom,0.00021
+00:16:35,"Ah you can also see the interstate highways.",Sensemaking,0.0,pan,0.00021
+00:16:35,"Ah you can also see the interstate highways.",Sensemaking,0.0,zoom,0.00021
+00:16:36,"Ah you can also see the interstate highways.",Sensemaking,0.0,pan,0.00021
+00:16:36,"Ah you can also see the interstate highways.",Sensemaking,0.0,zoom,0.00021
+00:16:37,"So there's a .. I'm gonna say that's 5? And then I know for a fact that's 5, and that's 15.",Sensemaking,0.0,pan,0.00021
+00:16:37,"So there's a .. I'm gonna say that's 5? And then I know for a fact that's 5, and that's 15.",Sensemaking,0.0,zoom,0.00021
+00:16:41,"yeah you can pick out major cities pretty easily here.",Sensemaking,1.0,pan,0.00301
+00:16:41,"yeah you can pick out major cities pretty easily here.",Sensemaking,1.0,zoom,0.00021
+00:16:42,"yeah you can pick out major cities pretty easily here.",Sensemaking,1.0,pan,0.00021
+00:16:42,"yeah you can pick out major cities pretty easily here.",Sensemaking,1.0,zoom,0.00021
+00:16:46,"yeah you can pick out major cities pretty easily here.",Sensemaking,1.0,pan,0.00279
+00:16:46,"yeah you can pick out major cities pretty easily here.",Sensemaking,1.0,zoom,0.00021
+00:16:57,"yeah you can pick out major cities pretty easily here.",Sensemaking,1.0,pan,0.01675
+00:16:57,"yeah you can pick out major cities pretty easily here.",Sensemaking,1.0,zoom,0.00021
+00:17:03,"yeah it looks like here again there seems to be a lot of checkins along the roads,",Sensemaking,0.25,pan,0.01546
+00:17:03,"yeah it looks like here again there seems to be a lot of checkins along the roads,",Sensemaking,0.25,zoom,0.00021
+00:17:07,"but there are really dense clusters in the urban centers, as you might expect here again.",Sensemaking,0.25,pan,0.00021
+00:17:07,"but there are really dense clusters in the urban centers, as you might expect here again.",Sensemaking,0.25,zoom,0.00021
+00:17:09,"but there are really dense clusters in the urban centers, as you might expect here again.",Sensemaking,0.25,pan,0.00021
+00:17:09,"but there are really dense clusters in the urban centers, as you might expect here again.",Sensemaking,0.25,zoom,0.00021
+00:17:17,"the great lake is practically rimmed with people, lots of people there.",Sensemaking,0.25,pan,0.00709
+00:17:17,"the great lake is practically rimmed with people, lots of people there.",Sensemaking,0.25,zoom,0.00021
+00:18:25,"notice the mega cities in the east coast,",Sensemaking,0.0,pan,0.10822
+00:18:25,"So New York actually doesn't account for a lot of our checkins, ",Sensemaking,0.25,zoom,0.00021
+00:18:27,"I would expect it to account for a lot more,",Question,0.0,pan,0.00021
+00:18:27,"I would expect it to account for a lot more,",Question,0.0,zoom,0.00021
+00:18:31,"how much of this was just kind Silicon Valley people using this because other Silicon Valley people using it?",Question,0.0,pan,0.00021
+00:18:31," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,zoom,0.00021
+00:18:35," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,pan,0.00021
+00:18:43," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,range select,0.00322
+00:18:44," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,clear,0.00021
+00:18:44," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,pan,0.00021
+00:18:44," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,zoom,0.00021
+00:18:45," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,pan,0.00021
+00:18:45," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,zoom,0.00021
+00:18:50," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,pan,0.00880
+00:18:54," so if I would just encompass all the bay here, huh, here again, not as nearly as much as I would have expected, ",Sensemaking,0.0,clear,0.00021
+00:19:04,"although I mean one of our top guys is clearly a bay area guy.",Question,0.0,pan,0.00859
+00:19:20,"if most of the traffic is in the United States, which it is, where in the United States is it?",Question,0.0,range select,0.00644
+00:19:20,"let's just kind of do a binary search here, Western United States, vs eastern United States",Question,0.0,pan,0.00021
+00:19:20,"let's just kind of do a binary search here, Western United States, vs eastern United States",Question,0.0,zoom,0.00021
+00:19:21,"let's just kind of do a binary search here, Western United States, vs eastern United States",Question,0.0,pan,0.00021
+00:19:21,"let's just kind of do a binary search here, Western United States, vs eastern United States",Question,0.0,zoom,0.00021
+00:19:22,"let's just kind of do a binary search here, Western United States, vs eastern United States",Question,0.0,pan,0.00021
+00:19:22,"let's just kind of do a binary search here, Western United States, vs eastern United States",Question,0.0,zoom,0.00021
+00:19:22,"let's just kind of do a binary search here, Western United States, vs eastern United States",Question,0.0,pan,0.00021
+00:19:22,"let's just kind of do a binary search here, Western United States, vs eastern United States",Question,0.0,zoom,0.00021
+00:19:26,"we got about what.. fifty... fifty-five thousand checkins a day from the eastern US",Sensemaking,0.25,pan,0.00472
+00:19:26,"we got about what.. fifty... fifty-five thousand checkins a day from the eastern US",Sensemaking,0.25,zoom,0.00021
+00:19:27,"we got about what.. fifty... fifty-five thousand checkins a day from the eastern US",Sensemaking,0.25,pan,0.00021
+00:19:27,"we got about what.. fifty... fifty-five thousand checkins a day from the eastern US",Sensemaking,0.25,zoom,0.00021
+00:19:33,"we got about what.. fifty... fifty-five thousand checkins a day from the eastern US",Sensemaking,0.25,pan,0.00387
+00:19:33,"we got about what.. fifty... fifty-five thousand checkins a day from the eastern US",Sensemaking,0.25,zoom,0.00021
+00:19:43,"versus, about forty-some-odd thousand checkins a day from the western.",Sensemaking,0.25,pan,0.02341
+00:19:43,"versus, about forty-some-odd thousand checkins a day from the western.",Sensemaking,0.25,zoom,0.00021
+00:19:47,"let's say clearly there are more people in the eastern US than the western US who are using this.",Sensemaking,1.0,pan,0.00021
+00:19:58,"let's say clearly there are more people in the eastern US than the western US who are using this.",Sensemaking,1.0,range select,0.00966
+00:20:01,"Northeastern is about forty-some-odd thousand",Sensemaking,0.25,pan,0.00150
+00:20:01,"Northeastern is about forty-some-odd thousand",Sensemaking,0.25,zoom,0.00021
+00:20:01,"Northeastern is about forty-some-odd thousand",Sensemaking,0.25,pan,0.00021
+00:20:01,"Northeastern is about forty-some-odd thousand",Sensemaking,0.25,zoom,0.00021
+00:20:02,"Northeastern is about forty-some-odd thousand",Sensemaking,0.25,pan,0.00021
+00:20:02,"Northeastern is about forty-some-odd thousand",Sensemaking,0.25,zoom,0.00021
+00:20:03,"Northeastern is about forty-some-odd thousand",Sensemaking,0.25,pan,0.00021
+00:20:03,"Northeastern is about forty-some-odd thousand",Sensemaking,0.25,zoom,0.00021
+00:20:05,"Northeastern is about forty-some-odd thousand",Sensemaking,0.25,pan,0.00021
+00:21:15,"Southeastern is another ten...",Sensemaking,0.25,range select,0.07279
+00:21:16,"so then we are definitely talking about the Northeastern US.",Sensemaking,1.0,pan,0.00064
+00:21:16,"East of the great lakes, lots, ",Sensemaking,0.0,zoom,0.00021
+00:21:17,"west of the great lakes, not so much.",Sensemaking,0.0,pan,0.00344
+00:21:17,"the further south I go it doesn't make a terrible ton of difference.",Sensemaking,0.0,zoom,0.00021
+00:21:20,"if I cut off the sort of DC, New York metro area, that takes a lot of it off,",Sensemaking,0.0,pan,0.00258
+00:22:05,"so there's clearly a lot of interest in the Northeast for this thing.",Sensemaking,1.0,range select,0.09513
+00:22:05,"if we have 25 thousand checkins a day, let's say happening, from just that sort of very Northeastern portion of the United States, that kind of area around Washington and New York, ",Sensemaking,0.0,pan,0.00021
+00:22:05,"an entire country is only about 90 thousand and so on.. a pretty big cluster.",Sensemaking,0.5,zoom,0.00021
+00:22:06,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00021
+00:22:06,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,zoom,0.00021
+00:22:08,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00172
+00:22:21,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,range select,0.01138
+00:22:21,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,clear,0.00021
+00:22:21,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,brush,0.00043
+00:23:28,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,clear,0.00021
+00:23:28,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00021
+00:23:28,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,zoom,0.00021
+00:23:31,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00172
+00:23:31,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,zoom,0.00021
+00:23:32,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00129
+00:23:32,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,zoom,0.00021
+00:23:34,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00172
+00:23:34,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,zoom,0.00021
+00:23:41,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00451
+00:23:41,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,zoom,0.00021
+00:23:46,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00322
+00:23:47,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,clear,0.00021
+00:23:47,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00021
+00:23:47,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,zoom,0.00021
+00:23:49,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.00150
+00:23:49,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,zoom,0.00021
+00:24:16,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,pan,0.02706
+00:24:16,"I know that Japan's very densely urban in the place that you can build stuff, ",Sensemaking,0.5,zoom,0.00021
+00:24:18,"where else is very mountainous, hard to build things.",Sensemaking,0.0,pan,0.00021
+00:24:18,"where else is very mountainous, hard to build things.",Sensemaking,0.0,zoom,0.00021
+00:24:25,"here you get much more of a clustering around ...",Sensemaking,0.0,pan,0.01546
+00:24:25,"here you get much more of a clustering around ...",Sensemaking,0.0,zoom,0.00021
+00:24:27,"here you get much more of a clustering around ...",Sensemaking,0.0,pan,0.00236
+00:24:27,"here you get much more of a clustering around ...",Sensemaking,0.0,zoom,0.00021
+00:24:28,"here you get much more of a clustering around ...",Sensemaking,0.0,pan,0.00021
+00:24:28,"here you get much more of a clustering around ...",Sensemaking,0.0,zoom,0.00021
+00:24:57,"I would assume these are rivers, let's suppose that highways parallel them here,",Sensemaking,0.0,pan,0.00279
+00:24:57,"huge cluster around Tokyo,",Sensemaking,0.25,zoom,0.00021
+00:24:59,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,pan,0.00193
+00:24:59,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,zoom,0.00021
+00:25:01,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,pan,0.00064
+00:25:01,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,zoom,0.00021
+00:25:03,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,pan,0.00021
+00:25:03,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,zoom,0.00021
+00:25:16,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,pan,0.02018
+00:25:16,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,zoom,0.00021
+00:25:36,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,pan,0.01954
+00:25:57,"there is as many checkins, almost, in just Tokyo, the Tokyo metro areas, as there are in the entire Southeast of US, that's crazy",Sensemaking,1.0,range select,0.00515

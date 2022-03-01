@@ -1,0 +1,376 @@
+Time,State,action,reward,visualization,subtask
+00:00:00,(Question+bar-5),brush,0.0,bar-5,1
+00:00:01,(Question+bar-5),range select,0.0,bar-5,1
+00:00:15,(Question+bar-5),range select,0.0,bar-5,1
+00:00:17,(Sensemaking+bar-5),range select,0.25,bar-5,1
+00:00:32,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:00:33,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:00:49,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:00:50,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:00:51,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:00:53,(Question+bar-5),brush,0.0,bar-5,1
+00:00:54,(Question+bar-5),brush,0.0,bar-5,1
+00:00:57,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:00:58,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:00:59,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:01:00,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:01:01,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:01:02,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:01:04,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:05,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:06,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:07,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:08,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:10,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:11,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:12,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:13,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:14,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:15,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:16,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:20,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:21,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:22,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:29,(Question+bar-5),range select,0.0,bar-5,1
+00:01:31,(Question+bar-5),range select,0.0,bar-5,1
+00:01:33,(Question+bar-5),range select,0.0,bar-5,1
+00:01:38,(Question+bar-5),range select,0.0,bar-5,1
+00:01:47,(Question+bar-5),range select,0.0,bar-5,1
+00:01:51,(Question+bar-5),range select,0.0,bar-5,1
+00:01:52,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:01:53,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,1
+00:01:56,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:57,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:58,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:01:59,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:02:00,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:02:01,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:02:02,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:02:03,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,1
+00:02:14,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
+00:02:14,(Question+geo-0-1),pan,0.25,geo-0-1,1
+00:02:16,(Question+geo-0-1),pan,0.25,geo-0-1,1
+00:02:17,(Question+geo-0-1),pan,0.25,geo-0-1,1
+00:02:18,(Question+geo-0-1),pan,0.25,geo-0-1,1
+00:02:20,(Sensemaking+bar-5),range select,0.0,bar-5,1
+00:02:25,(Sensemaking+bar-5),range select,0.0,bar-5,1
+00:02:26,(Sensemaking+bar-5),range select,0.0,bar-5,1
+00:02:27,(Sensemaking+bar-5),range select,0.25,bar-5,1
+00:02:28,(Sensemaking+bar-5),range select,0.25,bar-5,1
+00:02:30,(Sensemaking+bar-5),range select,0.25,bar-5,1
+00:02:31,(Sensemaking+bar-5),range select,0.0,bar-5,1
+00:02:44,(Sensemaking+bar-5),range select,0.0,bar-5,1
+00:02:47,(Question+bar-5),range select,0.0,bar-5,1
+00:02:49,(Question+bar-5),range select,0.0,bar-5,1
+00:02:55,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:02:56,(Question+geo-0-1),pan,0.0,geo-0-1,1
+00:02:57,(Question+geo-0-1),pan,0.25,geo-0-1,1
+00:02:58,(Question+geo-0-1),pan,0.25,geo-0-1,1
+00:02:59,(Question+geo-0-1),pan,0.25,geo-0-1,1
+00:03:02,(Question+bar-5),range select,0.25,bar-5,1
+00:03:15,(Sensemaking+bar-5),range select,0.25,bar-5,1
+00:03:16,(Sensemaking+bar-5),range select,0.25,bar-5,1
+00:03:20,(Sensemaking+bar-5),range select,0.25,bar-5,1
+00:03:21,(Sensemaking+bar-5),range select,0.25,bar-5,1
+00:03:22,(Sensemaking+bar-5),range select,0.25,bar-5,1
+00:03:25,(Question+bar-5),range select,0.25,bar-5,1
+00:03:27,(Question+bar-5),range select,0.25,bar-5,1
+00:03:29,(Question+bar-5),brush,0.25,bar-5,1
+00:03:31,(Question+bar-5),range select,0.25,bar-5,1
+00:03:42,(Sensemaking+bar-5),brush,0.25,bar-5,2
+00:03:43,(Sensemaking+bar-5),brush,0.25,bar-5,2
+00:03:44,(Sensemaking+bar-5),brush,0.25,bar-5,2
+00:03:45,(Sensemaking+bar-5),brush,0.25,bar-5,2
+00:03:56,(Sensemaking+bar-5),range select,0.25,bar-5,2
+00:04:08,(Sensemaking+bar-5),range select,0.25,bar-5,2
+00:04:11,(Sensemaking+bar-5),range select,0.25,bar-5,2
+00:04:17,(Sensemaking+bar-5),range select,0.25,bar-5,2
+00:04:25,(Sensemaking+bar-5),range select,0.25,bar-5,2
+00:04:27,(Sensemaking+bar-5),range select,0.25,bar-5,2
+00:04:43,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:44,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:45,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:46,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:47,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:49,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:50,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:51,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:52,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:53,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:54,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:55,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:04:58,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,2
+00:04:59,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:00,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:01,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:02,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:03,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:04,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:06,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:07,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:08,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:09,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:11,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:12,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:12,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,2
+00:05:13,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:14,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:15,(Question+geo-0-1),zoom,0.0,geo-0-1,2
+00:05:16,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:17,(Question+geo-0-1),zoom,0.0,geo-0-1,2
+00:05:20,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:29,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:29,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:31,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:32,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:35,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:36,(Question+geo-0-1),zoom,0.0,geo-0-1,2
+00:05:39,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:41,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:42,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:46,(Question+geo-0-1),pan,0.25,geo-0-1,2
+00:05:47,(Question+geo-0-1),pan,0.25,geo-0-1,2
+00:05:48,(Question+geo-0-1),zoom,0.25,geo-0-1,2
+00:05:49,(Question+geo-0-1),pan,0.25,geo-0-1,2
+00:05:51,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:52,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:52,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:55,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:56,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:58,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:05:59,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:06:01,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:06:03,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:06:04,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:06:04,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:06:04,(Question+geo-0-1),pan,0.0,geo-0-1,2
+00:06:08,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,2
+00:06:18,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,2
+00:06:18,(Question+geo-0-1),pan,0.0,geo-0-1,3
+00:06:19,(Question+geo-0-1),pan,0.0,geo-0-1,3
+00:06:19,(Question+geo-0-1),pan,0.0,geo-0-1,3
+00:06:19,(Question+geo-0-1),pan,0.0,geo-0-1,3
+00:06:25,(Question+geo-0-1),pan,0.25,geo-0-1,3
+00:06:27,(Question+geo-0-1),pan,0.25,geo-0-1,3
+00:06:28,(Question+geo-0-1),zoom,0.25,geo-0-1,3
+00:06:30,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,3
+00:06:30,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,3
+00:06:35,(Sensemaking+bar-5),brush,0.25,bar-5,3
+00:06:36,(Sensemaking+bar-5),range select,0.25,bar-5,3
+00:06:37,(Sensemaking+bar-5),range select,0.25,bar-5,3
+00:06:38,(Sensemaking+bar-5),range select,0.25,bar-5,3
+00:06:40,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,3
+00:06:41,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,3
+00:06:42,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,3
+00:06:43,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,3
+00:06:44,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,3
+00:06:45,(Sensemaking+geo-0-1),zoom,0.25,geo-0-1,3
+00:06:47,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,3
+00:06:48,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,3
+00:06:49,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,3
+00:07:13,(Question+geo-0-1),pan,1.0,geo-0-1,3
+00:07:24,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,3
+00:07:24,(Question+geo-0-1),zoom,0.25,geo-0-1,3
+00:07:35,(Question+geo-0-1),pan,0.25,geo-0-1,3
+00:07:37,(Question+bar-5),brush,0.25,bar-5,3
+00:07:38,(Question+bar-5),brush,0.25,bar-5,3
+00:07:38,(Question+bar-5),brush,0.25,bar-5,3
+00:07:44,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,3
+00:07:49,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:07:50,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:07:56,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:02,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:03,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:05,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:06,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:07,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:08,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:09,(Sensemaking+bar-5),range select,0.25,bar-5,4
+00:08:10,(Sensemaking+bar-5),range select,0.25,bar-5,4
+00:08:11,(Sensemaking+bar-5),range select,0.25,bar-5,4
+00:08:12,(Sensemaking+bar-5),range select,0.25,bar-5,4
+00:08:13,(Sensemaking+bar-5),range select,0.25,bar-5,4
+00:08:14,(Sensemaking+bar-5),range select,0.25,bar-5,4
+00:08:16,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:17,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:24,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:26,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,4
+00:08:31,(Question+bar-5),range select,1.0,bar-5,4
+00:08:33,(Question+hist-2),brush,1.0,hist-2,4
+00:08:35,(Question+hist-2),range select,1.0,hist-2,4
+00:08:36,(Question+hist-2),brush,1.0,hist-2,4
+00:08:37,(Question+hist-2),range select,1.0,hist-2,4
+00:08:38,(Question+geo-0-1),pan,1.0,geo-0-1,4
+00:08:39,(Question+geo-0-1),pan,1.0,geo-0-1,4
+00:08:40,(Question+geo-0-1),pan,1.0,geo-0-1,4
+00:08:44,(Sensemaking+hist-2),range select,1.0,hist-2,4
+00:08:45,(Sensemaking+hist-2),range select,1.0,hist-2,4
+00:08:47,(Sensemaking+hist-2),range select,1.0,hist-2,4
+00:08:48,(Sensemaking+hist-2),range select,1.0,hist-2,4
+00:08:50,(Sensemaking+hist-2),range select,1.0,hist-2,4
+00:08:52,(Sensemaking+hist-2),range select,0.25,hist-2,4
+00:08:54,(Sensemaking+hist-2),brush,0.25,hist-2,4
+00:08:58,(Sensemaking+hist-2),range select,0.25,hist-2,4
+00:08:59,(Sensemaking+hist-2),range select,0.25,hist-2,4
+00:09:00,(Sensemaking+hist-2),range select,0.25,hist-2,4
+00:09:04,(Sensemaking+hist-2),range select,0.25,hist-2,4
+00:09:06,(Sensemaking+hist-2),range select,0.25,hist-2,4
+00:09:08,(Sensemaking+hist-2),range select,0.25,hist-2,4
+00:09:11,(Question+hist-2),range select,0.5,hist-2,4
+00:09:13,(Question+hist-2),range select,0.5,hist-2,4
+00:09:14,(Question+hist-2),range select,0.5,hist-2,4
+00:09:15,(Question+hist-2),range select,0.5,hist-2,4
+00:09:16,(Question+hist-2),range select,0.5,hist-2,4
+00:09:17,(Question+hist-2),range select,0.5,hist-2,4
+00:09:18,(Question+hist-2),range select,0.5,hist-2,4
+00:09:19,(Question+hist-2),range select,0.5,hist-2,4
+00:09:20,(Question+hist-2),range select,0.5,hist-2,4
+00:09:21,(Question+hist-2),range select,0.5,hist-2,4
+00:09:22,(Question+hist-2),range select,0.5,hist-2,4
+00:09:23,(Question+hist-2),range select,0.5,hist-2,4
+00:09:24,(Question+hist-2),range select,0.5,hist-2,4
+00:09:25,(Question+hist-2),range select,0.5,hist-2,4
+00:09:26,(Question+hist-2),range select,0.5,hist-2,4
+00:09:27,(Question+hist-2),range select,0.5,hist-2,4
+00:09:28,(Question+hist-2),range select,0.5,hist-2,4
+00:09:29,(Question+hist-2),range select,0.5,hist-2,4
+00:09:32,(Question+hist-2),range select,0.5,hist-2,4
+00:09:34,(Question+hist-2),range select,0.5,hist-2,4
+00:09:35,(Question+hist-2),range select,0.5,hist-2,4
+00:09:36,(Question+hist-2),range select,0.5,hist-2,4
+00:09:39,(Question+hist-2),range select,0.5,hist-2,4
+00:09:40,(Question+hist-2),range select,0.5,hist-2,4
+00:09:47,(Question+hist-2),range select,0.5,hist-2,4
+00:09:48,(Question+hist-2),range select,0.5,hist-2,4
+00:09:49,(Question+hist-2),range select,0.5,hist-2,4
+00:09:50,(Question+hist-2),range select,0.5,hist-2,4
+00:09:52,(Question+hist-2),range select,0.5,hist-2,4
+00:09:53,(Question+hist-2),range select,0.5,hist-2,4
+00:09:57,(Question+hist-2),range select,0.5,hist-2,4
+00:10:01,(Question+hist-2),brush,0.5,hist-2,4
+00:10:02,(Question+hist-2),range select,0.5,hist-2,4
+00:10:04,(Question+hist-2),range select,0.5,hist-2,4
+00:10:06,(Question+hist-2),range select,0.5,hist-2,4
+00:10:09,(Question+hist-2),range select,0.5,hist-2,4
+00:10:12,(Question+hist-2),range select,0.5,hist-2,4
+00:10:13,(Question+hist-2),range select,0.5,hist-2,4
+00:10:14,(Question+hist-2),range select,0.5,hist-2,4
+00:10:17,(Question+hist-2),range select,0.0,hist-2,5
+00:10:18,(Question+hist-2),range select,0.0,hist-2,5
+00:10:20,(Question+hist-2),range select,0.0,hist-2,5
+00:10:21,(Question+hist-2),range select,0.0,hist-2,5
+00:10:22,(Question+hist-2),range select,0.0,hist-2,5
+00:10:23,(Question+hist-2),range select,0.0,hist-2,5
+00:10:24,(Question+hist-2),range select,0.0,hist-2,5
+00:10:25,(Question+hist-2),range select,0.0,hist-2,5
+00:10:26,(Question+hist-2),range select,0.0,hist-2,5
+00:10:27,(Question+hist-2),range select,0.0,hist-2,5
+00:10:28,(Question+hist-2),range select,0.0,hist-2,5
+00:10:29,(Question+hist-2),range select,0.0,hist-2,5
+00:10:30,(Question+hist-2),range select,0.0,hist-2,5
+00:10:31,(Question+hist-2),range select,0.0,hist-2,5
+00:10:33,(Question+hist-2),range select,0.0,hist-2,5
+00:10:36,(Question+hist-2),range select,0.0,hist-2,5
+00:10:37,(Question+hist-2),range select,0.0,hist-2,5
+00:10:39,(Question+hist-2),range select,0.0,hist-2,5
+00:10:40,(Question+hist-2),range select,0.0,hist-2,5
+00:10:42,(Question+hist-2),range select,0.0,hist-2,5
+00:10:43,(Question+hist-2),range select,0.0,hist-2,5
+00:10:44,(Question+hist-2),range select,0.0,hist-2,5
+00:10:45,(Question+hist-2),range select,0.0,hist-2,5
+00:10:46,(Question+hist-2),range select,0.0,hist-2,5
+00:10:47,(Question+hist-2),range select,0.0,hist-2,5
+00:10:48,(Question+hist-2),range select,0.0,hist-2,5
+00:10:49,(Question+hist-2),range select,0.0,hist-2,5
+00:10:51,(Question+hist-2),range select,0.0,hist-2,5
+00:10:53,(Question+hist-2),range select,0.0,hist-2,5
+00:10:55,(Question+hist-2),range select,0.0,hist-2,5
+00:10:58,(Question+bar-5),range select,0.0,bar-5,5
+00:10:59,(Question+bar-5),brush,0.0,bar-5,5
+00:11:00,(Question+bar-5),range select,0.0,bar-5,5
+00:11:01,(Question+bar-5),range select,0.0,bar-5,5
+00:11:02,(Question+bar-5),range select,0.0,bar-5,5
+00:11:03,(Question+bar-5),range select,0.0,bar-5,5
+00:11:04,(Question+bar-5),range select,0.0,bar-5,5
+00:11:05,(Question+bar-5),range select,0.0,bar-5,5
+00:11:07,(Question+hist-2),range select,0.0,hist-2,5
+00:11:08,(Question+bar-5),range select,0.0,bar-5,5
+00:11:11,(Question+hist-2),range select,0.0,hist-2,5
+00:11:12,(Question+hist-2),range select,0.0,hist-2,5
+00:11:13,(Question+hist-2),range select,0.0,hist-2,5
+00:13:03,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:04,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:05,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:06,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:09,(Question+geo-0-1),range select,0.0,geo-0-1,5
+00:13:10,(Question+geo-0-1),range select,0.0,geo-0-1,5
+00:13:11,(Question+geo-0-1),range select,0.0,geo-0-1,5
+00:13:12,(Question+geo-0-1),range select,0.0,geo-0-1,5
+00:13:14,(Question+geo-0-1),range select,0.0,geo-0-1,5
+00:13:19,(Question+hist-4),brush,0.0,hist-4,5
+00:13:21,(Question+hist-4),brush,0.0,hist-4,5
+00:13:22,(Question+hist-4),brush,0.0,hist-4,5
+00:13:23,(Question+hist-4),brush,0.0,hist-4,5
+00:13:23,(Question+hist-4),brush,0.0,hist-4,5
+00:13:26,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:29,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:30,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:31,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:32,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:38,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:38,(Sensemaking+geo-0-1),zoom,0.0,geo-0-1,5
+00:13:39,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:13:40,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:13:41,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:13:43,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:43,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:44,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:45,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:46,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:48,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:49,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:50,(Question+geo-0-1),pan,0.0,geo-0-1,5
+00:13:51,(Question+geo-0-1),range select,0.0,geo-0-1,5
+00:13:52,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:13:53,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:13:54,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:13:55,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:13:56,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:13:57,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:15:38,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:15:39,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:15:41,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:15:43,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:15:48,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:15:49,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:15:50,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:15:50,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:15:51,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:15:54,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:15:56,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:15:57,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:16:05,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:16:14,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:16:15,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:16:43,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:16:44,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:16:47,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:16:48,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:17:09,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:10,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:11,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:13,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:14,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:16,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:16,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:17,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:18,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:17:19,(Sensemaking+geo-0-1),range select,0.0,geo-0-1,5
+00:17:32,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:33,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:34,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:42,(Sensemaking+bar-5),brush,0.0,bar-5,5
+00:17:43,(Sensemaking+hist-4),brush,0.0,hist-4,5
+00:17:45,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:45,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5
+00:17:47,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,5

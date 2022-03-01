@@ -11,6 +11,7 @@ class integrate:
         self.raw_files = glob.glob('*imMensEvt.txt')
         self.excel_files = glob.glob('*-annot.xlsx')
         self.path = 'D:\\imMens Learning\\Brightkite_neew\\joined\\'
+
         # print(self.excel_files)
 
     def get_files(self):
@@ -18,7 +19,7 @@ class integrate:
             user = raw_fname.split('-')[0]
             # print(user)
             excel_fname = [string for string in self.excel_files if user in string][0]
-            # print("{} {}".format(raw_fname, excel_fname))
+            print("{} {}".format(raw_fname, excel_fname))
             self.merge2(user, raw_fname, excel_fname)
             # break
 
@@ -31,7 +32,9 @@ class integrate:
             ss = row['time'].second
             # print("{} : {} : {}".format(hh, mm, ss))
             seconds = mm * 60 + ss
-            data.append([row['proposition'], row['State'], row['Reward'], seconds])
+            if row['State'] == "None": #When reading from excel do not consider states = None
+                continue
+            data.append([row['proposition'], row['State'], row['Reward'], row['Subtask'], seconds])
             # print(data[len(data) - 1])
         return data
 
@@ -75,13 +78,13 @@ class integrate:
 
         raw_interaction = open(raw_fname, 'r')
 
-        df_excel = pd.read_excel(excel_fname, sheet_name="Sheet1", usecols="A:D, H")
+        df_excel = pd.read_excel(excel_fname, sheet_name="Sheet_1", usecols="A:D, H:I")
         data = self.excel_to_memory(df_excel)
 
         new_fname = self.path + user + '_new.csv'
         new_file = open(new_fname, 'w')
 
-        new_file.write("Time,State,action,reward,visualization\n")
+        new_file.write("Time,State,action,reward,visualization,subtask\n")
         idx = 0
         for lines in raw_interaction.readlines():
             lines = lines.strip()
@@ -93,12 +96,12 @@ class integrate:
             # print("{} : {} : {}".format(hh, mm, ss))
             seconds = hh * 60 + mm * 60 + ss
             # pdb.set_trace()
-            if seconds < data[idx][3]:
-                new_file.write("{},({}+{}),{},{},{}\n".format(lines[1], data[idx][1], lines[3], lines[2], data[idx][2], lines[3]))
+            if seconds < data[idx][4]:
+                new_file.write("{},({}+{}),{},{},{},{}\n".format(lines[1], data[idx][1], lines[3], lines[2], data[idx][2], lines[3], data[idx][3]))
             else:
                 if idx + 1 < len(data):
                     idx += 1
-                new_file.write("{},({}+{}),{},{},{}\n".format(lines[1], data[idx][1], lines[3], lines[2], data[idx][2],lines[3]))
+                new_file.write("{},({}+{}),{},{},{},{}\n".format(lines[1], data[idx][1], lines[3], lines[2], data[idx][2], lines[3], data[idx][3]))
 
         raw_interaction.close()
         new_file.close()
@@ -112,7 +115,8 @@ class reform:
         self.raw_files = [os.path.join(dirpath, f)
                           for dirpath, dirnames, files in os.walk(self.path)
                           for f in files if f.endswith('_new.csv')]
-        self.approved_actions = ['brush', 'range select', 'pan', 'zoom', 'clear']
+        # self.approved_actions = ['brush', 'range select', 'pan', 'zoom', 'clear']
+        self.approved_actions = ['brush', 'range select', 'pan', 'zoom'] #Without using the action clear.
 
     def run_reform(self):
         for files in self.raw_files:
@@ -147,11 +151,16 @@ class reform:
 
 
 if __name__ == "__main__":
-    # obj = integrate()
+
+    #The Integrate class helps to integrate the raw interaction files with feedback (.excel) files.
+    obj = integrate()
+    obj.get_files()
+
+    #This class reform cleans the data a bit, removing concurrent similar actions in the same time step / visualization
+    #We can use this because for now we are working in a high level and the differentiating factors on those interactions
+    # are not being used for now.
     obj = reform()
-    # print(obj.raw_files)
     obj.run_reform()
-    # obj.get_files()
 
 # directory = 'p4'
 # parent_directory = 'D:\\imMens interaction logs\\annotated\\Brightkite-0ms\\Brightkite-state'

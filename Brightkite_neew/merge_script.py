@@ -47,7 +47,7 @@ class integrate:
 
         # print(df_raw.head())
         # print(excel_fname)
-        df_excel = pd.read_excel(excel_fname, sheet_name= "Sheet1", usecols="A:D, H")
+        df_excel = pd.read_excel(excel_fname, sheet_name= "Sheet1(2)", usecols="A:D, H")
         # print(df_excel.columns)
         data = self.excel_to_memory(df_excel)
         new_fname = self.path + user + '.csv'
@@ -78,7 +78,7 @@ class integrate:
 
         raw_interaction = open(raw_fname, 'r')
 
-        df_excel = pd.read_excel(excel_fname, sheet_name="Sheet_1", usecols="A:D, H:I")
+        df_excel = pd.read_excel(excel_fname, sheet_name="Sheet1(2)", usecols="A:D, H:I")
         data = self.excel_to_memory(df_excel)
 
         new_fname = self.path + user + '_new.csv'

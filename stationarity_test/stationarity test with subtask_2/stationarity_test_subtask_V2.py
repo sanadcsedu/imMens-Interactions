@@ -37,10 +37,10 @@ class stationarity_test:
             print("$$$$$$$$$  " + user + "  $$$$$$$$$")
             # new_fname = user + '_raw.csv'
             # state = 'Question+geo-0-1'
-            self.process_data(user, csv_reader)
+            self.process_data_v2(user, csv_reader)
             file.close()
             self.key_list = []
-            break
+            # break
 
     def kpss_test(self, timeseries):
         print('Results of KPSS Test:')
@@ -90,31 +90,45 @@ class stationarity_test:
         self.key_list.append(ch)
         return ch
 
-    #Curates the dataset based on state
-    def curate_data(self, state, data, label):
+    #Curates the dataset based on state,action pair
+    #if (sensemaking,same) (Question,change) -> +1
+    #else if (Question, same) (Sensemaking, Change) -> -1
+
+    def curate_data(self, data, label):
         # print("#############################")
         print("Currently working with " + label)
         # print("#############################")
 
         sz = len(data)
-        # print(sz)
-        curated_data = []
-        _map = defaultdict(float)
-        _map['same'] = _map['change'] = 1
         test_data = []
         for i in range(sz):
-            if data[i][1] == state:
-                # pdb.set_trace()
-                _map[data[i][2]] += 1
-                #Here I'm checking the probability of action 'Same'
-                probs = (_map['same'])/(_map['same'] + _map['change'])
-                curated_data.append((data[i][0], data[i][1], data[i][2], probs))
-                print("{}, {}, {}, {:.6f}".format(data[i][0], data[i][1], data[i][2], probs))
-                test_data.append(probs)
-        # for items in curated_data:
-        #     print(items)
-        if len(test_data) <= 2:
-            return
+            if data[i][1] == 'Sensemaking' and data[i][2] == 'same':
+                test_data.append(1)
+            elif data[i][1] == 'Question' and data[i][2] == 'change':
+                test_data.append(1)
+            elif data[i][1] == 'Question' and data[i][2] == 'same':
+                test_data.append(-1)
+            else: # 'Sensemaking' and 'change':
+                test_data.append(-1)
+
+        self.mk_test(test_data)
+
+    # Curates the dataset based on state only
+    # if State = Sensemaking -> +1
+    # else State = Question -> -1
+
+    def curate_data_v2(self, data, label):
+        # print("#############################")
+        print("Currently working with " + label)
+        # print("#############################")
+        sz = len(data)
+        test_data = []
+        for i in range(sz):
+            if data[i][1] == 'Sensemaking': # State = 'Sensemaking':
+                test_data.append(1)
+            else:  # State = 'Question':
+                test_data.append(-1)
+
         self.mk_test(test_data)
 
     def get_state(self, state):
@@ -164,23 +178,38 @@ class stationarity_test:
 
         for i in range(len(data_2d)):
             _label = "Subtask " + str(i + 1)
-            self.curate_data('Question', data_2d[i], _label)
-            self.curate_data('Sensemaking', data_2d[i], _label)
-            # break
-            print()
-        print("\n\n")
+            self.curate_data_v2(data_2d[i], _label)
 
-        # print(_map)
-        # _max = max(_map.items(), key = lambda _map: _map[1])
-        # print(_max)
+    def process_data_v2(self, user, csv_reader):
+        next(csv_reader)
 
-        # self.curate_data('Question', data_s1, "Subtask 1")
-        # self.curate_data('Question', data_s2, "Subtask 2")
-        #
-        # self.curate_data('Sensemaking', data_s1, "Subtask 1")
-        # self.curate_data('Sensemaking', data_s2, "Subtask 2")
+        data_2d = []
 
+        prev_state = None
+        flag = False
+        _map = defaultdict(int)
+        # key = 1
+        data_1d = []
+        subtask = '1'
+        for interaction in csv_reader:
+            cur_state = self.get_state(interaction[1])
+            if cur_state not in ('Question', 'Sensemaking'):
+                continue
+            if prev_state == cur_state:
+                action = "same"
+            else:
+                action = "change"
 
+            if flag:
+                data_1d.append((interaction[0], prev_state, action))
+
+            flag = True
+            # pdb.set_trace()
+
+            prev_state = cur_state
+            _map[prev_state] += 1
+
+        self.curate_data(data_1d, "Full Task")
 
 
 if __name__ == "__main__":

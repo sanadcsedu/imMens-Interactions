@@ -1,10 +1,4 @@
 Time,State,action,reward,visualization,subtask
-00:00:00,(Sensemaking+hist-3),brush,0.25,hist-3,1
-00:00:00,(Sensemaking+hist-4),brush,0.25,hist-4,1
-00:00:01,(Sensemaking+hist-4),brush,0.25,hist-4,1
-00:00:07,(Sensemaking+hist-4),brush,0.25,hist-4,1
-00:00:08,(Sensemaking+hist-4),brush,0.25,hist-4,1
-00:00:08,(Sensemaking+bar-5),brush,0.25,bar-5,1
 00:00:11,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,1
 00:00:12,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,1
 00:00:16,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,1
@@ -62,16 +56,6 @@ Time,State,action,reward,visualization,subtask
 00:01:27,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
 00:01:28,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
 00:01:29,(Sensemaking+geo-0-1),pan,0.0,geo-0-1,1
-00:01:31,(Question+geo-0-1),pan,0.0,geo-0-1,1
-00:01:32,(Question+geo-0-1),pan,0.0,geo-0-1,1
-00:01:32,(Question+geo-0-1),pan,0.0,geo-0-1,1
-00:01:34,(Question+geo-0-1),pan,0.0,geo-0-1,1
-00:01:36,(Question+geo-0-1),pan,0.0,geo-0-1,1
-00:01:37,(Question+geo-0-1),pan,0.0,geo-0-1,1
-00:01:38,(Question+geo-0-1),pan,0.0,geo-0-1,1
-00:01:39,(Question+geo-0-1),pan,0.0,geo-0-1,1
-00:01:40,(Question+geo-0-1),pan,0.0,geo-0-1,1
-00:01:45,(Question+geo-0-1),pan,0.0,geo-0-1,1
 00:01:49,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,1
 00:01:50,(Sensemaking+geo-0-1),zoom,0.25,geo-0-1,1
 00:01:51,(Sensemaking+geo-0-1),pan,0.25,geo-0-1,1

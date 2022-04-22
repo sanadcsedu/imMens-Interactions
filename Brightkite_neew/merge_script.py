@@ -84,7 +84,7 @@ class integrate:
         new_fname = self.path + user + '_new.csv'
         new_file = open(new_fname, 'w')
 
-        new_file.write("Time,State,action,reward,visualization,subtask\n")
+        new_file.write("Time, Proposition, State,action,reward,visualization,subtask\n")
         idx = 0
         for lines in raw_interaction.readlines():
             lines = lines.strip()
@@ -96,12 +96,13 @@ class integrate:
             # print("{} : {} : {}".format(hh, mm, ss))
             seconds = hh * 60 + mm * 60 + ss
             # pdb.set_trace()
+
             if seconds < data[idx][4]:
-                new_file.write("{},({}+{}),{},{},{},{}\n".format(lines[1], data[idx][1], lines[3], lines[2], data[idx][2], lines[3], data[idx][3]))
+                new_file.write("{},{},({}+{}),{},{},{},{}\n".format(data[idx][0],lines[1], data[idx][1], lines[3], lines[2], data[idx][2], lines[3], data[idx][3]))
             else:
                 if idx + 1 < len(data):
                     idx += 1
-                new_file.write("{},({}+{}),{},{},{},{}\n".format(lines[1], data[idx][1], lines[3], lines[2], data[idx][2], lines[3], data[idx][3]))
+                new_file.write("{},{},({}+{}),{},{},{},{}\n".format(data[idx][0], lines[1], data[idx][1], lines[3], lines[2], data[idx][2], lines[3], data[idx][3]))
 
         raw_interaction.close()
         new_file.close()
@@ -159,8 +160,8 @@ if __name__ == "__main__":
     #This class reform cleans the data a bit, removing concurrent similar actions in the same time step / visualization
     #We can use this because for now we are working in a high level and the differentiating factors on those interactions
     # are not being used for now.
-    obj = reform()
-    obj.run_reform()
+    # obj = reform()
+    # obj.run_reform()
 
 # directory = 'p4'
 # parent_directory = 'D:\\imMens interaction logs\\annotated\\Brightkite-0ms\\Brightkite-state'

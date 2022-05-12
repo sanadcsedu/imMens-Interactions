@@ -67,27 +67,24 @@ class TDlearning:
         # The policy we're following
         policy = self.epsilon_greedy_policy(Q, epsilon, len(env.valid_actions))
 
-        #saving the policy
-        temp = user.split("\\")
-        fname = "D:\\imMens Learning\\stationarity_test\\" + temp[len(temp) - 1]
-        f = open(fname, "w")
-
-        for i_episode in tqdm(range(num_episodes)):
+        # for i_episode in tqdm(range(num_episodes)):
+        for i_episode in range(num_episodes):
             # Print out which episode we're on, useful for debugging.
-            if (i_episode + 1) % 100 == 0:
-                print("\rEpisode {}/{}.".format(i_episode + 1, num_episodes), end="")
-                sys.stdout.flush()
+            # if (i_episode + 1) % 100 == 0:
+            #     print("\rEpisode {}/{}.".format(i_episode + 1, num_episodes), end="")
+            #     sys.stdout.flush()
 
             # Reset the environment and pick the first state
             state = env.reset()
 
             # One step in the environment
             # total_reward = 0.0
+            # print("episode")
             for t in itertools.count():
                 # Take a step
                 action_probs = policy(state)
                 action = np.random.choice(np.arange(len(action_probs)), p=action_probs)
-                next_state, reward, done = env.step(state, action)
+                next_state, reward, done, _ = env.step(state, action, False)
                 # pdb.set_trace()
                 # Update statistics
                 stats.episode_rewards[i_episode] += reward
@@ -99,34 +96,20 @@ class TDlearning:
                 td_delta = td_target - Q[state][action]
                 Q[state][action] += alpha * td_delta
                 # pdb.set_trace()
-
-                #printing the policy into the file
-                if i_episode == 999:
-                    flag = False
-                    for _states in Q.keys():
-                        if (flag):
-                            f.write(",")
-                        flag = True
-                        f.write("{}:{}".format(_states, policy(_states)))
-                        # for items in Q[_states]:
-                        #     # print(_actions)
-                        #     f.write(" {}".format(items))
-                        # f.write(", ")
-                    f.write("\n")
                 if done:
                     break
-
                 state = next_state
         # print(policy)
-        f.close()
         return Q, stats
 
     def test(self, env, Q, epsilon=0.1):
 
         policy = self.epsilon_greedy_policy(Q, epsilon, len(env.valid_actions))
-
+        discount_factor = 0.1
+        alpha = 0.1
         # Reset the environment and pick the first action
-        state = env.reset()
+        state = env.reset(all = False, test=True)
+
         stats = []
         # One step in the environment
         # total_reward = 0.0
@@ -134,12 +117,14 @@ class TDlearning:
             # Take a step
             action_probs = policy(state)
             action = np.random.choice(np.arange(len(action_probs)), p=action_probs)
-            next_state, reward, done = env.step(state, action)
+            next_state, reward, done, prediction = env.step(state, action, True)
 
-            if reward > 0:
-                stats.append(1)
-            else:
-                stats.append(0)
+            stats.append(prediction)
+            # print(prediction)
+            best_next_action = np.argmax(Q[next_state])
+            td_target = reward + discount_factor * Q[next_state][best_next_action]
+            td_delta = td_target - Q[state][action]
+            Q[state][action] += alpha * td_delta
 
             if done:
                 break
@@ -150,20 +135,90 @@ class TDlearning:
         for i in stats:
             cnt += i
         cnt /= len(stats)
-        print("Accuracy of State Prediction: {}".format(cnt))
+        # print("Accuracy of State Prediction: {}".format(cnt))
+        return cnt
 
 if __name__ == "__main__":
     env = environment2.environment2()
-    users = env.user_list
-    for u in users:
-        print(u)
-        env.get_subtasks(u)
-        obj = TDlearning()
-        Q, stats = obj.q_learning(u, env, 1000)
-        # plotting.plot_episode_stats(stats)
-        # env.take_step_subtask()
-        # print(Q)
-        obj.test(env, Q)
+    users_b = env.user_list_bright
+    users_f = env.user_list_faa
+    users_hyper = []
+    for i in range(2):
+        c = np.random.randint(0, len(users_b))
+        users_hyper.append(users_b[c])
+        users_b.remove(users_b[c])
+
+    for i in range(2):
+        c = np.random.randint(0, len(users_f))
+        users_hyper.append(users_f[c])
+        users_f.remove(users_f[c])
+
+    # discount_h = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+    # # discount_h = [0.0, 0.1, 0.2, 0.3, 0.4, 0.6, 0.7, 0.8, 0.9, 1.0]
+    # # alpha_h = [0.1, 0.2, 0.3, 0.4, 0.6, 0.7, 0.8, 0.9, 1.0]
+    # alpha_h = [0.1, 0.2, 0.3, 0.4, .5]
+    # # epsilon_h = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+    # epsilon_h = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+    # threshold_h = [0.75]
+    # # threshold_h = [0.4, 0.6, 0.7, 0.8, 0.9]
+    # # q_learning(self, user, env, num_episodes, discount_factor=1.0, alpha=0.5, epsilon=0.5):
+    # best_discount = best_alpha = best_eps = -1
+    # for user in users_hyper:
+    #     max_accu = -1
+    #     for eps in epsilon_h:
+    #         for alp in alpha_h:
+    #             for dis in discount_h:
+    #                 for thres in threshold_h:
+    #                     env.process_data(user, thres)
+    #                     obj = TDlearning()
+    #                     Q, stats = obj.q_learning(user, env, 500, dis, alp, eps)
+    #                     accu = obj.test(env, Q)
+    #                     # print(accu)
+    #                     if max_accu < accu:
+    #                         max_accu = accu
+    #                         best_eps = eps
+    #                         best_alpha = alp
+    #                         best_discount = dis
+    #                     max_accu = max(max_accu, accu)
+    #                     env.reset(True, False)
+    #     print("Accuracy of State Prediction: {} {} {} {}".format(max_accu, best_eps, best_discount, best_alpha))
+
+    thres = 0.8 #the percent of interactions Q-Learning will be trained on
+
+    for u in users_f:
+        # print(u)
+        sum = 0
+        for episodes in tqdm(range(10)):
+            env.process_data(u, thres)
+            obj = TDlearning()
+            Q, stats = obj.q_learning(u, env, 400, 0.1, 0.1, 0.0)
+            # plotting.plot_episode_stats(stats)
+            # env.take_step_subtask()
+            # print(Q)
+            accu = obj.test(env, Q)
+            sum += accu
+            # print("{} {}".format(u, accu))
+            env.reset(True, False)
+            # pdb.set_trace()
+        print(sum / 10)
+    # print(*users_hyper, sep='\n')
+    # print("xxxxxxxxxxxxxx")
+    # print(*users_b, sep='\n')
+    # print("xxxxxxxxxxxxxx")
+    # print(*users_f, sep='\n')
+
+    # thres = 0.9 #the percent of interactions Q-Learning will be trained on
+    # for u in users_f:
+    #     # print(u)
+    #     env.process_data(u, thres)
+    #     obj = TDlearning()
+    #     Q, stats = obj.q_learning(u, env, 500)
+    #     # plotting.plot_episode_stats(stats)
+    #     # env.take_step_subtask()
+    #     # print(Q)
+    #     obj.test(env, Q)
+    #     # print("OK")
+    #     env.reset(True, False)
 
 
 #learn a policy a user will follow, convergance policy -> is too strict? Too much fluctuation
@@ -181,4 +236,22 @@ if __name__ == "__main__":
 # What we should do in response?
 #
 
+#proportion based on reward
+#probabilistic decision making
+#how people move? / explore the data ->
+#I wanna know how people come up with a hypothesis?
+#the states captures the notion of what the user has done so far and retain all the relevant users
 
+#5-12-22
+#1. do people follow Q-Learning?
+#2.1st step design with more actions
+#3. their past reflects more of their data. (No Learning, People)
+#4. if the state, action is very simple the people may not change the set of action space.
+#5. No Learning: it is better to check the probability (most frequent action in a state)
+#6. Something simpler than Q-Learning.
+
+#2 versions of baseline
+#1. look at sth 20% / 30% / 50% of the data -> figure out prob for actions
+#   -> testing same thing and showing the difference (in terms of distribution) see how much accurate it is
+#2. We train a distribution -> train a model to predict what the user will do ->   Q-Learning
+#3. record the Yeal Niv papers (Complex approaches for Model Free)

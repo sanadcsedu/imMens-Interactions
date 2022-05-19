@@ -7,8 +7,12 @@ import pandas as pd
 
 class environment2:
     def __init__(self):
-        self.user_list_bright = glob.glob('D:\\imMens Learning\\QLearning\\*_reformed.csv')
-        self.user_list_faa = glob.glob('D:\\imMens Learning\\QLearning\\*_reform.csv')
+        path = os.getcwd()
+        self.user_list_bright = glob.glob(path + "/QLearning/*_reformed.csv")
+        self.user_list_faa = glob.glob(path + "/QLearning/*_reform.csv")
+        
+        # self.user_list_bright = glob.glob('D:\\imMens Learning\\QLearning\\*_reformed.csv')
+        # self.user_list_faa = glob.glob('D:\\imMens Learning\\QLearning\\*_reform.csv')
         # This variable will be used to track the current position of the user agent.
         self.steps = 0
         self.done = False  # Done exploring the current subtask
@@ -41,7 +45,7 @@ class environment2:
     def get_state(self, state):
         state = state.strip('()')
         state = state.replace(" ", "")
-        state = state.split('+')[0]
+        # state = state.split('+')[0]
         return state
 
     # Optimization is not the priority right now
@@ -56,8 +60,8 @@ class environment2:
             # pdb.set_trace()
             # print("here {} end\n".format(cnt_inter))
             cur_state = self.get_state(row['State'])
-            if cur_state not in ('Question', 'Sensemaking'):
-                continue
+            # if cur_state not in ('Question', 'Sensemaking'):
+            #     continue
             if prev_state == cur_state:
                 action = "same"
             else:

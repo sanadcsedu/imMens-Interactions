@@ -188,7 +188,7 @@ if __name__ == "__main__":
     for u in users_f:
         # print(u)
         sum = 0
-        for episodes in tqdm(range(10)):
+        for episodes in tqdm(range(20)):
             env.process_data(u, thres)
             obj = TDlearning()
             Q, stats = obj.q_learning(u, env, 400, 0.1, 0.1, 0.0)
@@ -200,7 +200,25 @@ if __name__ == "__main__":
             # print("{} {}".format(u, accu))
             env.reset(True, False)
             # pdb.set_trace()
-        print(sum / 10)
+        print(sum / 20)
+    
+    for u in users_b:
+        # print(u)
+        sum = 0
+        for episodes in tqdm(range(20)):
+            env.process_data(u, thres)
+            obj = TDlearning()
+            Q, stats = obj.q_learning(u, env, 400, 0.1, 0.1, 0.0)
+            # plotting.plot_episode_stats(stats)
+            # env.take_step_subtask()
+            # print(Q)
+            accu = obj.test(env, Q)
+            sum += accu
+            # print("{} {}".format(u, accu))
+            env.reset(True, False)
+            # pdb.set_trace()
+        print(sum / 20)
+
     # print(*users_hyper, sep='\n')
     # print("xxxxxxxxxxxxxx")
     # print(*users_b, sep='\n')

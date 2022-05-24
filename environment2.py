@@ -16,14 +16,15 @@ class environment2:
         # This variable will be used to track the current position of the user agent.
         self.steps = 0
         self.done = False  # Done exploring the current subtask
-        self.valid_actions = ["same", "change"]
+        # self.valid_actions = ["same", "change"]
+        self.valid_actions = ["brush", "pan", "range select", "zoom"]
         # Storing the data into main memory. Focus is now only on action and states for a fixed user's particular subtask
         self.mem_states = []
         self.mem_reward = []
         self.mem_action = []
         self.threshold = 0
         self.prev_state = None
-
+    
     def reset(self, all=False, test = False):
         # Resetting the variables used for tracking position of the agents
         if test:
@@ -56,19 +57,19 @@ class environment2:
         prev_state = None
         cnt_inter = 0
         for index, row in df.iterrows():
-            # print(row)
-            # pdb.set_trace()
-            # print("here {} end\n".format(cnt_inter))
             cur_state = self.get_state(row['State'])
             # if cur_state not in ('Question', 'Sensemaking'):
             #     continue
-            if prev_state == cur_state:
-                action = "same"
-            else:
-                action = "change"
+            
+            #Comment off the following if you do not want raw actions
+            # if prev_state == cur_state:
+            #     action = "same"
+            # else:
+            #     action = "change"
             self.mem_states.append(cur_state)
             self.mem_reward.append(row['reward'])
-            self.mem_action.append(action)
+            self.mem_action.append(row['action'])
+            # self.mem_action.append(action)
             cnt_inter += 1
             prev_state = cur_state
         self.threshold = int(cnt_inter * thres)
@@ -105,9 +106,9 @@ class environment2:
         next_state, next_reward, next_action = self.cur_inter(temp_step)
         # pdb.set_trace()
         # if test:
-            # print("{} {}".format(self.valid_actions[act_arg], cur_action))
-            # x, y, z = self.cur_inter(self.steps)
-            # print("{} {} {} {}".format(self.steps, x, y, z))
+        #     print("{} {}".format(self.valid_actions[act_arg], cur_action))
+        #     x, y, z = self.cur_inter(self.steps)
+        #     print("{} {} {} {}".format(self.steps, x, y, z))
         if self.valid_actions[act_arg] == cur_action:
             prediction = 1
         else:

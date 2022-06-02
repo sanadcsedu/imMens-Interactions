@@ -11,18 +11,15 @@ import sys
 import plotting
 import environment2
 from tqdm import tqdm
+import numba
 
 class misc:
-    def __init__(self):
-        self.discount_h = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
-        # discount_h = [0.0, 0.1, 0.2, 0.3, 0.4, 0.6, 0.7, 0.8, 0.9, 1.0]
-        # alpha_h = [0.1, 0.2, 0.3, 0.4, 0.6, 0.7, 0.8, 0.9, 1.0]
-        self.alpha_h = [0.1, 0.2, 0.3, 0.4, .5]
-        # epsilon_h = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
-        self.epsilon_h = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+    def __init__(self, users):
+        self.discount_h = [0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5]
+        self.alpha_h = [0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5]
+        self.epsilon_h = [0.01, 0.05, 0.1, 0.2, 0.3]
         self.threshold_h = [0.75]
-        # threshold_h = [0.4, 0.6, 0.7, 0.8, 0.9]
-        self.prog = 4 * len(self.epsilon_h) * len(self.alpha_h) * len(self.discount_h)
+        self.prog = users * len(self.epsilon_h) * len(self.alpha_h) * len(self.discount_h) * 10
     
     def get_user_name(self, url):
         string = url.split('/')
@@ -32,35 +29,43 @@ class misc:
 
     def hyper_param(self, env, users_hyper, algorithm, epoch):
         best_discount = best_alpha = best_eps = -1
+        e = a = d = 0
         with tqdm(total = self.prog) as pbar:
             for user in users_hyper:
                 # print(user)
                 max_accu = -1
-                for eps in self.epsilon_h:
-                    for alp in self.alpha_h:
-                        for dis in self.discount_h:
-                            for thres in self.threshold_h:
-                                env.process_data(user, thres)
-                                
-                                if algorithm == 'sarsa':
-                                    obj = TDLearning.TDLearning()
-                                    Q, stats = obj.q_learning(user, env, epoch, dis, alp, eps)    
-                                else:
-                                    obj = TD_SARSA.TD_SARSA()
-                                    Q, stats = obj.sarsa(user, env, epoch, dis, alp, eps)
+                for thres in self.threshold_h:
+                    env.process_data(user, thres)
+                    for eps in self.epsilon_h:
+                        for alp in self.alpha_h:
+                            for dis in self.discount_h:
+                                accu = 0 
+                                for epiepi in range(10):                                
+                                    if algorithm == 'qlearning':
+                                        obj = TDLearning.TDLearning()
+                                        # pdb.set_trace()
+                                        Q, stats = obj.q_learning(user, env, epoch, dis, alp, eps)    
+                                    else:
+                                        obj = TD_SARSA.TD_SARSA()
+                                        Q, stats = obj.sarsa(user, env, epoch, dis, alp, eps)
 
-                                accu = obj.test(env, Q)
-                                # print(accu)
+                                    accu += obj.test(env, Q, dis, alp, eps)
+                                # print(accu/20)
                                 if max_accu < accu:
                                     max_accu = accu
                                     best_eps = eps
                                     best_alpha = alp
                                     best_discount = dis
                                 max_accu = max(max_accu, accu)
-                                env.reset(True, False)
                                 pbar.update(1)
-                print("Accuracy of State Prediction: {} {} {} {} {}".format(algorithm, max_accu, best_eps, best_discount, best_alpha))
-        return best_eps, best_discount, best_alpha
+                    env.reset(True, False)
+                print("{}, {:.2f}, {}, {}, {}".format(self.get_user_name(user), max_accu/10, best_eps, best_discount, best_alpha))
+                e += best_eps
+                d += best_discount
+                a += best_alpha
+        # return best_eps, best_discount, best_alpha
+        print(e / len(users_hyper), d / len(users_hyper), a / len(users_hyper))
+        return e / len(users_hyper), d / len(users_hyper), a / len(users_hyper)
 
     def plot(self, x_labels, y, title):
         x = []
@@ -89,13 +94,13 @@ class misc:
                 if algo == 'sarsa':
                     # print("S")
                     obj = TDLearning.TDLearning()
-                    Q, stats = obj.q_learning(u, env, 10, best_discount, best_alpha, best_eps)
+                    Q, stats = obj.q_learning(u, env, 50, best_discount, best_alpha, best_eps)
                 else:
                     # print("Q")
                     obj = TD_SARSA.TD_SARSA()
-                    Q, stats = obj.sarsa(u, env, 10, best_discount, best_alpha, best_eps)
+                    Q, stats = obj.sarsa(u, env, 50, best_discount, best_alpha, best_eps)
 
-                accu = obj.test(env, Q)
+                accu = obj.test(env, Q, best_discount, best_alpha, best_eps)
                 sum += accu
                 # print("{} {}".format(u, accu))
                 env.reset(True, False)

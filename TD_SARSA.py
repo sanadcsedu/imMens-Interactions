@@ -101,11 +101,9 @@ class TD_SARSA:
         
         return Q, stats
 
-    def test(self, env, Q, epsilon=0.0):
+    def test(self, env, Q, discount_factor, alpha, epsilon):
 
         policy = self.epsilon_greedy_policy(Q, epsilon, len(env.valid_actions))
-        discount_factor = 0.1
-        alpha = 0.1
         # Reset the environment and pick the first action
         state = env.reset(all = False, test=True)
 
@@ -144,20 +142,20 @@ if __name__ == "__main__":
     users_b = env.user_list_bright
     users_f = env.user_list_faa
     users_hyper = []
-    for i in range(2):
+    for i in range(8):
         c = np.random.randint(0, len(users_b))
         users_hyper.append(users_b[c])
         users_b.remove(users_b[c])
 
-    for i in range(2):
+    for i in range(8):
         c = np.random.randint(0, len(users_f))
         users_hyper.append(users_f[c])
         users_f.remove(users_f[c])
 
     thres = 0.75
-    obj2 = misc.misc()
+    obj2 = misc.misc(len(users_hyper))
     #hyper-param training 
-    best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_hyper, 'qlearning', 5)
+    best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_hyper, 'sarsa', 30)
     #testing the model
-    obj2.run_stuff(env, users_f, 5, 'SARSA_faa', best_eps, best_discount, best_alpha, 'sarsa')
-    obj2.run_stuff(env, users_b, 5, 'SARSA_brightkite', best_eps, best_discount, best_alpha, 'sarsa')
+    # obj2.run_stuff(env, users_f, 20, 'SARSA_faa', best_eps, best_discount, best_alpha, 'sarsa')
+    # obj2.run_stuff(env, users_b, 20, 'SARSA_brightkite', best_eps, best_discount, best_alpha, 'sarsa')

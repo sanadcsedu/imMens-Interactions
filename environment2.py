@@ -24,7 +24,8 @@ class environment2:
         self.mem_action = []
         self.threshold = 0
         self.prev_state = None
-    
+        self.find_states = defaultdict()
+
     def reset(self, all=False, test = False):
         # Resetting the variables used for tracking position of the agents
         if test:
@@ -43,11 +44,27 @@ class environment2:
         s, r, a = self.cur_inter(self.steps)
         return s
 
+    #In this function the states combination of visualizations + (sensemaking, question)
+    # def get_state(self, state):
+    #     state = state.strip('()')
+    #     state = state.replace(" ", "")
+    #     # state = state.split('+')[0]
+    #     self.find_states[state] = 1
+    #     return state
+
+    #The states are now temporal vs spatial data + (sensemaking, question)
     def get_state(self, state):
         state = state.strip('()')
         state = state.replace(" ", "")
-        # state = state.split('+')[0]
-        return state
+        state = state.split('+')
+        if(state[1] in ["geo-0-1", "scatterplot-0-1"]):
+            new_state = state[0] + "+spatial"
+        else:
+            new_state = state[0] + "+temporal"
+        # pdb.set_trace()
+        print(state, new_state)
+        self.find_states[new_state] = 1
+        return new_state
 
     # Optimization is not the priority right now
     # Returns all interactions for a specific user and subtask i.e. user 'P1', subtask '1.txt'

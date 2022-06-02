@@ -9,11 +9,13 @@ import sys
 import plotting
 import environment2
 from tqdm import tqdm
+# from numba import jit, cuda 
 
 class TDLearning:
     def __init__(self):
         pass
 
+    # @jit(target ="cuda")
     def epsilon_greedy_policy(self, Q, epsilon, nA):
         """
         Creates an epsilon-greedy policy based on a given Q-function and epsilon.
@@ -27,7 +29,8 @@ class TDLearning:
             A function that takes the observation as an argument and returns
             the probabilities for each action in the form of a numpy array of length nA.
         """
-
+        
+        # @jit(target ="cuda")
         def policy_fnc(state):
             A = np.ones(nA, dtype=float) * epsilon / nA
             best_action = np.argmax(Q[state])
@@ -36,7 +39,7 @@ class TDLearning:
 
         return policy_fnc
 
-
+    # @jit(target ="cuda")
     def q_learning(self, user, env, num_episodes, discount_factor=1.0, alpha=0.5, epsilon=0.5):
         """
         Q-Learning algorithm: Off-policy TD control. Finds the optimal greedy policy
@@ -102,11 +105,10 @@ class TDLearning:
         # print(policy)
         return Q, stats
 
-    def test(self, env, Q, epsilon=0.0):
+    # @jit(target ="cuda")
+    def test(self, env, Q, discount_factor, alpha, epsilon):
 
         policy = self.epsilon_greedy_policy(Q, epsilon, len(env.valid_actions))
-        discount_factor = 0.1
-        alpha = 0.1
         # Reset the environment and pick the first action
         state = env.reset(all = False, test=True)
 
@@ -144,20 +146,23 @@ if __name__ == "__main__":
     users_b = env.user_list_bright
     users_f = env.user_list_faa
     users_hyper = []
-    for i in range(2):
+    for i in range(8):
         c = np.random.randint(0, len(users_b))
         users_hyper.append(users_b[c])
         users_b.remove(users_b[c])
         
-    for i in range(2):
+    for i in range(8):
         c = np.random.randint(0, len(users_f))
         users_hyper.append(users_f[c])
         users_f.remove(users_f[c])
         
     thres = 0.75 #the percent of interactions Q-Learning will be trained on
-    obj2 = misc.misc()
-    #training hyper-parameters 
-    best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_hyper, 'qlearning', 10)
-    #testing the model 
-    obj2.run_stuff(env, users_f, 10, 'QLearning_faa', best_eps, best_discount, best_alpha, 'qlearning')
-    obj2.run_stuff(env, users_b, 10, 'QLearning_brightkite', best_eps, best_discount, best_alpha, 'qlearning')
+    obj2 = misc.misc(len(users_hyper))
+    
+    # training hyper-parameters 
+    best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_hyper, 'qlearning', 30)
+    
+    # testing the model 
+    # obj2.run_stuff(env, users_f, 30, 'QLearning_faa', best_eps, best_discount, best_alpha, 'qlearning')
+    # obj2.run_stuff(env, users_b, 30, 'QLearning_brightkite', best_eps, best_discount, best_alpha, 'qlearning')
+    # print(env.find_states)

@@ -58,11 +58,13 @@ class environment2:
         state = state.replace(" ", "")
         state = state.split('+')
         if(state[1] in ["geo-0-1", "scatterplot-0-1"]):
-            new_state = state[0] + "+spatial"
+            # new_state = state[0] + "+spatial"
+            new_state = "spatial"
         else:
-            new_state = state[0] + "+temporal"
+            new_state = "temporal"
+            # new_state = state[0] + "+temporal"
         # pdb.set_trace()
-        print(state, new_state)
+        # print(state, new_state)
         self.find_states[new_state] = 1
         return new_state
 

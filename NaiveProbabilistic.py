@@ -3,6 +3,8 @@ import numpy as np
 from collections import defaultdict
 import pdb
 import misc 
+import matplotlib.pyplot as plt
+
 
 class NaiveProbabilistic:
     def __init__(self):
@@ -66,16 +68,49 @@ if __name__ == "__main__":
     users_f = env.user_list_faa
 
     total = 0
+    threshold = [0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+    obj2 = misc.misc([])
+
     for u in users_b:
-        env.process_data(u, 0)
-        obj = NaiveProbabilistic()      
-        total += obj.NaiveProbabilistic(u, env, 0.75)
-        env.reset(True, False)
-        # break
+        y_accu = []
+        for thres in threshold:
+            env.process_data(u, 0)
+            obj = NaiveProbabilistic()
+            accu = obj.NaiveProbabilistic(u, env, thres)
+            total += accu
+            y_accu.append(accu)
+            env.reset(True, False)
+        plt.plot(threshold, y_accu, label= obj2.get_user_name(u))
+
+    plt.legend(loc='center left', bbox_to_anchor=(1, 0))
+    plt.xlabel('Threshold')
+    plt.ylabel('Accuracy')
+    title = "Naive_Brightkite_2states"
+    # pdb.set_trace()
+    plt.title(title)
+    location = 'figures/' + title
+    plt.savefig(location, bbox_inches='tight')
+    plt.close()
+            # break
     for u in users_f:
-        env.process_data(u, 0)
-        obj = NaiveProbabilistic()
-        total += obj.NaiveProbabilistic(u, env, 0.75)
-        env.reset(True, False)
+        y_accu = []
+        for thres in threshold:
+            env.process_data(u, 0)
+            obj = NaiveProbabilistic()
+            accu = obj.NaiveProbabilistic(u, env, thres)
+            total += accu
+            y_accu.append(accu)
+            env.reset(True, False)
+        plt.plot(threshold, y_accu, label=obj2.get_user_name(u))
+
+    plt.legend(loc='center left', bbox_to_anchor=(1, 0))
+    plt.xlabel('Threshold')
+    plt.ylabel('Accuracy')
+    title = "Naive_FAA_2states"
+    # pdb.set_trace()
+    plt.title(title)
+    location = 'figures/' + title
+    plt.savefig(location, bbox_inches='tight')
+    plt.close()
     
-    print(total / (len(users_b) + len(users_f)))
+    # print(total / (len(users_b) + len(users_f)))

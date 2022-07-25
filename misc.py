@@ -20,7 +20,7 @@ class misc:
     def __init__(self, users):
         self.discount_h = [0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5]
         self.alpha_h = [0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5]
-        self.epsilon_h = [0.01, 0.05, 0.1, 0.2, 0.3]
+        self.epsilon_h = [0.01, 0.05, 0.1]
         self.threshold_h = [0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
         self.prog = users * len(self.epsilon_h) * len(self.alpha_h) * len(self.discount_h)*len(self.threshold_h)
     
@@ -34,59 +34,59 @@ class misc:
         best_discount = best_alpha = best_eps = -1
         e = a = d = 0
         pp = 10
-        with tqdm(total = self.prog) as pbar:
-            for user in users_hyper:
-                # print(user)
-                max_accu = -1
-                # x_thres = []
-                y_accu = []
-                for thres in self.threshold_h:
-                    max_accu_thres = -1
-                    env.process_data(user, thres)
-                    for eps in self.epsilon_h:
-                        for alp in self.alpha_h:
-                            for dis in self.discount_h:
-                                accu = 0 
-                                for epiepi in range(pp):
-                                    if algorithm == 'qlearning':
-                                        obj = TDLearning.TDLearning()
-                                        # pdb.set_trace()
-                                        Q, stats = obj.q_learning(user, env, epoch, dis, alp, eps)    
-                                    else:
-                                        obj = TD_SARSA.TD_SARSA()
-                                        Q, stats = obj.sarsa(user, env, epoch, dis, alp, eps)
+        # with tqdm(total = self.prog) as pbar:
+        for user in users_hyper:
+            # print(user)
+            max_accu = -1
+            # x_thres = []
+            y_accu = []
+            for thres in self.threshold_h:
+                max_accu_thres = -1
+                env.process_data(user, thres)
+                for eps in self.epsilon_h:
+                    for alp in self.alpha_h:
+                        for dis in self.discount_h:
+                            accu = 0
+                            for epiepi in range(pp):
+                                if algorithm == 'qlearning':
+                                    obj = TDLearning.TDLearning()
+                                    # pdb.set_trace()
+                                    Q, stats = obj.q_learning(user, env, epoch, dis, alp, eps)
+                                else:
+                                    obj = TD_SARSA.TD_SARSA()
+                                    Q, stats = obj.sarsa(user, env, epoch, dis, alp, eps)
 
-                                    accu += obj.test(env, Q, dis, alp, eps)
-                                # print(accu/20)
-                                if max_accu_thres < accu:
-                                    max_accu = accu
-                                    best_eps = eps
-                                    best_alpha = alp
-                                    best_discount = dis
-                                max_accu_thres = max(max_accu_thres, accu)
-                                pbar.update(1)
-                    env.reset(True, False)
-                    y_accu.append(round(max_accu_thres/pp, 2))
-                    max_accu = max(max_accu_thres, max_accu)
-                # print(self.threshold_h, y_accu, self.get_user_name(user))
-                plt.plot(self.threshold_h, y_accu, label = self.get_user_name(user))
-                print("{}, {:.2f}, {}, {}, {}".format(self.get_user_name(user), max_accu/pp, best_eps, best_discount, best_alpha))
-                e += best_eps
-                d += best_discount
-                a += best_alpha
-            plt.legend(loc='center left', bbox_to_anchor=(1, 0))
-            plt.xlabel('Threshold')
-            plt.ylabel('Accuracy')
-            title = algorithm + "_spatial_temporal_" + str(randint(100, 999))
-            # pdb.set_trace()
-            plt.title(title)
-            location = 'figures/' + title
-            plt.savefig(location, bbox_inches='tight')
-            plt.close()
+                                accu += obj.test(env, Q, dis, alp, eps)
+                            # print(accu/20)
+                            if max_accu_thres < accu:
+                                max_accu = accu
+                                best_eps = eps
+                                best_alpha = alp
+                                best_discount = dis
+                            max_accu_thres = max(max_accu_thres, accu)
+                            # pbar.update(1)
+                env.reset(True, False)
+                y_accu.append(round(max_accu_thres/pp, 2))
+                max_accu = max(max_accu_thres, max_accu)
+            # print(self.threshold_h, y_accu, self.get_user_name(user))
+            plt.plot(self.threshold_h, y_accu, label = self.get_user_name(user))
+            print("{}, {:.2f}, {}, {}, {}".format(self.get_user_name(user), max_accu/pp, best_eps, best_discount, best_alpha))
+            e += best_eps
+            d += best_discount
+            a += best_alpha
+        plt.legend(loc='center left', bbox_to_anchor=(1, 0))
+        plt.xlabel('Threshold')
+        plt.ylabel('Accuracy')
+        title = algorithm + "_spatial_temporal_states_" + str(randint(100, 999))
+        # pdb.set_trace()
+        plt.title(title)
+        location = 'figures/' + title
+        plt.savefig(location, bbox_inches='tight')
+        plt.close()
 
         # return best_eps, best_discount, best_alpha
         print(e / len(users_hyper), d / len(users_hyper), a / len(users_hyper))
-        return e / len(users_hyper), d / len(users_hyper), a / len(users_hyper)
+        # return e / len(users_hyper), d / len(users_hyper), a / len(users_hyper)
 
     def plot(self, x_labels, y, title):
         x = []

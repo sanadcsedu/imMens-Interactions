@@ -9,6 +9,8 @@ import sys
 import plotting
 import environment2
 from tqdm import tqdm
+import time
+import multiprocessing
 
 class TD_SARSA:
     def __init__(self):
@@ -138,16 +140,36 @@ class TD_SARSA:
         return cnt
 
 if __name__ == "__main__":
+    start_time = time.time()
     env = environment2.environment2()
     users_b = env.user_list_bright
     users_f = env.user_list_faa
 
     obj2 = misc.misc(len(users_b))
-    best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_b, 'sarsa', 20)
+    # best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_b, 'sarsa', 1)
+    p1 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_b[:4], 'sarsa', 5, ))
+    p3 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_b[4:], 'sarsa', 5, ))
+
 
     obj2 = misc.misc(len(users_f))
-    best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_f, 'sarsa', 20)
+    # best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_f, 'sarsa', 1)
+    p2 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_f[:4], 'sarsa', 5,))
+    p4 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_f[4:], 'sarsa', 5,))
 
+    p1.start()
+    p2.start()
+    p3.start()
+    p4.start()
+
+    p1.join()
+    p2.join()
+    p3.join()
+    p4.join()
+
+    interval = round(time.time() - start_time)
+    # pdb.set_trace()
+    # print(interval)
+    print("Executed time: {}:{}:{} ".format(int(interval / 3600), int((interval % 3600) / 60), interval % 60))
 # if __name__ == "__main__":
 #     env = environment2.environment2()
 #     users_b = env.user_list_bright

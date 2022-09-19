@@ -7,7 +7,7 @@ import itertools
 import matplotlib.pyplot as plt 
 import sys
 import plotting
-import environment2
+import environment3
 from tqdm import tqdm
 # from numba import jit, cuda 
 import multiprocessing
@@ -146,52 +146,17 @@ class TDLearning:
 
 if __name__ == "__main__":
     start_time = time.time()
-    env = environment2.environment2()
-    users_b = env.user_list_bright
+    env = environment3.environment3()
+    # users_b = env.user_list_bright
     users_f = env.user_list_faa
-
-    obj2 = misc.misc(len(users_b))
-    # best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_b, 'sarsa', 1)
-    p1 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_b[:4], 'qlearning', 5,))
-    p3 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_b[4:], 'qlearning', 5,))
 
     obj2 = misc.misc(len(users_f))
     # best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_f, 'sarsa', 1)
     p2 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_f[:4], 'qlearning', 5,))
     p4 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_f[4:], 'qlearning', 5,))
 
-    p1.start()
     p2.start()
-    p3.start()
     p4.start()
 
-    p1.join()
     p2.join()
-    p3.join()
     p4.join()
-
-# if __name__ == "__main__":
-#     env = environment2.environment2()
-#     users_b = env.user_list_bright
-#     users_f = env.user_list_faa
-#     users_hyper = []
-#     for i in range(8):
-#         c = np.random.randint(0, len(users_b))
-#         users_hyper.append(users_b[c])
-#         users_b.remove(users_b[c])
-#
-#     for i in range(8):
-#         c = np.random.randint(0, len(users_f))
-#         users_hyper.append(users_f[c])
-#         users_f.remove(users_f[c])
-#
-#     # thres = 0.75 #the percent of interactions Q-Learning will be trained on
-#     obj2 = misc.misc(len(users_hyper))
-#
-#     # training hyper-parameters
-#     best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_hyper, 'qlearning', 30)
-#
-#     # testing the model
-#     # obj2.run_stuff(env, users_f, 30, 'QLearning_faa', best_eps, best_discount, best_alpha, 'qlearning')
-#     # obj2.run_stuff(env, users_b, 30, 'QLearning_brightkite', best_eps, best_discount, best_alpha, 'qlearning')
-#     # print(env.find_states)

@@ -1,0 +1,321 @@
+Time,State,action,reward,visualization,subtask,raw_actions
+00:00:00,(Sensemaking+bar-4),steer,0.0,bar-4,1,brush
+00:06:39,(Sensemaking+bar-4),steer,0.0,bar-4,1,brush
+00:06:45,(Sensemaking+bar-4),observation,0.25,bar-4,1,brush
+00:06:45,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:06:45,(Sensemaking+bar-4),observation,0.25,bar-4,1,brush
+00:06:45,(Question+bar-4),steer,0.0,bar-4,1,brush
+00:06:51,(Sensemaking+bar-4),observation,0.0,bar-4,1,brush
+00:06:52,(Question+bar-4),observation,0.25,bar-4,2,brush
+00:06:56,(Question+bar-4),observation,0.25,bar-4,2,brush
+00:07:22,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:07:24,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:07:25,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:07:27,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:07:28,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:07:30,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:07:35,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:07:50,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:07:52,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:08:02,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:08:06,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:07,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:09,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:10,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:11,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:14,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:15,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:16,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:17,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:18,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:19,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:25,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:27,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:28,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:31,(Sensemaking+bar-4),generalization,0.0,bar-4,2,brush
+00:08:32,(Sensemaking+bar-4),generalization,0.5,bar-4,2,brush
+00:08:35,(Sensemaking+bar-4),generalization,0.5,bar-4,2,brush
+00:08:38,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:08:39,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:08:43,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:08:44,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:08:45,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:08:46,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:08:48,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:08:49,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:04,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:06,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:08,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:09,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:10,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:16,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:17,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:19,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:20,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:21,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:22,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:23,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:24,(Sensemaking+bar-4),steer,0.0,bar-4,2,brush
+00:09:25,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:26,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:27,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:28,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:29,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:30,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:31,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:33,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:35,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:36,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:37,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:38,(Sensemaking+bar-4),explanation,0.0,bar-4,2,brush
+00:09:39,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:40,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:41,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:42,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:43,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:44,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:45,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:46,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:47,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:57,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:09:58,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:11:27,(Sensemaking+bar-4),observation,0.0,bar-4,2,brush
+00:11:30,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:31,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:33,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:34,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:35,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:36,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:37,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:38,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:39,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:40,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:43,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:44,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:45,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:46,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:11:47,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:11:50,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:11:51,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:11:52,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:11:53,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:11:54,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:11:56,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:11:57,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:11:59,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:12:00,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:12:01,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:12:05,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:12:14,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:12:15,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:12:18,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:12:32,(Question+bar-4),steer,0.0,bar-4,2,brush
+00:12:47,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:12:48,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:12:53,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:12:54,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:12:55,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:01,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:02,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:03,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:04,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:05,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:06,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:07,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:09,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:10,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:11,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:12,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:13,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:14,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:15,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:17,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:19,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:20,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:21,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:28,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:30,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:31,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:33,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:40,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:41,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:42,(Question+bar-2),steer,0.0,bar-2,3,brush
+00:13:43,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:13:44,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:13:50,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:13:51,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:13:52,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:13:57,(Question+bar-4),steer,0.0,bar-4,3,brush
+00:14:02,(Question+bar-4),generalization,0.0,bar-4,3,brush
+00:14:03,(Question+bar-4),generalization,0.0,bar-4,3,brush
+00:14:04,(Question+bar-4),generalization,0.0,bar-4,3,brush
+00:14:05,(Question+bar-4),generalization,0.0,bar-4,3,brush
+00:14:06,(Sensemaking+bar-4),generalization,0.25,bar-4,3,brush
+00:14:07,(Sensemaking+bar-4),generalization,0.25,bar-4,3,brush
+00:14:08,(Sensemaking+bar-4),generalization,0.25,bar-4,3,brush
+00:14:09,(Sensemaking+bar-4),generalization,0.25,bar-4,3,brush
+00:14:20,(Sensemaking+bar-4),observation,0.25,bar-4,3,brush
+00:14:24,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:25,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:26,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:27,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:30,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:31,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:32,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:33,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:34,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:36,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:37,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:39,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:40,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:41,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:42,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:43,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:44,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:46,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:48,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:58,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:14:59,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:00,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:02,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:03,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:04,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:11,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:12,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:14,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:17,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:18,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:31,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:50,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:15:52,(Sensemaking+bar-4),observation,0.0,bar-4,3,brush
+00:16:06,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,pan
+00:16:07,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,pan
+00:16:08,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,pan
+00:16:16,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,range select
+00:16:17,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,range select
+00:16:35,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,zoom
+00:16:37,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:16:38,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:16:44,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,zoom
+00:16:46,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:16:47,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:16:48,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:16:49,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,zoom
+00:16:51,(Sensemaking+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:16:52,(Sensemaking+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:17:06,(Sensemaking+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:17:07,(Sensemaking+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:17:08,(Sensemaking+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:17:09,(Sensemaking+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:17:10,(Sensemaking+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:17:11,(Sensemaking+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:17:16,(Sensemaking+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:17:51,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:17:52,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:17:53,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:17:54,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:17:58,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:17:59,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:18:53,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,range select
+00:18:54,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,range select
+00:18:56,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,range select
+00:18:57,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,range select
+00:19:00,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,pan
+00:19:01,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,pan
+00:19:02,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,pan
+00:19:03,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,pan
+00:19:04,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,3,pan
+00:19:15,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:19:16,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:19:19,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,zoom
+00:19:21,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:19:22,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:19:24,(Sensemaking+scatterplot-0-1),steer,0.25,scatterplot-0-1,3,zoom
+00:19:26,(Sensemaking+scatterplot-0-1),steer,0.25,scatterplot-0-1,3,pan
+00:19:37,(Sensemaking+scatterplot-0-1),steer,0.25,scatterplot-0-1,3,range select
+00:19:38,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:19:39,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:20:19,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:20:22,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:20:23,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:20:40,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:20:45,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:20:46,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:20:47,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,range select
+00:21:10,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:21:17,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,3,range select
+00:21:18,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,3,range select
+00:21:19,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,3,range select
+00:23:57,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,3,pan
+00:24:02,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,zoom
+00:24:04,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,pan
+00:24:05,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,pan
+00:24:06,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,pan
+00:24:09,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,pan
+00:24:10,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,pan
+00:24:11,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,pan
+00:24:19,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,range select
+00:24:20,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,range select
+00:24:21,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,3,range select
+00:25:32,(Sensemaking+bar-4),observation,0.25,bar-4,3,range select
+00:26:15,(Sensemaking+bar-4),observation,0.25,bar-4,3,range select
+00:26:19,(Sensemaking+bar-4),observation,0.25,bar-4,3,range select
+00:26:28,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:33,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:37,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:39,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:42,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:44,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:46,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:50,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:52,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:55,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:26:59,(Sensemaking+bar-4),observation,1.0,bar-4,3,range select
+00:27:14,(Sensemaking+bar-4),explanation,0.0,bar-4,3,range select
+00:27:20,(Sensemaking+bar-4),explanation,0.0,bar-4,3,range select
+00:27:22,(Sensemaking+bar-4),explanation,0.0,bar-4,3,range select
+00:27:25,(Sensemaking+bar-4),explanation,0.0,bar-4,3,range select
+00:27:26,(Sensemaking+bar-4),explanation,0.0,bar-4,3,range select
+00:27:28,(Sensemaking+bar-4),explanation,0.0,bar-4,3,range select
+00:27:30,(Sensemaking+bar-4),explanation,0.0,bar-4,3,range select
+00:27:34,(Sensemaking+scatterplot-0-1),explanation,0.0,scatterplot-0-1,3,pan
+00:27:35,(Sensemaking+scatterplot-0-1),generalization,0.25,scatterplot-0-1,3,pan
+00:27:36,(Sensemaking+scatterplot-0-1),generalization,0.25,scatterplot-0-1,3,pan
+00:27:38,(Sensemaking+bar-4),generalization,0.25,bar-4,3,range select
+00:27:39,(Sensemaking+bar-4),generalization,0.25,bar-4,3,range select
+00:27:41,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:27:46,(Sensemaking+bar-4),observation,0.25,bar-4,3,range select
+00:27:48,(Sensemaking+bar-4),observation,0.25,bar-4,3,range select
+00:27:55,(Sensemaking+bar-4),observation,0.25,bar-4,3,range select
+00:27:58,(Sensemaking+bar-4),observation,0.25,bar-4,3,range select
+00:28:16,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:18,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:19,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:20,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:23,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:27,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:29,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:30,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:31,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:32,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:34,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:36,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:28:39,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,zoom
+00:28:40,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,zoom
+00:28:41,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,zoom
+00:28:43,(Sensemaking+scatterplot-0-1),generalization,1.0,scatterplot-0-1,3,zoom
+00:28:45,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:28:47,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:28:50,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:28:51,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:28:53,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:28:55,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:28:57,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:28:59,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:29:00,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:29:27,(Sensemaking+scatterplot-0-1),generalization,1.0,scatterplot-0-1,3,pan
+00:29:30,(Sensemaking+scatterplot-0-1),generalization,1.0,scatterplot-0-1,3,range select
+00:29:32,(Sensemaking+scatterplot-0-1),generalization,1.0,scatterplot-0-1,3,pan
+00:29:34,(Sensemaking+scatterplot-0-1),generalization,1.0,scatterplot-0-1,3,range select
+00:29:35,(Sensemaking+scatterplot-0-1),generalization,1.0,scatterplot-0-1,3,range select
+00:29:36,(Sensemaking+scatterplot-0-1),generalization,1.0,scatterplot-0-1,3,range select

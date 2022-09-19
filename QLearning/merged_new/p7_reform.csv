@@ -1,0 +1,278 @@
+Time,State,action,reward,visualization,subtask,raw_actions
+00:00:00,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:00:09,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:00:10,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:00:11,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:00:14,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:00:17,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:00:18,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:00:19,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:00:20,(Question+bar-4),observation,0.0,bar-4,1,brush
+00:00:20,(Question+hist-3),observation,0.0,hist-3,1,brush
+00:00:21,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:22,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:23,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:24,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:25,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:26,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:29,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:31,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:32,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:32,(Question+hist-3),observation,0.0,hist-3,1,brush
+00:00:37,(Question+hist-3),observation,0.0,hist-3,1,brush
+00:00:38,(Question+hist-3),observation,0.0,hist-3,1,brush
+00:00:40,(Question+hist-3),observation,0.0,hist-3,1,brush
+00:00:42,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:44,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:45,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:46,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:47,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:48,(Question+bar-2),observation,0.0,bar-2,1,brush
+00:00:51,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:00:52,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:00:53,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:00:54,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:00:55,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:00:56,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:00:57,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:00:58,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:00:59,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:01:00,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:01:04,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:01:05,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:01:06,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:01:08,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:01:09,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:01:10,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:01:12,(Sensemaking+bar-2),observation,0.5,bar-2,1,brush
+00:01:20,(Question+bar-2),observation,0.0,bar-2,2,brush
+00:01:21,(Question+bar-2),observation,0.0,bar-2,2,brush
+00:01:22,(Question+bar-2),observation,0.0,bar-2,2,brush
+00:01:23,(Question+bar-2),observation,0.0,bar-2,2,brush
+00:01:26,(Question+bar-2),observation,0.0,bar-2,2,brush
+00:01:27,(Question+bar-4),observation,0.0,bar-4,2,brush
+00:01:30,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,2,pan
+00:01:31,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,2,pan
+00:01:39,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,2,pan
+00:01:40,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,2,pan
+00:01:43,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,2,zoom
+00:01:44,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,2,zoom
+00:01:46,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,2,pan
+00:01:47,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,2,pan
+00:01:48,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,2,pan
+00:01:49,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,2,pan
+00:01:50,(Sensemaking+bar-4),observation,0.25,bar-4,2,brush
+00:01:54,(Sensemaking+bar-4),observation,0.25,bar-4,2,range select
+00:02:22,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:02:23,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:02:27,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,2,pan
+00:02:36,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,2,pan
+00:02:37,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,2,pan
+00:02:46,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:02:49,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:02:52,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:02:54,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:02:56,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,2,zoom
+00:02:58,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,2,zoom
+00:02:59,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,2,pan
+00:03:02,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:03:04,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:03:08,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:03:10,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:03:11,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:03:17,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:04:59,(Sensemaking+bar-4),generalization,0.0,bar-4,2,range select
+00:05:08,(Sensemaking+bar-4),generalization,1.0,bar-4,2,range select
+00:05:10,(Sensemaking+bar-4),generalization,1.0,bar-4,2,range select
+00:05:12,(Sensemaking+bar-4),observation,0.25,bar-4,2,range select
+00:05:14,(Sensemaking+bar-4),observation,0.25,bar-4,2,range select
+00:05:16,(Sensemaking+bar-4),observation,0.0,bar-4,2,range select
+00:05:18,(Question+bar-4),steer,0.0,bar-4,2,range select
+00:05:23,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:05:24,(Sensemaking+bar-4),generalization,0.5,bar-4,3,range select
+00:05:40,(Sensemaking+bar-4),generalization,1.0,bar-4,3,range select
+00:05:43,(Sensemaking+bar-4),explanation,0.0,bar-4,3,range select
+00:05:46,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:05:56,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:06:02,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:06:06,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:06:08,(Question+bar-4),steer,0.0,bar-4,3,range select
+00:06:13,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,pan
+00:06:15,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,3,zoom
+00:06:17,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:06:18,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:06:19,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:06:20,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:06:21,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:06:22,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:06:24,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,zoom
+00:06:25,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,zoom
+00:06:27,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,zoom
+00:06:29,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:06:30,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:06:51,(Question+bar-4),steer,0.0,bar-4,4,range select
+00:06:52,(Question+bar-4),steer,0.0,bar-4,4,range select
+00:06:55,(Question+bar-4),steer,0.0,bar-4,4,range select
+00:07:11,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,zoom
+00:07:12,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:07:13,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,pan
+00:07:15,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,zoom
+00:07:16,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,zoom
+00:07:17,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,4,zoom
+00:07:18,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,4,pan
+00:07:19,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,4,pan
+00:07:20,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,4,pan
+00:07:28,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,4,pan
+00:07:29,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,4,pan
+00:07:53,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,4,pan
+00:07:54,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,4,pan
+00:07:55,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,4,pan
+00:08:34,(Sensemaking+bar-2),observation,0.5,bar-2,4,range select
+00:08:36,(Sensemaking+bar-4),observation,0.5,bar-4,4,range select
+00:08:44,(Sensemaking+bar-2),observation,0.0,bar-2,4,range select
+00:08:47,(Sensemaking+bar-4),observation,0.0,bar-4,4,range select
+00:09:21,(Sensemaking+bar-4),observation,0.5,bar-4,5,range select
+00:09:42,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,5,zoom
+00:09:44,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,5,pan
+00:09:47,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,5,pan
+00:09:49,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,5,zoom
+00:09:50,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,5,pan
+00:09:51,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,5,pan
+00:10:45,(Sensemaking+bar-4),observation,0.0,bar-4,5,range select
+00:10:50,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,5,zoom
+00:10:51,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,5,zoom
+00:10:54,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,6,pan
+00:10:54,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,6,pan
+00:10:55,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,6,pan
+00:11:03,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,6,range select
+00:11:04,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,6,range select
+00:11:05,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,6,range select
+00:11:23,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,6,pan
+00:11:24,(Sensemaking+scatterplot-0-1),generalization,0.0,scatterplot-0-1,6,pan
+00:11:29,(Sensemaking+bar-4),generalization,0.0,bar-4,6,range select
+00:11:32,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,6,zoom
+00:11:33,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,6,zoom
+00:11:34,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,6,zoom
+00:11:35,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,6,pan
+00:12:47,(Sensemaking+bar-4),observation,0.0,bar-4,6,range select
+00:12:50,(Sensemaking+bar-4),observation,0.25,bar-4,6,range select
+00:12:53,(Sensemaking+bar-4),observation,0.0,bar-4,6,range select
+00:12:54,(Sensemaking+bar-4),observation,0.25,bar-4,6,range select
+00:12:56,(Sensemaking+bar-4),observation,0.25,bar-4,6,range select
+00:12:57,(Sensemaking+bar-4),observation,0.25,bar-4,6,range select
+00:12:58,(Sensemaking+bar-4),observation,0.25,bar-4,6,range select
+00:12:59,(Sensemaking+bar-4),observation,0.25,bar-4,6,range select
+00:13:04,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,6,zoom
+00:13:05,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,6,zoom
+00:13:09,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,76,pan
+00:15:25,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,6,pan
+00:15:26,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,6,pan
+00:15:27,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,6,zoom
+00:15:28,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,6,zoom
+00:15:29,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,6,pan
+00:15:30,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,6,pan
+00:15:37,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,6,pan
+00:17:11,(Sensemaking+bar-4),observation,0.5,bar-4,6,range select
+00:17:45,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,6,pan
+00:17:46,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,7,pan
+00:17:47,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,7,pan
+00:17:48,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,7,pan
+00:17:51,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,7,pan
+00:17:52,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,7,pan
+00:17:53,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,7,pan
+00:18:03,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,7,pan
+00:18:04,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,7,pan
+00:18:05,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,7,zoom
+00:18:06,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,7,zoom
+00:18:10,(Question+scatterplot-0-1),observation,0.0,scatterplot-0-1,7,pan
+00:19:45,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,7,zoom
+00:19:47,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,7,zoom
+00:19:49,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,7,zoom
+00:19:50,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,7,zoom
+00:20:54,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,8,zoom
+00:20:56,(Sensemaking+scatterplot-0-1),generalization,0.25,scatterplot-0-1,8,pan
+00:20:57,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,9,pan
+00:21:16,(Sensemaking+bar-4),observation,0.25,bar-4,9,range select
+00:21:20,(Sensemaking+bar-4),observation,0.0,bar-4,9,range select
+00:21:24,(Sensemaking+bar-4),observation,0.0,bar-4,9,range select
+00:21:41,(Sensemaking+scatterplot-0-1),explanation,0.0,scatterplot-0-1,9,pan
+00:21:43,(Sensemaking+scatterplot-0-1),explanation,0.0,scatterplot-0-1,9,pan
+00:21:44,(Sensemaking+scatterplot-0-1),explanation,0.0,scatterplot-0-1,9,zoom
+00:21:49,(Sensemaking+scatterplot-0-1),explanation,0.0,scatterplot-0-1,9,zoom
+00:21:50,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,9,pan
+00:21:51,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,9,pan
+00:21:53,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,9,pan
+00:21:54,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,9,pan
+00:21:55,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,9,pan
+00:21:56,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,9,pan
+00:21:57,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,9,pan
+00:23:11,(Sensemaking+bar-4),observation,0.0,bar-4,9,range select
+00:23:27,(Sensemaking+bar-4),observation,0.25,bar-4,9,range select
+00:23:30,(Sensemaking+bar-4),observation,0.25,bar-4,9,range select
+00:23:36,(Sensemaking+bar-4),observation,0.0,bar-4,9,range select
+00:23:39,(Sensemaking+bar-4),observation,0.25,bar-4,10,range select
+00:23:42,(Sensemaking+bar-4),observation,0.0,bar-4,10,range select
+00:23:44,(Sensemaking+bar-4),generalization,0.0,bar-4,10,range select
+00:23:47,(Sensemaking+bar-4),observation,0.0,bar-4,10,range select
+00:23:50,(Sensemaking+bar-4),generalization,0.0,bar-4,10,range select
+00:23:53,(Sensemaking+bar-4),generalization,0.0,bar-4,10,range select
+00:24:05,(Sensemaking+bar-4),generalization,0.0,bar-4,10,range select
+00:24:09,(Sensemaking+bar-4),observation,0.0,bar-4,10,range select
+00:24:12,(Sensemaking+bar-4),observation,0.0,bar-4,10,range select
+00:24:13,(Sensemaking+bar-4),observation,0.0,bar-4,10,range select
+00:24:24,(Sensemaking+bar-4),observation,0.0,bar-4,10,range select
+00:24:27,(Sensemaking+bar-4),observation,0.0,bar-4,10,range select
+00:24:39,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,10,zoom
+00:24:40,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,10,zoom
+00:24:42,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:24:43,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:24:44,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:24:46,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:24:52,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,zoom
+00:24:53,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,zoom
+00:24:54,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:24:55,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:24:56,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:24:57,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:24:58,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:25:00,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:25:01,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,pan
+00:25:05,(Sensemaking+bar-4),observation,0.25,bar-4,10,range select
+00:25:14,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,range select
+00:25:15,(Sensemaking+scatterplot-0-1),observation,0.25,scatterplot-0-1,10,range select
+00:25:53,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,10,pan
+00:25:54,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,10,pan
+00:25:57,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,10,range select
+00:26:52,(Sensemaking+scatterplot-0-1),observation,1.0,scatterplot-0-1,10,zoom
+00:26:54,(Sensemaking+scatterplot-0-1),explanation,0.0,scatterplot-0-1,10,zoom
+00:27:07,(Question+bar-4),steer,0.0,bar-4,10,range select
+00:27:11,(Question+scatterplot-0-1),explanation,0.0,scatterplot-0-1,10,pan
+00:27:11,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,10,pan
+00:27:51,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,10,zoom
+00:27:52,(Sensemaking+scatterplot-0-1),observation,0.5,scatterplot-0-1,10,zoom
+00:27:53,(Sensemaking+scatterplot-0-1),generalization,1.0,scatterplot-0-1,10,pan
+00:27:54,(Sensemaking+scatterplot-0-1),generalization,1.0,scatterplot-0-1,10,pan
+00:28:17,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,10,pan
+00:28:17,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,10,pan
+00:28:18,(Question+scatterplot-0-1),steer,0.0,scatterplot-0-1,10,pan
+00:28:22,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,range select
+00:28:23,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,range select
+00:28:26,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:28:27,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:28:28,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,range select
+00:28:29,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,range select
+00:29:06,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:07,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:08,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:11,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,range select
+00:29:12,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,range select
+00:29:36,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:37,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:38,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:39,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:40,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:41,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:46,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:47,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,pan
+00:29:48,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,range select
+00:29:49,(Sensemaking+scatterplot-0-1),observation,0.0,scatterplot-0-1,11,range select

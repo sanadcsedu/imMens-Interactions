@@ -7,11 +7,13 @@ import itertools
 import matplotlib.pyplot as plt 
 import sys
 import plotting
-import environment3
+import environment5
 from tqdm import tqdm
 # from numba import jit, cuda 
 import multiprocessing
 import time
+from multiprocessing import Pool
+
 
 class TDLearning:
     def __init__(self):
@@ -68,7 +70,6 @@ class TDLearning:
         # stats = plotting.EpisodeStats(
         #     episode_lengths=np.zeros(num_episodes),
         #     episode_rewards=np.zeros(num_episodes))
-        stats = None
         # The policy we're following
         policy = self.epsilon_greedy_policy(Q, epsilon, len(env.valid_actions))
 
@@ -105,7 +106,7 @@ class TDLearning:
                     break
                 state = next_state
         # print(policy)
-        return Q, stats
+        return Q
 
     # @jit(target ="cuda")
     def test(self, env, Q, discount_factor, alpha, epsilon):
@@ -126,10 +127,10 @@ class TDLearning:
             stats.append(prediction)
             # print(prediction)
             # Turning off the Q-Learning update when testing, the prediction is based on the Learned model from first x% interactions 
-            # best_next_action = np.argmax(Q[next_state])
-            # td_target = reward + discount_factor * Q[next_state][best_next_action]
-            # td_delta = td_target - Q[state][action]
-            # Q[state][action] += alpha * td_delta
+            best_next_action = np.argmax(Q[next_state])
+            td_target = reward + discount_factor * Q[next_state][best_next_action]
+            td_delta = td_target - Q[state][action]
+            Q[state][action] += alpha * td_delta
 
             if done:
                 break
@@ -146,17 +147,29 @@ class TDLearning:
 
 if __name__ == "__main__":
     start_time = time.time()
-    env = environment3.environment3()
+    env = environment5.environment5()
     # users_b = env.user_list_bright
     users_f = env.user_list_faa
-
+    # pdb.set_trace()
     obj2 = misc.misc(len(users_f))
-    # best_eps, best_discount, best_alpha = obj2.hyper_param(env, users_f, 'sarsa', 1)
-    p2 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_f[:4], 'qlearning', 5,))
-    p4 = multiprocessing.Process(target=obj2.hyper_param, args=(env, users_f[4:], 'qlearning', 5,))
+    episodes = 50
+    a, b, c, d, e = obj2.hyper_param(env, users_f, 'qlearning', episodes)
+    pdb.set_trace()
+    # with Pool(4) as P:
+    #     results = P.starmap(obj2.hyper_param, [(env, users_f[0:2], 'qlearning', episodes),
+    #                                            (env, users_f[2:4], 'qlearning', episodes),
+    #                                            (env, users_f[4:6], 'qlearning', episodes),
+    #                                            (env, users_f[6:8], 'qlearning', episodes)])
+    # accu_list = []
+    # name_list = []
+    # for i in range(len(results)):
+    #     for items in results[i][3]:
+    #         accu_list.append(items)
+    #     for names in results[i][4]:
+    #         name_list.append(names)
+    #
+    # obj2.plot_together(accu_list, name_list, 'qlearning')
 
-    p2.start()
-    p4.start()
-
-    p2.join()
-    p4.join()
+#Threshold =  [[0.10, 0.20, 0.30, 0.40, 0.50, 0.6, 0.7, 0.80, 0.90]]
+#Q-Learning = [[0.57, 0.52, 0.56, 0.63, 0.6, 0.6, 0.61, 0.61, 0.65]]
+#Baseline =  [[0.89, 0.88, 0.88, 0.87, 0.84, 0.87, 0.92, 0.94, 0.94]]

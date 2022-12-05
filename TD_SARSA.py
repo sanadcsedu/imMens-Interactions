@@ -120,13 +120,13 @@ class TD_SARSA:
             stats.append(prediction)
 
             # Pick the next action
-            # next_action_probs = policy(next_state)
-            # next_action = np.random.choice(np.arange(len(next_action_probs)), p=next_action_probs)
+            next_action_probs = policy(next_state)
+            next_action = np.random.choice(np.arange(len(next_action_probs)), p=next_action_probs)
             
             # TD Update
-            # td_target = reward + discount_factor * Q[next_state][next_action]
-            # td_delta = td_target - Q[state][action]
-            # Q[state][action] += alpha * td_delta
+            td_target = reward + discount_factor * Q[next_state][next_action]
+            td_delta = td_target - Q[state][action]
+            Q[state][action] += alpha * td_delta
 
             if done:
                 break

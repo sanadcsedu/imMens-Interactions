@@ -8,6 +8,7 @@ import os
 from pathlib import Path
 from collections import defaultdict
 import matplotlib.pyplot as plt
+from scipy.special import rel_entr
 
 
 class integrate:
@@ -34,7 +35,7 @@ class integrate:
                 print(keys)
 
     def get_files(self):
-        for_now = ['p3', 'p7', 'p11']
+        for_now = ['p2', 'p3', 'p7', 'p11']
         for raw_fname in self.raw_files:
             user = Path(raw_fname).stem.split('-')[0]
             if user not in for_now:
@@ -89,8 +90,8 @@ class integrate:
     def find_runtime(self, raw_data, feedback_data):
         l1 = len(raw_data)
         l2 = len(feedback_data)
-        _max = max(int(raw_data[l1 - 1][0]), int(feedback_data[l2 - 1][0]))
-        return _max
+        _min = min(int(raw_data[l1 - 1][0]), int(feedback_data[l2 - 1][0]))
+        return _min
 
     #Used for merging the raw interaction (reformed) files with the Excel feedback files
     def merge(self, user, raw_fname, excel_fname):
@@ -101,7 +102,8 @@ class integrate:
 
         df_excel = pd.read_excel(excel_fname, sheet_name= "Sheet3", usecols="A:G")
         feedback_data = self.excel_to_memory(df_excel)
-
+        # pdb.set_trace()
+        # self.debug(user, raw_data, feedback_data)
         runtime = self.find_runtime(raw_data, feedback_data)
 
         for v in self.vizs:
@@ -167,17 +169,17 @@ class integrate:
         return window1, window2
 
     def stationarity_testing(self, user, runtime):
+        print(user)
         w1, w2 = self.get_windows(runtime)
-
-
-        # for v in self.cum_rewards:
-        #     print(v)
-        #     for key in w1[v]:
-        #         print("{:.2f} ".format(key), end=" ")
-        #     print()
-        #     for key in w2[v]:
-        #         print("{:.2f} ".format(key), end=" ")
-        #     print()
+        for v in self.cum_rewards:
+            kldivergence = sum(rel_entr(w1[v], w2[v]))
+            print("Visualization {} KL-Divergence value {}".format(v, kldivergence))
+            # for key in w1[v]:
+            #     print("{:.2f} ".format(key), end=" ")
+            # print()
+            # for key in w2[v]:
+            #     print("{:.2f} ".format(key), end=" ")
+            # print()
 
     def plot_graph(self, user):
         for v in self.cum_rewards:
@@ -195,6 +197,8 @@ class integrate:
         title = 'Cumulative Rewards for user: ' + user
         plt.title(title)
         plt.show()
+
+    # def bootstrapping(self, user):
 
 if __name__ == "__main__":
     obj = integrate()

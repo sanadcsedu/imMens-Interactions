@@ -1,3 +1,4 @@
+#This version of the Mann Whitney test checks stationarity of the actions based on recieved rewards
 import csv
 import pdb
 import glob

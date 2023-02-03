@@ -37,14 +37,20 @@ class integrate:
                 print(keys)
 
     def get_files(self):
+        ret = []
+        uname = []
         for_now = ['p7', 'p2', 'p11', 'p3']
         for raw_fname in self.raw_files:
+            merged = []
             user = Path(raw_fname).stem.split('-')[0]
+            uname.append(user)
             if user not in for_now:
                 continue
             excel_fname = [string for string in self.excel_files if user in string][0]
             self.cum_rewards.clear()
-            self.merge(user, raw_fname, excel_fname)
+            merged = self.merge(user, raw_fname, excel_fname)
+            ret.append(merged)
+        return ret, uname
 
     def excel_to_memory(self, df):
         data = []
@@ -88,7 +94,7 @@ class integrate:
         raw_data = self.raw_to_memory(csv_reader)
         raw_interaction.close()
 
-        df_excel = pd.read_excel(excel_fname, sheet_name= "Sheet3", usecols="A:G")
+        df_excel = pd.read_excel(excel_fname, sheet_name= "Sheet3 (2)", usecols="A:G")
         feedback_data = self.excel_to_memory(df_excel)
 
         holder = []
@@ -96,25 +102,63 @@ class integrate:
             holder.append((idx, self.get_cur_viz(feedback_data[idx][0], raw_data), feedback_data[idx][2], feedback_data[idx][4]))
             # print(holder[idx])
 
-        cur_subtask = 1
         for idx in range(len(feedback_data)):
-            if holder[idx][3] == cur_subtask:
-                for v in self.vizs:
-                    if v == holder[idx][1]:
-                        self.cum_rewards[v].append(holder[idx][2])
-                    else:
-                        self.cum_rewards[v].append(0)
-            else:
-                # pdb.set_trace()
-                for v in self.vizs:
-                    for idx2 in range(1, len(self.cum_rewards[v])):
-                        self.cum_rewards[v][idx2] += self.cum_rewards[v][idx2 - 1]
-                self.stationarity_test1(user, cur_subtask)
-                self.cum_rewards.clear()
-                cur_subtask = holder[idx][3]
-                idx -= 1
+            for v in self.vizs:
+                if v == holder[idx][1]:
+                    self.cum_rewards[v].append(holder[idx][2])
+                else:
+                    self.cum_rewards[v].append(0)
+        self.stationarity_test1(user)
+        return holder
 
-        self.stationarity_test1(user, cur_subtask)
+        # cur_subtask = 1
+        # for idx in range(len(feedback_data)):
+        #     if holder[idx][3] == cur_subtask:
+        #         for v in self.vizs:
+        #             if v == holder[idx][1]:
+        #                 self.cum_rewards[v].append(holder[idx][2])
+        #             else:
+        #                 self.cum_rewards[v].append(0)
+        #     else:
+        #         # pdb.set_trace()
+        #         for v in self.vizs:
+        #             for idx2 in range(1, len(self.cum_rewards[v])):
+        #                 self.cum_rewards[v][idx2] += self.cum_rewards[v][idx2 - 1]
+        #         self.stationarity_test1(user, cur_subtask)
+        #         self.cum_rewards.clear()
+        #         cur_subtask = holder[idx][3]
+        #         idx -= 1
+        # self.stationarity_test1(user)
+
+    # This one checks the 50-50 split
+    def stationarity_test1(self, user):
+        print("##### USER {} #######".format(user))
+        for v in self.vizs:
+            w1 = []
+            w2 = []
+            denom = 0
+            numer = 0
+            for idx in range(len(self.cum_rewards[v])):
+                numer += self.cum_rewards[v][idx]
+                for v2 in self.vizs:
+                    denom += self.cum_rewards[v2][idx]
+                if denom == 0:
+                    continue
+                if idx < (len(self.cum_rewards[v]) / 2):
+                    w1.append(round(numer / denom, 2))
+                else:
+                    w2.append(round(numer / denom, 2))
+            print(v, end=" ")
+            try:
+                results = mannwhitneyu(w1, w2)
+                # print(results)
+                if results.pvalue < 0.05:
+                    print("True", end=" ")
+                else:
+                    print("False", end=" ")
+            except ValueError as ve:
+                print("NED", end=" ")
+            print()
 
     #Based on frequency of picking up a visualization (In this function we're not considering the reward)
     def merge2(self, user, raw_fname, excel_fname):
@@ -190,36 +234,6 @@ class integrate:
                     except ValueError as ve:
                         print("NED", end=" ")
                     print()
-
-    #This one checks the 50-50 split
-    def stationarity_test1(self, user, cur_subtask):
-        significant = defaultdict()
-        for v in self.vizs:
-            w1 = []
-            w2 = []
-            for idx in range(len(self.cum_rewards[v])):
-                denom = 0
-                for v2 in self.vizs:
-                    # pdb.set_trace()
-                    denom += self.cum_rewards[v2][idx]
-                if denom == 0:
-                    continue
-                if idx < (len(self.cum_rewards[v]) / 2):
-                    w1.append(round(self.cum_rewards[v][idx] / denom, 2))
-                else:
-                    w2.append(round(self.cum_rewards[v][idx] / denom, 2))
-            # print(w1)
-            # print(w2)
-            try:
-                results = mannwhitneyu(w1, w2)
-                # print(results)
-                if results.pvalue < 0.05:
-                    print("{},{},{},{},{},{}".format(user, cur_subtask, v, "1", "0", "0"))
-                else:
-                    print("{},{},{},{},{},{}".format(user, cur_subtask, v,  "0", "1", "0"))
-            except ValueError as ve:
-                print("{},{},{},{},{},{}".format(user, cur_subtask, v, "0", "0", "1"))
-
 
     def plot_graph(self, user):
         for v in self.cum_rewards:

@@ -133,7 +133,7 @@ class adaptive_epsilon:
                     # pdb.set_trace()
                         self.update(arm, data[idx][2], version) #A decision needs to be made whether to keep the update on or not
                     else:
-                        self.update(arm, 0, version)
+                        self.update(arm, -1, version)
                         self.update(self.arms[data[idx][1]], data[idx][2], version)
                 avg_accu += num / denom
                 # pdb.set_trace()
@@ -239,7 +239,7 @@ class adaptive_epsilon:
                     else:
                         self.update_adaptive(arm, 0)
                         self.update_adaptive(self.arms[data[idx][1]], data[idx][2])
-                #Here we do the training
+                #Here we do the testing
                 num = denom = 0
                 for idx in range(s_idx, sz):
                     denom += 1
@@ -248,7 +248,7 @@ class adaptive_epsilon:
                         num += 1
                         self.update_adaptive(arm, data[idx][2])
                     else:
-                        self.update_adaptive(arm, 0)
+                        self.update_adaptive(arm, -1)
                         self.update_adaptive(self.arms[data[idx][1]], data[idx][2])
 
                     # self.update_adaptive(self.arms[data[idx][1]], data[idx][2]) #A decision needs to be made whether to keep the update on or not

@@ -1,7 +1,7 @@
 import pdb
 import random
 import sys
-sys.path.insert(0, "D:\\imMens Learning\\stationarity_test")
+sys.path.insert(0, "/Users/sanadsaha92/Desktop/Research_Experiments/imMens-Interactions/stationarity_test")
 from mann_whitney_v3 import integrate
 from collections import defaultdict
 import matplotlib.pyplot as plt
@@ -12,67 +12,103 @@ import scipy.stats as st
 
 class mortal_bandit:
 
+    def __init__(self):
+        pass
     def stochastic_early_stop(self, data, threshold):
         viz = ['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1']
         mean = dict()
-        e_idx = int(threshold * len(data))
+        sz = len(data)
+        e_idx = int(threshold * sz)
+        # print(e_idx, threshold, len(data))
+        # pdb.set_trace()
         ret = 0
-        for L in range(1, 40):
+        limit = len(data) - e_idx
+        for L in range(1, min(15, limit)):
             # print(L)
             argmax_mean = -1
             best_arm = None
             for v in viz:
+                #If we train this reward distribution from the data
                 param, dist = self.get_distribution(data, v, e_idx)
-                # pdb.set_trace()
                 alpha = param[0]
                 beta = param[1]
                 loc = param[2]
                 scale = param[3]
                 # X = dist.ppf(np.random.rand(), alpha, beta, loc, scale)
+
+                #if we assume that our reward comes from a beta distribution
+                # alpha = 2
+                # beta = 3
+                # loc = 0
+                # scale = 1
+                # dist = st.beta.rvs(alpha, beta, 1000)
                 E_X = alpha / (alpha + beta)
                 mean[v] = E_X
                 F_mean = dist.cdf(E_X, alpha, beta, loc, scale) #CDF at mean
+                # F_mean = st.beta.cdf(E_X, alpha, beta)
                 E_X_givenXgreaterE = 2 * E_X / (1 - F_mean)
-                gamma = E_X + (1 - F_mean) * (L - 1) * E_X_givenXgreaterE
-                gamma = gamma / (1 + (1 - F_mean) * (L - 1))
+                up = E_X + (1 - F_mean) * (L - 1) * E_X_givenXgreaterE
+                down = (1 + (1 - F_mean) * (L - 1))
+                gamma = up / down
                 if argmax_mean < gamma:
                     argmax_mean = gamma
                     best_arm = viz
+                # pdb.set_trace()
             # print(argmax_mean)
             # print(mean)
             best_accu = 0
-            for n in range(1, int((len(data) - e_idx) / 2)):
+            for n in range(1, min(L, limit)):
                 avg_accu = 0
                 for runs in range(10):
                     cnt = 0
                     denom = 0
                     idx = e_idx
                     while idx < len(data):
-                        denom += 1
                         i = random.choice(viz)
-                        if data[idx][1] == i:
-                            cnt += 1
-                        idx += 1
+                        # print("Initial Random Pulling {} {}".format(data[idx][1], i))
+                        # pdb.set_trace()
                         r = 0
                         d = 0
-                        while d < n and n - d > n * argmax_mean - r:
+                        l = 0
+                        flag = 0
+                        while d < n and n - d >= n * argmax_mean - r and idx < len(data) and l < L:
                             #Keep pulling arm i
-                            if random.random() < mean[i]:
-                                r = r + 1
+                            if data[idx][1] == i:
+                                cnt += 1
+                                r += data[idx][2]
                             else:
-                                r = r + 0
+                                r += 0
+                            idx += 1
+                            denom += 1
+                            l += 1
+                            # pdb.set_trace()
+                            # if random.random() < mean[i]:
+                            #     r = r + 1
+                            # else:
+                            #     r = r + 0
+
                             # r += mean[i]
                             d = d + 1
-                        l = 0
+                            # pdb.set_trace()
+                            flag = 1
+                        if flag == 0:
+                            if data[idx][1] == i:
+                                cnt += 1
+                            idx += 1
+                            denom += 1
                         if r > n * argmax_mean:
                             #pull arm i untill lifetime
                             while l < L and idx < len(data):
-                                # print("Here")
+                                # pdb.set_trace()
+                                l += 1
+                                # print("Repeated Pulling {} {}".format(data[idx][1], i))
                                 if data[idx][1] == i:
                                     cnt += 1
                                 idx += 1
                                 denom += 1
+                        # pdb.set_trace()
                     avg_accu += cnt / denom
+                # print("L {} n = {} Accu {}".format(L, n, round(avg_accu / 10, 2)))
                 best_accu = max(best_accu, avg_accu / 10)
             ret = max(ret, best_accu)
         return round(ret, 2)
@@ -108,28 +144,38 @@ class mortal_bandit:
 
     def get_distribution(self, data, viz, e_idx):
         ret = np.zeros(e_idx)
-        for idx in range(e_idx):
+        idx = 0
+        for idx in range(e_idx - 1):
             # pdb.set_trace()
             if viz != data[idx][1]:
                 continue
             ret[idx] = data[idx][2]
-        # print(ret)
+            # ret[idx] = 1
+        ret[idx] = 1
         dist_best_fit = self.get_best_distribution(ret)
         param = dist_best_fit.fit(ret)
         return param, dist_best_fit
+
+    def run_stochastic_early_stop(self, threshold, data):
+        accu_list = []
+        for t in threshold:
+            accu_list.append(self.stochastic_early_stop(data, t))
+        return accu_list
+
 
 if __name__ == "__main__":
     obj = integrate()
     data, uname = obj.get_files()
     mortal = mortal_bandit()
     threshold = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
-
+    # pdb.set_trace()
     # threshold = [0.5]
     idx = 0
     for users_data in data:
         accu_list = []
         for t in threshold:
             accu_list.append(mortal.stochastic_early_stop(users_data, t))
+            # pdb.set_trace()
         print(uname[idx], accu_list)
         idx += 1
         # break

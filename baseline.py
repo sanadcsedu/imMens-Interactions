@@ -9,17 +9,17 @@ import pandas as pd
 import misc
 import random
 import sys
-sys.path.insert(0, "D:\\imMens Learning\\stationarity_test")
+sys.path.insert(0, '/Users/sanadsaha92/Desktop/Research_Experiments/imMens-Interactions/stationarity_test/')
 from mann_whitney_v3 import integrate
 from collections import defaultdict
 import matplotlib.pyplot as plt
 import numpy as np
 import adaptive_epsilon
-
+from mortal_bandit import mortal_bandit
 class baseline:
     def __init__(self):
         path = os.getcwd()
-        self.user_list_faa = glob.glob("D:\\imMens Learning\\Faa_neew\\new_mdp\\*-0ms.xlsx")
+        # self.user_list_faa = glob.glob("D:\\imMens Learning\\Faa_neew\\new_mdp\\*-0ms.xlsx")
 
         self.steps = 0
         self.done = False  # Done exploring the current subtask
@@ -146,8 +146,9 @@ class Greedy():
         return accu_list
 
 class plot_accuracy():
-    def __init__(self):
-        pass
+    def __init__(self, row, col):
+        self.fig, self.ax = plt.subplots(row, col, figsize = (30, 5))
+        self.plt_idx = 0
 
     def plot(self, user, x, algos, accuracy):
         for idx in range(len(accuracy)):
@@ -166,20 +167,33 @@ class plot_accuracy():
         plt.savefig(fname, bbox_inches="tight")
         plt.close()
 
-    def subplot(self, user, x, algos, accuracy):
+    def sub_plot(self, user, x, algos, accuracy):
         for idx in range(len(accuracy)):
             # pdb.set_trace()
-            plt.plot(x, accuracy[idx], label = algos[idx])
-            plt.ylabel('Accuracy')
-            # plt.xticks([])
-            plt.xlabel('Threshold')
+            self.ax[self.plt_idx].plot(x, accuracy[idx])
+            self.ax[self.plt_idx].set(ylabel ='Accuracy', xlabel = 'Threshold')
+            self.ax[self.plt_idx].set_title('User ' + user)
+        self.plt_idx += 1
         # plt.legend(loc='best')
-        plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
-        title = 'Accuracy of various algorithms for different thresholds ' + user
-        plt.title(title)
+        # plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+        # title = 'Accuracy of various algorithms for different thresholds ' + user
+        # plt.title(title)
+        # fname = 'figures/' + 'user_' + str(user) + '.png'
+        # plt.savefig(fname, bbox_inches="tight")
         # plt.show()
-        fname = 'figures/' + 'user_' + str(user) + '.png'
+
+    def finish_subplot(self, algos):
+        title = 'Accuracy of various algorithms for different thresholds'
+        self.fig.suptitle(title)
+        # plt.ylabel('Accuracy')
+        # plt.xlabel('Threshold')
+        self.fig.legend(algos)
+        # plt.tight_layout()
+        # plt.show()
+        fname = 'figures/' + 'subplots' + '.png'
         plt.savefig(fname, bbox_inches="tight")
+        plt.close()
+
 
 if __name__ == "__main__":
     obj = integrate()
@@ -190,9 +204,10 @@ if __name__ == "__main__":
     #     print(wsls.run(d, threshold))
     greedy = Greedy(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'])
     e_greedy_variations = adaptive_epsilon.adaptive_epsilon(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'])
-
-    pltz = plot_accuracy()
+    mortal = mortal_bandit()
+    pltz = plot_accuracy(1, 4)
     idx = 0
+    algos = []
     for d in data:
         # print(wsls.run(d, threshold))
         # print(greedy.run(d, threshold))
@@ -203,7 +218,7 @@ if __name__ == "__main__":
         algos.append('Win-Stay-Lose-Shift')
         greedy_result = greedy.run(d, threshold, "V1")
         accu_list.append(greedy_result)
-        algos.append('Greedy V1')
+        algos.append('Greedy')
         # greedy_result = greedy.run(d, threshold, "V2")
         # accu_list.append(greedy_result)
         # algos.append('Greedy V2')
@@ -216,8 +231,12 @@ if __name__ == "__main__":
         adaptive_result = e_greedy_variations.run_MAB_adaptive(d, threshold)
         algos.append('Adaptive E-Greedy')
         accu_list.append(adaptive_result)
-        pltz.plot(uname[idx], threshold, algos, accu_list)
+        algos.append('Mortal Bandit')
+        mortal_result = mortal.run_stochastic_early_stop(threshold, d)
+        accu_list.append(mortal_result)
+        pltz.sub_plot(uname[idx], threshold, algos, accu_list)
         idx += 1
+    pltz.finish_subplot(algos)
 
 # if __name__ == "__main__":
 #     obj = baseline()

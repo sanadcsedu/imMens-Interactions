@@ -15,9 +15,9 @@ from scipy.stats import mannwhitneyu
 
 class integrate:
     def __init__(self):
-        self.raw_files = glob.glob("D:\\imMens Learning\\stationarity_test\\KLDivergenceTest\\RawInteractions\\*.csv")
-        self.excel_files = glob.glob("D:\\imMens Learning\\stationarity_test\\KLDivergenceTest\\FeedbackLog\\*.xlsx")
-        self.path = 'D:\\imMens Learning\\stationarity_test\\KLDivergenceTest\\Merged\\'
+        self.raw_files = glob.glob("/Users/sanadsaha92/Desktop/Research_Experiments/imMens-Interactions/stationarity_test/KLDivergenceTest/RawInteractions/*.csv")
+        self.excel_files = glob.glob("/Users/sanadsaha92/Desktop/Research_Experiments/imMens-Interactions/stationarity_test/KLDivergenceTest/FeedbackLog/*.xlsx")
+        self.path = '/Users/sanadsaha92/Desktop/Research_Experiments/imMens-Interactions/stationarity_test/KLDivergenceTest/Merged'
         self.vizs = ['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1']
         self.cum_rewards = defaultdict(list)
 
@@ -94,12 +94,13 @@ class integrate:
         raw_data = self.raw_to_memory(csv_reader)
         raw_interaction.close()
 
-        df_excel = pd.read_excel(excel_fname, sheet_name= "Sheet3 (2)", usecols="A:G")
+        df_excel = pd.read_excel(excel_fname, sheet_name="Sheet3 (2)", usecols="A:G")
         feedback_data = self.excel_to_memory(df_excel)
 
         holder = []
         for idx in range(len(feedback_data)):
-            holder.append((idx, self.get_cur_viz(feedback_data[idx][0], raw_data), feedback_data[idx][2], feedback_data[idx][4]))
+            holder.append(
+                (idx, self.get_cur_viz(feedback_data[idx][0], raw_data), feedback_data[idx][2], feedback_data[idx][4]))
             # print(holder[idx])
 
         for idx in range(len(feedback_data)):
@@ -252,8 +253,62 @@ class integrate:
         plt.title(title)
         plt.show()
 
-    # def bootstrapping(self, user):
+    #I'm going to use the following function to merge
+    def to_generate_tableau_plot(self, user, raw_fname, excel_fname):
+        raw_interaction = open(raw_fname, 'r')
+        csv_reader = csv.reader(raw_interaction)
+        raw_data = self.raw_to_memory(csv_reader)
+        raw_interaction.close()
+
+        df_excel = pd.read_excel(excel_fname, sheet_name = "Sheet3 (2)", usecols="A:G")
+        feedback_data = self.excel_to_memory(df_excel)
+
+        holder = []
+        for idx in range(len(feedback_data)):
+            holder.append((feedback_data[idx][0], self.get_cur_viz(feedback_data[idx][0], raw_data), feedback_data[idx][2], feedback_data[idx][4]))
+            # print(holder[idx])
+        ret = []
+        start_time = 0
+        cur_viz = holder[0][1]
+        sum_time = 0
+        for row in holder:
+            # pdb.set_trace()
+            if cur_viz != row[1]:
+                ret.append((cur_viz, row[0] - start_time))
+                sum_time += row[0] - start_time
+                start_time = row[0]
+                cur_viz = row[1]
+
+        if cur_viz == holder[len(holder) - 1]:
+            ret.append((cur_viz, holder[len(holder) - 1] - start_time))
+            sum_time += holder[len(holder) - 1] - start_time
+
+        ret_list = []
+        for row in ret:
+            viz = row[0]
+            time_seconds = int(row[1])
+            time_mins = round(int(row[1]) / 60, 2)
+            time_percent = round(time_seconds / sum_time, 2)
+            ret_list.append([user, viz, time_seconds, time_mins, time_percent])
+        return ret_list
+
+    def get_file_tableau(self):
+
+        uname = []
+        with open('all_user_viz_time_track.csv', 'w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(["User", "Visualization", "Time_Spent (Seconds)", "Time_Spent (Minutes)", "Percentage_time"])
+            for raw_fname in self.raw_files:
+                user = Path(raw_fname).stem.split('-')[0]
+                uname.append(user)
+                excel_fname = [string for string in self.excel_files if user in string][0]
+                self.cum_rewards.clear()
+                # merged = self.merge(user, raw_fname, excel_fname)
+                ret = self.to_generate_tableau_plot(user, raw_fname, excel_fname)
+                for r in ret:
+                    writer.writerow(r)
+        file.close()
 
 if __name__ == "__main__":
     obj = integrate()
-    obj.get_files()
+    obj.get_file_tableau()

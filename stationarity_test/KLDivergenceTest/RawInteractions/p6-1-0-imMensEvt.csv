@@ -1,5 +1,4 @@
 time, action, visualization
-0:00:00,brush,hist-3
 0:00:00,brush,bar-4
 0:00:12,pan,scatterplot-0-1
 0:00:17,range select,scatterplot-0-1

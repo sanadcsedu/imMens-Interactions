@@ -133,12 +133,57 @@ class adaptive_epsilon:
                     # pdb.set_trace()
                         self.update(arm, data[idx][2], version) #A decision needs to be made whether to keep the update on or not
                     else:
-                        self.update(arm, -1, version)
-                        self.update(self.arms[data[idx][1]], data[idx][2], version)
+                        self.update(arm, 0, version)
+                        # self.update(self.arms[data[idx][1]], data[idx][2], version)
                 avg_accu += num / denom
                 # pdb.set_trace()
             accu_list.append(round(avg_accu / runs, 2))
         return accu_list
+
+    def run_MAB_regret(self, data, runs, version):
+        #Training the E-Greedy model from the data
+        ret = []
+        epsilons = [0.001, 0.01, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.60, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95]
+        #Finding the best Epsilon value using the training data and then testing the performance of E-Greedy on the testing data.
+        sz = len(data)
+        max_reward = -1
+        model_reward = 0
+        best_eps = None
+        for eps in epsilons:  # Finding the best eps using the training data
+            self.reset(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'], eps, 0.9)
+            model_reward = 0
+            for r in range(10):
+                for idx in range(sz):
+                    pred, arm = self.select_arm(eps)
+                    if self.arms[data[idx][1]] == arm:
+                        self.update(arm, data[idx][2], version)  # A decision needs to be made whether to keep the update on or not
+                        model_reward += data[idx][2]
+                    else:
+                        self.update(arm, 0, version)
+                        self.update(self.arms[data[idx][1]], data[idx][2], version)
+            model_reward /= 10
+            if model_reward > max_reward:
+                max_reward = model_reward
+                best_eps = eps
+        #Now that we've found the best eps, let's use it for multiple runs
+        self.reset(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'], best_eps, 0.9)
+        for r in range(1, runs + 2):
+            model_reward = 0
+            if r % 10 == 0: #Using flag to decide when to calculate the predicted rewards
+                flag = True
+            else:
+                flag = False
+            for idx in range(sz):
+                pred, arm = self.select_arm(best_eps)
+                if self.arms[data[idx][1]] == arm:
+                    self.update(arm, data[idx][2], version)  # A decision needs to be made whether to keep the update on or not
+                    model_reward += data[idx][2]
+                else:
+                    self.update(arm, 0, version)
+                    self.update(self.arms[data[idx][1]], data[idx][2], version)
+            if flag:
+                ret.append(round(model_reward, 2))
+        return ret[len(ret) - 1]
 
 ############ Adaptive E-Greedy implementation from paper with two hyper-parameters l and f ###############
     def reset_adaptive(self, vizs, l, f):
@@ -189,8 +234,6 @@ class adaptive_epsilon:
     def run_MAB_adaptive(self, data, threshold):
         #Training the E-Greedy model from the data
         accu_list = []
-        # epsilons = [0.001, 0.01, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.60, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95]
-
         #Finding the best Epsilon value using the training data and then testing the performance of E-Greedy on the testing data.
         for thres in threshold: #Running for all thresholds
             #Training Module
@@ -248,14 +291,62 @@ class adaptive_epsilon:
                         num += 1
                         self.update_adaptive(arm, data[idx][2])
                     else:
-                        self.update_adaptive(arm, -1)
-                        self.update_adaptive(self.arms[data[idx][1]], data[idx][2])
+                        self.update_adaptive(arm, 0)
+                        # self.update_adaptive(self.arms[data[idx][1]], data[idx][2])
 
                     # self.update_adaptive(self.arms[data[idx][1]], data[idx][2]) #A decision needs to be made whether to keep the update on or not
                 avg_accu += num / denom
             accu_list.append(round(avg_accu / runs, 2))
         return accu_list
 
+    def run_MAB_Adaptive_regret(self, data, runs):
+        #Training the E-Greedy model from the data
+        ret = []
+        epsilons = [0.001, 0.01, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.60, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95]
+        #Finding the best Epsilon value using the training data and then testing the performance of E-Greedy on the testing data.
+        sz = len(data)
+        max_reward = -1
+        model_reward = 0
+        best_l = None
+        best_f = None
+        for l in range(1, 50):
+            for f in range(1, 25):
+                model_reward = 0
+                self.reset_adaptive(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'], l, f)
+                for r in range(10):
+                    for idx in range(sz):
+                        arm = self.select_arm_adaptive()
+                        if self.arms[data[idx][1]] == arm:
+                            self.update_adaptive(arm, data[idx][2])
+                            model_reward += data[idx][2]
+                        else:
+                            self.update_adaptive(arm, 0)
+                            self.update_adaptive(self.arms[data[idx][1]], data[idx][2])
+                model_reward /= 10
+                if model_reward > max_reward:
+                    max_reward = model_reward
+                    best_f = f
+                    best_l = l
+
+        self.reset_adaptive(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'], best_l, best_f)
+
+        for r in range(1, runs + 2):
+            model_reward = 0
+            if r % 10 == 0: #Using flag to decide when to calculate the predicted rewards
+                flag = True
+            else:
+                flag = False
+            for idx in range(sz):
+                arm = self.select_arm_adaptive()
+                if self.arms[data[idx][1]] == arm:
+                    self.update_adaptive(arm, data[idx][2])
+                    model_reward += data[idx][2]
+                else:
+                    self.update_adaptive(arm, 0)
+                    self.update_adaptive(self.arms[data[idx][1]], data[idx][2])
+            if flag:
+                ret.append(round(model_reward, 2))
+        return ret[len(ret) - 1]
 
 if __name__ == "__main__":
     obj = integrate()

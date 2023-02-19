@@ -109,7 +109,7 @@ class integrate:
                     self.cum_rewards[v].append(holder[idx][2])
                 else:
                     self.cum_rewards[v].append(0)
-        self.stationarity_test1(user)
+        # self.stationarity_test1(user)
         return holder
 
         # cur_subtask = 1

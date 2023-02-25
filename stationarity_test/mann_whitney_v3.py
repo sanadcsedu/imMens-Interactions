@@ -39,17 +39,17 @@ class integrate:
     def get_files(self):
         ret = []
         uname = []
-        for_now = ['p7', 'p2', 'p11', 'p3']
+        for_now = ['p2', 'p3', 'p7', 'p10', 'p11', 'p15']
         for raw_fname in self.raw_files:
             merged = []
             user = Path(raw_fname).stem.split('-')[0]
-            uname.append(user)
-            if user not in for_now:
-                continue
+            # if user in for_now:
+            #     continue
             excel_fname = [string for string in self.excel_files if user in string][0]
             self.cum_rewards.clear()
             merged = self.merge(user, raw_fname, excel_fname)
             ret.append(merged)
+            uname.append(user)
         return ret, uname
 
     def excel_to_memory(self, df):

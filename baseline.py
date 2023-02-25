@@ -79,6 +79,9 @@ class Win_Stay_Lose_Shift():
                     denom += 1
                     if data[idx][1] == cur_arm:
                         cnt += 1
+                    #selection strategy
+                    if data[idx][1] == cur_arm and data[idx][2] > 0:
+                        pass
                     else:
                         cur_arm = random.choice(self.vizs)
                 accu += (cnt / denom)
@@ -103,12 +106,15 @@ class Win_Stay_Lose_Shift():
 
 class plot_accuracy():
     def __init__(self, row, col):
-        self.fig, self.ax = plt.subplots(row, col, figsize = (30, 5))
+        self.fig, self.ax = plt.subplots(row, col, figsize = (30, 10))
+        self.ax = self.ax.flatten()
         self.plt_idx = 0
 
     def plot(self, user, x, algos, accuracy):
         for idx in range(len(accuracy)):
             # pdb.set_trace()
+            for accu in accuracy[idx]:
+                accu /= 8
             plt.plot(x, accuracy[idx], label = algos[idx])
             plt.ylabel('Accuracy')
             # plt.xticks([])
@@ -120,7 +126,8 @@ class plot_accuracy():
         plt.title(title)
         # plt.show()
         fname = 'figures/' + 'user_' + str(user) + '.png'
-        plt.savefig(fname, bbox_inches="tight")
+        plt.show()
+        # plt.savefig(fname, bbox_inches="tight")
         plt.close()
 
     def sub_plot(self, user, x, algos, accuracy):
@@ -147,11 +154,12 @@ class plot_accuracy():
         self.fig.legend(algos)
         # plt.tight_layout()
         # plt.show()
-        fname = 'figures/' + 'subplots_2' + '.png'
+        fname = 'figures/' + 'subplots_4' + '.png'
         plt.savefig(fname, bbox_inches="tight")
         plt.close()
 
 
+#Going to use the function below, to AGGREGATE the [accuracy vs %training data] for all users
 if __name__ == "__main__":
     obj = integrate()
     data, uname = obj.get_files()
@@ -162,38 +170,129 @@ if __name__ == "__main__":
     greedy = Greedy(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'])
     e_greedy_variations = adaptive_epsilon.adaptive_epsilon(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'])
     mortal = mortal_bandit()
-    pltz = plot_accuracy(1, 4)
-    idx = 0
+    # pltz = plot_accuracy(1, 4)
+    idx2 = 0
     algos = []
+    wsls_result = 9*[0]
+    greedy_result = 9*[0]
+    decay_result = 9*[0]
+    egreedy_result = 9*[0]
+    adaptive_result = 9*[0]
+    mortal_result = 9*[0]
     for d in data:
-        # print(wsls.run(d, threshold))
-        # print(greedy.run(d, threshold))
-        accu_list = []
-        algos = []
-        wsls_result = wsls.run(d, threshold)
-        accu_list.append(wsls_result)
-        algos.append('Win-Stay-Lose-Shift')
-        greedy_result = greedy.run(d, threshold, "V1")
-        accu_list.append(greedy_result)
-        algos.append('Greedy')
-        # greedy_result = greedy.run(d, threshold, "V2")
-        # accu_list.append(greedy_result)
-        # algos.append('Greedy V2')
-        decay_result = e_greedy_variations.run_MAB(d, threshold, True)  # Adaptive E-Greedy with decay
-        accu_list.append(decay_result)
-        algos.append('E-Greedy with E-Decay')
-        egreedy_result = e_greedy_variations.run_MAB(d, threshold, False)  # E-Greedy
-        algos.append('E-Greedy')
-        accu_list.append(egreedy_result)
-        adaptive_result = e_greedy_variations.run_MAB_adaptive(d, threshold)
-        algos.append('Adaptive E-Greedy')
-        accu_list.append(adaptive_result)
-        algos.append('Mortal Bandit')
-        mortal_result = mortal.run_stochastic_early_stop(threshold, d)
-        accu_list.append(mortal_result)
-        pltz.sub_plot(uname[idx], threshold, algos, accu_list)
-        idx += 1
-    pltz.finish_subplot(algos)
+        temp = wsls.run(d, threshold)
+        idx = 0
+        # pdb.set_trace()
+        # print(temp)
+        for idx in range(len(temp)):
+            wsls_result[idx] += temp[idx]
+        # print(temp)
+    print(wsls_result)
+        # pdb.set_trace()
+    #     temp = greedy.run(d, threshold, "V1")
+    #     idx = 0
+    #     # print(temp)
+    #     for idx in range(len(temp)):
+    #         greedy_result[idx] += temp[idx]
+    #
+    #     temp = e_greedy_variations.run_MAB(d, threshold, True)  # Adaptive E-Greedy with decay
+    #     idx = 0
+    #     # print(temp)
+    #     for idx in range(len(temp)):
+    #         decay_result[idx] += temp[idx]
+    #     temp = e_greedy_variations.run_MAB(d, threshold, False)  # E-Greedy
+    #     idx = 0
+    #     # print(temp)
+    #     for idx in range(len(temp)):
+    #         egreedy_result[idx] += temp[idx]
+    #     temp = e_greedy_variations.run_MAB_adaptive(d, threshold)
+    #     idx = 0
+    #     # print(temp)
+    #     for idx in range(len(temp)):
+    #         adaptive_result[idx] += temp[idx]
+    #     temp = mortal.run_stochastic_early_stop(uname[idx2], threshold, d)
+    #     idx = 0
+    #     # print(temp)
+    #     for idx in range(len(temp)):
+    #         mortal_result[idx] += temp[idx]
+    #     idx2 += 1
+    # accu_list = []
+    # algos = []
+    # accu_list.append(wsls_result)
+    # algos.append('Win-Stay-Lose-Shift')
+    # accu_list.append(greedy_result)
+    # algos.append('Greedy')
+    # accu_list.append(decay_result)
+    # algos.append('E-Greedy with E-Decay')
+    # accu_list.append(egreedy_result)
+    # algos.append('E-Greedy')
+    # accu_list.append(adaptive_result)
+    # algos.append('Adaptive E-Greedy')
+    # accu_list.append(mortal_result)
+    # algos.append('Mortal Bandit')
+    # #Plotting
+    # for idx in range(len(accu_list)):
+    #     # pdb.set_trace()
+    #     for idx2 in range(9):
+    #         accu_list[idx][idx2] = round(accu_list[idx][idx2] / 8, 2)
+    #     print(algos[idx], accu_list[idx])
+    #     plt.plot(threshold, accu_list[idx], label=algos[idx])
+    #     plt.ylabel('Accuracy',)
+    #     # plt.xticks([])
+    #     plt.xlabel('Percent of data used for Training')
+    # # plt.legend(loc='best')
+    # plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+    # # title = 'Accuracy of various algorithms for different thresholds ' + user
+    # # title = "Aggregated"
+    # # plt.title(title)
+    # # plt.show()
+    # fname = 'figures/' + 'aggregated' + '.png'
+    # plt.savefig(fname, bbox_inches="tight")
+    # plt.close()
+
+#The following main function produces a [Accuracy vs %training data]graph for all users seperately
+# if __name__ == "__main__":
+#     obj = integrate()
+#     data, uname = obj.get_files()
+#     threshold = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+#     wsls = Win_Stay_Lose_Shift(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'])
+#     # for d in data:
+#     #     print(wsls.run(d, threshold))
+#     greedy = Greedy(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'])
+#     e_greedy_variations = adaptive_epsilon.adaptive_epsilon(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'])
+#     mortal = mortal_bandit()
+#     pltz = plot_accuracy(1, 4)
+#     idx = 0
+#     algos = []
+#     for d in data:
+#         # print(wsls.run(d, threshold))
+#         # print(greedy.run(d, threshold))
+#         accu_list = []
+#         algos = []
+#         wsls_result = wsls.run(d, threshold)
+#         accu_list.append(wsls_result)
+#         algos.append('Win-Stay-Lose-Shift')
+#         greedy_result = greedy.run(d, threshold, "V1")
+#         accu_list.append(greedy_result)
+#         algos.append('Greedy')
+#         # greedy_result = greedy.run(d, threshold, "V2")
+#         # accu_list.append(greedy_result)
+#         # algos.append('Greedy V2')
+#         decay_result = e_greedy_variations.run_MAB(d, threshold, True)  # Adaptive E-Greedy with decay
+#         accu_list.append(decay_result)
+#         algos.append('E-Greedy with E-Decay')
+#         egreedy_result = e_greedy_variations.run_MAB(d, threshold, False)  # E-Greedy
+#         algos.append('E-Greedy')
+#         accu_list.append(egreedy_result)
+#         adaptive_result = e_greedy_variations.run_MAB_adaptive(d, threshold)
+#         algos.append('Adaptive E-Greedy')
+#         accu_list.append(adaptive_result)
+#         algos.append('Mortal Bandit')
+#         mortal_result = mortal.run_stochastic_early_stop(threshold, d)
+#         accu_list.append(mortal_result)
+#         pltz.sub_plot(uname[idx], threshold, algos, accu_list)
+#         idx += 1
+#     pltz.finish_subplot(algos)
 
 # if __name__ == "__main__":
 #     obj = baseline()

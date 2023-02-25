@@ -134,7 +134,7 @@ class adaptive_epsilon:
                         self.update(arm, data[idx][2], version) #A decision needs to be made whether to keep the update on or not
                     else:
                         self.update(arm, 0, version)
-                        # self.update(self.arms[data[idx][1]], data[idx][2], version)
+                        self.update(self.arms[data[idx][1]], data[idx][2], version)
                 avg_accu += num / denom
                 # pdb.set_trace()
             accu_list.append(round(avg_accu / runs, 2))
@@ -292,7 +292,7 @@ class adaptive_epsilon:
                         self.update_adaptive(arm, data[idx][2])
                     else:
                         self.update_adaptive(arm, 0)
-                        # self.update_adaptive(self.arms[data[idx][1]], data[idx][2])
+                        self.update_adaptive(self.arms[data[idx][1]], data[idx][2])
 
                     # self.update_adaptive(self.arms[data[idx][1]], data[idx][2]) #A decision needs to be made whether to keep the update on or not
                 avg_accu += num / denom

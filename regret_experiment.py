@@ -65,7 +65,7 @@ if __name__ == "__main__":
     epsilon_variations = adaptive_epsilon(['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1'])
     mortal = mortal_bandit()
     idx = 0
-    runz = 100
+    runz = 50
     algos = []
     for d in data:
         algos = []
@@ -86,7 +86,7 @@ if __name__ == "__main__":
         adaptive_epsilon = epsilon_variations.run_MAB_Adaptive_regret(d, runz)
         results = np.append(results, adaptive_epsilon)
         algos.append('Adaptive E-Greedy')
-        mortal_reward = mortal.stochastic_early_stop_regret(d, runz)
+        mortal_reward = mortal.stochastic_early_stop_regret(uname[idx], d, runz)
         results = np.append(results, mortal_reward)
         algos.append('Mortal Bandit')
         # print(results)

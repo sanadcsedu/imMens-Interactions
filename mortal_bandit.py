@@ -14,7 +14,7 @@ class mortal_bandit:
 
     def __init__(self):
         pass
-    def stochastic_early_stop(self, data, threshold):
+    def stochastic_early_stop(self, user, data, threshold):
         viz = ['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1']
         mean = dict()
         sz = len(data)
@@ -22,14 +22,14 @@ class mortal_bandit:
         # print(e_idx, threshold, len(data))
         # pdb.set_trace()
         ret = 0
-        limit = len(data) - e_idx
+        limit = e_idx
         for L in range(1, min(15, limit)):
             # print(L)
             argmax_mean = -1
             best_arm = None
             for v in viz:
                 #If we train this reward distribution from the data
-                param, dist = self.get_distribution(data, v, e_idx)
+                param, dist = self.get_distribution(user, data, v, e_idx)
                 alpha = param[0]
                 beta = param[1]
                 loc = param[2]
@@ -113,7 +113,7 @@ class mortal_bandit:
             ret = max(ret, best_accu)
         return round(ret, 2)
 
-    def stochastic_early_stop_regret(self, data, runs):
+    def stochastic_early_stop_regret(self, user, data, runs):
         viz = ['bar-4', 'bar-2', 'hist-3', 'scatterplot-0-1']
         mean = dict()
         sz = len(data)
@@ -123,7 +123,7 @@ class mortal_bandit:
             argmax_mean = -1
             for v in viz:
                 #If we train this reward distribution from the data
-                param, dist = self.get_distribution(data, v, sz)
+                param, dist = self.get_distribution(user, data, v, sz)
                 alpha = param[0]
                 beta = param[1]
                 loc = param[2]
@@ -211,24 +211,31 @@ class mortal_bandit:
         # param = ret_best_dist.fit(data)
         return ret_best_dist
 
-    def get_distribution(self, data, viz, e_idx):
+    def get_distribution(self, user, data, viz, e_idx):
+        # pdb.set_trace()
         ret = np.zeros(e_idx)
         idx = 0
-        for idx in range(e_idx - 1):
+        for idx in range(e_idx):
             # pdb.set_trace()
             if viz != data[idx][1]:
                 continue
             ret[idx] = data[idx][2]
             # ret[idx] = 1
-        ret[idx] = 1
+        if user == 'p14':
+            ret[idx] = 1.0
+        else:
+            ret[0] = 1.0
+            ret[idx] = 1.0
+        # pdb.set_trace()
+        # print(viz, e_idx, ret)
         dist_best_fit = self.get_best_distribution(ret)
         param = dist_best_fit.fit(ret)
         return param, dist_best_fit
 
-    def run_stochastic_early_stop(self, threshold, data):
+    def run_stochastic_early_stop(self, user, threshold, data):
         accu_list = []
         for t in threshold:
-            accu_list.append(self.stochastic_early_stop(data, t))
+            accu_list.append(self.stochastic_early_stop(user, data, t))
         return accu_list
 
 
@@ -242,9 +249,11 @@ if __name__ == "__main__":
     idx = 0
     for users_data in data:
         accu_list = []
+        print(uname[idx])
         for t in threshold:
-            accu_list.append(mortal.stochastic_early_stop(users_data, t))
+            # print(t)
+            accu_list.append(mortal.stochastic_early_stop(uname[idx], users_data, t))
             # pdb.set_trace()
-        print(uname[idx], accu_list)
+        print(accu_list)
         idx += 1
         # break
